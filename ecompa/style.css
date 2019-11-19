@@ -807,6 +807,8 @@ top: 2rem;
 display: none;
 }
 
+
+
 @media (min-width: 576px) { 
     a.icovolver {
     position: absolute;
@@ -850,6 +852,7 @@ height: 434px;
     #pagecontaineract{
     min-height: 600px;
 }
+
 
 }
 /* Portrait */
@@ -917,3 +920,4 @@ and (-webkit-min-device-pixel-ratio: 1) {
     }
 
     @media (min-width: 1200px) { }
+
