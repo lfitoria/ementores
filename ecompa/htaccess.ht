@@ -1,0 +1,10 @@
+#AuthType Basic
+#AuthName "Password Protected Area"
+#AuthUserFile  /home1/ementor1/public_html/.htpasswd
+#Require valid-user
+
+ErrorDocument 404 /error.php
+
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+</IfModule>
