@@ -138,9 +138,11 @@
                     <li>
                         <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
-                    
                     <li>
-                        <a href="/" class="nav-iniciar">Cerrar sesión</a>
+                         <a href="/familias/0-03_menu.php" class="nav-actividad">Ir a menú de actividades</a>
+                    </li>                   
+                    <li>
+                        <a href="/familias/" class="nav-iniciar">Cerrar sesión</a>
                     </li>
                 </ul>
 
@@ -185,6 +187,8 @@
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-2 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -212,6 +216,8 @@
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-3 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -242,6 +248,8 @@
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-4 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -271,6 +279,8 @@
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-5 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -299,6 +309,8 @@
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-6 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -327,6 +339,8 @@
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-7 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -356,6 +370,8 @@
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-8 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -383,6 +399,7 @@
                                 </div>
                             </div>
                         </div>
+                        
                         <div class="act05-9 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
