@@ -134,13 +134,8 @@ session_start();
                         </ul>
                         <div class="tab-content" id="myTabContent">
 
-<<<<<<< HEAD
-                            
-                            <div  class="card tab-pane 1 fade show active" id="sofia" role="tabpanel" aria-labelledby="home-tab">
-=======
 
                             <div class="card tab-pane fade sof show active" id="sofia" role="tabpanel" aria-labelledby="home-tab">
->>>>>>> b9f213eb23bd259ce3bcf7caaf7f4b4200f7469b
                                 <div class="card-header" role="tab" id="heading-A">
                                     <h5 class="mb-0">
                                         <a data-toggle="collapse" href="#collapse-A" data-parent="#content" aria-expanded="true" aria-controls="collapse-A">
