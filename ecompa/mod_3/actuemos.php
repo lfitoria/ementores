@@ -135,7 +135,7 @@ session_start();
                         <div class="tab-content" id="myTabContent">
 
                             
-                            <div  class="card tab-pane fade show active" id="sofia" role="tabpanel" aria-labelledby="home-tab">
+                            <div  class="card tab-pane 1 fade show active" id="sofia" role="tabpanel" aria-labelledby="home-tab">
                                 <div class="card-header" role="tab" id="heading-A">
                                     <h5 class="mb-0">
                                         <a data-toggle="collapse" href="#collapse-A" data-parent="#content" aria-expanded="true" aria-controls="collapse-A">
@@ -181,13 +181,13 @@ session_start();
                                 </div>
                             </div>
                             <div class="container btn-videos-actuemos">
-                            <button class="gotoModulePage baki" data-page="3">Atrás</button>
-                            <button class="gotoModulePage conti" data-page="2">Continuar</button>
+                            <button class="gotoModulePage3 baki">Atrás</button>
+                            <button class="gotoModulePage2 conti">Continuar</button>
                             </div>
                             
 
                             
-                            <div class="card tab-pane fade show" id="steven-valeria" role="tabpanel" aria-labelledby="profile-tab">
+                            <div class="card tab-pane 2 fade show" id="steven-valeria" role="tabpanel" aria-labelledby="profile-tab">
                                 <div class="card-header" role="tab" id="heading-B">
                                     <h5 class="mb-0">
                                         <a class="collapsed" data-toggle="collapse" href="#collapse-B" data-parent="#content" aria-expanded="false" aria-controls="collapse-B">
@@ -233,13 +233,13 @@ session_start();
                                 </div>
                             </div>
                             <div class="container btn-videos-actuemos">
-                            <button class="gotoModulePage baki" data-page="1">Atrás</button>
-                            <button class="gotoModulePage conti" data-page="3">Continuar</button>
+                            <button class="gotoModulePage1 baki" >Atrás</button>
+                            <button class="gotoModulePage3 conti" >Continuar</button>
                             </div>
                             
 
                             
-                            <div class="card tab-pane fade" id="erick" role="tabpanel" aria-labelledby="profile-tab">
+                            <div class="card tab-pane 3 fade" id="erick" role="tabpanel" aria-labelledby="profile-tab">
                                 <div class="card-header" role="tab" id="heading-B">
                                     <h5 class="mb-0">
                                         <a class="collapsed" data-toggle="collapse" href="#collapse-C" data-parent="#content" aria-expanded="false" aria-controls="collapse-B">
@@ -285,8 +285,8 @@ session_start();
                                 </div>
                             </div>
                             <div class="container btn-videos-actuemos">
-                            <button class="gotoModulePage baki" data-page="2">Atrás</button>
-                            <button class="gotoModulePage conti" data-page="1">Continuar</button>
+                            <button class="gotoModulePage2 baki" >Atrás</button>
+                            <button class="gotoModulePage1 conti">Continuar</button>
                             </div>
                             
 
@@ -334,17 +334,14 @@ session_start();
                 video.play();
             }
 
-            $(".gotoModulePage").click(function() {
+            $(".gotoModulePage2").click(function() {
 
-                $(".fade").addClass("show active");
+                $(".2").addClass("show active");
+                $(".1").removeClass("show active");
+                $(".3").removeClass("show active");
+                
 
-                $("#act_01p" + $(this).data("page")).removeClass("show active");
-
-                var allAudios = document.getElementsByTagName('audio');
-                for (var i = 0; i < allAudios.length; i++) {
-                    allAudios[i].pause();
-                    allAudios[i].currentTime = 0;
-                }
+                
             });
 
             $('video').on('play', function(e) {
