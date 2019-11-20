@@ -235,7 +235,7 @@ padding-top: 2rem;
     background: #912133;
     text-decoration: none;
 }
-.nav-sobre,.nav-recursos,.nav-iniciar{
+.nav-sobre,.nav-recursos,.nav-actividad,.nav-iniciar{
     height:150px;
     font-family: 'open-sans', sans-serif;
     font-weight: 100;
@@ -250,6 +250,17 @@ a.nav-sobre:before{
     background-repeat: no-repeat;
     margin: auto;
 }
+
+a.nav-actividad:before{
+    content: '';
+    background-image: url(../img/icono_menu.png);
+    display: block;
+    width: 63px;
+    height: 63px;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
 a.nav-recursos:before{
     content: '';
     background-image: url(../img/menu-item2.png);
@@ -273,6 +284,11 @@ a.nav-iniciar:before{
     background: #EF404D;
 
 }
+.nav-actividad{
+    background: #EF404D;
+
+}
+
 .nav-recursos{
     background: #DD3B44;
 
