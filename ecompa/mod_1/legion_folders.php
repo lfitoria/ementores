@@ -27,7 +27,7 @@
                     <div id="act_01">
                         <div class="row col-12 justify-content-center">
                             <div class="col-sm-8">
-                                <p id="info-p"><strong>Dar clic en el expediente para conocer cada conducta violenta en línea</strong></p>
+                                <p id="info-p"><strong>Da clic en el expediente para conocer cada conducta violenta en línea</strong></p>
                             </div>
                         </div>
                         <div class="cont row">
