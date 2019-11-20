@@ -151,7 +151,8 @@
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                     <!-- <img src="img/icon.png" alt=""/> -->
-                                                    <a href="mod_1/1-05_sld.php" class="v-act-5">La legión del ciber-mal</a>
+                                                    <a href="mod_1/1-05_sld.php" class="v-act-5">Conductas violentas en la Internet y en Redes Sociale</a>
+                                                    <!-- <a href="mod_1/1-05_sld.php" class="v-act-5">La legión del ciber-mal</a> -->
                                                     <!--<p class=dots-mod>. . .</p>-->
                                                 </div>
                                             </div>
@@ -415,7 +416,9 @@
                     <li>
                         <a href="/familias/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
-                    
+                    <li>
+                         <a href="/familias/0-03_menu.php" class="nav-actividad">Ir a menú de actividades</a>
+                    </li>
                     <li>
                         <a href="/familias" class="nav-iniciar">Cerrar sesión</a>
                     </li>

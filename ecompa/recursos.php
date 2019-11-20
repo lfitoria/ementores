@@ -62,7 +62,7 @@
   </article>
   <article class="item group3">
     <div class="item-module">
-        <a href="mod_3/ruta_denuncia.php#titleancla" "="" class="v3-act-7">¿Cómo denunciar las violencias en línea?</a>
+        <a href="mod_3/ruta_denuncia.php#titleancla" class="v3-act-7">¿Cómo denunciar las violencias en línea?</a>
     </div>
   </article>
   

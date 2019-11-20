@@ -123,19 +123,24 @@ session_start();
                     <div id="act_01" class="">
                         <ul class="nav nav-tabs " id="myTab" role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link active" id="sofia-tab" data-toggle="tab" href="#sofia" role="tab" aria-controls="home" aria-selected="true">Sofía</a>
+                                <a class="nav-link sof-tab active" id="sofia-tab" data-toggle="tab" href="#sofia" role="tab" aria-controls="home" aria-selected="true">Sofía</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="steven-valeria-tab" data-toggle="tab" href="#steven-valeria" role="tab" aria-controls="contact" aria-selected="false">Steven y Valeria</a>
+                                <a class="nav-link stev-tab" id="steven-valeria-tab" data-toggle="tab" href="#steven-valeria" role="tab" aria-controls="contact" aria-selected="false">Steven y Valeria</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" id="erick-tab" data-toggle="tab" href="#erick" role="tab" aria-controls="contact" aria-selected="false">Erick</a>
+                                <a class="nav-link eri-tab" id="erick-tab" data-toggle="tab" href="#erick" role="tab" aria-controls="contact" aria-selected="false">Erick</a>
                             </li>
                         </ul>
                         <div class="tab-content" id="myTabContent">
 
+<<<<<<< HEAD
                             
                             <div  class="card tab-pane 1 fade show active" id="sofia" role="tabpanel" aria-labelledby="home-tab">
+=======
+
+                            <div class="card tab-pane fade sof show active" id="sofia" role="tabpanel" aria-labelledby="home-tab">
+>>>>>>> b9f213eb23bd259ce3bcf7caaf7f4b4200f7469b
                                 <div class="card-header" role="tab" id="heading-A">
                                     <h5 class="mb-0">
                                         <a data-toggle="collapse" href="#collapse-A" data-parent="#content" aria-expanded="true" aria-controls="collapse-A">
@@ -179,15 +184,18 @@ session_start();
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="container btn-videos-actuemos">
-                            <button class="gotoModulePage3 baki">Atrás</button>
-                            <button class="gotoModulePage2 conti">Continuar</button>
-                            </div>
-                            
 
-                            
-                            <div class="card tab-pane 2 fade show" id="steven-valeria" role="tabpanel" aria-labelledby="profile-tab">
+                                <button class="gotoModulePage3 baki" >Atrás</button>
+                                <button class="gotoModulePage2 conti" >Continuar</button>
+
+                            </div>
+
+
+
+
+
+                            <div class="card tab-pane fade ste show" id="steven-valeria" role="tabpanel" aria-labelledby="profile-tab">
+
                                 <div class="card-header" role="tab" id="heading-B">
                                     <h5 class="mb-0">
                                         <a class="collapsed" data-toggle="collapse" href="#collapse-B" data-parent="#content" aria-expanded="false" aria-controls="collapse-B">
@@ -231,15 +239,17 @@ session_start();
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="container btn-videos-actuemos">
-                            <button class="gotoModulePage1 baki" >Atrás</button>
-                            <button class="gotoModulePage3 conti" >Continuar</button>
-                            </div>
-                            
 
-                            
-                            <div class="card tab-pane 3 fade" id="erick" role="tabpanel" aria-labelledby="profile-tab">
+                                <button class="gotoModulePage1 baki" >Atrás</button>
+                                <button class="gotoModulePage3 conti" >Continuar</button>
+
+                            </div>
+
+    
+
+
+
+                            <div class="card tab-pane fade eric" id="erick" role="tabpanel" aria-labelledby="profile-tab">
                                 <div class="card-header" role="tab" id="heading-B">
                                     <h5 class="mb-0">
                                         <a class="collapsed" data-toggle="collapse" href="#collapse-C" data-parent="#content" aria-expanded="false" aria-controls="collapse-B">
@@ -283,12 +293,14 @@ session_start();
                                         </div>
                                     </div>
                                 </div>
+
+                                <button class="gotoModulePage2 baki" >Atrás</button>
+                                <button class="gotoModulePage1 conti" >Continuar</button>
+
                             </div>
-                            <div class="container btn-videos-actuemos">
-                            <button class="gotoModulePage2 baki" >Atrás</button>
-                            <button class="gotoModulePage1 conti">Continuar</button>
-                            </div>
-                            
+
+
+
 
 
                         </div>
@@ -334,14 +346,40 @@ session_start();
                 video.play();
             }
 
+
+            $(".gotoModulePage1").click(function() {
+
+                $(".sof").addClass("show active");
+                $(".ste").removeClass("show active");
+                $(".eric").removeClass("show active");
+
+                $(".sof-tab").addClass("active show");
+                $(".stev-tab").removeClass("active show");
+                $(".eri-tab").removeClass("active show");
+            });
+
             $(".gotoModulePage2").click(function() {
 
-                $(".2").addClass("show active");
-                $(".1").removeClass("show active");
-                $(".3").removeClass("show active");
-                
+                $(".ste").addClass("show active");
+                $(".sof").removeClass("show active");
+                $(".eric").removeClass("show active");
 
-                
+                $(".stev-tab").addClass("active show");
+                $(".sof-tab").removeClass("active show");
+                $(".eri-tab").removeClass("active show");
+
+            });
+            $(".gotoModulePage3").click(function() {
+
+                $(".eric").addClass("show active");
+                $(".ste").removeClass("show active");
+                $(".sof").removeClass("show active");
+
+                $(".eri-tab").addClass("active show");
+                $(".sof-tab").removeClass("active show");
+                $(".stev-tab").removeClass("active show");
+
+
             });
 
             $('video').on('play', function(e) {
