@@ -49,7 +49,7 @@
                     </div>
                 </div>
             </nav>
-            <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>La legión del cibermal</p>
+            <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>Conductas violentas en la Internet y en Redes Sociales</p>
             <section class="container">
                 <div class="main">
                     <div id="act_01">
@@ -59,60 +59,102 @@
                             </div>
                         </div>
                         <div class="cont row">
-                            <div class="col-6 col-md-3">
-                                <div class="item item-villain" data-slider="1" data-title="Abuso sexual en línea">
-                                    <img src="../img/mod1/1-05_act_expediente-1.png" alt="" class="img-fluid"/>
 
-                                </div>
-                            </div>
-                            <div class="col-6 col-md-3">
-                                <div class="item item-villain" data-slider="2" data-title="Explotación sexual en línea" >
-                                    <img src="../img/mod1/1-05_act_expediente-2.png" alt="" class="img-fluid"/>
 
-                                </div>
-                            </div>
-                            <div class="col-6 col-md-3">
-                                <div class="item item-villain" data-slider="3" data-title="Sextorsión">
-                                    <img src="../img/mod1/1-05_act_expediente-3.png" alt="" class="img-fluid"/>
-
-                                </div>
-                            </div>
-                            <div class="col-6 col-md-3">
-                                <div class="item item-villain" data-slider="4" data-title="Sexting">
-                                    <img src="../img/mod1/1-05_act_expediente-4.png" alt="" class="img-fluid"/>
-
-                                </div>
-                            </div>
+                            <!-- Ciberbullying -->
                             <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="5" data-title="Sextorsión">
                                     <img src="../img/mod1/1-05_act_expediente-5.png" alt="" class="img-fluid"/>
 
                                 </div>
                             </div>
+
+                            <!-- Copartir contenido sexual -->
+                             <div class="col-6 col-md-3">
+                                <div class="item item-villain" data-slider="9" data-title="compartir contenido sexual">
+                                    <img src="../img/mod1/1-05_act_expediente-9.png" alt="" class="img-fluid"/>
+                                </div>
+                            </div>
+
+                            <!-- Exposicion a contenido inapropiado -->
                             <div class="col-6 col-md-3">
-                                <div class="item item-villain" data-slider="6" data-title="Grooming">
-                                    <img src="../img/mod1/1-05_act_expediente-6.png" alt="" class="img-fluid"/>
+                                <div class="item item-villain" data-slider="1" data-title="Abuso sexual en línea">
+                                    <img src="../img/mod1/1-05_act_expediente-1.png" alt="" class="img-fluid"/>
 
                                 </div>
                             </div>
+
+                            <!-- Sexting -->
+                            <!-- <div class="col-6 col-md-3">
+                                <div class="item item-villain" data-slider="2" data-title="Explotación sexual en línea" >
+                                    <img src="../img/mod1/1-05_act_expediente-2.png" alt="" class="img-fluid"/>
+
+                                </div>
+                            </div> -->
+
+                            <!-- Grooming -->
                             <div class="col-6 col-md-3">
-                                <div class="item item-villain" data-slider="7" data-title="Ciberbullying">
-                                    <img src="../img/mod1/1-05_act_expediente-7.png" alt="" class="img-fluid"/>
+                                <div class="item item-villain" data-slider="4" data-title="Sexting">
+                                    <img src="../img/mod1/1-05_act_expediente-4.png" alt="" class="img-fluid"/>
 
                                 </div>
                             </div>
+
+
+                            <!-- Morphing -->
                             <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="8" data-title="Phishing">
                                     <img src="../img/mod1/1-05_act_expediente-8.png" alt="" class="img-fluid"/>
 
                                 </div>
                             </div>
+
+                            <!-- Phishing -->
+                            <div class="col-6 col-md-3">
+                                <div class="item item-villain" data-slider="6" data-title="Grooming">
+                                    <img src="../img/mod1/1-05_act_expediente-6.png" alt="" class="img-fluid"/>
+
+                                </div>
+                            </div>
+
+                            <!-- Sextorsion -->
+                            <div class="col-6 col-md-3">
+                                <div class="item item-villain" data-slider="3" data-title="Sextorsión">
+                                    <img src="../img/mod1/1-05_act_expediente-3.png" alt="" class="img-fluid"/>
+
+                                </div>
+                            </div>
+
+                            <!-- suplantacion de identidad -->
+                            <div class="col-6 col-md-3">
+                                <div class="item item-villain" data-slider="10" data-title="Ciberbullying">
+                                    <img src="../img/mod1/1-05_act_expediente-10.png" alt="" class="img-fluid"/>
+
+                                </div>
+                            </div>
+
+                            <!-- Streaming(en vivo) de abuso sexual -->
+                            <div class="col-6 col-md-3">
+                                <div class="item item-villain" data-slider="7" data-title="Ciberbullying">
+                                    <img src="../img/mod1/1-05_act_expediente-7.png" alt="" class="img-fluid"/>
+
+                                </div>
+                            </div>
+
+                            <!-- violacion de correspondencia -->
+                            <div class="col-6 col-md-3">
+                                <div class="item item-villain" data-slider="11" data-title="Ciberbullying">
+                                    <img src="../img/mod1/1-05_act_expediente-11.png" alt="" class="img-fluid"/>
+
+                                </div>
+                            </div>
+
                         </div>
                         <a href="../0-03_menu.php#mod1" class="back_to_menu d-none">Volver al menú</a>
                     </div>
                 </div>
             </section>
-            <?php require '../footer.php'; ?>
+            <?php require '../footer.php';?>
         </div>
         <nav id="sidebar" class="">
             <div class="sidebar-header">
@@ -138,9 +180,11 @@
                     <li>
                         <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
-                    
                     <li>
-                        <a href="/" class="nav-iniciar">Cerrar sesión</a>
+                         <a href="/familias/0-03_menu.php" class="nav-actividad">Ir a menú de actividades</a>
+                    </li>
+                    <li>
+                        <a href="/familias/" class="nav-iniciar">Cerrar sesión</a>
                     </li>
                 </ul>
 
@@ -178,13 +222,15 @@
                                     <ul>
                                         <li>Acostumbra contactar a las víctimas por medio de correo electrónico, servicios de mensajería o redes sociales y les envía los contenidos inapropiados. </li>
                                         <li>Estos contenidos pueden ser textos, imágenes, videos o audios.</li>
-                                        
+
                                     </ul>
-                                    
+
 
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-2 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -212,6 +258,8 @@
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-3 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -242,6 +290,8 @@
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-4 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -267,10 +317,12 @@
                                         <li>Luego suele iniciar conversaciones sobre temas sexuales. También puede enviar contenidos inapropiados a la víctima o también pedirle a ella que le mande imágenes, videos o audios con contenido sexual. </li>
                                         <li>En casos extremos puede convencer a la persona menor de edad de tener encuentros físicos.</li>
                                     </ul>
-                                   
+
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-5 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -295,10 +347,12 @@
                                         <li>Puede valerse de algún contenido audiovisual que publica en redes sociales de forma  pública.</li>
                                         <li>En otros casos, puede incitar al odio contra la víctima.</li>
                                     </ul>
-                                    
+
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-6 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -323,10 +377,12 @@
                                         <li>En algunas ocasiones, hace uso de páginas web o mensajes de correo electrónicos falsos, que se parecen a los de una empresa o institución de confianza, para confundir a la persona víctima.</li>
                                         <li>Otras veces envía mensajes fraudulentos a la víctima para convencerla de darle sus datos como claves de cuentas bancarias o engañarla para transferir dinero.</li>
                                     </ul>
-                                    
+
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-7 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -352,10 +408,12 @@
                                         <li>En algunos casos, puede pedirse dinero a las personas que están viendo (cómplices del abuso), a cambio de tener acceso a la transmisión, en un formato de “pague por ver”.</li>
                                         <li>Las trasmisiones en vivo no dejan rastro en los dispositivos (celulares, computadoras, etc.), ya que no existe una descarga de archivos y cuando esta termina, desaparece también de la Internet. Esto hace más difícil recuperar pruebas para una investigación.</li>
                                     </ul>
-                                   
+
                                 </div>
                             </div>
                         </div>
+
+
                         <div class="act05-8 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
@@ -379,10 +437,11 @@
                                         <li>Utiliza diferentes trucos y técnicas informáticas para sustituir imágenes de adultos por las de niños, produciendo material erótico o con contenido sexual explícito.</li>
                                         <li>Las imágenes modificadas son distribuidas o utilizadas como parte de otros comportamientos delictivos o tipos de abuso sexual en línea.</li>
                                     </ul>
-                                    
+
                                 </div>
                             </div>
                         </div>
+
                         <div class="act05-9 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
