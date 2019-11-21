@@ -134,12 +134,12 @@
                             </div>
 
                             <!-- Streaming(en vivo) de abuso sexual -->
-                            <div class="col-6 col-md-3">
+                            <!-- <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="7" data-title="Ciberbullying">
                                     <img src="../img/mod1/1-05_act_expediente-7.png" alt="" class="img-fluid"/>
 
                                 </div>
-                            </div>
+                            </div> -->
 
                             <!-- violacion de correspondencia -->
                             <div class="col-6 col-md-3">
@@ -178,7 +178,7 @@
                         </ul>
                     </li> -->
                     <li>
-                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias/familias.php" class="nav-sobre">Sobre el proyecto</a>
                     </li>
                     <li>
                          <a href="/familias/0-03_menu.php" class="nav-actividad">Ir a menú de actividades</a>
@@ -207,22 +207,22 @@
                                         <img src="../img/mod1/1-05_act_villano-foto-1.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-sm-9">
-                                        <p class="h4">Delito: Exposición a contenidos inapropiados</p>
-                                        <p><strong>Edad:</strong> Adulto <br>
+                                        <p class="h4">Conducta violenta: Exposición a contenidos inapropiados</p>
+                                        <!-- <p><strong>Edad:</strong> Adulto <br>
                                             <strong></strong>
-                                        </p>
-                                        <p><strong>Conducta delictiva:</strong><br>
-                                            Usa las TIC para enviar a personas menores de edad contenido inapropiado. Por ejemplo, contenidos sexuales, imágenes violentas o mensajes de odio.
+                                        </p> -->
+                                        <p><strong>¿Cómo lo hace?</strong><br>
+                                        Alguien usa las tecnologías de la información y la comunicación (TIC) para enviar contenidos inapropiados a personas menores de edad, a través de imágenes violentas o mensajes de odio.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="row text-modus">
-                                    <p><strong>Modus operandi</strong><br>
+                                    <p><strong>¿Qué haría una familia e-mentora?</strong><br>
                                     </p>
                                     <ul>
-                                        <li>Acostumbra contactar a las víctimas por medio de correo electrónico, servicios de mensajería o redes sociales y les envía los contenidos inapropiados. </li>
-                                        <li>Estos contenidos pueden ser textos, imágenes, videos o audios.</li>
-
+                                    <li>Tener presente que tenés el derecho a no recibir materiales que te incomoden o molesten.</li>
+                                    <li>Reportar en la red social donde te los enviaron (revisar en sección de configuración de privacidad).</li>
+                                    <li>Si la conducta violenta persiste, denunciar a las autoridades</li>
                                     </ul>
 
 
@@ -231,7 +231,7 @@
                         </div>
 
 
-                        <div class="act05-2 act5-mdl d-none">
+                        <!-- <div class="act05-2 act5-mdl d-none">
                             <div class="row">
                                 <div class="row">
                                     <div class="col-sm-3">
@@ -257,7 +257,7 @@
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
 
                         <div class="act05-3 act5-mdl d-none">
@@ -267,26 +267,24 @@
                                         <img src="../img/mod1/1-05_act_villano-foto-3.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-sm-9">
-                                        <p class="h4">Delito: Sextorsión</p>
-                                        <p><strong>Edad:</strong> Cualquiera <br>
+                                        <p class="h4">Conducta violenta: Sextorsión</p>
+                                        <!-- <p><strong>Edad:</strong> Cualquiera <br>
                                             <strong>EXTORSIONADOR PELIGROSO</strong>
-                                        </p>
-                                        <p><strong>Conducta delictiva:</strong><br>
-                                            Obtienen por diversos medios mensajes, fotos, videos o audios con contenido sexual de otra persona, y los usa para amenazarla o chantajearla.
+                                        </p> -->
+                                        <p><strong>¿Cómo sucede?</strong><br>
+                                        Se intimida para que otra persona haga algo contra su voluntad, bajo la amenaza de publicar fotos, vídeos o audios privados con contenido sexual. Usualmente se busca dinero o favores. 
                                         </p>
                                     </div>
                                 </div>
                                 <div class="row text-modus">
-                                    <p><strong>Modus operandi</strong><br>
-                                    - Acostumbra conseguir los contenidos (mensajes, audios o imágenes) de varias maneras:</p>
+                                    <p><strong>¿Qué haría una familia e-mentora?</strong><br>
                                     <ul>
-                                        <li>Convence a la víctima de que se los envíe, a través de engaños o amenazas, u obtiene contenidos facilitados por alguien más a través de sexting.</li>
-                                        <li>También puede robarse el dispositivo de la víctima (como su celular o computadora) o aprovechar el extravío de un dispositivo para sacar los contenidos.</li>
-                                        <li>A veces, la víctima los publica en redes sociales o en sitios de internet, donde simplemente los descarga.</li>
+                                    <li>Prevenir. Sin material comprometedor no hay posibilidad de sextorsión.</li>
+                                    <li>No compartir tu intimidad en internet, mucho menos con personas que no conocés personalmente. Recordá que cualquier video llamada se puede grabar sin que lo sepás.</li>
+                                    <li>Almacenar tus cosas privadas con protección de contraseña o en carpetas ocultas, así nadie más podrá verlos.</li>
+                                    <li>Recordar que si alguien publica algo tuyo sin tu autorización, todas las redes sociales tienen la opción de denunciar la publicación y pedir que la retiren.</li>
+                                    <li>Denunciar a <a href="https://ementores.org/ecompa/mod_3/ruta_denuncia.php">(Ver la Ruta de Denuncia-linkear)</a>.</li> 
                                     </ul>
-                                    <p>
-                                    - Además, pueden usarlos para intimidar y chantajear a la persona que aparece en las imágenes, pedir dinero o amenazar para que haga algo que no quiere, con tal de que no publiquen las imágenes.</p>
-
                                 </div>
                             </div>
                         </div>
@@ -299,23 +297,32 @@
                                         <img src="../img/mod1/1-05_act_villano-foto-4.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-sm-9">
-                                        <p class="h4">Delito: Grooming</p>
-                                        <p><strong>Edad:</strong> Adulto <br>
+                                        <p class="h4">Conducta Violenta: Grooming</p>
+                                        <!-- <p><strong>Edad:</strong> Adulto <br>
                                             <strong>ALTAMENTE ENGAÑOSO Y FARSANTE</strong>
-                                        </p>
-                                        <p><strong>Conducta delictiva:</strong><br>
-                                            Se gana la confianza de la víctima a través de internet y la prepara para abusar sexualmente de ella.
+                                        </p> -->
+                                        <p><strong>¿Cómo lo hace?</strong><br>
+                                        Una persona adulta se hace pasar por una persona menor de edad en redes sociales para intentar “enamorar”, seducir, o abusar sexualmente de personas menores de edad.
+                                        <br>
+                                        Intenta ganarse la confianza a lo largo de semanas o meses, para luego solicitar fotos, videos o audios de contenido sexual.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="row text-modus">
-                                    <p><strong>Modus operandi</strong><br>
+                                    <p><strong>¿Qué haría una familia e-mentora?</strong><br>
                                     </p>
                                     <ul>
-                                        <li>Hace contacto con la persona menor de edad, a veces haciéndose pasar por alguien de su misma edad, o alguien “inofensivo”. </li>
-                                        <li>Entonces trata de hacer una “amistad” con la víctima. Busca intereses comunes para conversar por medio de mensajes, chats, llamadas o videos por internet.</li>
-                                        <li>Luego suele iniciar conversaciones sobre temas sexuales. También puede enviar contenidos inapropiados a la víctima o también pedirle a ella que le mande imágenes, videos o audios con contenido sexual. </li>
-                                        <li>En casos extremos puede convencer a la persona menor de edad de tener encuentros físicos.</li>
+                                        <li>Tener cuidado. No todo lo que ves en la web es cierto, recordá que muchas personas crean perfiles falsos.</li>
+                                        <li>Cuidar la información personal, no coloqués teléfono, dirección o el nombre del centro de estudios en tus perfiles. Sobre todo, si agregás personas desconocidas.</li>
+                                        <li>Recordar que si nunca has visto a un contacto que agregaste en redes sociales, no podés tener la seguridad de que es una persona real.</li>
+                                        <li>No enviar información íntima (fotos o videos) a personas desconocidas en la Internet o redes sociales.</li>
+                                        <li>Tener presente que lo que publicás o envias, una vez que sale de tu teléfono, no está más en tu control.</li>
+                                        <li>Ojo: si decidiste ir a ver en persona al contacto que conociste por Internet.</li>
+                                        <ul>
+                                            <li>1. Si te pide que se vean en secreto, ¡encender las alertas! </li>
+                                            <li>2. Procurar ir en compañía o contarle a alguien de confianza.</li>
+                                            <li>3. Agendar verse en un lugar público donde podás pedir ayuda si pasa algo.</li>
+                                        </ul>
                                     </ul>
 
                                 </div>
@@ -330,23 +337,23 @@
                                         <img src="../img/mod1/1-05_act_villano-foto-5.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-sm-9">
-                                        <p class="h4">Delito: Ciberbullying</p>
-                                        <p><strong>Edad:</strong> Cualquiera <br>
+                                        <p class="h4">Conducta violenta: Ciberbullying</p>
+                                        <!-- <p><strong>Edad:</strong> Cualquiera <br>
                                             <strong>ALTAMENTE AGRESIVO</strong>
-                                        </p>
-                                        <p><strong>Conducta delictiva:</strong><br>
-                                            Agrede a una persona menor de edad de forma repetida. Dichas agresiones pueden ser físicas, pero también emocionales, como burlas y humillaciones.
-                                        </p>
+                                        </p> -->
+                                        <p><strong>Cómo lo hace:</strong><br>
+                                        Atacan a la víctima repetidas veces usando internet y redes sociales. Puede ser por mensajes directos y también públicamente. El ataque se realiza a través de fotos, videos, audios o mensajes humillantes.
+                                    </p>
                                     </div>
                                 </div>
                                 <div class="row text-modus">
-                                    <p><strong>Modus operandi</strong><br>
+                                    <p><strong>¿Qué haría una familia e-mentora?</strong><br>
                                    </p>
-                                    <ul>
-                                        <li>Ataca a la víctima una y otra vez, burlándose y humillándola, por medio de mensajes de texto, redes sociales u otras aplicaciones. </li>
-                                        <li>Puede valerse de algún contenido audiovisual que publica en redes sociales de forma  pública.</li>
-                                        <li>En otros casos, puede incitar al odio contra la víctima.</li>
-                                    </ul>
+                                   <ul>
+                                        <li> Recordar a la persona víctima que no es su culpa y que tiene el derecho a vivir libre de violencia.</li>
+                                        <li> Aconsejar a que no responda de la misma forma: <u>no sumarse a la agresión.</u></li>
+                                        <li> Preguntar a alguien de confianza por el Protocolo de Bullying del Centro Educativo, y apoyarle a poner la denuncia con las autoridades.</li>
+                                </ul>
 
                                 </div>
                             </div>
@@ -360,22 +367,28 @@
                                         <img src="../img/mod1/1-05_act_villano-foto-6.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-sm-9">
-                                        <p class="h4">Delito: Phishing</p>
-                                        <p><strong>Edad:</strong> Cualquiera <br>
+                                        <p class="h4">Conducta Violenta: Phishing</p>
+                                        <!-- <p><strong>Edad:</strong> Cualquiera <br>
                                             <strong>EMBAUCADOR PROFESIONAL</strong>
-                                        </p>
-                                        <p><strong>Conducta delictiva:</strong><br>
-                                            Roba datos personales de los dispositivos de la víctima (por ejemplo de su celular o de su computadora) que utiliza posteriormente para extraer dinero u datos sensibles.
+                                        </p> -->
+                                        <p><strong>¿Cómo sucede?</strong><br>
+                                        La persona se roba los datos personales para aprovecharse o robar dinero. Usando una identidad falsa, a través de mensajes o correos electrónicos engaña a la víctimas para que introduzcan contraseñas y otros datos. Incluso puede instalar programas maliciosos o virus informáticos en los dispositivos para seguir espiando y obtener información sensible.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="row text-modus">
-                                    <p><strong>Modus operandi</strong><br>
+                                    <p><strong>¿Qué haría una familia e-mentora?</strong><br>
                                     </p>
                                     <ul>
-                                        <li>Normalmente usa una identidad falsa  para engañar a la víctima y pedirle sus contraseñas de internet y datos personales.</li>
-                                        <li>En algunas ocasiones, hace uso de páginas web o mensajes de correo electrónicos falsos, que se parecen a los de una empresa o institución de confianza, para confundir a la persona víctima.</li>
-                                        <li>Otras veces envía mensajes fraudulentos a la víctima para convencerla de darle sus datos como claves de cuentas bancarias o engañarla para transferir dinero.</li>
+                                        <li>Tener presente que todas las personas tenemos derecho a la privacidad de nuestros datos al usar internet y redes sociales. Se cuenta con leyes que nos protegen de los delitos informáticos. ¡Especialmente las niñas, niños y adolescentes!.</li>
+                                        <li>Tomar las medidas básicas de seguridad:</li>
+                                        <ul>
+                                            <li>Instalá antivirus en tus dispositivos</li>
+                                            <li>Aprendé a reconocer sitios inseguros.</li>
+                                            <li>No confiés en correos extraños, premios sorpresa al ingresar a páginas web.</li>
+                                            <li>Descargá apps solo de sitios oficiales. Asegurate de que las aplicaciones que instalás son seguras ( Por ejemplo, leer comentarios de otras personas que las instalaron)</li>
+                                        </ul>
+                                        <li>Si creés que has sido víctima de una estafa o de un intento de estafa, denunciar ante las autoridades.</li>
                                     </ul>
 
                                 </div>
@@ -421,21 +434,25 @@
                                         <img src="../img/mod1/1-05_act_villano-foto-8.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-sm-9">
-                                        <p class="h4">Delito: Morphing</p>
-                                        <p><strong>Edad:</strong> Cualquiera <br>
+                                        <p class="h4">Conducta Violenta: Morphing</p>
+                                        <!-- <p><strong>Edad:</strong> Cualquiera <br>
                                             <strong></strong>
-                                        </p>
-                                        <p><strong>Conducta delictiva:</strong><br>
-                                            Modifica digitalmente imágenes de desnudos de adultos o con contenido erotizado o sexual, integrando la figura de personas menores de edad.
+                                        </p> -->
+                                        <p><strong>¿Cómo sucede?</strong><br>
+                                        La persona modifica las imágenes publicadas en redes sociales con contenido sexual. Las imágenes pueden ser reales, simuladas o una mezcla de ambas.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="row text-modus">
-                                    <p><strong>Modus operandi</strong><br>
+                                    <p><strong>¿Qué haría una familia e-mentora?</strong><br>
                                     </p>
                                     <ul>
-                                        <li>Utiliza diferentes trucos y técnicas informáticas para sustituir imágenes de adultos por las de niños, produciendo material erótico o con contenido sexual explícito.</li>
-                                        <li>Las imágenes modificadas son distribuidas o utilizadas como parte de otros comportamientos delictivos o tipos de abuso sexual en línea.</li>
+                                        <li>Recordar que por ser una persona menor de edad, siempre tenés el derecho de contar con una protección especial en casos de abuso sexual.</li>
+                                        <li>Cuidar lo que publicás en internet o en redes.</li>
+                                        <li>No te sumes: no difundás este tipo de contenidos.</li>
+                                        <li>Recordar que las redes sociales no son un concurso de popularidad: Cuidá a quien agregás en tus contactos.</li>
+                                        <li>Reportar en cualquier red social para que se retire este tipo de material, y también denunciar ante las autoridades.</li>
+                                        <li>Si sucede en la escuela o cole buscar apoyo y orientación. Las y los profes pueden ayudarte.</li>
                                     </ul>
 
                                 </div>
@@ -449,29 +466,86 @@
                                         <img src="../img/mod1/1-05_act_villano-foto-9.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-sm-9">
-                                        <p class="h4">Delito: Sextorsión</p>
-                                        <p><strong>Edad:</strong> Cualquiera <br>
+                                        <p class="h4">Conducta violenta: Difusión de contenido íntimo privado</p>
+                                        <!-- <p><strong>Edad:</strong> Cualquiera <br>
                                             <strong>EXTORSIONADOR PELIGROSO</strong>
-                                        </p>
-                                        <p><strong>Conducta delictiva:</strong><br>
-                                            Obtienen por diversos medios mensajes, fotos, videos o audios con contenido sexual de otra persona, y los usa para amenazarla o chantajearla.
+                                        </p> -->
+                                        <p><strong>¿Cómo lo hace?</strong><br>
+                                        Reenvía fotos o videos privados e íntimos de otra persona sin su consentimiento.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="row text-modus">
-                                    <p><strong>Modus operandi</strong><br>
-                                    Acostumbra conseguir los contenidos (mensajes, audios o imágenes) de varias maneras.</p>
+                                    <p><strong>¿Qué haría una familia e-mentora?</strong><br>
+                                    </p>
                                     <ul>
-                                        <li>Convence a la víctima de que se los envíe, a través de engaños o amenazas, u obtiene contenidos facilitados por alguien más a través de sexting.</li>
-                                        <li>También puede robarse el dispositivo de la víctima (como su celular o computadora) o aprovechar el extravío de un dispositivo para sacar los contenidos.</li>
-                                        <li>A veces, la víctima los publica en redes sociales o en sitios de internet, donde simplemente los descarga.</li>
+                                            <li>No reenviar: Si recibiste fotos o videos de este tipo no los reenviés. No seas cómplice de la violencia, podrías caer en una situación legal delicada.
+                                            <li>Detener este tipo de difusión. Borrar fotos, videos o audios.</li>
+                                            <li>Configurar la Red Social. Cada red social te ofrece un procedimiento para que este tipo de material no siga publicado,</li>
+                                            <li> Si está sucediendo en el cole o escuela, buscar una persona de confianza y mostrarle esta información, hay un protocolo para cuidar los derechos de las y los menores de edad.</li>
                                     </ul>
-                                    <p>
-                                    Además, pueden usarlos para intimidar y chantajear a la persona que aparece en las imágenes, pedir dinero o amenazar para que haga algo que no quiere, con tal de que no publiquen las imágenes</p>
-
+                               
                                 </div>
                             </div>
                         </div> <!-- fin 9 -->
+
+                        <div class="act05-10 act5-mdl d-none">
+                            <div class="row">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <img src="../img/mod1/1-05_act_villano-foto-10.png" alt="" class="img-fluid"/>
+                                    </div>
+                                    <div class="col-sm-9">
+                                        <p class="h4">Conducta violenta: Suplantación de identidad.</p>
+                                        <!-- <p><strong>Edad:</strong> Cualquiera <br>
+                                            <strong>EXTORSIONADOR PELIGROSO</strong>
+                                        </p> -->
+                                        <p><strong>¿Cómo sucede?</strong><br>
+                                        Consiste en hacerse pasar por otra persona para obtener un beneficio. Por ejemplo, utiliza fotografías de otra persona en un perfil falso, sin su consentimiento.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row text-modus">
+                                    <p><strong>¿Qué haría una familia e-mentora?</strong><br>
+                                    </p>
+                                    <ul>
+                                        <li>Tener presente que todas las personas tenemos derecho a la privacidad de nuestros datos al usar internet y redes sociales. Se cuenta con leyes que nos protegen de los delitos informáticos. ¡Especialmente las niñas, niños y adolescentes!</li>
+                                        <li>Conservar las evidencias y seguir la ruta de denuncia.</li>
+                                    </ul>
+                                  
+
+                                </div>
+                            </div>
+                        </div> <!-- fin 10 -->
+
+                        <div class="act05-11 act5-mdl d-none">
+                            <div class="row">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <img src="../img/mod1/1-05_act_villano-foto-11.png" alt="" class="img-fluid"/>
+                                    </div>
+                                    <div class="col-sm-9">
+                                        <p class="h4">Conducta violenta: Violación de correspondencia y privacidad.</p>
+                                        <!-- <p><strong>Edad:</strong> Cualquiera <br>
+                                            <strong>EXTORSIONADOR PELIGROSO</strong>
+                                        </p> -->
+                                        <p><strong>¿Cómo sucede?</strong><br>
+                                            Una persona se apropia del teléfono o computadora de la otra, y tiene acceso a las comunicaciones privadas.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row text-modus">
+                                    <p><strong>¿Qué haría una familia e-mentora?</strong><br>
+                                    </p>
+                                    <ul>
+                                        <li> Tener presente que aunque sea tu pareja la persona que se apropia de tus dispositivos, él o ella está cometiendo un delito, violando tu libertad.</li>
+                                        <li>Buscar apoyo de una persona de confianza.</li>
+                                        <li>Denunciar <a href="https://ementores.org/ecompa/mod_3/ruta_denuncia.php">(Ver la Ruta de Denuncia-linkear)</a>.</li>
+                                    </ul>
+                              
+                                </div>
+                            </div>
+                        </div> <!-- fin 11 -->
                     </div>
                 </div>
             </div>
