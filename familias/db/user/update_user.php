@@ -50,7 +50,7 @@ if (mysqli_num_rows($login) >= 1){
 
     // var_dump($_SESSION['error_login']); 
     // die();
-    header("Location: /0-05_registro_06.php?t=$type");
+    header("Location: ../../0-05_registro_06.php?t=$type");
     die();
 
 }else{
