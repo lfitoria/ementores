@@ -192,7 +192,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="act05-2 act5-mdl d-none">
+
+
+                    <!-- <div class="act05-2 act5-mdl d-none">
                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
@@ -219,9 +221,11 @@
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
+
+
                     <div class="act05-3 act5-mdl d-none">
-                    <div class="row">
+                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
                                     <img src="../img/mod1/1-05_act_villano-foto-3.png" alt="" class="img-fluid" />
@@ -249,6 +253,8 @@
                             </div>
                         </div>
                     </div>
+
+
                     <div class="act05-4 act5-mdl d-none">
                         <div class="row">
                             <div class="row">
@@ -288,6 +294,8 @@
                             </div>
                         </div>
                     </div>
+
+
                     <div class="act05-5 act5-mdl d-none">
                         <div class="row">
                             <div class="row">
@@ -316,6 +324,8 @@
                             </div>
                         </div>
                     </div>
+
+
                     <div class="act05-6 act5-mdl d-none">
                         <div class="row">
                             <div class="row">
@@ -350,6 +360,8 @@
                             </div>
                         </div>
                     </div>
+
+
                     <div class="act05-7 act5-mdl d-none">
                         <div class="row">
                             <div class="row">
@@ -379,6 +391,8 @@
                             </div>
                         </div>
                     </div>
+
+
                     <div class="act05-8 act5-mdl d-none">
                         <div class="row">
                             <div class="row">
@@ -410,6 +424,8 @@
                             </div>
                         </div>
                     </div>
+                    
+                    
                     <div class="act05-9 act5-mdl d-none">
                         <div class="row">
                             <div class="row">
@@ -438,12 +454,17 @@
 
                             </div>
                         </div>
+                   
+                   
+                   
                     </div> <!-- fin 9 -->
+                    
+                    
                     <div class="act05-10 act5-mdl d-none">
                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="../img/mod1/personaje_SE.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_villano-foto-10.png" alt="" class="img-fluid" />
                                 </div>
                                 <div class="col-sm-9">
                                     <p class="h4">Conducta violenta: Suplantación de identidad.</p>
@@ -465,6 +486,8 @@
                             </div>
                         </div>
                     </div> <!-- fin 10 -->
+                    
+                    
                     <div class="act05-11 act5-mdl d-none">
                         <div class="row">
                             <div class="row">
