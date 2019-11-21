@@ -98,6 +98,10 @@ border-top: 2px dashed rgb(217, 196, 169);
 margin-top: 1rem;
 padding-top: 1rem;
 }
+
+.text-modus strong{
+    color: #ff0000
+}
 #modal_1-07_act .h4 {
 font-weight: bold;
 margin-bottom: 0;

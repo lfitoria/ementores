@@ -43,7 +43,7 @@
 #page-2-01 .modal-body {
 padding: 0 2rem 2rem 2rem !important;
 }
-#page-3-05 .nav-link.active{ background: #eee; border-bottom-color: #eee; color: #fff;}
+#page-3-05 .nav-link.active{ background: #eee; border-bottom-color: #eee; color: #fff; margin-top: -10;height: 73px;}
 
 #page-3-05 .nav-link { 
     border-bottom-color: #67aaca;

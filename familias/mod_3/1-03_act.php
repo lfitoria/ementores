@@ -94,13 +94,8 @@
                             </li>
                         </ul>
                     </li> -->
-                    <li>
-                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
-                    </li>
-                    
-                    <li>
-                        <a href="/" class="nav-iniciar">Cerrar sesión</a>
-                    </li>
+                    <?php require '../menu-sidebar.php'?>
+                
                 </ul>
 
             </nav>

@@ -152,6 +152,10 @@
                                         <li>Reaccionar con empatía, comprensión y amor.</li>
                                         <li>Agradecer  la confianza y tratar de apoyarla para buscar soluciones y para evitar estas situaciones en el futuro.</li>
                                         <li>Siempre es buena idea ofrecer un abrazo</li>
+                                        <li>Denunciar en redes sociales la publicación para que la retiren.</li>
+                                        <li>Solicitar a las y los compañeros que retiren la fotografía y que no la difundan.</li>
+                                        <li>Enviar información sobre las violencias en línea para sensibilizar.</li>
+                                        <li>Activar protocolos del MEP contra el Ciberbullying.</li>
 
                                     </ul>
                                     
@@ -288,13 +292,7 @@
                 </div>
 
                 <ul class="list-unstyled components">
-                    <li>
-                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
-                    </li>
-                    
-                    <li>
-                        <a href="/" class="nav-iniciar">Cerrar sesión</a>
-                    </li>
+                    <?php require '../menu-sidebar.php'?>
                 </ul>
 
             </nav>

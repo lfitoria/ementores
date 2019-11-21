@@ -177,15 +177,7 @@
                             </li>
                         </ul>
                     </li> -->
-                    <li>
-                        <a href="/familias/familias.php" class="nav-sobre">Sobre el proyecto</a>
-                    </li>
-                    <li>
-                         <a href="/familias/0-03_menu.php" class="nav-actividad">Ir a menú de actividades</a>
-                    </li>
-                    <li>
-                        <a href="/familias/" class="nav-iniciar">Cerrar sesión</a>
-                    </li>
+                    <?php require '../menu-sidebar.php'?>
                 </ul>
 
             </nav>
@@ -277,13 +269,13 @@
                                     </div>
                                 </div>
                                 <div class="row text-modus">
-                                    <p><strong>¿Qué haría una familia e-mentora?</strong><br>
+                                    <p><strong >¿Qué haría una familia e-mentora?</strong><br>
                                     <ul>
                                     <li>Prevenir. Sin material comprometedor no hay posibilidad de sextorsión.</li>
                                     <li>No compartir tu intimidad en internet, mucho menos con personas que no conocés personalmente. Recordá que cualquier video llamada se puede grabar sin que lo sepás.</li>
                                     <li>Almacenar tus cosas privadas con protección de contraseña o en carpetas ocultas, así nadie más podrá verlos.</li>
                                     <li>Recordar que si alguien publica algo tuyo sin tu autorización, todas las redes sociales tienen la opción de denunciar la publicación y pedir que la retiren.</li>
-                                    <li>Denunciar a <a href="https://ementores.org/ecompa/mod_3/ruta_denuncia.php">(Ver la Ruta de Denuncia-linkear)</a>.</li> 
+                                    <li>Denunciar a <a href="../mod_3/3-07_inf.php">(Ver la Ruta de Denuncia-linkear)</a>.</li> 
                                     </ul>
                                 </div>
                             </div>
@@ -540,7 +532,7 @@
                                     <ul>
                                         <li> Tener presente que aunque sea tu pareja la persona que se apropia de tus dispositivos, él o ella está cometiendo un delito, violando tu libertad.</li>
                                         <li>Buscar apoyo de una persona de confianza.</li>
-                                        <li>Denunciar <a href="https://ementores.org/ecompa/mod_3/ruta_denuncia.php">(Ver la Ruta de Denuncia-linkear)</a>.</li>
+                                        <li>Denunciar <a href="../mod_3/3-07_inf.php">(Ver la Ruta de Denuncia-linkear)</a>.</li>
                                     </ul>
                               
                                 </div>
