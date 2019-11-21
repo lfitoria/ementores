@@ -188,7 +188,9 @@ session_start();
 
 
 
+
                             <div class="card tab-pane fade ste show" id="steven-valeria" role="tabpanel" aria-labelledby="profile-tab">
+
                                 <div class="card-header" role="tab" id="heading-B">
                                     <h5 class="mb-0">
                                         <a class="collapsed" data-toggle="collapse" href="#collapse-B" data-parent="#content" aria-expanded="false" aria-controls="collapse-B">
@@ -237,6 +239,7 @@ session_start();
                                 <button class="gotoModulePage3 conti" >Continuar</button>
 
                             </div>
+
     
 
 
@@ -294,6 +297,7 @@ session_start();
 
 
 
+
                         </div>
                         <a href="../0-03_menu.php#mod3" class="back_to_menu d-none">Volver al menú</a>
                         <!-- <div class="container btn-videos-actuemos">
@@ -337,6 +341,7 @@ session_start();
                 video.play();
             }
 
+
             $(".gotoModulePage1").click(function() {
 
                 $(".sof").addClass("show active");
@@ -368,6 +373,7 @@ session_start();
                 $(".eri-tab").addClass("active show");
                 $(".sof-tab").removeClass("active show");
                 $(".stev-tab").removeClass("active show");
+
 
             });
 
