@@ -56,7 +56,7 @@ ecompa/ecompa-offline.zip
 familias/audios
 familias/videos
 familias/recursos/
-familias/db/conexion.php
+familias/db/connection/conexion.php
 
 **/error_log
 .htacces
