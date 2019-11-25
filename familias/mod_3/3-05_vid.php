@@ -195,7 +195,7 @@
                                         <div class="col-12">
                                             <div class="video-item">
                                                 <video width="100%" height="auto" id="video3" poster="../img/videos/vistas-3-05-3.png" controls>
-                                                    <source src="../videos/3-05_vid_erick-Ecompas.mp4" type="video/mp4">
+                                                    <source src="../videos/3-05_vid_erick-familia.mp4" type="video/mp4">
                                                 </video>
 
                                             </div>
@@ -408,7 +408,7 @@
 
             $("#video2").on("timeupdate", function() {
                 console.log(parseInt(this.currentTime * 1000));
-                if (parseInt(this.currentTime * 1000) >= 33400 && parseInt(this.currentTime * 1000) <= 3900) {
+                if (parseInt(this.currentTime * 1000) >= 32900 && parseInt(this.currentTime * 1000) <= 33100) {
                     this.pause();
                     time = 24;
                     video = document.getElementById("video2");
