@@ -59,7 +59,7 @@
                                 <div id="act_01p2" class="d-none mod">
                                     <br><div class="row align-items-center justify-content-center">
                                         <div class="col-12">
-                                            <p class="instruction-label">¿Qué emoción te hace sentir esta situación?:</p>
+                                            <p class="instruction-label">¿Qué emoción te hace sentir esta situación?</p>
                                         </div>
                                     </div>
                                     <div class="row align-items-center justify-content-center">
@@ -100,7 +100,7 @@
                                     </div>
 
                                     <button class="gotoModulePage baki d-none d-sm-block" data-page="1">Atrás</button>
-                                    <button class="gotoModulePage conti d-none d-sm-block" data-page="3">Continuar</button>
+                                    <button class="gotoModulePage conti d-none d-sm-block" data-page="3"><a data-modl="sit-intimidad">Continuar</a></button>
 
 
                                 </div>
@@ -674,13 +674,23 @@
                                     </div>
                                 </div>
                                 <!-- fin sit4 -->
-                                <div class="row act-04-mdl act-sit-burla" >
+                                <div class="row act-04-mdl act-sit-intimidad" >
                                     <div class="col-12">
                                         <p class="text-justify">
                                         Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
                                         </p>
                                         <p class="text-justify">
                                         Podes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, podés poner una denuncia a las autoridades. Esta información la encontrás en esta misma página, seguí navegando.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="row act-04-mdl act-sit-burla" >
+                                    <div class="col-12">
+                                        <p class="text-justify">
+                                        A nadie le gusta recibir burlas. Ni a vos, ni a tus contactos o amistades. Tenemos derecho a disfrutar, sin agresiones en línea..
+                                        </p>
+                                        <p class="text-justify">
+                                        Aprendé a configurar las etiquetas, los comentarios y tu privacidad en cada red social acá. Encontrá acá en e-Mentores cómo hacerlo, seguí navegando.
                                         </p>
                                     </div>
                                 </div>

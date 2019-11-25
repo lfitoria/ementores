@@ -298,7 +298,7 @@ a.nav-iniciar:before{
 
 }
 .modal-body {
-    padding: 0rem 2rem;
+    padding: 0rem 0.5rem;
 }
 .bx-wrapper .bx-prev {
     left: -37px;
@@ -695,6 +695,38 @@ z-index: 1;
 margin: auto;
 width: 17%;
 }
+
+a.icovolver-2 {
+    display: block;
+    background-color: #FA7820;
+    font-size: 1em;
+    color: #fff;
+    padding: 13px;
+    border-radius: 20px;
+    line-height: 20px;
+    cursor: pointer;
+    margin: auto;
+    width: 65%;
+    transition: ease 500ms;
+}
+
+a.icovolver-2:hover {
+    cursor: pointer;
+    display: block;
+    background-color: #f1f1f1;
+    padding: 13px;
+    margin: auto;
+    width: 65%;
+    border-radius: 20px;
+    font-size: 1em;
+    color: #FA7820;
+    line-height: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+
+
 a.icovolver:before {
 content: '';
 background-image: url(../img/icn-btn-volver.png);
@@ -739,6 +771,11 @@ background-color: #E3F3F0;
 a.cerrarprueba:hover{
     text-decoration: none;
 }
+
+.edad-color{
+ color: #ff0000;
+}
+
 a.cerrarprueba {
 float: right;
 z-index: 1;
@@ -903,7 +940,7 @@ height: 434px;
 }
 .prueba:nth-child(2){
    
-height: 434px;
+height: auto;
 }
 .prueba:nth-child(3){
    

@@ -6,24 +6,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="icon" href="../favicon.ico" type="image/gif">
-    <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
-    <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
+    <link type="text/css" href="../css/bootstrap.css" rel="stylesheet">
+    <link type="text/css" href="../css/bootstrap-grid.css" rel="stylesheet">
     <link rel="stylesheet" href="../css/jquery.bxslider.css">
     <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
-    <link href="../css/style.css" rel="stylesheet" type="text/css"/>
-    <link href="../css/index.css" rel="stylesheet" type="text/css"/>
-    <link href="../css/mod2.css" rel="stylesheet" type="text/css"/>
+    <link href="../css/style.css" rel="stylesheet" type="text/css" />
+    <link href="../css/index.css" rel="stylesheet" type="text/css" />
+    <link href="../css/mod2.css" rel="stylesheet" type="text/css" />
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127635098-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127635098-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-          gtag('config', 'UA-127635098-1');
-        </script>
-    </head>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-127635098-1');
+    </script>
+</head>
+
 <body id="page-2-09">
     <div class="wrapper">
         <div id="content" class="bck-green">
@@ -39,20 +43,20 @@
                     </div>
 
                     <div class="nav justify-content-end">
-                        <button type="button" id="sidebarCollapse" class="btn" >
+                        <button type="button" id="sidebarCollapse" class="btn">
                             <span class="navbar-toggler-icon"></span>
                         </button>
                     </div>
                 </div>
             </nav>
-            <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>Nuestro escudo de protección en Internet</p>
+            <p class="intro-header blue"><a href="../0-03_menu.php#mod2" class="icovolver hvr-icon">Volver al<br>menú</a>Nuestro escudo de protección en Internet</p>
             <section class="container">
-                
+
                 <div class="row align-items-center justify-content-md-center">
-                                <div class="col-12 col-sm-8">
-                <p id="info-p">Haga clic en las pestañas para conocer cómo activar su escudo protector.</p>
-            </div>
-            </div>
+                    <div class="col-12 col-sm-8">
+                        <p id="info-p">Haga clic en las pestañas para conocer cómo activar su escudo protector.</p>
+                    </div>
+                </div>
                 <div class="main">
                     <div class="cont row justify-content-center">
                         <div class="col-12">
@@ -88,7 +92,7 @@
                                                 <div class="slide">
                                                     <div class="row justify-content-start">
                                                         <div class="col-12 col-md-6">
-                                                            <p>Pensemos en aparatos que traen muchos beneficios a nuestra vida cotidiana: una cocina, una olla de presión, un taladro, una bicicleta o un automóvil.  Porque pueden ser peligrosos, ¿no debemos usarlos? No… La clave está en usarlos con con seguridad.</p>
+                                                            <p>Pensemos en aparatos que traen muchos beneficios a nuestra vida cotidiana: una cocina, una olla de presión, un taladro, una bicicleta o un automóvil. Porque pueden ser peligrosos, ¿no debemos usarlos? No… La clave está en usarlos con con seguridad.</p>
                                                             <p>Igual pasa con las tecnologías digitales. Estas nos conectan, nos ayudan a comunicarnos, nos informan, nos entretienen y nos ayudan a trabajar y aprender, pero es importante utilizarlas de forma segura para beneficiarnos al máximo de todo lo que ofrecen.</p>
                                                         </div>
                                                         <div class="col-12 col-md-6">
@@ -126,8 +130,8 @@
                                                 <div class="slide">
                                                     <div class="row justify-content-start">
                                                         <div class="col-12 col-md-6">
-                                                            <p>Es importante orientar a niñas, niños y adolescentes sobre qué tipo de fotos es adecuado publicar o enviar a otras personas, y qué tipo no lo son.  Una pregunta que podemos hacer como punto de partida es: ¿pondrías frente a tu casa una foto en la que salís sin ropa? ¡Muy probablemente la respuesta es no!</p>
-                                                            <p>Así se le puede explicar, que cuando envía una foto a otra persona, aunque sea en un mensaje privado, ésta deja de estar bajo su control.  Esa persona puede perder el celular y alguien la podría ver o podría enviarla a alguien más, incluso por error.</p>
+                                                            <p>Es importante orientar a niñas, niños y adolescentes sobre qué tipo de fotos es adecuado publicar o enviar a otras personas, y qué tipo no lo son. Una pregunta que podemos hacer como punto de partida es: ¿pondrías frente a tu casa una foto en la que salís sin ropa? ¡Muy probablemente la respuesta es no!</p>
+                                                            <p>Así se le puede explicar, que cuando envía una foto a otra persona, aunque sea en un mensaje privado, ésta deja de estar bajo su control. Esa persona puede perder el celular y alguien la podría ver o podría enviarla a alguien más, incluso por error.</p>
                                                         </div>
                                                         <div class="col-12 col-md-6">
 
@@ -139,7 +143,7 @@
                                                 <div class="slide">
                                                     <div class="row justify-content-start">
                                                         <div class="col-12 col-md-6">
-                                                            <p>Además, hay personas que hoy son de nuestra confianza, pero que más adelante podrían cambiar de actitud y enviar a otros esas fotografías.  De igual forma, no solo las fotos, sino también mensajes como textos, audios o videos con cierto tipo de contenidos, pueden terminar en sitios públicos o leídos por personas que no queremos que los lean.</p>
+                                                            <p>Además, hay personas que hoy son de nuestra confianza, pero que más adelante podrían cambiar de actitud y enviar a otros esas fotografías. De igual forma, no solo las fotos, sino también mensajes como textos, audios o videos con cierto tipo de contenidos, pueden terminar en sitios públicos o leídos por personas que no queremos que los lean.</p>
                                                         </div>
                                                         <div class="col-12 col-md-6">
                                                             <img src="../img/mod2/2-09_sli-diapositiva-5.png" alt="Slide1" class="img-fluid">
@@ -166,7 +170,7 @@
                                                 <div class="slide">
                                                     <div class="row justify-content-start">
                                                         <div class="col-12 col-md-6">
-                                                            <p>El grooming puede prevenirse conversando con las niñas, niños y adolescentes sobre este peligro.  El primer paso consiste en enseñarles a no aceptar personas desconocidas como contactos en redes sociales, ni responder mensajes que provienen de remitentes desconocidos.</p>
+                                                            <p>El grooming puede prevenirse conversando con las niñas, niños y adolescentes sobre este peligro. El primer paso consiste en enseñarles a no aceptar personas desconocidas como contactos en redes sociales, ni responder mensajes que provienen de remitentes desconocidos.</p>
                                                         </div>
                                                         <div class="col-12 col-md-6">
                                                             <img src="../img/mod2/2-09_sli-diapositiva-6.png" alt="Slide1">
@@ -202,21 +206,10 @@
                                                 <div class="slide">
                                                     <div class="row justify-content-start">
                                                         <div class="col-12">
-                                                            <p>Una buena forma de iniciar una conversación sobre el bullying o el ciberbullying es explicando a las personas menores de edad los tres tipos de actores que hay en una situación de este tipo: quien agrede, la persona agredida, y las personas espectadoras.  Cualquier niña, niño o adolescente podría verse en el rol de víctima o de espectadora.</p>
+                                                            <p>Una buena forma de iniciar una conversación sobre el bullying o el ciberbullying es explicando a las personas menores de edad los tres tipos de actores que hay en una situación de este tipo: quien agrede, la persona agredida, y las personas espectadoras. Cualquier niña, niño o adolescente podría verse en el rol de víctima o de espectadora.</p>
                                                         </div>
                                                         <div class="col-12">
                                                             <img src="../img/mod2/2-09_sli-diapositiva-9.png" alt="Slide1" class="img-md">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="slide">
-                                                    <div class="row justify-content-start">
-                                                        <div class="col-12">
-                                                            <p>Además, las personas menores de edad deben saber que cuando el bullying se da en redes sociales, no podemos saber cuántas personas verán los mensajes, qué nuevos comentarios hirientes se agregarán, cuánto tiempo circularán o en qué páginas terminará esa información.  El ciberbullying llega a muchas personas, las cuales podrían sumarse a los ataques, o propagarlos al compartirlos con otras.</p>
-                                                        </div>
-                                                        <div class="col-12">
-                                                            <img src="../img/mod2/2-09_sli-diapositiva-10.png" alt="Slide1">
                                                         </div>
 
                                                     </div>
@@ -227,7 +220,7 @@
                                                             <img src="../img/mod2/2-09_sli-diapositiva-11.png" alt="Slide1">
                                                         </div>
                                                         <div class="col-12 col-md-6">
-                                                            <p>Es fundamental que sepan que en la red puede haber personas que se hacen pasar por otras, y que deben desconfiar cuando les solicitan enviarse mensajes privados, o cuando inician conversaciones con lenguaje sexual.  Se les debe explicar qué hacer en esos casos: por ejemplo, no responder los mensajes, y acudir a una persona adulta de confianza para recibir ayuda.</p>
+                                                            <p>Además, las personas menores de edad deben saber que cuando el bullying se da en redes sociales, no podemos saber cuántas personas verán los mensajes, qué nuevos comentarios hirientes se agregarán, cuánto tiempo circularán o en qué páginas terminará esa información. El ciberbullying llega a muchas personas, las cuales podrían sumarse a los ataques, o propagarlos al compartirlos con otras.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -297,8 +290,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>   
-                    </div>   
+                        </div>
+                    </div>
                     <a href="../0-03_menu.php#mod2" class="back_to_menu d-none">Volver al menú</a>
             </section>
             <?php require '../footer.php'; ?>
@@ -315,15 +308,7 @@
             </div>
 
             <ul class="list-unstyled components">
-                <li>
-                    <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
-                </li>
-                <li>
-                    <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
-                </li>
-                <li>
-                    <a href="/" class="nav-iniciar">Cerrar sesión</a>
-                </li>
+                <?php require '../menu-sidebar-2.php' ?>
             </ul>
         </nav>
     </div>
@@ -342,10 +327,10 @@
             infiniteLoop: false,
             auto: false,
             pause: 10000,
-            hideControlOnEnd:true 
+            hideControlOnEnd: true
         });
 
-        $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+        $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
 
             $("#page-2-09 .nav-tabs .nav-item").removeClass("active");
             $(this).parent().addClass("active");
@@ -357,7 +342,7 @@
                         auto: false,
                         pause: 10000,
                         pause: 10000,
-                        hideControlOnEnd:true 
+                        hideControlOnEnd: true
                     });
                     break;
                 case "#grooming":
@@ -366,7 +351,7 @@
                         infiniteLoop: false,
                         auto: false,
                         pause: 10000,
-                        hideControlOnEnd:true 
+                        hideControlOnEnd: true
                     });
                     break;
                 case "#ciberbullying":
@@ -375,7 +360,7 @@
                         infiniteLoop: false,
                         auto: false,
                         pause: 10000,
-                        hideControlOnEnd:true 
+                        hideControlOnEnd: true
                     });
                     break;
                 case "#sociales":
@@ -384,13 +369,13 @@
                         infiniteLoop: false,
                         auto: false,
                         pause: 10000,
-                        hideControlOnEnd:true 
+                        hideControlOnEnd: true
                     });
                     break;
             }
         });
-        
-         $('#myTabContent').on('shown.bs.collapse', function (e) {
+
+        $('#myTabContent').on('shown.bs.collapse', function(e) {
             var id = $(this).find(".collapse.show").parent().find("a").attr("href");
             $("#page-2-09 .nav-tabs .nav-item").removeClass("active");
             $(this).parent().addClass("active");
@@ -401,7 +386,7 @@
                         infiniteLoop: false,
                         auto: false,
                         pause: 10000,
-                        hideControlOnEnd:true 
+                        hideControlOnEnd: true
                     });
                     break;
                 case "#collapse-3":
@@ -410,7 +395,7 @@
                         infiniteLoop: false,
                         auto: false,
                         pause: 10000,
-                        hideControlOnEnd:true 
+                        hideControlOnEnd: true
                     });
                     break;
                 case "#collapse-4":
@@ -419,7 +404,7 @@
                         infiniteLoop: false,
                         auto: false,
                         pause: 10000,
-                        hideControlOnEnd:true 
+                        hideControlOnEnd: true
                     });
                     break;
                 case "#collapse-5":
@@ -428,7 +413,7 @@
                         infiniteLoop: false,
                         auto: false,
                         pause: 10000,
-                        hideControlOnEnd:true 
+                        hideControlOnEnd: true
                     });
                     break;
             }
@@ -443,7 +428,7 @@
             },
             dataType: "html"
         });
-
     </script>
 </body>
+
 </html>

@@ -95,15 +95,7 @@
                             </li>
                         </ul>
                     </li> -->
-                    <li>
-                        <a href="/familias/familias.php" class="nav-sobre">Sobre el proyecto</a>
-                    </li>
-                    <li>
-                         <a href="/familias/0-03_menu.php" class="nav-actividad">Ir a menú de actividades</a>
-                    </li>
-                    <li>
-                        <a href="/familias/" class="nav-iniciar">Cerrar sesión</a>
-                    </li>
+                    <?php require '../menu-sidebar.php'?>
                 </ul>
 
             </nav>
@@ -226,8 +218,7 @@
                                             <div class="col-12 col-sm-9">
                                     <strong>¡Mantenerse en contacto con familia y amigos!</strong>
                                     <ul>
-                                        <li>Podemos usar alguna aplicación de mensajería instantánea, ya sea individualmente o por medio de un grupo de comunicación familiar para estar siempre en contacto.</li>
-                                        <li>Recordemos que todo lo que decimos, hacemos y publicamos en Internet y las redes sociales se vuelve información pública que no desaparece. Debemos ser siempre respetuosos y amables.</li>
+                                        <li>Recordemos que todo lo que decimos, hacemos y publicamos en internet y las redes sociales, puede salirse de nuestro control y hasta publicarse. Debemos ser siempre respetuosos y amables. Y saber que tenemos derecho a la privacidad de nuestras comunicaciones.</li>
                                     </ul>
 
 

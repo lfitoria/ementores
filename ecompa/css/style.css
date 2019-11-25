@@ -1398,7 +1398,11 @@ margin-top: 30px!important;
     margin-top: 25px;
 }
 /*medias*/
-
+@media (max-width: 767px) { 
+    .baki, .conti{
+        display: none;
+    }
+}
 @media (max-width: 576px) { 
     .item-module a {
     

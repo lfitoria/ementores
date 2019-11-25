@@ -177,6 +177,7 @@
                                                     <!--<p class=dots-mod>. . .</p>-->
                                                 </div>
                                             </div>
+
                                         </div>
                                         <div class="row">
                                             <div class="col-12 item-module-final">
@@ -257,7 +258,7 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[5]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-06_act.php" class="v2-act-6">Analicemos nuestras ciber-emociones</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_2/2-06_act.php" class="v2-act-6">Reconozcamos nuestras emociones en el uso de las TIC</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
@@ -338,12 +339,12 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[1]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_3/3-03_act.php"" class="v3-act-3">​Escuchemos: no siempre tenemos ​la ​razón</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-03_act.php" class="v3-act-3">​Escuchemos: no siempre tenemos ​la ​razón</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[2]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <a href="mod_3/3-04_inf.php"" class="v3-act-4">Recuerde las señales de alarma para identificar el abuso sexual</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-04_inf.php" class="v3-act-4">Recuerde las señales de alarma para identificar el abuso sexual</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
 
@@ -357,7 +358,7 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_3/3-07_inf.php"" class="v3-act-7">Ruta para denunciar el sexting, grooming y sextorsión</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-07_inf.php" class="v3-act-7">¿Cómo denunciar las violencias en línea?</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">

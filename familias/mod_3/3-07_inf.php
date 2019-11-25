@@ -50,23 +50,28 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue"><a href="../0-03_menu.php#mod3"  class="icovolver hvr-icon">Volver al<br>menú</a>Ruta para denunciar el sexting, grooming y sextorsión</p>
+                <p class="intro-header blue"><a href="../0-03_menu.php#mod3"  class="icovolver hvr-icon">Volver al<br>menú</a>¿Cómo denunciar las violencias en línea?</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="">
                             <div class="cont row">
                                 <div id="map_container">
                                     <img usemap="#3-07-inf" id="img-map" src="../img/mod3/3-07_inf.png" class="img-fluid">
-                                    <map name="3-07-inf">
+                                    <!-- <map name="3-07-inf">
                                         <area data-nbr="1" shape='rect' coords='349, 183, 612, 277' href='#' />
                                         <area data-nbr="2" shape='rect' coords='639, 183, 900, 277' href='#' />
                                         <area data-nbr="3" shape='rect' coords='959, 184, 1220, 274' href='#' />
-                                    </map>
+                                    </map> -->
                                 </div>
                             </div>
                             <a href="../0-03_menu.php#mod3" class="back_to_menu d-none">Volver al menú</a>
                         </div>
                     </div>
+                </section>
+                <section>
+                <div class="container pt-4 pb-3"> 
+                <p class="text-center intro-label">Para conocer más sobre las violencias en línea, visitá la sección: <a class="icovolver-2" href="../mod_1/1-05_sld.php"> “Conductas violentas en la Internet y en Redes Sociales”.</a></p> 
+                </div>
                 </section>
                 <?php require '../footer.php'; ?>
             </div>
@@ -76,13 +81,9 @@
                 </div>
 
                 <ul class="list-unstyled components">
-                    <li>
-                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
-                    </li>
-                    
-                    <li>
-                        <a href="/" class="nav-iniciar">Cerrar sesión</a>
-                    </li>
+
+                <?php require '../menu-sidebar.php'?>
+                
                 </ul>
 
             </nav>

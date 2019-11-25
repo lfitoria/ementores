@@ -129,7 +129,7 @@ session_start();
                                 <a class="nav-link stev-tab" id="steven-valeria-tab" data-toggle="tab" href="#steven-valeria" role="tab" aria-controls="contact" aria-selected="false">Steven y Valeria</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link eri-tab" id="erick-tab" data-toggle="tab" href="#erick" role="tab" aria-controls="contact" aria-selected="false">Erick</a>
+                                <a class="nav-link eri-tab " id="erick-tab" data-toggle="tab" href="#erick" role="tab" aria-controls="contact" aria-selected="false">Erick</a>
                             </li>
                         </ul>
                         <div class="tab-content" id="myTabContent">
@@ -180,8 +180,8 @@ session_start();
                                     </div>
                                 </div>
 
-                                <button class="gotoModulePage3 baki" >Atrás</button>
-                                <button class="gotoModulePage2 conti" >Continuar</button>
+                                <button class="gotoModulePage3 baki">Atrás</button>
+                                <button class="gotoModulePage2 conti">Continuar</button>
 
                             </div>
 
@@ -235,12 +235,12 @@ session_start();
                                     </div>
                                 </div>
 
-                                <button class="gotoModulePage1 baki" >Atrás</button>
-                                <button class="gotoModulePage3 conti" >Continuar</button>
+                                <button class="gotoModulePage1 baki">Atrás</button>
+                                <button class="gotoModulePage3 conti">Continuar</button>
 
                             </div>
 
-    
+
 
 
 
@@ -289,8 +289,8 @@ session_start();
                                     </div>
                                 </div>
 
-                                <button class="gotoModulePage2 baki" >Atrás</button>
-                                <button class="gotoModulePage1 conti" >Continuar</button>
+                                <button class="gotoModulePage2 baki">Atrás</button>
+                                <button class="gotoModulePage1 conti">Continuar</button>
 
                             </div>
 
@@ -300,12 +300,6 @@ session_start();
 
                         </div>
                         <a href="../0-03_menu.php#mod3" class="back_to_menu d-none">Volver al menú</a>
-                        <!-- <div class="container btn-videos-actuemos">
-                            <button class="gotoModulePage baki" data-page="1">Atrás</button>
-                            <button class="gotoModulePage conti" data-page="3">Continuar</button>
-                        </div> -->
-
-
                         <p class="intro-header blue"><a href="../" class="icovolver hvr-icon">Volver al inicio</a></p>
                     </div>
                 </div>

@@ -89,6 +89,11 @@
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Juan Carlos recibe un mensaje que dice: "Usted ha ganado un premio.  Haga clic aquí para obtenerlo".</p>
+                                <div class="image-risk"> 
+                                    <img src="../img/mod2/Icono-audio.png" alt="" class="img-fluid">
+                                </div>
+                                
+                                <div class="d-flex">
                                 <div class="audio-item row incorrect inactive">
                                     <div class="col-md-4 image-risk">
                                         <img src="../img/mod2/2-03_act_btn-riesgo.png" alt="" class="img-fluid"/>
@@ -111,6 +116,8 @@
                                         </audio>
                                     </div>
                                 </div>
+                                </div>
+                                
                             </div>
                             
                         </div>
@@ -127,6 +134,11 @@
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Yamileth recibe un mensaje en el que un compañero se burla de Juan Carlos y lo pone en ridículo.</p>
+                                <div class="image-risk"> 
+                                    <img src="../img/mod2/Icono-audio.png" alt="" class="img-fluid">
+                                </div>
+
+                                <div class="d-flex">
                                 <div class="audio-item row incorrect inactive">
                                     <div class="col-md-4 image-risk">
                                         <img src="../img/mod2/2-03_act_btn-riesgo.png" alt=""/>
@@ -149,6 +161,8 @@
                                         </audio>
                                     </div>
                                 </div>
+                                </div>
+                                
                             </div>
                             
                         </div>
@@ -167,6 +181,10 @@
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Mariana recibe mensajes en que una persona que no conoce le comparte videos con contenidos sexuales.</p>
+                                <div class="image-risk"> 
+                                    <img src="../img/mod2/Icono-audio.png" alt="" class="img-fluid">
+                                </div>
+                                <div class="d-flex">
                                 <div class="audio-item row incorrect inactive">
                                     <div class="col-md-4 image-risk">
                                         <img src="../img/mod2/2-03_act_btn-riesgo.png" alt=""/>
@@ -189,6 +207,7 @@
                                         </audio>
                                     </div>
                                 </div>
+                                </div>
                             </div>
                             
 
@@ -210,6 +229,10 @@
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Karla recibe una solicitud de amistad en Facebook de una persona que ella no conoce.</p>
+                                <div class="image-risk"> 
+                                    <img src="../img/mod2/Icono-audio.png" alt="" class="img-fluid">
+                                </div>
+                                <div class="d-flex">
                                 <div class="audio-item row incorrect inactive">
                                     <div class="col-md-4 image-risk">
                                         <img src="../img/mod2/2-03_act_btn-riesgo.png" alt=""/>
@@ -232,6 +255,7 @@
                                         </audio>
                                     </div>
                                 </div>
+                                </div>
                             </div>
                         </div>
                         <div class="row">
@@ -249,7 +273,11 @@
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Kimberly tiene un contacto en Facebook, a quien no conoce en persona.  El muchacho la invita a salir.</p>
-                                <div class="audio-item row incorrect inactive">
+                                <div class="image-risk"> 
+                                    <img src="../img/mod2/Icono-audio.png" alt="" class="img-fluid">
+                                </div>
+                               <div class="d-flex">
+                               <div class="audio-item row incorrect inactive">
                                     <div class="col-md-4 image-risk">
                                         <img src="../img/mod2/2-03_act_btn-riesgo.png" alt=""/>
                                     </div>
@@ -272,6 +300,7 @@
                                         </audio>
                                     </div>
                                 </div>
+                               </div>
                             </div>
                             
 
@@ -291,7 +320,11 @@
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Fabián está haciendo por primera vez su perfil en Facebook, y no está seguro qué datos poner.</p>
-                                <div class="audio-item row incorrect inactive">
+                                <div class="image-risk"> 
+                                    <img src="../img/mod2/Icono-audio.png" alt="" class="img-fluid">
+                                </div>
+                               <div class="d-flex">
+                               <div class="audio-item row incorrect inactive">
                                     <div class="col-md-4 image-risk">
                                         <img src="../img/mod2/2-03_act_btn-riesgo.png" alt=""/>
                                     </div>
@@ -313,6 +346,7 @@
                                         </audio>
                                     </div>
                                 </div>
+                               </div>
                             </div>
                             
 
@@ -332,6 +366,10 @@
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">A Karen, su novio Jeremy le pide que le envíe unas fotos sin la parte de arriba del vestido de baño.</p>
+                                <div class="image-risk"> 
+                                    <img src="../img/mod2/Icono-audio.png" alt="" class="img-fluid">
+                                </div>
+                                <div class="d-flex">
                                 <div class="audio-item row incorrect inactive">
                                     <div class="col-md-4 image-risk">
                                         <img src="../img/mod2/2-03_act_btn-riesgo.png" alt=""/>
@@ -354,6 +392,7 @@
                                         </audio>
                                     </div>
                                 </div>
+                                </div>
                             </div>
                             
 
@@ -373,6 +412,10 @@
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Mauricio recibe memes con contenidos sexuales en su celular.</p>
+                                <div class="image-risk"> 
+                                    <img src="../img/mod2/Icono-audio.png" alt="" class="img-fluid">
+                                </div>
+                                <div class="d-flex">
                                 <div class="audio-item row incorrect inactive">
                                     <div class="col-md-4 image-risk">
                                         <img src="../img/mod2/2-03_act_btn-riesgo.png" alt=""/>
@@ -395,6 +438,7 @@
                                         </audio>
                                     </div>
                                 </div>
+                                </div>
                             </div>
                             
 
@@ -411,6 +455,7 @@
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case text-center"><strong>¡Ha llegado al final de esta actividad!</strong></p>
                                 <p class="text-center final-text">Esperamos que le haya sido útil para comprender la diferencia entre conductas protectoras y conductas de riesgo.</p>
+
                             </div>
                             <div class="col-12 col-md-5 image-side">
                                 <img src="../img/mod2/2-03_act-img-cierre.png" alt="" class="img-fluid" />
@@ -511,16 +556,7 @@
 
             <ul class="list-unstyled components">
              
-
-                <li>
-                    <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
-                </li>
-                <li>
-                    <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>
-                </li>
-                <li>
-                    <a href="/" class="nav-iniciar">Cerrar sesión</a>
-                </li>
+            <?php require '../menu-sidebar-2.php'?>
             </ul>
 
         </nav>
