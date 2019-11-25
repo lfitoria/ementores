@@ -195,7 +195,7 @@
                                         <div class="col-12">
                                             <div class="video-item">
                                                 <video width="100%" height="auto" id="video3" poster="../img/videos/vistas-3-05-3.png" controls>
-                                                    <source src="3-05_vid_erick-Ecompas.mp4" type="video/mp4">
+                                                    <source src="../videos/3-05_vid_erick-Ecompas.mp4" type="video/mp4">
                                                 </video>
 
                                             </div>
@@ -310,7 +310,7 @@
 
             <ul class="list-unstyled components">
 
-                <?php require '../menu-sidebar.php' ?>
+                <?php require '../menu-sidebar.php'?>
 
             </ul>
 
@@ -395,49 +395,57 @@
         });
 
         $("#video1").on("timeupdate", function() {
-            console.log(parseInt(this.currentTime));
-            if (parseInt(this.currentTime) == 24) {
-                this.pause();
+                console.log(parseInt(this.currentTime));
+                if (parseInt(this.currentTime) == 24) {
+                    this.pause();
 
-                time = 25;
-                video = document.getElementById("video1");
-                modal = $(this).parent().parent().find(".modal")
-                modal.modal("show");
-            }
-        });
+                    time = 25;
+                    video = document.getElementById("video1");
+                    modal = $(this).parent().parent().find(".modal")
+                    modal.modal("show");
+                }
+            });
 
-        $("#video2").on("timeupdate", function() {
-            console.log(parseInt(this.currentTime));
-            if (parseInt(this.currentTime * 1000) >= 33400 && parseInt(this.currentTime * 1000) <= 3900) {
-                this.pause();
-                time = 24;
-                video = document.getElementById("video2");
-                modal = $(this).parent().parent().find(".modal")
-                modal.modal("show");
+            $("#video2").on("timeupdate", function() {
+                console.log(parseInt(this.currentTime * 1000));
+                if (parseInt(this.currentTime * 1000) >= 33400 && parseInt(this.currentTime * 1000) <= 3900) {
+                    this.pause();
+                    time = 24;
+                    video = document.getElementById("video2");
+                    modal = $(this).parent().parent().find(".modal")
+                    modal.modal("show");
 
-            }
-        });
+                }
+            });
 
-        $("#video3").on("timeupdate", function() {
-            console.log(parseInt(this.currentTime));
-            if (parseInt(this.currentTime * 1000) >= 35500 && parseInt(this.currentTime * 1000) <= 35900) {
-                this.pause();
+            $("#video3").on("timeupdate", function() {
+                console.log(parseInt(this.currentTime));
+                if (parseInt(this.currentTime * 1000) >= 35500 && parseInt(this.currentTime * 1000) <= 35900) {
+                    this.pause();
 
-                time = 36;
-                video = document.getElementById("video3");
-                modal = $(this).parent().parent().find(".modal")
-                modal.modal("show");
-            }
-        });
+                    time = 36;
+                    video = document.getElementById("video3");
+                    modal = $(this).parent().parent().find(".modal")
+                    modal.modal("show");
+                }
+            });
 
-        $("a[data-toggle=tab]").click(function() {
-            video1 = document.getElementById("video1");
-            video1.pause();
-            video2 = document.getElementById("video2");
-            video2.pause();
-            video3 = document.getElementById("video3");
-            video3.pause();
-        });
+            $("a[data-toggle=tab]").click(function() {
+                video1 = document.getElementById("video1");
+                video1.pause();
+                video2 = document.getElementById("video2");
+                video2.pause();
+                video3 = document.getElementById("video3");
+                video3.pause();
+            });
+            $("a[data-toggle=collapse]").click(function() {
+                video1 = document.getElementById("video1");
+                video1.pause();
+                video2 = document.getElementById("video2");
+                video2.pause();
+                video3 = document.getElementById("video3");
+                video3.pause();
+            });
     </script>
 </body>
 

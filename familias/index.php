@@ -80,7 +80,7 @@
                                 </div>
                                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 ">
                                     <p class="main-div-intro-text d-none d-sm-block d-md-block d-lg-block">Aprenda sobre el uso seguro de internet para familias.</p>
-                                    <a class="btn-entrar" href="0-04_intro.php">Entrar</a>
+                                    <a class="btn-entrar" href="/videos/0-04_intro.php">Entrar</a>
                                 </div>
                             </div>
                         </div>
