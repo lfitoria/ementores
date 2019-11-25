@@ -74,13 +74,13 @@
                                     <div class="embed-responsive embed-responsive-16by9 main-div-iframe">
                                         <!-- <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LLsdaT4NWu0?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
                                         <video width="100%" height="auto" id="video" poster="img/videos/vistas-Iintro.png" controls>
-                                            <source src="familias/videos/0-introduccion_vid.mp4" type="video/mp4">
+                                            <source src="videos/0-introduccion_vid.mp4" type="video/mp4">
                                         </video>
                                     </div>
                                 </div>
                                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 ">
                                     <p class="main-div-intro-text d-none d-sm-block d-md-block d-lg-block">Aprenda sobre el uso seguro de internet para familias.</p>
-                                    <a class="btn-entrar" href="0-04_intro.php">Entrar</a>
+                                    <a class="btn-entrar" href="familias/0-04_intro.php">Entrar</a>
                                 </div>
                             </div>
                         </div>
