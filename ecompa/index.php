@@ -247,7 +247,7 @@ session_start();
                             <hr>
                             <div class="row justify-content-center">
                             <div class="col col-sm-6">
-                            <p class="label">¿Qué grado estás?</p>
+                            <p class="label">¿En qué grado estás?</p>
                             <input type="text" name="grado" placeholder="">
                             <!-- <p class="small d-none text-center" id="warfour">Recordá completar este espacio.</p> -->
                             <!-- <p class="small">Contanos en qué provincia y cantón vivís.</p> -->
