@@ -233,7 +233,6 @@ session_start();
                             <select name="lugar">
                                 <option value="default">Provincia</option>
                                 <option value="San José">San José</option>
-                                <option value="San José">San José</option>
                                 <option value="Alajuela">Alajuela</option>
                                 <option value="Cartago">Cartago</option>
                                 <option value="Heredia">Heredia</option>

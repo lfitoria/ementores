@@ -5,7 +5,7 @@ session_start();
     // $session_value=$_POST["nombre"];
     $session_value=$_POST["edad"];
 
-    $_SESSION['edad']=$session_value;
+    $_SESSION['usuario']=$session_value;
 
 
 include '../connection/conexion.php';
