@@ -220,7 +220,7 @@ session_start();
                             <p class="label">¿Qué edad tenés?</p>
                             <p class="text-center label"><span id="demo"></span></p>
                             <!-- <input type="range" min="1" max="100" class="slider" value="1" id="myRange" name="edad" > -->
-                            <input type="number" name="edad" >
+                            <input type="number" name="edad" class="w-25">
                             <p class="small d-none text-center" id="wartree">Debés escribir la edad.</p>
                             </div>
                             </div>
@@ -229,8 +229,8 @@ session_start();
                             <div class="row justify-content-center">
                             <div class="col col-sm-6">
                             <p class="label">¿Dónde vivís?</p>
-                            <!-- <input type="text" name="lugar" placeholder=""> -->
-                            <select name="lugar">
+                            <input type="text" name="lugar" placeholder="">
+                            <!-- <select name="lugar">
                                 <option value="default">Provincia</option>
                                 <option value="San José">San José</option>
                                 <option value="Alajuela">Alajuela</option>
@@ -239,7 +239,7 @@ session_start();
                                 <option value="Guanacaste">Guanacaste</option>
                                 <option value="Puntarenas">Puntarenas</option>
                                 <option value="Limón">Limón</option>
-                            </select>
+                            </select> -->
                             <p class="small d-none text-center" id="warfour">Recordá seleccionar una opción.</p>
                             <!-- <p class="small">Contanos en qué provincia y cantón vivís.</p> -->
                             </div>
