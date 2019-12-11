@@ -206,7 +206,7 @@ ser el primero en enterarte de lo nuevo</p> -->
         $(document).ready(function() {
 
             var user = $("input#session").val();
-            console.log(user);
+            console.log("encuesta-modal"+user);
             if (user != "") {
                 $(".encuesta-modal").addClass("d-none");
             }
