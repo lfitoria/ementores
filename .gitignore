@@ -60,5 +60,5 @@ familias/db/connection/conexion.php
 
 **/error_log
 .htaccess
-
+.DS_Store
 kit-materiales/
