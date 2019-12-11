@@ -208,7 +208,7 @@ ser el primero en enterarte de lo nuevo</p> -->
             var user = $("input#session").val();
             console.log("encuesta-modal"+user);
             if (user != "") {
-                $(".encuesta-modal").addClass("d-none");
+                //$(".encuesta-modal").addClass("d-none");
             }
           // $('.modal_encuesta').carousel({
           //     cycle: false,
