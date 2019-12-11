@@ -54,6 +54,8 @@
 ¿Qué te parece e-compa?
           gtag('config', 'UA-127635098-1');
         </script> -->
+        <script src="https://kit.fontawesome.com/93f079ed62.js" crossorigin="anonymous"></script>
+
     </head>
     
 

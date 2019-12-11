@@ -217,7 +217,8 @@ session_start();
                             <hr> -->
                             <div class="row justify-content-center">
                             <div class="col col-sm-6">
-                            <p class="label">¿Qué edad tenés?</p>
+                            
+                            <p class="label"><i class="fas fa-birthday-cake"></i> ¿Qué edad tenés?</p>
                             <p class="text-center label"><span id="demo"></span></p>
                             <!-- <input type="range" min="1" max="100" class="slider" value="1" id="myRange" name="edad" > -->
                             <input type="number" name="edad" class="w-25">
@@ -228,7 +229,7 @@ session_start();
                             <hr>
                             <div class="row justify-content-center">
                             <div class="col col-sm-6">
-                            <p class="label">¿Dónde vivís?</p>
+                            <p class="label"><i class="fas fa-map-marked-alt"></i> ¿Dónde vivís?</p>
                             <input type="text" name="lugar" placeholder="">
                             <!-- <select name="lugar">
                                 <option value="default">Provincia</option>
@@ -247,7 +248,7 @@ session_start();
                             <hr>
                             <div class="row justify-content-center">
                             <div class="col col-sm-6">
-                            <p class="label">¿En qué grado estás?</p>
+                            <p class="label"><i class="fas fa-school"></i> ¿En qué grado estás?</p>
                             <input type="text" name="grado" placeholder="">
                             <!-- <p class="small d-none text-center" id="warfour">Recordá completar este espacio.</p> -->
                             <!-- <p class="small">Contanos en qué provincia y cantón vivís.</p> -->
