@@ -174,7 +174,7 @@ session_start();
                             <h2>Antes de empezar...</h2>
                             <!-- <h3>¡Contanos sobre vos!</h3> -->
                             <h3>Nos interesa saber unas pocas cosas,<br> ¡contanos sobre vos!</h3>
-                                <p class="label text-center">
+                            <p class="label text-center" style="font-size: 1.3em;">
                                 Si tenés 11 años o más este espacio es para vos.
                                 <br>
                                 Tu privacidad está garantizada en este espacio.
