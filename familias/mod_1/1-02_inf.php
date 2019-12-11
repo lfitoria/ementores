@@ -83,7 +83,7 @@
                                             <div class="col-12 col-sm-3"><img src="../img/1-02_icn-facebook.png"></div> 
                                             <div class="col-12 col-sm-9">
                                             <a href="http://www.facebook.com">facebook.com</a><br>
-                                            Permite compartir fotos, videos, enlaces, estados de ánimo e interactuar con las personas parte de la lista de contactos. Es un espacio de interacción en el que es posible comentar las publicaciones propias y de otros de forma pública.<br><br> Es recomendable mantener en la lista de contactos solo a personas conocidas y modificar las variables de seguridad para decidir quién puede ver cada cosa que publicamos.<br><p class="edad-color">La edad mínima permitida para crear un perfil en Facebook es de 14 años (o 13 si se cuenta con aprobación de padres o responsables del menor)</p>
+                                            Permite compartir fotos, videos, enlaces, estados de ánimo e interactuar con las personas parte de la lista de contactos. Es un espacio de interacción en el que es posible comentar las publicaciones propias y de otros de forma pública.<br><br> Es recomendable mantener en la lista de contactos solo a personas conocidas y modificar las variables de seguridad para decidir quién puede ver cada cosa que publicamos.<br>La edad mínima permitida para crear un perfil en Facebook es de 14 años (o 13 si se cuenta con aprobación de padres o responsables del menor)
                                             </div>
                                         </div>
                                         </div>
@@ -94,7 +94,7 @@
                                             <div class="col-12 col-sm-3"><img src="../img/1-02_icn-instagram.png"></div> 
                                             <div class="col-12 col-sm-9">
                                             <a href="http://www.instagram.com">instagram.com</a><br>
-                                            Las personas usuarias pueden subir fotos o vídeos y agregarles filtros fotográficos y efectos. Además las personas usuarias pueden usar hashtags (palabras clave precedidas por el signo #) para identificar de qué tipo de imagen se trata. <br><br>En Instagram las fotografías son, por defecto, públicas y hay que modificar las variables de publicación para que puedan verlas sólo nuestros seguidores. <br><p class="edad-color"> La edad mínima permitida para crear un perfil en Instagram es de 14 años (o 13 si se cuenta con aprobación de padres o responsables del menor).</p>
+                                            Las personas usuarias pueden subir fotos o vídeos y agregarles filtros fotográficos y efectos. Además las personas usuarias pueden usar hashtags (palabras clave precedidas por el signo #) para identificar de qué tipo de imagen se trata. <br><br>En Instagram las fotografías son, por defecto, públicas y hay que modificar las variables de publicación para que puedan verlas sólo nuestros seguidores. <br> La edad mínima permitida para crear un perfil en Instagram es de 14 años (o 13 si se cuenta con aprobación de padres o responsables del menor).
                                         </div>
                                         </div>
                                         </div>
@@ -105,7 +105,7 @@
                                             <div class="col-12 col-sm-3"><img src="../img/1-02_icn-snapchat.png"></div> 
                                             <div class="col-12 col-sm-9">
                                             <a href="http://www.snapchat.com">snapchat.com</a><br>
-                                            Permite enviar fotos y vídeos que se borran pocos segundos después de que la persona que los recibió los abrió. <br><br>Aunque se puede considerar “más seguro” porque los videos desaparecen inmediatamente, en realidad, esto puede convertirse en un riesgo ya que las personas abusadoras pueden actuar sabiendo que el video va a desaparecer después de que sea visto (sin dejar pruebas del abuso cometido).  <br><p class="edad-color"> La edad mínima permitida para crear un perfil en Snapchat es de 13 años.</p>
+                                            Permite enviar fotos y vídeos que se borran pocos segundos después de que la persona que los recibió los abrió. <br><br>Aunque se puede considerar “más seguro” porque los videos desaparecen inmediatamente, en realidad, esto puede convertirse en un riesgo ya que las personas abusadoras pueden actuar sabiendo que el video va a desaparecer después de que sea visto (sin dejar pruebas del abuso cometido).  <br> La edad mínima permitida para crear un perfil en Snapchat es de 13 años.
                                         </div>
                                         </div>
                                         </div>
@@ -116,7 +116,7 @@
                                             <div class="col-12 col-sm-3"><img src="../img/1-02_icn-whatsapp.png"></div> 
                                             <div class="col-12 col-sm-9">
                                             <a href="http://www.whatsapp.com">whatsapp.com</a><br>
-                                            Aplicación que permite enviar mensajes instantáneos, que pueden ser textos, fotos, vídeos o audios. WhatsApp se ha vuelto una herramienta de comunicación muy popular, especialmente por la utilidad de los grupos. Los grupos son áreas de comunicación para dos o más contactos que se usan, por ejemplo, entre familias para enviar fotos, organizar eventos, etc.<br><br> Es importante no establecer contacto con desconocidos a través de WhatsApp y además recordar que todo lo que enviamos, deja de estar bajo nuestro control. <br><p class="edad-color"> La edad mínima permitida para crear un perfil en Whatsapp es de 13 años.</p>
+                                            Aplicación que permite enviar mensajes instantáneos, que pueden ser textos, fotos, vídeos o audios. WhatsApp se ha vuelto una herramienta de comunicación muy popular, especialmente por la utilidad de los grupos. Los grupos son áreas de comunicación para dos o más contactos que se usan, por ejemplo, entre familias para enviar fotos, organizar eventos, etc.<br><br> Es importante no establecer contacto con desconocidos a través de WhatsApp y además recordar que todo lo que enviamos, deja de estar bajo nuestro control. <br> La edad mínima permitida para crear un perfil en Whatsapp es de 13 años.
                                         </div>
                                         </div>
                                         </div>
@@ -127,7 +127,7 @@
                                             <div class="col-12 col-sm-3"><img src="../img/1-02_icn-twitch.png"></div> 
                                             <div class="col-12 col-sm-9">
                                             <a href="http://www.twitch.tv">twitch.tv</a><br>
-                                            Plataforma para ver y subir vídeos en vivo que se usa, sobre todo, para compartir las sesiones en vivo de personas reales jugando juegos de video o juegos en línea. <br><br>Precisamente por ser en vivo, el contenido dentro de Twitch es difícil de evaluar. Es posible que el contenido de los juegos no sea apropiado o que los jugadores usen un lenguaje violento o con referencias sexuales. <br><p class="edad-color"> La edad mínima permitida para crear un perfil en Twitch es de 13 años (bajo supervisión de padres o responsables del menor).</p>
+                                            Plataforma para ver y subir vídeos en vivo que se usa, sobre todo, para compartir las sesiones en vivo de personas reales jugando juegos de video o juegos en línea. <br><br>Precisamente por ser en vivo, el contenido dentro de Twitch es difícil de evaluar. Es posible que el contenido de los juegos no sea apropiado o que los jugadores usen un lenguaje violento o con referencias sexuales. <br> La edad mínima permitida para crear un perfil en Twitch es de 13 años (bajo supervisión de padres o responsables del menor).
                                         </div>
                                         </div>
                                         </div>
@@ -138,7 +138,7 @@
                                             <div class="col-12 col-sm-3"><img src="../img/1-02_icn-youtube.png"></div> 
                                             <div class="col-12 col-sm-9">
                                             <a href="http://www.youtube.com">youtube.com</a><br>
-                                            Plataforma en línea que permite ver y subir vídeos.<br><br> Aunque es posible denunciar videos con contenidos inapropiados en YouTube, es muy común que en una lista de videos recomendados, en medio de videos inofensivos, se esconda material abusivo. Si vamos a dejar que personas menores de edad usen YouTube sin supervisión adulta, es importante activar el control de seguridad parental. <br><p class="edad-color"> La edad mínima permitida para crear un perfil en Youtube es de 14 años (o 13 si se cuenta con aprobación de padres o responsables del menor).</p>
+                                            Plataforma en línea que permite ver y subir vídeos.<br><br> Aunque es posible denunciar videos con contenidos inapropiados en YouTube, es muy común que en una lista de videos recomendados, en medio de videos inofensivos, se esconda material abusivo. Si vamos a dejar que personas menores de edad usen YouTube sin supervisión adulta, es importante activar el control de seguridad parental. <br> La edad mínima permitida para crear un perfil en Youtube es de 14 años (o 13 si se cuenta con aprobación de padres o responsables del menor).
                                         </div>
                                         </div>
                                         </div>
@@ -149,7 +149,7 @@
                                             <div class="col-12 col-sm-3"><img src="../img/1-02_icn-pinterest.png"></div> 
                                             <div class="col-12 col-sm-9">
                                             <a href="http://www.pinterest.es">pinterest.es</a><br>
-                                            Permite buscar, guardar, organizar y compartir contenidos en Internet. Cada contenido, que se conoce como “pin”, está compuesto por una imagen y una descripción corta. Pinterest funciona como un catálogo de información que podemos categorizar siguiendo el orden que nos parezca más adecuado por lo que es una excelente herramienta para guardar información de temas que nos interesan. <br><br>Sin embargo, siempre hay ser cuidadosos con respecto al origen de los “pins” y verificar que el link efectivamente lleve a una página no abusiva. <br><p class="edad-color">La edad mínima permitida para crear un perfil en Instagram es de 13 años.</p>
+                                            Permite buscar, guardar, organizar y compartir contenidos en Internet. Cada contenido, que se conoce como “pin”, está compuesto por una imagen y una descripción corta. Pinterest funciona como un catálogo de información que podemos categorizar siguiendo el orden que nos parezca más adecuado por lo que es una excelente herramienta para guardar información de temas que nos interesan. <br><br>Sin embargo, siempre hay ser cuidadosos con respecto al origen de los “pins” y verificar que el link efectivamente lleve a una página no abusiva. <br>La edad mínima permitida para crear un perfil en Instagram es de 13 años.
                                         </div>
                                         </div>
                                         </div>
@@ -160,7 +160,7 @@
                                             <div class="col-12 col-sm-3"><img src="../img/1-02_icn-twitter.png"></div> 
                                             <div class="col-12 col-sm-9">
                                             <a href="http://www.twitter.com">twitter.com</a><br>
-                                            Permite compartir textos cortos que no superen 280 caracteres. Estos textos se conocen como “twits”. <br><br>Es importante recordar que todo lo que publicamos en Twitter es, por default, público y se convierte en parte de nuestra identidad digital. Importantes figuras de la política y celebridades han debido pedir disculpas públicas o perdido su trabajo porque publican un “twit” ofensivo o discriminatorio. <br><p class="edad-color"> La edad mínima permitida para crear un perfil en Twitter es de 13 años.</p>
+                                            Permite compartir textos cortos que no superen 280 caracteres. Estos textos se conocen como “twits”. <br><br>Es importante recordar que todo lo que publicamos en Twitter es, por default, público y se convierte en parte de nuestra identidad digital. Importantes figuras de la política y celebridades han debido pedir disculpas públicas o perdido su trabajo porque publican un “twit” ofensivo o discriminatorio. <br> La edad mínima permitida para crear un perfil en Twitter es de 13 años.
                                         </div>
                                         </div>
                                         </div>

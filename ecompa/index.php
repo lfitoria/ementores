@@ -8,8 +8,8 @@ session_start();
 ?>
 
     <input type="hidden" value="<?php
-        if(isset($_SESSION['usuario'])){
-            echo $_SESSION['usuario'];
+        if(isset($_SESSION['edad'])){
+            echo $_SESSION['edad'];
         } 
     ?>" id="session"> -->
 
@@ -165,16 +165,22 @@ session_start();
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content">
                     <div class="modal-head">
-                        <button type="button" class="close-m" data-dismiss="modal" aria-label="Close">x</button>
+                        <!-- <button type="button" class="close-m" data-dismiss="modal" aria-label="Close">x</button> -->
                     </div>
                     <div class="modal-body init-03">
                         
                         <form id="registro_usuario" action="/ecompa/db/user/insert_joven.php" method="POST">
                             <img class="img-registro" src="img/icon-question.png">
                             <h2>Antes de empezar...</h2>
-                            <h3>¡Contanos sobre vos!</h3>
-                            <br>
-                            <div class="row justify-content-center">
+                            <!-- <h3>¡Contanos sobre vos!</h3> -->
+                            <h3>Nos interesa saber unas pocas cosas,<br> ¡contanos sobre vos!</h3>
+                                <p class="label text-center">
+                                Si tenés 11 años o más este espacio es para vos.
+                                <br>
+                                Tu privacidad está garantizada en este espacio.
+                                    </p>
+                            
+                            <!-- <div class="row justify-content-center">
                             <div class="col col-sm-6">
                                 <p class="label">¿Cómo te llamás?</p>
                                 <input type="text" name="nombre" placeholder="">
@@ -208,13 +214,14 @@ session_start();
                             <p class="small d-none text-center" id="wartwo">Debés elegir una de las opciones.</p>
                             </div>
                             </div>
-                            <hr>
+                            <hr> -->
                             <div class="row justify-content-center">
                             <div class="col col-sm-6">
                             <p class="label">¿Qué edad tenés?</p>
                             <p class="text-center label"><span id="demo"></span></p>
-                            <input type="range" min="1" max="100" class="slider" value="1" id="myRange" name="edad" >
-                            <p class="small d-none text-center" id="wartree">Debés elegir una opción.</p>
+                            <!-- <input type="range" min="1" max="100" class="slider" value="1" id="myRange" name="edad" > -->
+                            <input type="number" name="edad" >
+                            <p class="small d-none text-center" id="wartree">Debés escribir la edad.</p>
                             </div>
                             </div>
                             
@@ -222,9 +229,29 @@ session_start();
                             <div class="row justify-content-center">
                             <div class="col col-sm-6">
                             <p class="label">¿Dónde vivís?</p>
-                            <input type="text" name="lugar" placeholder="">
-                            <p class="small d-none text-center" id="warfour">Recordá completar este espacio.</p>
-                            <p class="small">Contanos en qué provincia y cantón vivís.</p>
+                            <!-- <input type="text" name="lugar" placeholder=""> -->
+                            <select name="lugar">
+                                <option value="default">Provincia</option>
+                                <option value="San José">San José</option>
+                                <option value="San José">San José</option>
+                                <option value="Alajuela">Alajuela</option>
+                                <option value="Cartago">Cartago</option>
+                                <option value="Heredia">Heredia</option>
+                                <option value="Guanacaste">Guanacaste</option>
+                                <option value="Puntarenas">Puntarenas</option>
+                                <option value="Limón">Limón</option>
+                            </select>
+                            <p class="small d-none text-center" id="warfour">Recordá seleccionar una opción.</p>
+                            <!-- <p class="small">Contanos en qué provincia y cantón vivís.</p> -->
+                            </div>
+                            </div>
+                            <hr>
+                            <div class="row justify-content-center">
+                            <div class="col col-sm-6">
+                            <p class="label">¿Qué grado estás?</p>
+                            <input type="text" name="grado" placeholder="">
+                            <!-- <p class="small d-none text-center" id="warfour">Recordá completar este espacio.</p> -->
+                            <!-- <p class="small">Contanos en qué provincia y cantón vivís.</p> -->
                             </div>
                             </div>
                             <hr>
@@ -317,60 +344,65 @@ session_start();
 <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
 <script>
 
-    var slider = document.getElementById("myRange");
-    var output = document.getElementById("demo");
+//     var slider = document.getElementById("myRange");
+//     var output = document.getElementById("demo");
 
-output.innerHTML = slider.value;
-slider.oninput = function() {
-    output.innerHTML = this.value;
-}
+// output.innerHTML = slider.value;
+// slider.oninput = function() {
+//     output.innerHTML = this.value;
+// }
 
 
 
 $("form#registro_usuario .submet").on('click', function () {
     
     
-    var nombre = $('input[name=nombre]').val();
-    var genero = $('input[name=genero]:checked').val();
+    // var nombre = $('input[name=nombre]').val();
+    // var genero = $('input[name=genero]:checked').val();
     var range = $('input[name=edad]').val();
-    var lugar = $('input[name=lugar]').val();
+    var lugar = $('select[name=lugar]').val();
+    var grado = $('input[name=grado]').val();
+console.log(range);
 console.log(lugar);
+console.log(grado);
 
 
-    if (nombre == "") {
-        $("input[name=nombre]").focus();
-        $("p#warone").removeClass("d-none");
-    }else if(genero == undefined){
-        $("input[name=genero]").focus();
-        $("p#wartwo").removeClass("d-none");
-        $("p#warone").addClass("d-none");
-    }else if(range == 1){
+    // if (nombre == "") {
+    //     $("input[name=nombre]").focus();
+    //     $("p#warone").removeClass("d-none");
+    // }else if(genero == undefined){
+    //     $("input[name=genero]").focus();
+    //     $("p#wartwo").removeClass("d-none");
+    //     $("p#warone").addClass("d-none");
+    // }else 
+    // }else if(grado == "default"){
+    //     $("select[name=grado]").focus();
+    //     // $("p#warfour").removeClass("d-none");
+
+    //     // $("p#warone").addClass("d-none");
+    //     // $("p#wartwo").addClass("d-none");
+    //     // $("p#wartree").addClass("d-none");
+
+    
+    if(range == ""){
         $("input[name=edad]").focus();
         $("p#wartree").removeClass("d-none");
         $("p#warone").addClass("d-none");
         $("p#wartwo").addClass("d-none");
-    }else if(lugar == ""){
-        $("input[name=lugar]").focus();
+    }else if(lugar == "default"){
+        $("select[name=lugar]").focus();
         $("p#warfour").removeClass("d-none");
 
         $("p#warone").addClass("d-none");
         $("p#wartwo").addClass("d-none");
         $("p#wartree").addClass("d-none");
+    
 
     }else{
+        console.log("sumet");
         $("form#registro_usuario").submit();
     }
 
-
-
-    // if (range == 1) {
-    //     console.log("range");
-    //     $("p#wartree").removeClass("d-none");
-    //     $("input[name=edad]").focus();
-    // }else{
-    //     console.log("no entra");
-    //     $("form#registro_usuario").submit();
-    // }
 
 });
 

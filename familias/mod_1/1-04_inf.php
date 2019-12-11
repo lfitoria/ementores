@@ -218,6 +218,7 @@
                                             <div class="col-12 col-sm-9">
                                     <strong>¡Mantenerse en contacto con familia y amigos!</strong>
                                     <ul>
+                                    <li>Podemos usar alguna aplicación de mensajería instantánea, ya sea individualmente o por medio de un grupo de comunicación familiar para estar siempre en contacto.</li>
                                         <li>Recordemos que todo lo que decimos, hacemos y publicamos en internet y las redes sociales, puede salirse de nuestro control y hasta publicarse. Debemos ser siempre respetuosos y amables. Y saber que tenemos derecho a la privacidad de nuestras comunicaciones.</li>
                                     </ul>
 

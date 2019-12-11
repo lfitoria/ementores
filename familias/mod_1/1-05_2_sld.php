@@ -223,33 +223,6 @@
                         </div>
 
 
-                        <!-- <div class="act05-2 act5-mdl d-none">
-                            <div class="row">
-                                <div class="row">
-                                    <div class="col-sm-3">
-                                        <img src="../img/mod1/1-05_act_villano-foto-2.png" alt="" class="img-fluid"/>
-                                    </div>
-                                    <div class="col-sm-9">
-                                        <p class="h4">Delito: Sexting</p>
-                                        <p><strong>Edad:</strong> Adulto <br>
-                                            <strong>CONQUISTADOR PELIGROSO</strong>
-                                        </p>
-                                        <p><strong>Conducta delictiva:</strong><br>
-                                            El sujeto intercambia mensajes con contenido sexual con un menor de edad. Por ejemplo: una conversación erótica, fotos o videos reveladores o en poses sexuales.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="row text-modus">
-                                    <p><strong>Modus operandi</strong><br>
-                                    </p>
-                                    <ul>
-                                        <li>Las personas abusadoras, contactan a los personas menores a través de mensajería o chats de redes sociales.</li>
-                                        <li>Inician conversaciones “amistosas” y crean un vínculo de confianza con la víctima, La conversación suele tornarse erótica hasta que intercambian fotografías o videos con contenido sexual.</li>
-                                        <li>Una vez que las imágenes, mensajes o videos con contenido sexual están en manos del sujeto, este puede intentar divulgarlo a otros contactos o vender la información, sin autorización, presentándose así otros delitos.</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div> -->
 
 
                         <div class="act05-3 act5-mdl d-none">
@@ -275,7 +248,7 @@
                                     <li>No compartir tu intimidad en internet, mucho menos con personas que no conocés personalmente. Recordá que cualquier video llamada se puede grabar sin que lo sepás.</li>
                                     <li>Almacenar tus cosas privadas con protección de contraseña o en carpetas ocultas, así nadie más podrá verlos.</li>
                                     <li>Recordar que si alguien publica algo tuyo sin tu autorización, todas las redes sociales tienen la opción de denunciar la publicación y pedir que la retiren.</li>
-                                    <li>Denunciar a <a href="../mod_3/3-07_inf.php">(Ver la Ruta de Denuncia-linkear)</a>.</li> 
+                                    <li> <a href="../mod_3/3-07_inf.php">Denunciar</a>.</li> 
                                     </ul>
                                 </div>
                             </div>
@@ -582,13 +555,13 @@
                     flag = flag + array[i];
                 }
 
-                if (flag === 8) {
-                    console.log(flag);
-                    $("#modal_1-07_act .act5-mdl").addClass("d-none");
-                    $("#modal_1-07_act .act05-9").removeClass("d-none");
-                    $("#modal_1-07_act .modal-header span").text("En conclusión...");
-                    $("#modal_1-07_act").modal("show");
-                }
+                // if (flag === 8) {
+                //     console.log(flag);
+                //     $("#modal_1-07_act .act5-mdl").addClass("d-none");
+                //     $("#modal_1-07_act .act05-9").removeClass("d-none");
+                //     $("#modal_1-07_act .modal-header span").text("En conclusión...");
+                //     $("#modal_1-07_act").modal("show");
+                // }
             });
 
             // $.ajax({
