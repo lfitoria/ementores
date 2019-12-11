@@ -59,6 +59,6 @@ familias/recursos/
 familias/db/connection/conexion.php
 
 **/error_log
-.htacces
+.htaccess
 
 kit-materiales/
