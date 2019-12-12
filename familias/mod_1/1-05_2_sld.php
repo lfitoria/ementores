@@ -505,7 +505,7 @@
                                     <ul>
                                         <li> Tener presente que aunque sea tu pareja la persona que se apropia de tus dispositivos, él o ella está cometiendo un delito, violando tu libertad.</li>
                                         <li>Buscar apoyo de una persona de confianza.</li>
-                                        <li>Denunciar <a href="../mod_3/3-07_inf.php">(Ver la Ruta de Denuncia-linkear)</a>.</li>
+                                        <li><a href="../mod_3/3-07_inf.php">Denunciar</a>.</li>
                                     </ul>
                               
                                 </div>
