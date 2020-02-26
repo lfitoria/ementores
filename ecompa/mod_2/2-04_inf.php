@@ -141,7 +141,7 @@
 
 
 
-                        <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
+                        <a href="/familias/familias.php" class="nav-sobre">Sobre el proyecto</a>
 
                     </li>
 

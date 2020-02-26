@@ -301,7 +301,7 @@
                     </ul>
                 </li> -->
                 <li>
-                    <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
+                    <a href="/familias/familias.php" class="nav-sobre">Sobre el proyecto</a>
                 </li>
                 <li>
                     <a href="http://www.crianzatecnologica.org" target="_blank" class="nav-sobre">Recursos relacionados</a>

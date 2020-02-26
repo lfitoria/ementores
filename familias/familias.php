@@ -36,7 +36,7 @@
                             </div>
 
                             <div class="nav justify-content-center">
-                                <h1><a class="mx-auto" href="/index.php"><img src="img/logo-ementores.png" alt="E-mentores"></a></h1>
+                                <h1><a class="mx-auto" href="/familias"><img src="img/logo-ementores.png" alt="E-mentores"></a></h1>
                             </div>
 
                             <div class="nav justify-content-end">

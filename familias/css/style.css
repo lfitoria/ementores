@@ -922,7 +922,36 @@ left: 0;
 top: 2rem;
 display: none;
 }
-
+a#back_family {
+    position: relative;
+    display: block;
+    background-color: #00B8BF;
+    color: #fff;
+    border-radius: 10px;
+    margin: 15px auto 0 auto;
+    width: 20%;
+    height: 45px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    padding: 10px 0px 10px 35px;
+    font-size: 1.1em;
+    text-align: center;
+    transition: all .2s ease-in-out;
+}
+a#back_family:before {
+    content: '';
+    background-image: url(../../ecompa/img/icn-btn-volver.png);
+    display: inline-block;
+    width: 47px;
+    height: 30px;
+    /* margin: 9px 0 0 0; */
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 20;
+}
+a#back_family:hover {
+    transform: scale(1.05);
+}
 @media (min-width: 576px) { 
     a.icovolver {
     position: absolute;

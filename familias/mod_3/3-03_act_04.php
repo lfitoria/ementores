@@ -136,6 +136,7 @@
                                 <a class="gotoModulePage conti d-none d-sm-block" href="3-03_act_05.php">Continuar</a>
 
                                 <a href="../0-03_menu.php#mod3" class="back_to_menu d-none">Volver</a>
+                                <a href="/familias/mod_3/3-03_act.php" id="back_family">Volver al inicio</a>
 
                             </div>
 

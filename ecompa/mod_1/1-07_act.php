@@ -105,7 +105,7 @@ El abuso sexual y la explotación sexual, tanto física como en línea, tienen s
         <ul class="list-unstyled components">
             
             <li>
-                <a href="/familias.php" class="nav-sobre">Sobre el proyecto</a>
+                <a href="/familias/familias.php" class="nav-sobre">Sobre el proyecto</a>
             </li>
             
             <li>
