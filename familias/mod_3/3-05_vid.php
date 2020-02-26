@@ -108,14 +108,14 @@
                                                             <div class="row">
                                                                 <div class="col-12">
                                                                     <p class="font-weight-bold">Sofía no le ha enviado nada pero su mamá, preocupada, le pide ver los mensajes. Ella no quiere porque le da vergüenza.</p>
-                                                                    <p class="font-weight-bold h4">¿Qué debería hacer su mamá?</p>
+                                                                    <p class="font-weight-bold h4">¿Qué podría hacer una persona adulta para ayudar a Sofía?</p>
                                                                     <div class="row">
                                                                         <div class="col-12 col-md-6">
-                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Llamar a la persona y enfrentarla.</button>
+                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Ante la sospecha de que algo malo pasa, castigarla y enfrentar a quien está acosándola, para que deje de hacerlo.</button>
                                                                             <br>
                                                                         </div>
                                                                         <div class="col-12 col-md-6">
-                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Sacar pantallazos de los mensajes para que sirvan de prueba en una denuncia.</button>
+                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">No culparla por lo que está sucediendo. Y abrir un diálogo de confianza. Recordarle que tiene derecho a que nadie la acose o amenace y ayudarla a sacar pantallazos y evidencias para poner la denuncia correspondiente.</button>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -157,14 +157,14 @@
                                                             <div class="row">
                                                                 <div class="col-12">
                                                                     <p class="font-weight-bold">Cuando Steven y Valeria eran novios se mandaron fotos íntimas. Seis meses después, reciben un mensaje de alguien que no conocen, pidiéndoles más fotos o dinero a cambio de no publicarlas en Facebook. Steven empieza a sacarse malas notas. Valeria deja de comer y llora todo el día. Un día se ponen de acuerdo y deciden que es momento de contarle a sus padres.</p>
-                                                                    <p class="font-weight-bold h4">¿Qué hacen sus papás?</p>
+                                                                    <p class="font-weight-bold h4">¿¿Qué podría hacer una persona adulta para apoyar a Valeria?</p>
                                                                     <div class="row">
                                                                         <div class="col-12 col-md-6">
-                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Sus papás deciden darles dinero para que les den las fotos.</button>
+                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Acceder a lo que le pidan con tal de no pasar la vergüenza de sus fotografías publicadas.</button>
                                                                             <br>
                                                                         </div>
                                                                         <div class="col-12 col-md-6">
-                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Llaman a las autoridades para denunciar la situación de sextorsión que sufren sus hijos.</button>
+                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Abrir un espacio de confianza, recordarle que tiene derechos a que nadie la amenace, y que no es su culpa que otras personas cometan estos delitos. Acompañarle a poner una denuncia.</button>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -207,14 +207,14 @@
                                                             <div class="row">
                                                                 <div class="col-12">
                                                                     <p class="font-weight-bold">Eric es un chico de 17 años que conoció a Mario en redes sociales. <br> Un día su papá le pregunta con quién pasa hablando todo el día y Eric le responde que es sólo un amigo llamado Mario. "¿Del colegio?", pregunta su papá. "No", responde Eric, "lo conocí en Facebook". Unos días después, su papá busca el perfil de Mario en Facebook y descubre es un adulto de 34 años. Preocupado, le pide a Eric alejarse Mario, éste se enoja y le dice que no hablen más del tema, él ya es grande y puede escoger con quien relacionarse. </p>
-                                                                    <p class="font-weight-bold h4">¿Qué debe hacer el padre?</p>
+                                                                    <p class="font-weight-bold h4">¿Qué podría hacer una persona adulta para acompañar a Erick?</p>
                                                                     <div class="row">
                                                                         <div class="col-12 col-md-6">
-                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Hablar con su hijo sobre los riesgos a los que se expone, y le explicarle que podría caer en una situación de abuso. De ser necesario, buscar apoyo de profesionales en el colegio de EricK.</button>
+                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Ofrecer un espacio de confianza. Hacerle ver los riesgos de enviar fotografías y videos demasiado personales a personas que nunca ha visto.</button>
                                                                             <br>
                                                                         </div>
                                                                         <div class="col-12 col-md-6">
-                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Revisar el celular de Erick, para valorar el tono de sus conversaciones con Mario y reclamarle si encuentra cosas que no le parecen.</button>
+                                                                            <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Informarle sobre los riesgos y prohibiciones de establecer este tipo de vínculos con personas adultas. Informarle sobre las relaciones impropias. Y si es necesario acompañarle a poner una denuncia.</button>
                                                                         </div>
                                                                     </div>
                                                                 </div>
