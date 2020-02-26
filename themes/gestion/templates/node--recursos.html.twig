@@ -4,7 +4,8 @@
 		<div class="row">
 			<div class="col">
 			{% if content.field_image|render %}
-			<img src="{{content.field_image|field_value}}" class="img-fluid image">
+			{# <img src="{{content.field_image|field_value}}" class="img-fluid image"> #}
+			{{content.field_image|field_value}}
 			{% endif %}
 			{% if content.field_archivo|render %}
 			<a href="{{content.field_archivo|field_value}}" class="download-file" download>Descargar archivo</a>

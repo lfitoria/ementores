@@ -27,6 +27,7 @@ regions:
   content: Content
   front_1: Front 1
   front_2: Front 2
+  front_2_copy: Front 2 recursos
   front_3: Front 3
   front_4: Front 4
   front_5: Front 5
@@ -40,6 +41,7 @@ regions:
   footer_third: 'Footer third'
   footer_fourth: 'Footer cuarto'
   share: 'Share'
+  agente_banner: 'Agente banner destacado'
 
 # Information added by Drupal.org packaging script on 2019-02-28
 version: '8.x-4.22'

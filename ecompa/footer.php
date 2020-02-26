@@ -67,18 +67,24 @@ ser el primero en enterarte de lo nuevo</p> -->
                                     src="/sites/default/files/inline-images/logo-cencinai.png" /></a> <a target="_blank"
                                 href="https://www.inamu.go.cr"><img alt="INAMU" data-entity-type="file"
                                     data-entity-uuid="b70e011a-61ca-4bfd-8373-8330b7ea7022"
-                                    src="/sites/default/files/inline-images/logo-inamu-01.png" /></a></div>
+                                    src="/sites/default/files/inline-images/logo-inamu-01.png" /></a>
+                                    <a target="_blank"
+                                href="https://www.mep.go.cr"><img alt="MEP" src="/ecompa/img/logo-mep.png" /></a>
+                                </div>
                     </div>
                 
                     <div class="col-md-4 box-d-logos-apoyo">
-                        <p class="subtitle">Socios implemetadores:</p>
+                        <p class="subtitle">Socios implementadores:</p>
                 
                         <p><a target="_blank" href="https://www.kolbi.cr/wps/portal/"><img alt="KOLBI" data-entity-type="file"
                                     data-entity-uuid="e59cde83-8705-4c4b-8fe0-f55b5a3a112e"
                                     src="/sites/default/files/inline-images/logo-kolbi.png" /></a> <a target="_blank"
                                 href="http://www.fundacionqt.org/"><img alt="FQT" data-entity-type="file"
                                     data-entity-uuid="5b7901b0-5168-492c-a751-b9c01d7af5aa"
-                                    src="/sites/default/files/inline-images/logo-fqt.png" /></a></p>
+                                    src="/sites/default/files/inline-images/logo-fqt.png" /></a>
+                                    <a target="_blank"
+                                href="https://www.claro.cr"><img alt="CLARO" src="/ecompa/img/logo-claro.png" /></a>
+                                </p>
                     </div>
                 </div>
     </div>

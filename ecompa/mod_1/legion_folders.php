@@ -247,7 +247,7 @@
                                     <li>No compartir tu intimidad en internet, mucho menos con personas que no conocés personalmente. Recordá que cualquier video llamada se puede grabar sin que lo sepás.</li>
                                     <li>Almacenar tus cosas privadas con protección de contraseña o en carpetas ocultas, así nadie más podrá verlos.</li>
                                     <li>Recordar que si alguien publica algo tuyo sin tu autorización, todas las redes sociales tienen la opción de denunciar la publicación y pedir que la retiren.</li>
-                                    <li>Denunciar a <a href="https://ementores.org/ecompa/mod_3/ruta_denuncia.php">(Ver la Ruta de Denuncia-linkear)</a>.</li> 
+                                    <li><a href="https://ementores.org/ecompa/mod_3/ruta_denuncia.php">Denunciar.</a></li> 
                                 </ul>
 
                             </div>
@@ -509,7 +509,7 @@
                                 <ul>
                                     <li> Tener presente que aunque sea tu pareja la persona que se apropia de tus dispositivos, él o ella está cometiendo un delito, violando tu libertad.</li>
                                     <li>Buscar apoyo de una persona de confianza.</li>
-                                    <li>Denunciar <a href="https://ementores.org/ecompa/mod_3/ruta_denuncia.php">(Ver la Ruta de Denuncia-linkear)</a>.</li>
+                                    <li><a href="https://ementores.org/ecompa/mod_3/ruta_denuncia.php">Denunciar.</a></li>
                                 </ul>
                             </div>
                         </div>

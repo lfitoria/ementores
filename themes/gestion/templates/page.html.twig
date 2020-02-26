@@ -107,30 +107,6 @@
     {% if page.front_2 %}
       {% block front_2 %}
         <div class="container-fluid" id="para-aprender-a-multiplicar">
-          {# <div class="container block-1">
-            {{ page.front_2 }} 
-            <div class="row blocks">
-            <a href="/" class="col-lg-4">
-            <div class="wrapper familias">
-            <p>Es un espacio virtual que brinda a mamás, papás y personas con roles de cuido la información y consejos para acompañar a sus hijas e hijos en el uso seguro de los recursos tecnológicos y la Internet.</p>
-            </div>
-            </a>
-
-            <a href="https://e-mentores.moodle.school/login/index.php" class="col-lg-4" target="_blank">
-            <div class="wrapper agentes"><span class="sub">Agentes<br>
-            e-mentores</span>
-
-            <p>Es un programa en línea para gestores sociales que les permite convertirse en agentes de cambio para apoyar en la prevención y protección del abuso y la explotación sexual en línea, de niñas, niños y adolescentes.</p>
-            </div>
-            </a>
-
-            <a href="#" class="col-lg-4">
-            <div class="wrapper conexion">
-            <p>Info, recursos, juegos para chicos y chicas. Aprenda estrategias para relacionarse de forma segura en entornos virtuales. ¡Cuéntele a todo el mundo!</p>
-            </div>
-            </a>
-            </div>
-          </div> #}
           <div class="container block-1">
             {{ page.front_2 }} 
             <div class="row blocks">
@@ -224,6 +200,52 @@
         </div>
       </div>
     </div>
+
+
+    {# copy-recu-home #}
+      {# Front 2 #}
+    {% if page.front_2_copy %}
+      {% block front_2_copy %}
+        <div class="container-fluid" id="para-aprender-a-multiplicar">
+          <div class="container block-1">
+            {{ page.front_2_copy }} 
+            <div class="row blocks">
+            <a href="/familias" class="col-lg-4" target="_blank">
+            <div class="wrapper familias">
+            <p>Espacio interactivo de autoformación  para que personas con roles de cuido y acompañamiento aprendan a guiar y acompañar a las personas menores de edad en sus interacciones en línea para promover un uso seguro y responsable de las TIC.</p>
+            </div>
+            </a>
+
+            <a href="https://e-mentores.moodle.school/login/index.php" class="col-lg-4" target="_blank">
+            <div class="wrapper agentes"><span class="sub">Agentes<br>
+            e-mentores</span>
+
+            <p>Curso Virtual diseñado para que personas gestoras, actores políticos y sociales impulsen su capacidad como agentes de cambio para la prevención y respuesta del abuso y la explotación sexual en línea. </p>
+            </div>
+            </a>
+
+            <a href="/ecompa" class="col-lg-4" target="_blank">
+            <div class="wrapper conexion">
+            <p>Espacio con recursos audiovisuales para que chicas y chicos aprendan a protegerse contra los peligros en la Web. </p>
+            </div>
+            </a>
+            </div>
+          </div>
+        </div>
+      {% endblock %}
+    {% endif %}
+    {# fin-copy-recu-home #}
+    
+      
+        {% if page.agente_banner %}
+        <div class="agentesenaccionbanner">
+          <div class="container">
+          {% block agente_banner %}
+            {{ page.agente_banner }}
+          {% endblock %}
+      </div>
+    </div>
+    {% endif %}
       <div id="main" class="{{ container }}">
         <div class="row row-offcanvas row-offcanvas-left clearfix">
             <main{{ content_attributes }}>
@@ -239,7 +261,7 @@
   <div class="col figure">
     <div class="container">
       <div class="row">
-        <div class="offset-lg-2 col-lg-4">
+        <div class="offset-sm-2 col-sm-5 col-lg-4">
         {# footer first #}
         {% if page.footer_first %}
           {% block footer_first %}
@@ -247,7 +269,7 @@
           {% endblock %}
         {% endif %}
         </div>
-        <div class="offset-2 offset-lg-0 col-lg-4 mail-form">
+        <div class="offset-lg-2 offset-sm-0  col-sm-5 col-lg-4 mail-form">
         {# footer second #}
         {% if page.footer_second %}
           {% block footer_second %}
