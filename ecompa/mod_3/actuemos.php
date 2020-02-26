@@ -345,6 +345,13 @@ session_start();
                 $(".sof-tab").addClass("active show");
                 $(".stev-tab").removeClass("active show");
                 $(".eri-tab").removeClass("active show");
+                video1 = document.getElementById("video1");
+                video1.pause();
+                video2 = document.getElementById("video2");
+                video2.pause();
+                video3 = document.getElementById("video3");
+                video3.pause();
+                
             });
 
             $(".gotoModulePage2").click(function() {
@@ -356,6 +363,12 @@ session_start();
                 $(".stev-tab").addClass("active show");
                 $(".sof-tab").removeClass("active show");
                 $(".eri-tab").removeClass("active show");
+                video1 = document.getElementById("video1");
+                video1.pause();
+                video2 = document.getElementById("video2");
+                video2.pause();
+                video3 = document.getElementById("video3");
+                video3.pause();
 
             });
             $(".gotoModulePage3").click(function() {
@@ -367,6 +380,12 @@ session_start();
                 $(".eri-tab").addClass("active show");
                 $(".sof-tab").removeClass("active show");
                 $(".stev-tab").removeClass("active show");
+                video1 = document.getElementById("video1");
+                video1.pause();
+                video2 = document.getElementById("video2");
+                video2.pause();
+                video3 = document.getElementById("video3");
+                video3.pause();
 
 
             });
