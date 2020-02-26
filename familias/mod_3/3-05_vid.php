@@ -157,7 +157,7 @@
                                                             <div class="row">
                                                                 <div class="col-12">
                                                                     <p class="font-weight-bold">Cuando Steven y Valeria eran novios se mandaron fotos íntimas. Seis meses después, reciben un mensaje de alguien que no conocen, pidiéndoles más fotos o dinero a cambio de no publicarlas en Facebook. Steven empieza a sacarse malas notas. Valeria deja de comer y llora todo el día. Un día se ponen de acuerdo y deciden que es momento de contarle a sus padres.</p>
-                                                                    <p class="font-weight-bold h4">¿¿Qué podría hacer una persona adulta para apoyar a Valeria?</p>
+                                                                    <p class="font-weight-bold h4">¿Qué podría hacer una persona adulta para apoyar a Valeria?</p>
                                                                     <div class="row">
                                                                         <div class="col-12 col-md-6">
                                                                             <button class="btn btn-info" style="display: block; width: 100%; white-space: normal;" onclick="playVideo()">Acceder a lo que le pidan con tal de no pasar la vergüenza de sus fotografías publicadas.</button>
@@ -356,6 +356,12 @@
             $(".sof-tab").addClass("active show");
             $(".stev-tab").removeClass("active show");
             $(".eri-tab").removeClass("active show");
+            video1 = document.getElementById("video1");
+                video1.pause();
+                video2 = document.getElementById("video2");
+                video2.pause();
+                video3 = document.getElementById("video3");
+                video3.pause();
         });
 
         $(".gotoModulePage2").click(function() {
@@ -367,6 +373,12 @@
             $(".stev-tab").addClass("active show");
             $(".sof-tab").removeClass("active show");
             $(".eri-tab").removeClass("active show");
+            video1 = document.getElementById("video1");
+                video1.pause();
+                video2 = document.getElementById("video2");
+                video2.pause();
+                video3 = document.getElementById("video3");
+                video3.pause();
 
         });
         $(".gotoModulePage3").click(function() {
@@ -378,6 +390,12 @@
             $(".eri-tab").addClass("active show");
             $(".sof-tab").removeClass("active show");
             $(".stev-tab").removeClass("active show");
+            video1 = document.getElementById("video1");
+                video1.pause();
+                video2 = document.getElementById("video2");
+                video2.pause();
+                video3 = document.getElementById("video3");
+                video3.pause();
 
 
         });
