@@ -1,0 +1,364 @@
+[33mcommit f0bca93a8a7a0e8c0de1972ddb1c1e5a668cb2fd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Feb 26 07:38:25 2020 -0700
+
+    corte3
+
+[33mcommit a14143528cacaafaeb8b98d6fcde57f4bac21fc1[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Feb 26 07:35:30 2020 -0700
+
+    corte2
+
+[33mcommit 54b1dff185fc37adef511afac1e2d57aaec7e4e7[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Feb 26 07:32:34 2020 -0700
+
+    corte
+
+[33mcommit 36cb448ae57a82d63e6d487dd399ec13fbab24fd[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Thu Dec 12 09:23:10 2019 -0600
+
+    cambiosfinalesWhatsapp
+
+[33mcommit f8798a4d0b4da66ba406f1372969749b90c10bad[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 16:51:34 2019 -0600
+
+    arregloll@l.com
+
+[33mcommit a6e9405ea9a54ef55fac4119376acd72c45bb550[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 16:05:52 2019 -0600
+
+    beforeformecompa
+
+[33mcommit 0b509879d883496be7a901475d2f92b090324be3[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 15:52:38 2019 -0600
+
+    rmDS_store
+
+[33mcommit 29e29d5da59851c43c6cbac61361ee21e2fa3ec5[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 15:51:50 2019 -0600
+
+    rmhtaccess
+
+[33mcommit 306310595aafbdd9a6cb8c73820195aa660e54bd[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 15:30:27 2019 -0600
+
+    fontsixemodal
+
+[33mcommit 17254f3847c9a3f7c61faca75ab545e6d70edd18[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 15:28:49 2019 -0600
+
+    gradoinput
+
+[33mcommit f73d5c97e99bd5372a0fa2dcf328dd198b43abfb[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 15:26:32 2019 -0600
+
+    cambiosInputEcompa
+
+[33mcommit bf74086181db5cbe309335835b14b4e88849683f[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 15:03:31 2019 -0600
+
+    test-session-jquerydnoneencuestamodal
+
+[33mcommit a941b06c2dc21b783b6a57cfe52650c4f22d8efb[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 14:58:59 2019 -0600
+
+    test-session
+
+[33mcommit 6f5224efa99658839e1f6690d81d1226d9fe8d1f[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 14:53:55 2019 -0600
+
+    formEcompa-insert
+
+[33mcommit 35e1eee7665e6ed23f9519a55c36f3304ea766c7[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 14:49:28 2019 -0600
+
+    htacces-prod
+
+[33mcommit ba9a0446419b173671caa5941aa24c41f68eaff9[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 14:45:46 2019 -0600
+
+    cambioCorrecciones6nov
+
+[33mcommit c4d21998bcc3a93fed1a004d7999b905ca8f8311[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 13:30:27 2019 -0600
+
+    htacces-synfonyUpdatev2-ignoreConectionFamilias
+
+[33mcommit 91cbbae7b4ec741306ed7927ea2184bc7999adfd[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 13:28:53 2019 -0600
+
+    htacces-synfonyUpdatev2
+
+[33mcommit 3ed0110a255549c4b8a9d6dd80b21f3183fae80b[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Dec 11 13:27:30 2019 -0600
+
+    htacces-synfonyUpdate
+
+[33mcommit 69f9799b9610107afcd84739f41fa549d4854356[m
+Merge: 42e155d3 15fa5654
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Mon Nov 25 13:28:55 2019 -0700
+
+    Merge branch 'master' of https://github.com/lfitoria/ementores
+
+[33mcommit 42e155d35d54d09bafe2068693f4da0cdfa9290d[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Mon Nov 25 13:28:19 2019 -0700
+
+    cambios en el server ulitmos
+
+[33mcommit 15fa5654364a9796d99416cb04fcbdbccc447286[m
+Merge: c0eb8bdd 0bfef6df
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Mon Nov 25 14:26:29 2019 -0600
+
+    merge-ulitmo
+
+[33mcommit 0bfef6df63118ce02e08b8dd8d47cc67d1f8137e[m
+Author: alfar <alfarocubero.enrique5@gmail.com>
+Date:   Mon Nov 25 14:20:57 2019 -0600
+
+    final
+
+[33mcommit c0eb8bddfd0a590e3694a3b441164b8d86ac1aac[m
+Merge: 45706806 b6ba62e9
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Mon Nov 25 12:58:53 2019 -0700
+
+    indexmodificadanosexqmerge
+
+[33mcommit 45706806f3db6bdeadfde8124606f3e183959635[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Mon Nov 25 12:57:49 2019 -0700
+
+    indexmodificadanosexq
+
+[33mcommit b6ba62e96545dec5bc6f1e16160a281cc5f2cf0f[m
+Author: alfar <alfarocubero.enrique5@gmail.com>
+Date:   Mon Nov 25 13:54:09 2019 -0600
+
+    solociones finales de familia
+
+[33mcommit b1aaaef5a3621702699f351908e9e4471eba248d[m
+Author: alfar <alfarocubero.enrique5@gmail.com>
+Date:   Mon Nov 25 13:38:53 2019 -0600
+
+    direcciones
+
+[33mcommit f3ac8ead7a7ab5910c7f50d558c388fc7e15d6b2[m
+Author: alfar <alfarocubero.enrique5@gmail.com>
+Date:   Mon Nov 25 12:20:58 2019 -0600
+
+    solucion de errores con videos en familia
+
+[33mcommit 413a6e581765b80033f44519bd22f75a2ec077fb[m
+Author: alfar <alfarocubero.enrique5@gmail.com>
+Date:   Mon Nov 25 11:54:39 2019 -0600
+
+    solucion de errores en familias
+
+[33mcommit f04a8793297142d105593561d391e33d98f63120[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Mon Nov 25 09:40:16 2019 -0700
+
+    ignore-famconex
+
+[33mcommit 4ff5b1af0c68903c8b16343e3ba8fa97a1a33aaa[m
+Merge: 77916cb2 9d6b2ce3
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Mon Nov 25 09:12:53 2019 -0700
+
+    famConex
+
+[33mcommit 77916cb2c693dddc5709e468370d45535f58557b[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Mon Nov 25 09:10:58 2019 -0700
+
+    Kit-folfer-final
+
+[33mcommit 9d6b2ce35b019c9d859fe0cc713aa2bd9e8e318b[m
+Author: enriquealfaro <alfarocubero.enrique5@gmail.com>
+Date:   Thu Nov 21 16:55:08 2019 -0600
+
+    familias listo
+
+[33mcommit ef433295f1247c80fa4abbd1eb22d66206142ce2[m
+Author: enriquealfaro <alfarocubero.enrique5@gmail.com>
+Date:   Thu Nov 21 10:22:11 2019 -0600
+
+    solucion del error en el formulario con el mismo correo
+
+[33mcommit efbeb629cdc72145185bd2c6016a14a88c72598e[m
+Merge: d6f20efa 302d70f9
+Author: enriquealfaro <alfarocubero.enrique5@gmail.com>
+Date:   Thu Nov 21 09:49:31 2019 -0600
+
+    error de connection
+
+[33mcommit d6f20efabc71c0461e0456299eb8f079b5d5c929[m
+Author: enriquealfaro <alfarocubero.enrique5@gmail.com>
+Date:   Thu Nov 21 09:46:02 2019 -0600
+
+    cambios en htaccess
+
+[33mcommit 302d70f9e1275c739d6d271d147a5ecec714d4f5[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Thu Nov 21 09:45:57 2019 -0600
+
+    ignorefamiliasconxphp
+
+[33mcommit 49cb6f42326eb9d680a2b55853db86bd9659ee68[m
+Merge: 74a100d1 4baf645d
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Thu Nov 21 09:41:18 2019 -0600
+
+    htaccesignorev2
+
+[33mcommit 74a100d1936e0dc4a72c64f2c38ebf32627a1dcd[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Thu Nov 21 09:39:21 2019 -0600
+
+    htaccesignore
+
+[33mcommit 5e97c93aaeeca3e0c0c103e15f7278a86e7cd92b[m
+Merge: cacd520b 606ef55f
+Author: enriquealfaro <alfarocubero.enrique5@gmail.com>
+Date:   Thu Nov 21 08:40:57 2019 -0600
+
+    Merge branch 'master' of https://github.com/lfitoria/ementores into devFamilia
+
+[33mcommit cacd520b2b5a54546fe8686643a8505ba8333e1d[m
+Author: enriquealfaro <alfarocubero.enrique5@gmail.com>
+Date:   Thu Nov 21 08:40:45 2019 -0600
+
+    conencciones
+
+[33mcommit 4baf645da0394e566274ec79927430bc95cb4872[m
+Author: alfar <alfarocubero.enrique5@gmail.com>
+Date:   Wed Nov 20 19:03:13 2019 -0600
+
+    cambios en el conection de familias
+
+[33mcommit 5c1ef1251586f31a6eae858b95e6f889f3a653a7[m
+Merge: 9f44c714 606ef55f
+Author: alfar <alfarocubero.enrique5@gmail.com>
+Date:   Wed Nov 20 18:45:49 2019 -0600
+
+    Merge branch 'master' of https://github.com/lfitoria/ementores into devFamilia
+
+[33mcommit 9f44c714466a2eda0eac228884607c36de058b29[m
+Author: alfar <alfarocubero.enrique5@gmail.com>
+Date:   Wed Nov 20 18:45:08 2019 -0600
+
+    legion del mal y menu de familias listo
+
+[33mcommit 606ef55fe90374ab9e9dfa6634e5c83cc3501d31[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Nov 20 17:48:56 2019 -0600
+
+    conflicto-actuemosEcompa
+
+[33mcommit 08fb0b344178a3eac2dc70a05251cf3f7fa5c04f[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Nov 20 16:42:39 2019 -0700
+
+    conexionOriginalFamilias
+
+[33mcommit 218c828ac8c14d7b83f85286540d23c201616ffb[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Nov 20 17:31:31 2019 -0600
+
+    Htaccess
+
+[33mcommit 98b5423c5075c8d64dfea904d4073c3ba9beb762[m
+Merge: 47c3d72d b9f213eb
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Nov 20 16:27:46 2019 -0700
+
+    Errore-act-ruta-recu-Ecompa
+
+[33mcommit 47c3d72db6ccb5d69deaa3c7cb4f6056b8a7bf35[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Nov 20 16:18:46 2019 -0700
+
+    Cambiolegion-actuemos-ruta-recuEnriq
+
+[33mcommit b9f213eb23bd259ce3bcf7caaf7f4b4200f7469b[m
+Merge: 4e8fbffb 8ae59910
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Nov 20 17:08:27 2019 -0600
+
+    MergeCambiosEnrique
+
+[33mcommit 4e8fbffb03924bad706e8a12be489d7890c45402[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Wed Nov 20 17:03:25 2019 -0600
+
+    updateCoreDrupal
+
+[33mcommit 8ae59910843272c7e77b970b8a59902583632ba5[m
+Author: alfar <alfarocubero.enrique5@gmail.com>
+Date:   Wed Nov 20 16:58:23 2019 -0600
+
+    legion del mal la mitad, solucion de e-compa
+
+[33mcommit aa6159e835c189e718a23010399dd787c5056636[m
+Author: alfar <alfarocubero.enrique5@gmail.com>
+Date:   Wed Nov 20 16:00:21 2019 -0600
+
+    Legion del cibermal
+
+[33mcommit 5c6d41298428ba84ca4bda298f34005a73db3c92[m
+Author: alfar <alfarocubero.enrique5@gmail.com>
+Date:   Wed Nov 20 14:24:03 2019 -0600
+
+    Agregar tercer boton en el menu de familias
+
+[33mcommit b3320c4703e06bcf3c07371bbf09c2bcca316fb2[m
+Author: enriquealfaro <alfarocubero.enrique5@gmail.com>
+Date:   Tue Nov 19 15:15:09 2019 -0600
+
+    funcionalidad de boton de actuemos v2
+
+[33mcommit 58f568051c1d4071722f810464154fdbb97afe51[m
+Merge: d9abc448 31021a3d
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Tue Nov 19 14:41:32 2019 -0600
+
+    htaccesatxt-v2
+
+[33mcommit 31021a3dd1a25bbfe16f85116cf62e5dc914a9e6[m
+Author: enriquealfaro <alfarocubero.enrique5@gmail.com>
+Date:   Tue Nov 19 14:39:34 2019 -0600
+
+    funcionalidad de botones en actuemos
+
+[33mcommit d9abc448c4550da462b54cfefdf56105d3f757a2[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Tue Nov 19 14:37:15 2019 -0600
+
+    htaccesatxt
+
+[33mcommit d05c7d1a5568baccafdf59773705d9a137a234ad[m
+Author: lfitoria <lfitoria@eldomo.net>
+Date:   Tue Nov 19 11:11:32 2019 -0700
+
+    origin-ementores
