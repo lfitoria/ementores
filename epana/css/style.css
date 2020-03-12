@@ -1027,7 +1027,7 @@ padding: 15px 50px 15px 15px;
     background: url(../img/contacto-nube.png) no-repeat right top;
     min-height: 346px !important;
     background-size: contain;
-    padding: 10px !important;
+    padding: 30px !important;
     line-height: 22px;
 }
 .boxcontacto_rp {
@@ -1532,6 +1532,7 @@ display: block !important;
     .imgsubfo img {
         position: absolute;
         top: 40px;
+        width: 75%;
     }
     .box-i-logos-apoyo {
         flex-wrap: nowrap;
@@ -1547,7 +1548,7 @@ display: block !important;
     }
     .contact-nube p {
     
-    font-size: 1.3em;
+    font-size: 1.1em;
     }
     .red-bo {
     overflow: hidden;

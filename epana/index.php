@@ -186,14 +186,14 @@ session_start();
                                     e-pana es un espacio con recursos audiovisuales para que chicas y chicos aprendan a
                                     aprovechar las tecnologías y protegerse contra los peligros en la Web.
                                 </p>
-                                <p class="label text-center" style="font-size: 1em;"> Además, para tu tranquilidad, los
+                                <p class="label text-center" style="font-size: 0.9em;"> Además, para tu tranquilidad, los
                                     datos que colocas en este espacio son completamente privados.</p>
                             </div>
                         </div>
                         <hr>
                         <div class="row justify-content-center">
                             <div class="col col-sm-6">
-                                <p class="label"><i class="fas fa-user-alt"></i> ¿Cómo te llamás?</p>
+                                <p class="label"><i class="fas fa-user-alt"></i> Nombre</p>
                                 <input type="text" name="nombre" placeholder="">
                                 <p class="small d-none text-center" id="warone">Recordá completar este espacio.</p>
                             </div>
@@ -201,7 +201,7 @@ session_start();
                         <hr>
                         <div class="row justify-content-center">
                             <div class="col col-sm-6">
-                                <p class="label"><i class="fas fa-user-circle"></i> Elegí un avatar</p>
+                                <p class="label"><i class="fas fa-user-circle"></i> Género</p>
                                 <div class="d-flex">
                                     <div class="form-check d-inline-block col-4 chk-female">
                                         <input class="form-check-input " type="radio" name="genero" id="exampleRadios1"
@@ -232,7 +232,7 @@ session_start();
                         <div class="row justify-content-center">
                             <div class="col col-sm-6">
 
-                                <p class="label"><i class="fas fa-birthday-cake"></i> ¿Qué edad tenés?</p>
+                                <p class="label"><i class="fas fa-birthday-cake"></i> Edad</p>
                                 <p class="text-center label"><span id="demo"></span></p>
                                 <!-- <input type="range" min="1" max="100" class="slider" value="1" id="myRange" name="edad" > -->
                                 <input type="number" name="edad" class="w-25">
@@ -243,7 +243,7 @@ session_start();
                         <div class="row justify-content-center">
                             <div class="col col-sm-6">
 
-                                <p class="label"><i class="fas fa-map-marked-alt"></i> Lugar de Residencia</p>
+                                <p class="label"><i class="fas fa-map-marked-alt"></i> Lugar de residencia</p>
                                 <!-- <input type="number" name="edad" class="w-25"> -->
 
                                 <select id="first-choice" class="form-control year" name="user_provincia">
@@ -296,7 +296,7 @@ session_start();
                         <hr>
                         <div class="row justify-content-center">
                             <div class="col col-sm-6">
-                                <p class="label"><i class="fas fa-school"></i> Centro Educativo</p>
+                                <p class="label"><i class="fas fa-school"></i> Centro educativo</p>
                                 <input type="text" name="grado" placeholder="">
                                 <p class="small d-none text-center" id="warfour">Recordá completar este espacio.</p>
                                 <!-- <p class="small">Contanos en qué provincia y cantón vivís.</p> 
@@ -306,7 +306,7 @@ session_start();
                         <hr>
                         <div class="row justify-content-center">
                             <div class="col col-sm-6">
-                                <p class="label"><i class="fas fa-at"></i> ¿Correo Electrónico?</p>
+                                <p class="label"><i class="fas fa-at"></i> Correo electrónico</p>
                                 <input type="text" name="lugar" placeholder="">
                                 <p class="small d-none text-center text-danger" id="w_email_epana">Recordá seleccionar
                                     una opción.</p>
