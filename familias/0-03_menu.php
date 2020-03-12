@@ -121,42 +121,41 @@
                                             </div>
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[0]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                    <!-- <img src="img/mod1/modulo1-act1.png" alt=""/> -->
+                                                    
                                                     <a href="mod_1/1-01_vid.php" class="v-act-1">Las TIC en todos lados y a todas horas</a>
-                                                    <!--<p class=dots-mod>. . .</p>-->
+                                                    
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                            <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[1]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                    <!-- <img src="img/icon.png" alt=""/> -->
+                                                    
                                                     <a href="mod_1/1-02_inf.php" class="v-act-2">Aplicaciones y redes sociales para estar al día</a>
-                                                    <!--<p class=dots-mod>. . .</p>-->
+                                                    
                                                 </div>
                                             </div>
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[2]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                    <!-- <img src="img/icon.png" alt=""/> -->
+                                                    
                                                     <a href="mod_1/1-03_act.php?t=m" class="v-act-3">Las dos caras de las TIC</a>
-                                                    <!--<p class=dots-mod>. . .</p>-->
+                                                    
                                                 </div>
                                             </div>
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[3]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                    <!-- <img src="img/icon.png" alt=""/> -->
+                                                    
                                                     <a href="mod_1/1-04_inf.php" class="v-act-4">Sáquele el máximo a la Internet</a>
-                                                    <!--<p class=dots-mod>. . .</p>-->
+                                                    
                                                 </div>
                                             </div>
 
 
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[4]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                    <!-- <img src="img/icon.png" alt=""/> -->
+                                                    
                                                     <a href="mod_1/1-05_sld.php" class="v-act-5">Conductas violentas en la Internet y en Redes Sociales</a>
-                                                    <!-- <a href="mod_1/1-05_sld.php" class="v-act-5">La legión del ciber-mal</a> -->
-                                                    <!--<p class=dots-mod>. . .</p>-->
+                                                    
                                                 </div>
-                                            </div>
+                                            </div> -->
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[5]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                     <!-- <img src="img/icon.png" alt=""/> -->
@@ -164,20 +163,20 @@
                                                     <!--<p class=dots-mod>. . .</p>-->
                                                 </div>
                                             </div>
-                                            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                            <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[6]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                    <!-- <img src="img/icon.png" alt=""/> -->
+                                                    
                                                     <a href="mod_1/1-07_act.php" class="v-act-7">Abuso sexual en línea: ojo con las señales</a>
-                                                    <!--<p class=dots-mod>. . .</p>-->
+                                                    
                                                 </div>
                                             </div>
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[7]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                    <!-- <img src="img/icon.png" alt=""/> -->
+                                                    
                                                     <a href="mod_1/1-08_sld.php" class="v-act-8">Las cicatrices del abuso sexual</a>
-                                                    <!--<p class=dots-mod>. . .</p>-->
+                                                    
                                                 </div>
-                                            </div>
+                                            </div> -->
 
                                         </div>
                                         <div class="row">
@@ -218,36 +217,40 @@
                                         <h3 class="text-center menu-title" id="mod2">Prevengo: acompaño en línea.</h3>
                                         <div class="menu-mod-cont col-12">
                                             <div class="row">
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[0]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-01_vid.php" class="v2-act-1">Acompañar también es proteger</a><!--<p class=dots-mod>. . .</p>-->
+                                                        
+                                                        <a href="mod_2/2-01_vid.php" class="v2-act-1">Acompañar también es proteger</a>
+
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[1]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-02a_sli.php" class="v2-act-2">Crianza Respetuosa: pongamos límites con amor</a><!--<p class=dots-mod>. . .</p>-->
+                                                        
+                                                        <a href="mod_2/2-02a_sli.php" class="v2-act-2">Crianza Respetuosa: pongamos límites con amor</a>
+                                                        
                                                     </div>
-                                                </div>
+                                                </div> -->
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[9]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
                                                         <a href="mod_2/2-02b_sli.php" class="v2-act-2a">Crianza tecnólogica en tiempos del Internet</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[2]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-03_act.php" class="v2-act-3">Decisiones que le protegen en Internet</a><!--<p class=dots-mod>. . .</p>-->
+                                                        
+                                                        <a href="mod_2/2-03_act.php" class="v2-act-3">Decisiones que le protegen en Internet</a>
+                                                        
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[3]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-04_inf.php" class="v2-act-4">¡No lo cuente todo en la Internet!</a><!--<p class=dots-mod>. . .</p>-->
+                                                        
+                                                        <a href="mod_2/2-04_inf.php" class="v2-act-4">¡No lo cuente todo en la Internet!</a>
+                                                        
                                                     </div>
-                                                </div>
+                                                </div> -->
 
 
 
@@ -258,18 +261,7 @@
                                                         <a href="mod_2/2-05_act.php" class="v2-act-5">“Amistad” en redes sociales ¿Aceptaría estas invitaciones?</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values2[5]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-06_act.php" class="v2-act-6">Reconozcamos nuestras emociones en el uso de las TIC</a><!--<p class=dots-mod>. . .</p>-->
-                                                    </div>
-                                                </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                                                    <div class="item-module <?php if ($values2[6]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-07_inf.php" class="v2-act-7">Prevenir y prohibir ¡No son lo mismo!</a><!--<p class=dots-mod>. . .</p>-->
-                                                    </div>
-                                                </div>
+                                                
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[7]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
@@ -280,12 +272,13 @@
 
 
 
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[8]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_2/2-09_sli.php" class="v2-act-9">Nuestro escudo de protección en Internet</a><!--<p class=dots-mod>. . .</p>-->
+                                                        
+                                                        <a href="mod_2/2-09_sli.php" class="v2-act-9">Nuestro escudo de protección en Internet</a>
+                                                        
                                                     </div>
-                                                </div>
+                                                </div> -->
                                             </div>
                                             <div class="row">
                                                 <div class="col-12 item-module-final">
@@ -335,43 +328,49 @@
                                         <h3 class="text-center menu-title" id="mod3">Protejo: reacciono ante situaciones.</h3>
                                         <div class="menu-mod-cont col-12">
                                             <div class="row">
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[0]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_3/3-01_vid.php" class="v3-act-1">¿Cómo protegen las leyes a las nuestras niñas y niños?</a><!--<p class=dots-mod>. . .</p>-->
+                                                        
+                                                        <a href="mod_3/3-01_vid.php" class="v3-act-1">¿Cómo protegen las leyes a las nuestras niñas y niños?</a>
+                                                        
                                                     </div>
-                                                </div>
+                                                </div> -->
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[1]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
                                                         <a href="mod_3/3-03_act.php" class="v3-act-3">​Escuchemos: no siempre tenemos ​la ​razón</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[2]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <a href="mod_3/3-04_inf.php" class="v3-act-4">Recuerde las señales de alarma para identificar el abuso sexual</a><!--<p class=dots-mod>. . .</p>-->
+                                                        <a href="mod_3/3-04_inf.php" class="v3-act-4">Recuerde las señales de alarma para identificar el abuso sexual</a>
+                                                    
                                                     </div>
                                                 </div>
+                                                -->
 
 
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[3]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_3/3-05_vid.php" class="v3-act-5">¡No lo dejemos pasar! Actuemos contra el abuso</a><!--<p class=dots-mod>. . .</p>-->
+                                                        
+                                                        <a href="mod_3/3-05_vid.php" class="v3-act-5">¡No lo dejemos pasar! Actuemos contra el abuso</a>
+                                                        
                                                     </div>
-                                                </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                </div> 
+                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[4]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_3/3-07_inf.php" class="v3-act-7">¿Cómo denunciar las violencias en línea?</a><!--<p class=dots-mod>. . .</p>-->
+                                                        
+                                                        <a href="mod_3/3-07_inf.php" class="v3-act-7">¿Cómo denunciar las violencias en línea?</a>
+                                                        
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[5]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <!-- <img src="img/icon.png" alt=""/> -->
-                                                        <a href="mod_3/3-08_vid.php" class="v3-act-8">¿Cómo ser una familia e-Mentora?</a><!--<p class=dots-mod>. . .</p>-->
+                                                        
+                                                        <a href="mod_3/3-08_vid.php" class="v3-act-8">¿Cómo ser una familia e-Mentora?</a>
+                                                        
                                                     </div>
-                                                </div>
+                                                </div> -->
                                             </div>
                                             <div class="row">
                                                 <div class="col-12 item-module-final">
