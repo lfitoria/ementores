@@ -35,21 +35,21 @@
         <a href="mod_1/legion.php#titleancla" class="v-act-5">Conductas violentas en la Internet y en Redes Sociales</a>
     </div>
   </article>
-  <article class="item group1">
+  <!-- <article class="item group1">
     <div class="item-module">
         <a href="mod_2/decisiones.php#titleancla" class="v2-act-3">Decisiones que te protegen en Internet</a>
     </div>
-  </article>
+  </article> -->
   <article class="item group1">
     <div class="item-module">
         <a href="mod_2/redes_sociales.php#titleancla" class="v2-act-5">“Amistad” en redes sociales ¿Aceptaría estas invitaciones?</a>
     </div>
   </article>
-  <article class="item group1">
+  <!-- <article class="item group1">
     <div class="item-module">
         <a href="mod_2/ciber_emociones.php#titleancla" class="v2-act-6">Reconozcamos nuestras emociones en el uso de las TIC</a>
     </div>
-  </article>
+  </article> -->
   <article class="item group1">
     <div class="item-module">
         <a href="/juego" class="v-act-9" target="_blank">Historia interactiva Enredes</a>
@@ -60,11 +60,11 @@
         <a href="mod_3/actuemos.php#titleancla" class="v3-act-5">¡No lo dejemos pasar! Actuemos contra el abuso</a>
     </div>
   </article>
-  <article class="item group3">
+  <!-- <article class="item group3">
     <div class="item-module">
         <a href="mod_3/ruta_denuncia.php#titleancla" class="v3-act-7">¿Cómo denunciar las violencias en línea?</a>
     </div>
-  </article>
+  </article> -->
   
   
   

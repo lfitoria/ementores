@@ -115,9 +115,9 @@
 
 
 	                                    <div class="form-group id-input cr-id">
-	                                        <p class="text-center label-small">Escriba su número de cédula</p>
-	                                        <input type="text" class="form-control text-number mr-auto" id="cr-id-input" aria-describedby="idHelp" minlength="11" maxlength="11" placeholder="X0XXX0XXX" required>
-	                                        <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 101110111</small>
+	                                        <p class="text-center label-small">Escribe tu número de cédula</p>
+	                                        <input type="text" class="form-control text-number mr-auto" id="cr-id-input" aria-describedby="idHelp" minlength="11" maxlength="11" placeholder="XXXXXXXXXXX" required>
+	                                        <small id="emailHelp" class="form-text text-muted">Escribe solamente números, sin espacios. <br>Por ejemplo: 101110111</small>
 
 	                                    </div> 
 
@@ -125,9 +125,9 @@
 
 	                                    <div class="form-group id-input resi-id d-none">
 
-	                                        <p class="text-center label-small">Escriba su número de residencia</p>
-	                                        <input type="text" class="form-control text-number mr-auto" id="cr-id-input2" aria-describedby="idHelp" minlength="11" maxlength="11" placeholder="1NNN-CC...C-EE...E">
-	                                        <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 117000112002</small>
+	                                        <p class="text-center label-small">Escribe tu número de residencia</p>
+	                                        <input type="text" class="form-control text-number mr-auto" id="cr-id-input2" aria-describedby="idHelp" minlength="11" maxlength="11" placeholder="XXXXXXXXXXX">
+	                                        <small id="emailHelp" class="form-text text-muted">Escribe solamente números, sin espacios. <br>Por ejemplo: 117000112002</small>
 	                                    </div> 
 	                                    <input type="hidden" name="type" value="1">
 	                                    
