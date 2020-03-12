@@ -66,16 +66,17 @@ unset($_SESSION['error_login']);
                                     <h2 class="text-center"><img src="img/icon-login.png"></h2>
                                     <div class="row">
                                         <div class="col-12">
-                                            <p class="text-center label">¿Cuenta ya con un usuario?</p>
+                                            <p class="text-center label">¿Cuentas ya con un usuario?</p>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-12 col-md-6">
-                                            <a class="btn-see-eva" href="0-04_prelogin.php">Ya tengo cuenta</a>
+                                            <!-- <a class="btn-see-eva" href="0-04_prelogin.php">Ya tengo cuenta</a> -->
+                                            <a class="btn-see-eva" href="0-02_login.php?t=2">Ya tengo cuenta</a>
                                         </div>
                                         <div class="col-12 col-md-6">
                                             <!-- <a class="btn-retry-eva" href="0-05_registro_01.php">Soy nuevo</a> -->
-                                             <a class="btn-retry-eva" href="registro_completo.php">Soy nueva(o)</a>
+                                            <a class="btn-retry-eva" href="registro_completo.php">Soy nueva(o)</a>
                                         </div>
                                     </div>
                                 </div>

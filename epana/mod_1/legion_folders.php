@@ -174,13 +174,13 @@
                                     <!-- <p><strong>Edad:</strong> Adulto <br>
                                         <strong></strong>
                                     </p> -->
-                                    <p><strong>¿Cómo lo hace?</strong><br>
+                                    <p><strong>¿Cómo sucede?</strong><br>
                                         Alguien usa las tecnologías de la información y la comunicación (TIC) para enviar contenidos inapropiados a personas menores de edad, a través de imágenes violentas o mensajes de odio.
                                     </p>
                                 </div>
                             </div>
                             <div class="row text-modus">
-                                <p><strong>¿Qué hace un e-compa?:</strong><br>
+                                <p><strong>¿Qué hace un e-pana?:</strong><br>
                                 </p>
                                 <ul>
                                     <li>Tener presente que tenés el derecho a no recibir materiales que te incomoden o molesten.</li>
@@ -211,7 +211,7 @@
                                 </div>
                             </div>
                             <div class="row text-modus">
-                                <p><strong>Cómo lo hace:</strong><br>
+                                <p><strong>Cómo sucede:</strong><br>
                                 </p>
                                 <ul>
                                     <li>Primero contacta a la persona menor a través de mensajes o chats de redes sociales.</li>
@@ -241,13 +241,13 @@
                                 </div>
                             </div>
                             <div class="row text-modus">
-                                <p><strong>¿Qué hace un  e-compa?</strong><br></p>
+                                <p><strong>¿Qué hace un e-pana?</strong><br></p>
                                 <ul>
                                     <li>Prevenir. Sin material comprometedor no hay posibilidad de sextorsión.</li>
                                     <li>No compartir tu intimidad en internet, mucho menos con personas que no conocés personalmente. Recordá que cualquier video llamada se puede grabar sin que lo sepás.</li>
                                     <li>Almacenar tus cosas privadas con protección de contraseña o en carpetas ocultas, así nadie más podrá verlos.</li>
                                     <li>Recordar que si alguien publica algo tuyo sin tu autorización, todas las redes sociales tienen la opción de denunciar la publicación y pedir que la retiren.</li>
-                                    <li><a href="https://ementores.org/ecompa/mod_3/ruta_denuncia.php">Denunciar.</a></li> 
+                                    <li><a href="/epana/mod_3/ruta_denuncia.php">Denunciar.</a></li> 
                                 </ul>
 
                             </div>
@@ -266,7 +266,7 @@
                                     <!-- <p><strong>Edad:</strong> Adulto <br>
                                         <strong>ALTAMENTE ENGAÑOSO Y FARSANTE</strong>
                                     </p> -->
-                                    <p><strong>¿Cómo lo hace?</strong><br>
+                                    <p><strong>¿Cómo sucede?</strong><br>
                                         Una persona adulta se hace pasar por una persona menor de edad en redes sociales para intentar “enamorar”, seducir, o abusar sexualmente de personas menores de edad.
                                         <br>
                                         Intenta ganarse la confianza a lo largo de semanas o meses, para luego solicitar fotos, videos o audios de contenido sexual.
@@ -275,7 +275,7 @@
                                 </div>
                             </div>
                             <div class="row text-modus">
-                                <p><strong>¿Qué hace un  e-compa?</strong><br>
+                                <p><strong>¿Qué hace un e-pana?</strong><br>
                                 </p>
                                 <ul>
                                     <li>Tener cuidado. No todo lo que ves en la web es cierto, recordá que muchas personas crean perfiles falsos.</li>
@@ -307,13 +307,13 @@
                                     <!-- <p><strong>Edad:</strong> Cualquiera <br>
                                         <strong>ALTAMENTE AGRESIVO</strong>
                                     </p> -->
-                                    <p><strong>Cómo lo hace:</strong><br>
+                                    <p><strong>Cómo sucede:</strong><br>
                                         Atacan a la víctima repetidas veces usando internet y redes sociales. Puede ser por mensajes directos y también públicamente. El ataque se realiza a través de fotos, videos, audios o mensajes humillantes.
                                     </p>
                                 </div>
                             </div>
                             <div class="row text-modus">
-                                <p><strong>¿Qué hace un e-compa?</strong><br>
+                                <p><strong>¿Qué hace un e-pana?</strong><br>
                                 </p>
                                 <ul>
                                     <li> Recordar a la persona víctima que no es su culpa y que tiene el derecho a vivir libre de violencia.</li>
@@ -343,7 +343,7 @@
                                 </div>
                             </div>
                             <div class="row text-modus">
-                                <p><strong>¿Qué hace un  e-compa?</strong><br>
+                                <p><strong>¿Qué hace un e-pana?</strong><br>
                                 </p>
                                 <ul>
                                     <li>Tener presente que todas las personas tenemos derecho a la privacidad de nuestros datos al usar internet y redes sociales. Se cuenta con leyes que nos protegen de los delitos informáticos. ¡Especialmente las niñas, niños y adolescentes!.</li>
@@ -410,7 +410,7 @@
                                 </div>
                             </div>
                             <div class="row text-modus">
-                                <p><strong>¿Qué hace un  e-compa?</strong><br>
+                                <p><strong>¿Qué hace un e-pana?</strong><br>
                                 </p>
                                 <ul>
                                     <li>Recordar que por ser una persona menor de edad, siempre tenés el derecho de contar con una protección especial en casos de abuso sexual.</li>
@@ -437,12 +437,12 @@
                                     <!-- <p><strong>Edad:</strong> Cualquiera <br>
                                         <strong>EXTORSIONADOR PELIGROSO</strong>
                                     </p> -->
-                                    <p><strong>¿Cómo lo hace?</strong><br>
+                                    <p><strong>¿Cómo sucede?</strong><br>
                                         Reenvía fotos o videos privados e íntimos de otra persona sin su consentimiento.</p>
                                 </div>
                             </div>
                             <div class="row text-modus">
-                                <p><strong>¿Qué hace un e-compa?</strong><br>
+                                <p><strong>¿Qué hace un e-pana?</strong><br>
                                     <p>
                                         <ul>
                                             <li>No reenviar: Si recibiste fotos o videos de este tipo no los reenviés. No seas cómplice de la violencia, podrías caer en una situación legal delicada.
@@ -477,7 +477,7 @@
                                 </div>
                             </div>
                             <div class="row text-modus">
-                                <p><strong>¿Qué hace un  e-compa?</strong><br></p>
+                                <p><strong>¿Qué hace un e-pana?</strong><br></p>
                                 <ul>
                                     <li>Tener presente que todas las personas tenemos derecho a la privacidad de nuestros datos al usar internet y redes sociales. Se cuenta con leyes que nos protegen de los delitos informáticos. ¡Especialmente las niñas, niños y adolescentes!</li>
                                     <li>Conservar las evidencias y seguir la ruta de denuncia.</li>
@@ -509,7 +509,7 @@
                                 <ul>
                                     <li> Tener presente que aunque sea tu pareja la persona que se apropia de tus dispositivos, él o ella está cometiendo un delito, violando tu libertad.</li>
                                     <li>Buscar apoyo de una persona de confianza.</li>
-                                    <li><a href="https://ementores.org/ecompa/mod_3/ruta_denuncia.php">Denunciar.</a></li>
+                                    <li><a href="/epana/mod_3/ruta_denuncia.php">Denunciar.</a></li>
                                 </ul>
                             </div>
                         </div>

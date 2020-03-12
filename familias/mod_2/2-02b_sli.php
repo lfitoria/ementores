@@ -69,13 +69,13 @@
 
                             <div class="row align-items-center justify-content-md-center">
                                 <div class="col-12 col-sm-10">
-                                    <p id="info-p">Lea los siguientes consejos sobre cómo criar respetuosamente. Observe cómo cada uno de ellos puede aplicarse dentro de la crianza tecnológica.</p>
+                                    <p id="info-p">Lee los siguientes consejos sobre cómo criar respetuosamente. Observa cómo cada uno de ellos puede aplicarse dentro de la crianza tecnológica. </p>
                                 </div>
                                <!--  <div class="jumbo col-12 col-md-10 num1"> -->
                                 <div class="jumbo col-12 num1">
                                     <div class="row">
                                         <div class="col-12 col-sm-5 image-jumbo">
-                                            <img src="../img/mod2/2-02b_sli-img-1.png" class="img-fluid img-md">
+                                            <img src="../img/mod2/2-02b_sli-img-1_rp.png" class="img-fluid img-md">
                                         </div>
                                         <div class="col-12 col-sm-6">
                                             <p class="font-italic text-jumbo">“Como persona adulta, al usar Internet también tengo que lidiar con conflictos y tomar decisiones. Lo que yo haga me puede convertir en un buen o mal ejemplo para mis hijos e hijas.”</p>
@@ -111,7 +111,7 @@
                                 <div class="jumbo col-12 col-md-10 num2">
                                     <div class="row">
                                         <div class="col-12 col-sm-5 image-jumbo">
-                                            <img src="../img/mod2/2-02b_sli-img-2.png" class="img-fluid img-md">
+                                            <img src="../img/mod2/2-02b_sli-img-2_rp.png" class="img-fluid img-md">
                                         </div>
                                         <div class="col-12 col-sm-6">
                                             <p class="font-italic text-jumbo">“Mi hijo se molestaba cuando perdía en los videojuegos en línea y se frustraba porque otros le hacían bromas y hasta lo amenazaron en redes sociales.”</p>
@@ -172,7 +172,7 @@
                                 <div class="jumbo col-10 num4">
                                     <div class="row">
                                         <div class="col-12 col-sm-5 image-jumbo">
-                                            <img src="../img/mod2/2-02b_sli-img-4.png" class="img-fluid img-md">
+                                            <img src="../img/mod2/2-02b_sli-img-4_rp.png" class="img-fluid img-md">
                                         </div>
                                         <div class="col-12 col-sm-6">
                                             <p class="font-italic text-jumbo">“Mi sobrino me contó que estuvo navegando en páginas web peligrosas y que ha estado aceptando solicitudes de amistad de desconocidos.”</p>
@@ -200,7 +200,7 @@
                             </div>
                             <div class="row align-items-center justify-content-md-center">
                             <div class="col-sm-10">
-                            <img src="../img/mod2/2-02b_sli-img-recomendaciones.png" alt="" class="img-fluid"/>
+                            <img src="../img/mod2/2-02b_sli-img-recomendaciones_rp.png" alt="" class="img-fluid"/>
                             </div>
                             </div>
                              

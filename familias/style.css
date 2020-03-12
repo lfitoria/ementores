@@ -807,6 +807,13 @@ top: 2rem;
 display: none;
 }
 
+.res-insti-rp {
+    display: flex;
+}
+.res-insti-rp img{
+    max-width: 100%;
+}
+
 @media (min-width: 576px) { 
     a.icovolver {
     position: absolute;

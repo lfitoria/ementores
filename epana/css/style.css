@@ -1019,17 +1019,31 @@ background-position: right 13px bottom 12px;;
 padding: 15px 50px 15px 15px;
 }
 #subfooter{
-    background: url(../img/fondo_patron_contacto.png);
+    background: url(../img/fondo_patron_contacto_rp.png);
     padding: 50px 25px;
     
 }
-.contact-nube{
-background: url(../img/contacto-nube.png) no-repeat right top;
-min-height: 275px;
-background-size: contain;
-/* padding: 35px !important; */
-padding: 45px !important;
-
+.contact-nube {
+    background: url(../img/contacto-nube.png) no-repeat right top;
+    min-height: 346px !important;
+    background-size: contain;
+    padding: 10px !important;
+    line-height: 22px;
+}
+.boxcontacto_rp {
+    padding-left: 15px;
+}
+.boxcontacto_rp p{
+    margin: 0 ;
+}
+span.txt-ul{
+    font-weight: bold;
+    position: relative;
+}
+.boxcontacto_rp p span.txt-ul:before{
+    content: '•';
+    position: absolute;
+    left: -15px;
 }
 #prefooter {
 
@@ -1071,6 +1085,7 @@ text-align: center;
     color: #F0474A;
     font-weight: 900;
     text-transform: uppercase;
+    margin: 0;
 }
 .contact-nube a{
     color: #F0474A;
@@ -1236,7 +1251,7 @@ margin-top: 10px;
 }
 
 #boxelo {
-background-image: url(http://ementores.org/ecompa/img/fondo_header.png);
+background-image: url(/img/fondo_header_rp.png);
 background-color: #fff;
 background-size: contain;
 height: 360px;
@@ -1615,7 +1630,7 @@ padding: 0;
 }
 .header-top {
         max-width: 100%;
-        background-image: url(../img/fondo_header.png);
+        background-image: url(../img/fondo_header_rp.png);
         min-height: 560px;
         background-repeat: no-repeat;
         background-size: 100%;

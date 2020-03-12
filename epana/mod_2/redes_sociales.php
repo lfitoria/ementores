@@ -25,9 +25,9 @@
                         <div id="act_01p1" class="module-page">
                             <div class="row">
                                 <div class="col-12 col-md-8">
-                                    <p class="intro-label"><strong>Karla es una chica de Desamparados. Tiene 15 años y está en tercer año del cole.</strong></p>
+                                    <p class="intro-label"><strong>Karla es una adolescente de Barahona. Tiene 15 años y está en tercer año de secundaria.</strong></p>
                                     <p class="intro-label"><strong>Normalmente recibe muchas solicitudes de amistad en redes sociales.</strong></p>
-                                    <p class="intro-label"><strong>Ayudale a decidir cuáles invitaciones debería aceptar y cuáles rechazar.</strong></p><br><br>
+                                    <p class="intro-label"><strong>Ayúdale a decidir cuáles invitaciones aceptar y cuáles rechazar.</strong></p><br><br>
                                     <button class="gotoModulePage btn-start" data-page="2">Iniciar</button>
                                 </div>
                                 <div class="col-12 col-md-4">
@@ -40,7 +40,7 @@
 
                             <div class="row align-items-center justify-content-md-center">
                                 <div class="col-12 col-sm-8">
-                <p id="info-p">Revisá cada una de las solicitudes de amistad a continuación.<br>Escogé si lo más adecuado es aceptarlas o rechazarlas.</p>
+                <p id="info-p"> Revisa cada una de las solicitudes de amistad a continuación. <br> Elije si lo más adecuado es aceptarlas o rechazarlas.</p>
             </div>
             </div>
 
@@ -142,7 +142,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <p class="intro-label text-center text-blue"><strong>Recordá: Evitar personas desconocidas, y desconfiar de perfiles que podrían ser falsos, es una actitud que te protege.</strong></p>
+                            <p class="intro-label text-center text-blue"><strong>Recuerda: Evitar personas desconocidas, y desconfiar de perfiles que podrían ser falsos, es una actitud protectora.</strong></p>
                         </div>
                     </div>
                 </div>

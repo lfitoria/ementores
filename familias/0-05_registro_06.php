@@ -93,7 +93,7 @@
 	                                    <div class="form-group email-input">
 	                                        <p class="text-center label">¿Cuál es su correo electrónico?</p>
 	                                        <input type="email" class="form-control mr-auto" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="ejemplo@correo.com" required>
-	                                        <small id="emailHelp" class="form-text text-muted">Puede usar esta misma dirección de correo para volver a entrar más adelante.</small>
+	                                        <small id="emailHelp" class="form-text text-muted">Puedes usar esta misma dirección de correo para volver a entrar más adelante.</small>
                                             <br>
                                             
                                             
@@ -102,7 +102,7 @@
                                         
                                         <div class="selector">
                                                 <input type="checkbox" id="cambiocredenciales" class="text-muted" value="1">
-                                                <label for="cambiocredenciales" class="text-muted text-center" style="font-size: 0.8em;">Registro mediante número de cédula o número de residencia </label>
+                                                <label for="cambiocredenciales" class="text-muted text-center" style="font-size: 0.8em;">Registrarme mediante número de cédula o número de residencia </label>
                                                 </div>
                                             
                                         <!-- fin -->
@@ -116,7 +116,7 @@
 
 	                                    <div class="form-group id-input cr-id">
 	                                        <p class="text-center label-small">Escriba su número de cédula</p>
-	                                        <input type="text" class="form-control text-number mr-auto" id="cr-id-input" aria-describedby="idHelp" minlength="9" maxlength="9" placeholder="X0XXX0XXX" required>
+	                                        <input type="text" class="form-control text-number mr-auto" id="cr-id-input" aria-describedby="idHelp" minlength="11" maxlength="11" placeholder="X0XXX0XXX" required>
 	                                        <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 101110111</small>
 
 	                                    </div> 
@@ -126,7 +126,7 @@
 	                                    <div class="form-group id-input resi-id d-none">
 
 	                                        <p class="text-center label-small">Escriba su número de residencia</p>
-	                                        <input type="text" class="form-control text-number mr-auto" id="cr-id-input2" aria-describedby="idHelp" minlength="12" maxlength="12" placeholder="1NNN-CC...C-EE...E">
+	                                        <input type="text" class="form-control text-number mr-auto" id="cr-id-input2" aria-describedby="idHelp" minlength="11" maxlength="11" placeholder="1NNN-CC...C-EE...E">
 	                                        <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 117000112002</small>
 	                                    </div> 
 	                                    <input type="hidden" name="type" value="1">

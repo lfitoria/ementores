@@ -157,7 +157,7 @@
                                     <form action="db/user/login_user.php" method="POST" >
 
                                         <div class="form-group email-input">
-                                            <p class="text-center label-small quest-email">¿Cuál es su correo electrónico?</p>
+                                            <p class="text-center label-small quest-email">¿Cuál es tu correo electrónico?</p>
                                             <input type="email" class="required form-control mr-auto" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="ejemplo@correo.com">
                                             <div class="emsg hidden">
                                             <small style=" color: red;">
@@ -165,7 +165,7 @@
                                                 <br>
                                             </small>
                                             </div>
-                                            <small id="emailHelp" class="form-text text-muted">Puede usar esta misma dirección de correo para volver a entrar más adelante.</small>
+                                            <small id="emailHelp" class="form-text text-muted">Puedes usar esta misma dirección de correo para volver a entrar más adelante.</small>
                                             <br>
                                             
                                             
@@ -174,7 +174,7 @@
                                         
                                         <div class="selector">
                                                 <input type="checkbox" id="cambiocredenciales" class="text-muted" value="1">
-                                                <label for="cambiocredenciales" class="text-muted text-center" style="font-size: 0.8em;">Ingreso mediante número de cédula o número de residencia </label>
+                                                <label for="cambiocredenciales" class="text-muted text-center" style="font-size: 0.8em;">Ingresar mediante número de cédula o número de residencia</label>
                                                 </div>
                                             
                                         <!-- fin -->

@@ -67,7 +67,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 d-block d-sm-none">
-                                    <p class="main-div-intro-text">Aprenda sobre el uso seguro de internet para familias.</p>
+                                    <p class="main-div-intro-text">Aprende sobre el uso seguro de internet para familias.</p>
 
                                 </div>
                                 <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
@@ -79,7 +79,7 @@
                                     </div>
                                 </div>
                                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 ">
-                                    <p class="main-div-intro-text d-none d-sm-block d-md-block d-lg-block">Aprenda sobre el uso seguro de internet para familias.</p>
+                                    <p class="main-div-intro-text d-none d-sm-block d-md-block d-lg-block">Aprende sobre el uso seguro de internet para familias.</p>
                                     <a class="btn-entrar" href="0-04_intro.php">Entrar</a>
                                 </div>
                             </div>

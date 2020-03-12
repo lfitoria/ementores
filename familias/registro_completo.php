@@ -75,7 +75,7 @@
                                     
 
                                     
-                                    <form action="db/user/insert_user_complete.php" method="POST">
+                                    <form action="db/user/insert_user_complete.php" method="POST" id="registro_usuario">
                                         <div class="form-group">
                                             <p class="text-center label">¿Cuál es su nombre?</p>
                                             <p class="text-center label-small">Hola, mi nombre es:</p>
@@ -115,8 +115,71 @@
                                             <!-- <input type="hidden" name="step" value="4"> -->
                                         </div>
 
+                                        <div class="form-grupo">
+                                        <div class="row justify-content-center">
+                                        <div class="col-sm-6">
+                                            <p class="label"><i class="fas fa-map-marked-alt"></i> Lugar de Residencia</p>
+                            
+                                            <!-- <select name="state" class="form-control year" required>
+                                                <option value="">Provincia</option>
+                                                <option value="san-jose">San José</option>
+                                                <option value="alajuela">Alajuela</option>
+                                                <option value="cartago">Cartago</option>
+                                                <option value="heredia">Heredia</option>
+                                                <option value="guanacaste">Guanacaste</option>
+                                                <option value="puntarenas">Puntarenas</option>
+                                                <option value="limon">Limón</option>
+                                            </select> -->
+                                            
+                                            <select id="first-choice" class="form-control" name="user_provincia" required>
+                                            <option selected value="">Provincia...</option>
+                                            <option value="la_altagracia">LA ALTAGRACIA</option>
+                                            <option value="azua">AZUA</option>
+                                            <option value="bahoruco">BAHORUCO</option>
+                                            <option value="barahona">BARAHONA</option>
+                                            <option value="dajabon">DAJABON</option>
+                                            <option value="duarte">DUARTE</option>
+                                            <option value="hermanas_mirabal">HERMANAS MIRABAL</option>
+                                            <option value="el_seibo">EL SEIBO</option>
+                                            <option value="elias_pina">ELIAS PIÑA</option>
+                                            <option value="espaillat">ESPAILLAT</option>
+                                            <option value="hato_mayor">HATO MAYOR</option>
+                                            <option value="independencia">INDEPENDENCIA</option>
+                                            <option value="la_romana">LA ROMANA</option>
+                                            <option value="la_vega">LA VEGA</option>
+                                            <option value="maria_trinidad_sanchez">MARIA TRINIDAD SANCHEZ</option>
+                                            <option value="monsenor_nouel">MONSEÑOR NOUEL</option>
+                                            <option value="monte_cristi">MONTE CRISTI</option>
+                                            <option value="monte_plata">MONTE PLATA</option>
+                                            <option value="pedernales">PEDERNALES</option>
+                                            <option value="peravia">PERAVIA</option>
+                                            <option value="puerto_plata">PUERTO PLATA</option>
+                                            <option value="samana">SAMANA</option>
+                                            <option value="san_cristobal">SAN CRISTOBAL</option>
+                                            <option value="san_juan">SAN JUAN</option>
+                                            <option value="san_pedro_de_macoris">SAN PEDRO DE MACORIS</option>
+                                            <option value="sanchez_ramirez<">SANCHEZ RAMIREZ</option>
+                                            <option value="santiago">SANTIAGO</option>
+                                            <option value="santiago_rodriguez">SANTIAGO RODRIGUEZ	</option>
+                                            <option value="valverde">VALVERDE</option>
+                                            <option value="san_jose_de_ocoa">SAN JOSE DE OCOA</option>
+                                            <option value="santo_domingo">SANTO DOMINGO</option>
+                                            </select>
+
+                                            <br>
+                                            <div class="second_parent" style="display:none">
+                                            <p class="small text-center">Municipio</p>
+                                                <select id="second-choice" class="form-control" name="user_municipio"  required>
+                                                <option>Municipio</option>
+                                                </select>
+                                            </div>
+                                            </div>
+                                            
+                                        </div>
+                                        <br>
+                                        <hr>
                                         <!-- boton -->
-                                        <button type="submit" class="d-block m-auto btn-continue">Continuar</button>
+                                        <button type="submit" class="d-block m-auto btn-continue submet">Continuar</button>
                                     </form>
                                 </div>
                             </div>
@@ -163,7 +226,136 @@
                         $(this).parent().find(".img-genre").addClass("select-img");
 
                     });
-            
+                    // $("form#registro_usuario .submet").on('click', function (e) {
+                    //     console.log("detiene");
+                    //     e.preventDefault();
+                    //     alert("akert");
+                    //     if(form#registro_usuario.){
+                    //         $("form#registro_usuario").submit();
+                    //     }
+                    // });
+            // select provincias
+            $("#first-choice").change(function() {
+
+            var $dropdown = $(this);
+
+            $.getJSON("jsondata/data.json", function(data) {
+
+                var key = $dropdown.val();
+                var vals = [];
+                // console.log(data)
+                switch(key) {
+                    case 'la_altagracia':
+                    vals = data.la_altagracia.split(",");
+                    break;
+                case 'azua':
+                    vals = data.azua.split(",");
+                    break;
+                case 'bahoruco':
+                    vals = data.bahoruco.split(",");
+                    break;
+                case 'barahonda':
+                    vals = data.barahonda.split(",");
+                    break;
+                case 'dajabon':
+                    vals = data.dajabon.split(",");
+                    break;
+                case 'duarte':
+                    vals = data.duarte.split(",");
+                    break;
+                case 'hermanas_mirabal':
+                    vals = data.hermanas_mirabal.split(",");
+                    break;
+                case 'el_seibo':
+                    vals = data.el_seibo.split(",");
+                    break;
+                case 'elias_pina':
+                    vals = data.elias_pina.split(",");
+                    break;
+                case 'espaillat':
+                    vals = data.espaillat.split(",");
+                    break;
+                case 'hato_mayor':
+                    vals = data.hato_mayor.split(",");
+                    break;
+                case 'independencia':
+                    vals = data.independencia.split(",");
+                    break;
+                case 'la_romana':
+                    vals = data.la_romana.split(",");
+                    break;
+                case 'la_vega':
+                    vals = data.la_vega.split(",");
+                    break;
+                case 'maria_trinidad_sanchez':
+                    vals = data.maria_trinidad_sanchez.split(",");
+                    break;
+                case 'monsenor_nouel':
+                    vals = data.monsenor_nouel.split(",");
+                    break;
+                case 'monte_plata':
+                    vals = data.monte_plata.split(",");
+                    break;
+                case 'pedernales':
+                    vals = data.pedernales.split(",");
+                    break;
+                case 'peravia':
+                    vals = data.peravia.split(",");
+                    break;
+                case 'puerto_plata':
+                    vals = data.puerto_plata.split(",");
+                    break;
+                case 'samana':
+                    vals = data.samana.split(",");
+                    break;
+                case 'san_cristobal':
+                    vals = data.san_cristobal.split(",");
+                    break;
+                case 'san_juan':
+                    vals = data.san_juan.split(",");
+                    break;
+                case 'san_pedro_de_macoris':
+                    vals = data.azua.split(",");
+                    break;
+                case 'sanchez_ramirez':
+                    vals = data.sanchez_ramirez.split(",");
+                    break;
+                case 'santiago':
+                    vals = data.santiago.split(",");
+                    break;
+                case 'santiago_rodriguez':
+                    vals = data.santiago_rodriguez.split(",");
+                    break;
+                case 'valverde':
+                    vals = data.valverde.split(",");
+                    break;
+                case 'san_jose_de_ocoa':
+                    vals = data.san_jose_de_ocoa.split(",");
+                    break;
+                case 'santo_domingo':
+                    vals = data.santo_domingo.split(",");
+                    break;
+                case 'distrito_nacional':
+                    vals = data.distrito_nacional.split(",");
+                    break;
+                    case '':
+                        vals = ['Please choose from above'];
+                }
+                
+                
+                var $secondChoice = $("#second-choice");
+                $secondChoice.parent().show();
+                $secondChoice.empty();
+                $secondChoice.append("<option value=''>Municipio</option>");
+                $.each(vals, function(index, value) {
+                    // $secondChoice.append("<option>" + value + "</option>");
+                    
+                    $secondChoice.append("<option value="+value.split(' ').join('_')+">" + value + "</option>");
+                
+                });
+
+            });
+            });
                 </script>
     </body>
 </html>

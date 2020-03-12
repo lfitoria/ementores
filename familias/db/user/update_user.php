@@ -8,9 +8,9 @@ $data = $_POST["data"];
 $step = $_POST["step"];
 $last_id = $_SESSION['last_id'];
 
- //var_dump($data);
+//  var_dump($data);
 // var_dump($step);
-//die();
+// die();
         $type = $_POST["type"];
         
         $field = $type == "1"? "id_number":"email";

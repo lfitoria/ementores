@@ -33,7 +33,7 @@ background-image: url(../img/icono_recurso_video_rollover.png);
 }
 #mnsry_container .group3 .item-module:before {
 content: '';
-background-image: url(../img/icono_recurso_infografia.png);
+background-image: url(../img/icono_recurso_infografia_rp.png);
 width: 40px;
 height: 42px;
 /* padding: 13px; */
@@ -44,7 +44,7 @@ left: 10px;
 top: 10px;
 }
 #mnsry_container .group3 .item-module:hover:before{
-  background-image: url(../img/icono_recurso_infografia_rollover.png);
+  background-image: url(../img/icono_recurso_infografia_rollover_rp.png);
 }
 .recu-page-box {
 margin-bottom: 5%;

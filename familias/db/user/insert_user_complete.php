@@ -9,19 +9,30 @@ include '../connection/conexion.php';
 mysqli_set_charset($mysqli, "utf8");
 
 $name = $_POST["name"];
-$genre = $_POST["genre"];
+// $genre = $_POST["genre"];
+if (!empty($_POST["genre"])) {
+    $genre = $_POST["genre"];
+} else {  
+    $genre = 0;
+}
 $year = $_POST["year"];
+$user_provincia = $_POST["user_provincia"];
+$user_municipio = $_POST["user_municipio"];
 
 // var_dump($name);
 // var_dump($genre);
-// var_dump($year);
+// var_dump($state_user);
 // die();
 
 $result = $mysqli->query($query);
 
 // Al crear a un usuario se inserta la información necesaria de sus actividades 
-$query = "INSERT INTO user (fullname,genre,age) VALUES ('" . $name . "'," . $genre . "," . $year . ");";
+$query = "INSERT INTO user (fullname,genre,age,user_provincia,user_municipio) VALUES ('" . $name . "'," . $genre . "," . $year . ",'" . $user_provincia . "','" . $user_municipio ."');";
+
+// var_dump($query);
+// die();
 $mysqli->query($query);
+
 
 $last_id = $mysqli->insert_id;
 $query1 = "INSERT INTO module (`step`, `module`, `user`, `is_completed`) VALUES (1, 1, $last_id, 0), (2, 1, $last_id, 0), (3, 1, $last_id, 0), (4, 1, $last_id, 0), (5, 1, $last_id, 0), (6, 1, $last_id, 0), (7, 1, $last_id, 0), (8, 1, $last_id, 0); ";
@@ -36,7 +47,9 @@ $mysqli->query($query1);
 
 $_SESSION['last_id'] = $last_id;
 
-header("Location: ../../0-05_registro_05.php");
+// header("Location: ../../0-05_registro_05.php");
+//0-05_registro_06.php?t=1
+header("Location: ../../0-05_registro_06.php?t=2");
 die();
 
 ?>
