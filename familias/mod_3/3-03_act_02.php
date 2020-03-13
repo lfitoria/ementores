@@ -51,7 +51,7 @@
                         <div id="act_01" class="btn-j-center">
                             <div class="cont row mod">
                                 <div class="col-12 col-md-5">
-                                    <img src="../img/mod3/3-03_act-personaje2.png" alt="personaje 2" class="img-fluid"/>
+                                    <img src="../img/mod3/3-03_act-personaje2_rp.png" alt="personaje 2" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7">
                                     <div class="audio_3-03 per2">

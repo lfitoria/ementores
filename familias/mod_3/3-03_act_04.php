@@ -95,7 +95,7 @@
 
                                 <div class="col-12 col-md-5">
 
-                                    <img src="../img/mod3/3-03_act-personaje4.png" alt="" class="img-fluid"/>
+                                    <img src="../img/mod3/3-03_act-personaje4_rp.png" alt="" class="img-fluid"/>
 
                                 </div>
 

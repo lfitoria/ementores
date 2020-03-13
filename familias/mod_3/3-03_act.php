@@ -98,7 +98,7 @@
                                 <div class="col-12 col-sm-8">
                                 
 
-                                    <p id="info-p">Escuche a cada una de estas personas describir una conducta. Piense brevemente si esta conducta es adecuada o no. Luego, presione el ícono para descubrirlo</p>
+                                    <p id="info-p">Escucha a cada una de estas personas describir una conducta. Piensa brevemente si esta conducta es adecuada o no. Luego, presiona el ícono para descubrirlo</p>
 
                                 </div>
                                 </div>
@@ -107,7 +107,7 @@
 
                                     <div class="item item-thumb" data-slider="1" data-title="Abuso sexual en línea">
 
-                                        <a href="3-03_act_01.php"><img src="../img/mod3/3-03_act-thumb1.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_01.php"><img src="../img/mod3/3-03_act-thumb1_rp.png" alt="" class="img-fluid"/></a>
 
                                     </div>
 
@@ -117,7 +117,7 @@
 
                                     <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
 
-                                        <a href="3-03_act_02.php"><img src="../img/mod3/3-03_act-thumb2.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_02.php"><img src="../img/mod3/3-03_act-thumb2_rp.png" alt="" class="img-fluid"/></a>
 
                                     </div>
 
@@ -127,7 +127,7 @@
 
                                     <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
 
-                                        <a href="3-03_act_03.php"><img src="../img/mod3/3-03_act-thumb3.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_03.php"><img src="../img/mod3/3-03_act-thumb3_rp.png" alt="" class="img-fluid"/></a>
 
                                         
 
@@ -139,7 +139,7 @@
 
                                     <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
 
-                                        <a href="3-03_act_04.php"><img src="../img/mod3/3-03_act-thumb4.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_04.php"><img src="../img/mod3/3-03_act-thumb4_rp.png" alt="" class="img-fluid"/></a>
 
                                         
 
@@ -151,7 +151,7 @@
 
                                     <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
 
-                                        <a href="3-03_act_05.php"><img src="../img/mod3/3-03_act-thumb5.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_05.php"><img src="../img/mod3/3-03_act-thumb5_rp.png" alt="" class="img-fluid"/></a>
 
                                         
 
@@ -163,7 +163,7 @@
 
                                     <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea" >
 
-                                        <a href="3-03_act_06.php"><img src="../img/mod3/3-03_act-thumb6.png" alt="" class="img-fluid"/></a>
+                                        <a href="3-03_act_06.php"><img src="../img/mod3/3-03_act-thumb6_rp.png" alt="" class="img-fluid"/></a>
 
                                         
 
