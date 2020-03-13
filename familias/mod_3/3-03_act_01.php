@@ -47,7 +47,7 @@
                             <div class="mod">
                                 <div class="row">
                                     <div class="col-12 col-md-5">
-                                        <img src="../img/mod3/3-03_act-personaje1.png" alt="" class="img-fluid"/>
+                                        <img src="../img/mod3/3-03_act-personaje1_rp.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-12 col-md-7">
                                         <div class="audio_3-03 per1">

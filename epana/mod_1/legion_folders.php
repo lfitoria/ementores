@@ -34,19 +34,19 @@
                             <!-- ciberbullyng-->
                             <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="5" data-title="Sextorsión">
-                                    <img src="../img/mod1/1-05_act_expediente-5.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_expediente-5_rp.png" alt="" class="img-fluid" />
                                 </div>
                             </div>
                             <!-- Difucion de contenido intimo privado-->
                             <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="9" data-title="Sextorsión">
-                                    <img src="../img/mod1/1-05_act_expediente-9.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_expediente-9_rp.png" alt="" class="img-fluid" />
                                 </div>
                             </div>
                             <!--Exposicion a contenido inapropiado-->
                             <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="1" data-title="Abuso sexual en línea">
-                                    <img src="../img/mod1/1-05_act_expediente-1.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_expediente-1_rp.png" alt="" class="img-fluid" />
 
                                 </div>
                             </div>
@@ -54,7 +54,7 @@
                             <!--Grooming-->
                             <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="4" data-title="Sexting">
-                                    <img src="../img/mod1/1-05_act_expediente-4.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_expediente-4_rp.png" alt="" class="img-fluid" />
 
                                 </div>
                             </div>
@@ -62,7 +62,7 @@
                             <!-- Morphing-->
                             <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="8" data-title="Phishing">
-                                    <img src="../img/mod1/1-05_act_expediente-8.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_expediente-8_rp.png" alt="" class="img-fluid" />
 
                                 </div>
                             </div>
@@ -70,7 +70,7 @@
                             <!-- Phishing-->
                             <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="6" data-title="Grooming">
-                                    <img src="../img/mod1/1-05_act_expediente-6.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_expediente-6_rp.png" alt="" class="img-fluid" />
 
                                 </div>
                             </div>
@@ -84,7 +84,7 @@
                             <!-- Sextorsion-->
                             <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="3" data-title="Sextorsión">
-                                    <img src="../img/mod1/1-05_act_expediente-3.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_expediente-3_rp.png" alt="" class="img-fluid" />
 
                                 </div>
                             </div>
@@ -92,7 +92,7 @@
                             <!-- Suplantacion de identidad-->
                             <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="10" data-title="Sextorsión">
-                                    <img src="../img/mod1/1-05_act_expediente-10.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_expediente-10_rp.png" alt="" class="img-fluid" />
 
                                 </div>
                             </div>
@@ -100,7 +100,7 @@
                             <!-- Violscion de correspondencia-->
                             <div class="col-6 col-md-3">
                                 <div class="item item-villain" data-slider="11" data-title="Sextorsión">
-                                    <img src="../img/mod1/1-05_act_expediente-11.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_expediente-11_rp.png" alt="" class="img-fluid" />
 
                                 </div>
                             </div>
@@ -167,7 +167,7 @@
                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="../img/mod1/1-05_act_villano-foto-1.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_villano-foto-1_rp.png" alt="" class="img-fluid" />
                                 </div>
                                 <div class="col-sm-9">
                                     <p class="h4">Conducta violenta: Exposición a contenidos inapropiados</p>
@@ -228,7 +228,7 @@
                          <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="../img/mod1/1-05_act_villano-foto-3.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_villano-foto-3_rp.png" alt="" class="img-fluid" />
                                 </div>
                                 <div class="col-sm-9">
                                     <p class="h4">Conducta violenta: Sextorsión</p>
@@ -259,7 +259,7 @@
                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="../img/mod1/1-05_act_villano-foto-4.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_villano-foto-4_rp.png" alt="" class="img-fluid" />
                                 </div>
                                 <div class="col-sm-9">
                                     <p class="h4">Conducta Violenta: Grooming</p>
@@ -300,7 +300,7 @@
                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="../img/mod1/1-05_act_villano-foto-5.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_villano-foto-5_rp.png" alt="" class="img-fluid" />
                                 </div>
                                 <div class="col-sm-9">
                                     <p class="h4">Conducta violenta: Ciberbullying</p>
@@ -330,7 +330,7 @@
                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="../img/mod1/1-05_act_villano-foto-6.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_villano-foto-6_rp.png" alt="" class="img-fluid" />
                                 </div>
                                 <div class="col-sm-9">
                                     <p class="h4">Conducta Violenta: Phishing</p>
@@ -366,7 +366,7 @@
                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="../img/mod1/1-05_act_villano-foto-7.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_villano-foto-7_rp.png" alt="" class="img-fluid" />
                                 </div>
                                 <div class="col-sm-9">
                                     <p class="h4">Delito: Streaming (en vivo) de abuso sexual</p>
@@ -397,7 +397,7 @@
                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="../img/mod1/1-05_act_villano-foto-8.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_villano-foto-8_rp.png" alt="" class="img-fluid" />
                                 </div>
                                 <div class="col-sm-9">
                                     <p class="h4">Conducta Violenta: Morphing</p>
@@ -430,7 +430,7 @@
                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="../img/mod1/1-05_act_villano-foto-9.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_villano-foto-9_rp.png" alt="" class="img-fluid" />
                                 </div>
                                 <div class="col-sm-9">
                                     <p class="h4">Conducta violenta: Difusión de contenido íntimo privado</p>
@@ -464,7 +464,7 @@
                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="../img/mod1/1-05_act_villano-foto-10.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_villano-foto-10_rp.png" alt="" class="img-fluid" />
                                 </div>
                                 <div class="col-sm-9">
                                     <p class="h4">Conducta violenta: Suplantación de identidad.</p>
@@ -492,7 +492,7 @@
                         <div class="row">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <img src="../img/mod1/1-05_act_villano-foto-11.png" alt="" class="img-fluid" />
+                                    <img src="../img/mod1/1-05_act_villano-foto-11_rp.png" alt="" class="img-fluid" />
                                 </div>
                                 <div class="col-sm-9">
                                     <p class="h4">Conducta violenta: Violación de correspondencia y privacidad.</p>

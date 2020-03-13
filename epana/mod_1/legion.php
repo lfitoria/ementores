@@ -29,7 +29,7 @@
                             <p class="text-center intro-label">Internet trae grandes beneficios. Nos da comunicación instantánea con muchísimas personas desde cualquier lugar y nos permite visitar páginas con contenidos de todo tipo. Pero, también puede esconder grandes peligros.</p>
                         </div>
                         <div class="col-12 col-sm-10">
-                            <img src="../img/mod1/1-05_act_intro.png" class="img-fluid ">
+                            <img src="../img/mod1/1-05_act_intro_rp.png" class="img-fluid ">
                         </div>
                         
 

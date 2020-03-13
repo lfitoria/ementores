@@ -57,13 +57,13 @@
                         <div id="act_01p1" class="module-page">
                             <div class="row">
                                 <div class="col-12 col-md-8">
-                                    <p class="intro-label"><strong>Karla es una adolescente de  Desamparados. Tiene 15 años y está en tercer año del Cole.</strong></p>
+                                    <p class="intro-label"><strong>Karla es una adolescente de Barahona. Tiene 15 años y está en tercer año de secundaria.</strong></p>
                                     <p class="intro-label"><strong>Normalmente recibe muchas solicitudes de amistad en redes sociales.</strong></p>
-                                    <p class="intro-label"><strong>Ayúdele a decidir cuales invitaciones aceptar y cuales rechazar.</strong></p><br><br>
+                                    <p class="intro-label"><strong>Ayúdale a decidir cuáles invitaciones aceptar y cuáles rechazar.</strong></p><br><br>
                                     <button class="gotoModulePage btn-start" data-page="2">Iniciar</button>
                                 </div>
                                 <div class="col-12 col-md-4">
-                                    <img src="../img/mod2/2-05_act_img-intro.png" alt="" class="img-fluid m-auto d-block"/>
+                                    <img src="../img/mod2/2-05_act_img-intro_rp.png" alt="" class="img-fluid m-auto d-block"/>
                                 </div>
                             </div>
                         </div>
@@ -72,7 +72,7 @@
 
                             <div class="row align-items-center justify-content-md-center">
                                 <div class="col-12 col-sm-8">
-                <p id="info-p">Revise cada una de las solicitudes de amistad a continuación.<br>Elija si lo más adecuado es aceptarlas o rechazarlas.</p>
+                <p id="info-p">Revisa cada una de las solicitudes de amistad a continuación.<br>Elije si lo más adecuado es aceptarlas o rechazarlas.</p>
             </div>
             </div>
 
@@ -100,7 +100,7 @@
                             <div class="box-solicitud">
                                 <div class="row">
                                     <div class="col-12 col-md-2">
-                                        <img src="../img/mod2/2-05_act_img-alexandra.jpeg" alt="" class="img-fluid"/>
+                                        <img src="../img/mod2/2-05_act_img-alexandra_rp.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-12 col-md-7">
                                         <div class="friend-info">
@@ -139,7 +139,7 @@
                             <div class="box-solicitud">
                                 <div class="row">
                                     <div class="col-12 col-md-2">
-                                        <img src="../img/mod2/2-05_act_img-javier.jpeg" alt="" class="img-fluid"/>
+                                        <img src="../img/mod2/2-05_act_img-javier_rp.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-12 col-md-7">
                                         <div class="friend-info">
@@ -158,7 +158,7 @@
                             <div class="box-solicitud">
                                 <div class="row">
                                     <div class="col-12 col-md-2">
-                                        <img src="../img/mod2/2-05_act_img-jose.jpeg" alt="" class="img-fluid"/>
+                                        <img src="../img/mod2/2-05_act_img-jose_rp.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-12 col-md-7">
                                         <div class="friend-info">
@@ -174,7 +174,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <p class="intro-label text-center text-blue"><strong>Recuerde: Evitar personas desconocidas, y desconfiar de perfiles que podrían ser falsos, es una actitud protectora.</strong></p>
+                            <p class="intro-label text-center text-blue"><strong>Recuerda: Evitar personas desconocidas, y desconfiar de perfiles que podrían ser falsos, es una actitud protectora.</strong></p>
                         </div>
                     </div>
                 </div>
