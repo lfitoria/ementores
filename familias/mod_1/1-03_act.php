@@ -42,7 +42,7 @@
                     </div>
 
                     <div class="nav justify-content-center">
-                        <h1><a class="mx-auto" href="../index.php"><img src="../img/logo-ementores_rp.png"
+                        <h1><a class="mx-auto" href="../index.php"><img src="../img/logo-ementores.png"
                                     alt="Curso en línea uso seguro de internet para familia |  Programa e-mentores Familias"></a>
                         </h1>
                     </div>
