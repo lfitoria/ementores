@@ -35,7 +35,7 @@
 
                             </div>
                             <div class="col-8 col-sm-8 col-md-4  col-lg-4 col-xl-4 text-opensans mx-auto">
-                                <p id="prefooter-place">Ministerio de Educación de la República Dominicana. Avenida Máximo Gómez esquina Santiago, No.02 Gazcue, Distrito Nacional, República Dominicana.</p>
+                                <p id="prefooter-place">Ministerio de Educación - República Dominicana. Avenida Máximo Gómez esquina Santiago, No.02 Gazcue, Distrito Nacional, República Dominicana.</p>
                                 <p id="prefooter-phone">809-688-9700</p>
                                 <p id="prefooter-mail"><a href="mailto:info@minerd.gob.do">info@minerd.gob.do</a></p>
                             </div>
