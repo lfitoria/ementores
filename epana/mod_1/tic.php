@@ -29,7 +29,7 @@
                             <div class="cont row">
                                 <div class="col-12">
                                     <video width="100%" height="auto" id="video" poster="../img/videos/vistas-1-01.png" controls preload="auto">
-                                        <source src="../videos/1-01_vid.mp4" type="video/mp4">
+                                        <source src="../../../familias/videos/1-01_vid.mp4" type="video/mp4">
                                     </video>
                                     <a href="../0-03_menu.php#mod1" class="back_to_menu d-none">Volver al menú</a>
 <p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>
