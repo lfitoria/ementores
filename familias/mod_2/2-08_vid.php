@@ -55,8 +55,9 @@
                         <div id="act_01" class="">
                             <div class="cont row">
                                 <div class="col-12">
-                                    <video width="100%" height="auto" id="video" poster="../img/videos/vistas-2-08.png" controls>
-                                        <source src="../videos/2-08_vid.mp4" type="video/mp4">
+                                    <!-- <video width="100%" height="auto" id="video" poster="../img/videos/vistas-2-08.png" controls> -->
+                                    <video width="100%" height="auto" id="video" controls>
+                                        <source src="../videos/02-08_vid_RD.mp4" type="video/mp4">
                                     </video>
                                     <a href="../0-03_menu.php#mod2" class="back_to_menu d-none">Volver al menú</a>
                                 </div>

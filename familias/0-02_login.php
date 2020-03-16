@@ -174,7 +174,7 @@
                                         
                                         <div class="selector">
                                                 <input type="checkbox" id="cambiocredenciales" class="text-muted" value="1">
-                                                <label for="cambiocredenciales" class="text-muted text-center" style="font-size: 0.8em;">Ingresar mediante número de cédula o número de residencia</label>
+                                                <label for="cambiocredenciales" class="text-muted text-center">Ingresar mediante número de cédula o número de residencia</label>
                                                 </div>
                                             
                                         <!-- fin -->

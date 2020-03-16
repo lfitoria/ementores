@@ -180,7 +180,7 @@ session_start();
                         <h3>Queremos conocerte.</h3>
                         <div class="row justify-content-center">
                             <div class="col col-sm-10">
-                                <p class="label text-center" style="font-size: 1.3em;">
+                                <p class="label text-center" style="font-size: 1.3em;line-height: 20px;">
                                     Si tenés 11 años o más este espacio es para ti.
                                     <br>
                                     e-pana es un espacio con recursos audiovisuales para que chicas y chicos aprendan a
@@ -193,7 +193,7 @@ session_start();
                         <hr>
                         <div class="row justify-content-center">
                             <div class="col col-sm-6">
-                                <p class="label"><i class="fas fa-user-alt"></i> Nombre</p>
+                                <p class="label"><i class="fas fa-user-alt"></i> Nombre completo</p>
                                 <input type="text" name="nombre" placeholder="">
                                 <p class="small d-none text-center" id="warone">Recordá completar este espacio.</p>
                             </div>

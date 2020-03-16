@@ -73,8 +73,9 @@
                                 <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
                                     <div class="embed-responsive embed-responsive-16by9 main-div-iframe">
                                         <!-- <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LLsdaT4NWu0?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
-                                        <video width="100%" height="auto" id="video" poster="img/videos/vistas-Iintro.png" controls>
-                                            <source src="videos/0-introduccion_vid.mp4" type="video/mp4">
+                                        <!-- <video width="100%" height="auto" id="video" poster="img/videos/vistas-Iintro.png" controls> -->
+                                        <video width="100%" height="auto" id="video" controls>
+                                            <source src="videos/0-intro_vid_RD.mp4" type="video/mp4">
                                         </video>
                                     </div>
                                 </div>
@@ -99,7 +100,7 @@
                         </div>
                     </section>
                     <section class="container-full index-decoracion mx-auto">
-                        <img src="img/footer/footer-familia.png" class="familia-imagen-decoracion mx-auto" alt="Curso en línea uso seguro de internet para familia |  Programa e-mentores Familias">
+                        <img src="img/footer/footer-familia_rp.png" class="familia-imagen-decoracion mx-auto" alt="Curso en línea uso seguro de internet para familia |  Programa e-mentores Familias">
                     </section>
                 </section>
                 <!-- <section id="prefooter" class="container-full padding-top-bottom">

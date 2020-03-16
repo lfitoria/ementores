@@ -41,24 +41,27 @@ ser el primero en enterarte de lo nuevo</p> -->
                 <div class="col">
                     <p class="support-label">Con el apoyo de:</p>
                     <a href="https://www.end-violence.org" target="_blank" rel="noopener noreferrer">
-                    <img src="/familias/img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos">
+                    <img src="/familias/img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" style="width: 237px;">
                     </a>
                 </div>
                 <div class="col">
                     <p class="support-label">Respaldo institucional de:</p>
                     <div class="res-insti-rp">
                         <a href="https://plan-international.org/es/republica-dominicana" target="_blank">
-                        <img src="/familias/img/footer/PLAN.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" style="width: 45%;margin-left: 10px;">
+                        <img src="/familias/img/footer/PLAN.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" >
                         </a>
                         <a href="https://www.unicef.org/" target="_blank">
-                        <img src="/familias/img/footer/Unicef-logo.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" style="width: 45%;margin-left: 10px;">
+                        <img src="/familias/img/footer/Unicef-logo.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" >
+                        </a>
+                        <a href="#" target="_blank">
+                        <img src="/familias/img/footer/footer-logo-paniamor.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" >
                         </a>
                     </div>
                 </div>
                 <div class="col">
                     <p class="support-label">Una iniciativa de:</p>
                     <a href="http://www.ministeriodeeducacion.gob.do/" target="_blank">
-                    <img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 40%;">
+                    <img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 26%;">
                     </a>
                 </div>
                 
