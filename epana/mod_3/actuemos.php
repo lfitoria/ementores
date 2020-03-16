@@ -163,9 +163,10 @@ session_start();
                                     <div class="card-body">
                                         <div class="col-12">
                                             <div class="video-item">
-                                                <video width="100%" height="auto" id="video1"
-                                                    poster="../img/videos/vistas-3-05-1.png" controls>
-                                                    <source src="../videos/3-05_vid sofia-adolescentes.mp4"
+                                                <!-- <video width="100%" height="auto" id="video1"
+                                                    poster="../img/videos/vistas-3-05-1.png" controls> -->
+                                                <video width="100%" height="auto" id="video1" controls>
+                                                    <source src="../../../familias/videos/3-05_vid_RD_ePana_sofia.mp4"
                                                         type="video/mp4">
                                                 </video>
                                             </div>
@@ -232,7 +233,7 @@ session_start();
                                             <div class="video-item">
                                                 <video width="100%" height="auto" id="video2"
                                                     poster="../img/videos/vistas-3-05-2.png" controls>
-                                                    <source src="../videos/3-05_vid steven y valeria-adolescentes.mp4"
+                                                    <source src="../../../familias/videos/3-05_vid_RD_eFamilias_steven-valeria.mp4"
                                                         type="video/mp4">
                                                 </video>
                                             </div>
@@ -299,9 +300,10 @@ session_start();
                                     <div class="card-body">
                                         <div class="col-12">
                                             <div class="video-item">
-                                                <video width="100%" height="auto" id="video3"
-                                                    poster="../img/videos/vistas-3-05-3.png" controls>
-                                                    <source src="../videos/3-05_vid_erick-Ecompas.mp4" type="video/mp4">
+                                                <!-- <video width="100%" height="auto" id="video3"
+                                                    poster="../img/videos/vistas-3-05-3.png" controls> -->
+                                                    <video width="100%" height="auto" id="video3" controls>
+                                                    <source src="../../../familias/videos/3-05_vid_ePana-erick.mp4" type="video/mp4">
                                                 </video>
 
                                             </div>
