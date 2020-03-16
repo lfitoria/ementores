@@ -952,6 +952,14 @@ a#back_family:before {
 a#back_family:hover {
     transform: scale(1.05);
 }
+.res-insti-rp {
+    display: flex;
+    align-items: baseline;
+}
+.res-insti-rp a {
+    width: 34%;
+}
+
 @media (min-width: 576px) { 
     a.icovolver {
     position: absolute;

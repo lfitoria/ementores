@@ -23,7 +23,7 @@
                 <h2 class="title-cx" id="titleancla">
                     Las TIC en todos lados y a todas horas
                 </h2>
-                <img id="vol-img" src="../img/E-COMPAS-audio.png">
+                <img id="vol-img" src="../img/E-COMPAS-audio_rp.png">
                     <div class="main">
                         <div id="act_01" class="">
                             <div class="cont row">

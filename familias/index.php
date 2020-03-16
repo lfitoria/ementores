@@ -99,7 +99,7 @@
                         </div>
                     </section>
                     <section class="container-full index-decoracion mx-auto">
-                        <img src="img/footer/footer-familia.png" class="familia-imagen-decoracion mx-auto" alt="Curso en línea uso seguro de internet para familia |  Programa e-mentores Familias">
+                        <img src="img/footer/footer-familia_rp.png" class="familia-imagen-decoracion mx-auto" alt="Curso en línea uso seguro de internet para familia |  Programa e-mentores Familias">
                     </section>
                 </section>
                 <!-- <section id="prefooter" class="container-full padding-top-bottom">

@@ -70,7 +70,7 @@
                         </section>
                     </div>
                     <section class="container-full index-decoracion mx-auto">
-                        <img src="img/footer/footer-familia.png" class="familia-imagen-decoracion mx-auto" alt="Familia">
+                        <img src="img/footer/footer-familia_rp.png" class="familia-imagen-decoracion mx-auto" alt="Familia">
                     </section>
                 </section>
                

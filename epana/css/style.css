@@ -58,7 +58,7 @@ img{
 img#vol-img {
 margin: auto;
 display: block;
-width: 500px;
+/* width: 500px; */
 height: auto;
 }
 
@@ -1247,7 +1247,7 @@ overflow: hidden;
 display: block;
 width: 90%;
 margin:auto;
-margin-top: 10px;
+margin-top: 0px;
 }
 
 #boxelo {
@@ -1413,6 +1413,13 @@ margin-top: 30px!important;
 }
 .logosbottom {
     margin-top: 25px;
+}
+.res-insti-rp {
+    display: flex;
+    align-items: baseline;
+}
+.res-insti-rp a {
+    width: 34%;
 }
 /*medias*/
 @media (max-width: 767px) { 
@@ -1626,7 +1633,7 @@ min-height: 291px;
 }
     #logo-flotante img {
 
-width: 100%;
+width: 80%;
 padding: 0;
 }
 .header-top {
@@ -1719,6 +1726,11 @@ padding-left: 20px;
 }/*fin 1200*/
 
 @media (min-width: 1600px) { 
+    #logo-flotante img {
+
+        width: 100%;
+        padding: 0;
+        }
     .header-top {
         min-height: 700px;
 

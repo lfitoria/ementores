@@ -78,6 +78,7 @@
 
 
                     <div class="bck-intro padding-top-bottom">
+                    <h2 style="color: white;text-align: center;">Versión para validación</h2>
                         <section class="container">
                             <div class="row justify-content-md-center">
                                 <div class="main-block-menu">

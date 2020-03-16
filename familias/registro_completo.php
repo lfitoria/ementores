@@ -77,15 +77,16 @@
                                     
                                     <form action="db/user/insert_user_complete.php" method="POST" id="registro_usuario">
                                         <div class="form-group">
-                                            <p class="text-center label">¿Cuál es su nombre?</p>
-                                            <p class="text-center label-small">Hola, mi nombre es:</p>
-                                            <input type="text" class="form-control" name="name" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nombre" required>
+                                            <p class="text-center label">¿Cuál es tu nombre?</p>
+                                            <p class="text-center label-small">Hola, mi nombre completo es:</p>
+                                            <input type="text" class="form-control" name="name" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nombre completo" required>
                                             <input type="hidden" name="step" value="2"> 
+                                            <p class="small text-center">Nombre y dos apellidos</p>
                                         </div>
                                         <hr>
                                         <!-- genero -->
                                         <div class="form-group">
-                                            <p class="text-center label">Escoja su personaje</p>
+                                            <p class="text-center label">Escoja tu personaje</p>
                                             <div class="row">
                                                 <div class="form-check d-inline-block col-6 chk-female">
                                                     <input class="form-check-input d-none" type="radio" name="genre" id="exampleRadios1" value="1">
@@ -105,7 +106,7 @@
                                         <hr>
                                         <!-- fecha -->
                                         <div class="form-group">
-                                            <p class="text-center label">¿Cuál es su año de nacimiento?</p>
+                                            <p class="text-center label">¿Cuál es tu año de nacimiento?</p>
                                             <select class="form-control year" name="year" required>
                                                 <?php for ($i = 2018; $i >= 1900; $i--) { ?>
                                                     <option class="<?php print $i ?>"><?php print $i ?></option>
@@ -118,7 +119,7 @@
                                         <div class="form-grupo">
                                         <div class="row justify-content-center">
                                         <div class="col-sm-6">
-                                            <p class="label"><i class="fas fa-map-marked-alt"></i> Lugar de Residencia</p>
+                                            <p class="label"><i class="fas fa-map-marked-alt"></i> Lugar de residencia</p>
                             
                                             <!-- <select name="state" class="form-control year" required>
                                                 <option value="">Provincia</option>

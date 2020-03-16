@@ -51,7 +51,7 @@
                         <section class="container">
                             <div class="header-familias row justify-content-md-center">
                                 <div class="col-sm-10 main-block back-girl">
-                                    <img src="img/internas/img-header1.png" alt="" class="img-fluid"/>
+                                    <img src="img/internas/img-header1_rp.png" alt="" class="img-fluid"/>
                                     <h2 class="text-center"></h2>
                                 </div>
                             </div>
@@ -70,7 +70,7 @@
                         </section>
                     </div>
                     <section class="container-full index-decoracion mx-auto">
-                        <img src="img/footer/footer-familia.png" class="familia-imagen-decoracion mx-auto" alt="Familia">
+                        <img src="img/footer/footer-familia_rp.png" class="familia-imagen-decoracion mx-auto" alt="Familia">
                     </section>
                 </section>
                
