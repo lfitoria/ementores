@@ -465,7 +465,8 @@ Un día su tío le pregunta con quién pasa hablando todo el día y Eric le resp
 
         $("#video2").on("timeupdate", function() {
             console.log(parseInt(this.currentTime * 1000));
-            if (parseInt(this.currentTime * 1000) >= 36000 && parseInt(this.currentTime * 1000) <= 36000) {
+            // if (parseInt(this.currentTime * 1000) >= 36000 && parseInt(this.currentTime * 1000) <= 36000) {
+            if (parseInt(this.currentTime * 1000) == 36000) {
                 this.pause();
                 time = 37;
                 video = document.getElementById("video2");
@@ -477,7 +478,8 @@ Un día su tío le pregunta con quién pasa hablando todo el día y Eric le resp
 
         $("#video3").on("timeupdate", function() {
             console.log(parseInt(this.currentTime));
-            if (parseInt(this.currentTime * 1000) >= 38000 && parseInt(this.currentTime * 1000) <= 38000) {
+            // if (parseInt(this.currentTime * 1000) >= 38000 && parseInt(this.currentTime * 1000) <= 38000) {
+            if (parseInt(this.currentTime * 1000) == 38000) {
                 this.pause();
 
                 time = 39;
