@@ -456,7 +456,7 @@ Un día su tío le pregunta con quién pasa hablando todo el día y Eric le resp
             if (parseInt(this.currentTime) == 26) {
                 this.pause();
 
-                time = 26;
+                time = 27;
                 video = document.getElementById("video1");
                 modal = $(this).parent().parent().find(".modal")
                 modal.modal("show");
