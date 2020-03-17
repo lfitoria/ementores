@@ -954,10 +954,11 @@ a#back_family:hover {
 }
 .res-insti-rp {
     display: flex;
-    align-items: baseline;
+    align-items: center;
 }
 .res-insti-rp a {
     width: 34%;
+    margin: 0 5px;
 }
 
 @media (min-width: 576px) { 

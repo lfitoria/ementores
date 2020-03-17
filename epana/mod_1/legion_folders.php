@@ -505,7 +505,7 @@
                                 </div>
                             </div>
                             <div class="row text-modus">
-                                <p><strong>¿Qué hace un  e-compa ?</strong><br>
+                                <p><strong>¿Qué hace un  e-pana ?</strong><br>
                                 <ul>
                                     <li> Tener presente que aunque sea tu pareja la persona que se apropia de tus dispositivos, él o ella está cometiendo un delito, violando tu libertad.</li>
                                     <li>Buscar apoyo de una persona de confianza.</li>
@@ -552,20 +552,20 @@
             });
         });
 
-        $('#modal_1-07_act').on('hidden.bs.modal', function(e) {
-            var flag = 0;
-            for (i = 0; i < array.length; i++) {
-                flag = flag + array[i];
-            }
+        // $('#modal_1-07_act').on('hidden.bs.modal', function(e) {
+        //     var flag = 0;
+        //     for (i = 0; i < array.length; i++) {
+        //         flag = flag + array[i];
+        //     }
 
-            if (flag === 8) {
-                console.log(flag);
-                $("#modal_1-07_act .act5-mdl").addClass("d-none");
-                $("#modal_1-07_act .act05-9").removeClass("d-none");
-                $("#modal_1-07_act .modal-header span").text("En conclusión...");
-                $("#modal_1-07_act").modal("show");
-            }
-        });
+        //     if (flag === 8) {
+        //         console.log(flag);
+        //         $("#modal_1-07_act .act5-mdl").addClass("d-none");
+        //         $("#modal_1-07_act .act05-9").removeClass("d-none");
+        //         $("#modal_1-07_act .modal-header span").text("En conclusión...");
+        //         $("#modal_1-07_act").modal("show");
+        //     }
+        // });
 
         // $.ajax({
         //     url: "../db/user/update_module.php",

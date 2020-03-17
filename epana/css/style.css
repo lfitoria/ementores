@@ -1416,10 +1416,11 @@ margin-top: 30px!important;
 }
 .res-insti-rp {
     display: flex;
-    align-items: baseline;
+    align-items: center;
 }
 .res-insti-rp a {
     width: 34%;
+    margin: 0 6px;
 }
 /*medias*/
 @media (max-width: 767px) { 
@@ -1684,17 +1685,17 @@ width: 400px;
 top: 18px;
 }
 #logo-texto {
-position: absolute;
-z-index: 111;
-margin-left: auto;
-right: 0;
-left: 30%;
-margin-right: auto;
-width: 360px;
-top: 250px;
-background-color: #F5F561;
-padding: 33px;
-font-size: 1.4em;
+    position: absolute;
+    z-index: 111;
+    margin-left: auto;
+    right: 0;
+    left: 40%;
+    margin-right: auto;
+    width: 345px;
+    top: 250px;
+    background-color: #F5F561;
+    padding: 10px;
+    font-size: 1.4em;
 }
 
 .box-iniciativa {
