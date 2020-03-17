@@ -31,7 +31,7 @@
                                     <button class="gotoModulePage btn-start" data-page="2">Iniciar</button>
                                 </div>
                                 <div class="col-12 col-md-4">
-                                    <img src="../img/mod2/2-05_act_img-intro.png" alt="" class="img-fluid m-auto d-block"/>
+                                    <img src="../../../familias/img/mod2/2-05_act_img-intro_rp.png" alt="" class="img-fluid m-auto d-block"/>
                                 </div>
                             </div>
                         </div>
@@ -68,7 +68,7 @@
                             <div class="box-solicitud">
                                 <div class="row">
                                     <div class="col-12 col-md-2">
-                                        <img src="../img/mod2/2-05_act_img-alexandra.jpeg" alt="" class="img-fluid"/>
+                                        <img src="../../../familias/img/mod2/2-05_act_img-alexandra_rp.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-12 col-md-7">
                                         <div class="friend-info">
@@ -107,7 +107,7 @@
                             <div class="box-solicitud">
                                 <div class="row">
                                     <div class="col-12 col-md-2">
-                                        <img src="../img/mod2/2-05_act_img-javier.jpeg" alt="" class="img-fluid"/>
+                                        <img src="../../../familias/img/mod2/2-05_act_img-javier_rp.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-12 col-md-7">
                                         <div class="friend-info">
@@ -126,7 +126,7 @@
                             <div class="box-solicitud">
                                 <div class="row">
                                     <div class="col-12 col-md-2">
-                                        <img src="../img/mod2/2-05_act_img-jose.jpeg" alt="" class="img-fluid"/>
+                                        <img src="../../../familias/img/mod2/2-05_act_img-jose_rp.png" alt="" class="img-fluid"/>
                                     </div>
                                     <div class="col-12 col-md-7">
                                         <div class="friend-info">
