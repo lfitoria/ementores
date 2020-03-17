@@ -64,8 +64,7 @@
                     <div class="col-12 col-sm-8">
 
 
-                        <p id="info-p">Haga clic en las pestañas para ver los videos. Cuando se le presente una pregunta, elija la opción que considere adecuada.</p>
-
+                        <p id="info-p">Haz clic en las pestañas para ver los videos. Cuando se te presente una pregunta, elije la opción que consideres adecuada.</p>
                     </div>
                 </div>
                 <div class="main">
@@ -420,7 +419,7 @@
                 if (parseInt(this.currentTime) == 24) {
                     this.pause();
 
-                    time = 25;
+                    time = 26;
                     video = document.getElementById("video1");
                     modal = $(this).parent().parent().find(".modal")
                     modal.modal("show");
@@ -431,7 +430,7 @@
                 console.log(parseInt(this.currentTime * 1000));
                 if (parseInt(this.currentTime * 1000) >= 33500 && parseInt(this.currentTime * 1000) <= 33900) {
                     this.pause();
-                    time = 34;
+                    time = 36;
                     video = document.getElementById("video2");
                     modal = $(this).parent().parent().find(".modal")
                     modal.modal("show");
@@ -444,7 +443,7 @@
                 if (parseInt(this.currentTime * 1000) >= 35500 && parseInt(this.currentTime * 1000) <= 35900) {
                     this.pause();
 
-                    time = 36;
+                    time = 38;
                     video = document.getElementById("video3");
                     modal = $(this).parent().parent().find(".modal")
                     modal.modal("show");

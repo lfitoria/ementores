@@ -62,7 +62,7 @@
 </head>
 <button class="encuesta-modal" data-toggle="modal" data-target=".modal_encuesta">
     <p class="d-flex">¿Qué te parece
-        <img id="img-encuesta-fixed" src="https://ementores.org/themes/gestion/img/e-compas_color.png">
+    <img id="img-encuesta-fixed" src="/epana/img/epana_survey.png">
         ?
     </p>
 </button>
@@ -121,10 +121,9 @@ session_start();
                 <div class="row align-items-center justify-content-md-center">
                     <div class="col-12 col-sm-8 p-ins">
 
-
-                        <p id="info-p"><strong>Hacé clic en las pestañas para ver los videos. Cuando se le presente una
-                                pregunta, elija la opción que considere adecuada.
-                            </strong><img id="vol-img" src="../img/E-COMPAS-audio.png">
+                        
+                        <p id="info-p"><strong>Haz clic en las pestañas para ver los videos. Cuando se te presente una pregunta, elije la opción que consideres adecuada.
+                            </strong><img id="vol-img" src="../img/E-COMPAS-audio_rp.png">
                         </p>
 
                     </div>
@@ -182,7 +181,7 @@ session_start();
                                                                         nada pero su mamá, preocupada, le pide ver los
                                                                         mensajes. Ella no quiere porque le da vergüenza.
                                                                     </p>
-                                                                    <p class="font-weight-bold h4">¿Qué debería hacer Sofía?</p>
+                                                                    <p class="font-weight-bold" style="font-size: 1.6em;">¿Qué debería hacer Sofía?</p>
                                                                     <div class="row">
                                                                         <div class="col-12 col-md-6">
                                                                             <button class="btn btn-info"
@@ -233,7 +232,7 @@ session_start();
                                             <div class="video-item">
                                                 <video width="100%" height="auto" id="video2"
                                                     poster="../img/videos/vistas-3-05-2.png" controls>
-                                                    <source src="../../../familias/videos/3-05_vid_RD_eFamilias_steven-valeria.mp4"
+                                                    <source src="../../../familias/videos/3-05_vid_RD_ePana_steven-valeria.mp4"
                                                         type="video/mp4">
                                                 </video>
                                             </div>
@@ -252,7 +251,7 @@ session_start();
                                                                         cambio de no publicarlas en Facebook. Steven
                                                                         empieza a sacarse malas notas. Valeria deja de
                                                                         comer y llora todo el día. </p>
-                                                                    <p class="font-weight-bold h4">¿Qué deben hacer Steven y Valeria?</p>
+                                                                    <p class="font-weight-bold" style="font-size: 1.6em;">¿Qué deben hacer Steven y Valeria?</p>
                                                                     <div class="row">
                                                                         <div class="col-12 col-md-6">
                                                                             <button class="btn btn-info"
@@ -316,19 +315,19 @@ session_start();
                                                             <div class="row">
                                                                 <div class="col-12">
                                                                     <p class="font-weight-bold">Eric es un chico de 17 años que conoció a María José en redes sociales. <br>
-Un día su tío le pregunta con quién pasa hablando todo el día y Eric le responde que es sólo una amiga llamado María José. "¿Del colegio?", pregunta su tío. "No", responde Eric, "la conocí en Facebook". Unos días después, su tío busca el perfil de María José en Facebook y descubre que es una mujer adulta de 34 años. Preocupado, le pide a Eric alejarse María José, éste se enoja y le dice que no hablen más del tema, él ya es grande y puede escoger con quien relacionarse. </p>
-                                                                    <p class="font-weight-bold h4">¿Qué podría hacer una persona adulta para acompañar a Erick?.</p>
+Un día su tío le pregunta con quién pasa hablando todo el día y Eric le responde que es sólo una amiga llamada María José. "¿Del colegio?", pregunta su tío. "No", responde Eric, "la conocí en Facebook". Unos días después, su tío busca el perfil de María José en Facebook y descubre que es una mujer adulta de 34 años. Preocupado, le pide a Eric alejarse María José, éste se enoja y le dice que no hablen más del tema, él ya es grande y puede escoger con quien relacionarse. </p>
+                                                                    <p class="font-weight-bold" style="font-size: 1.6em;">¿Qué debería hacer Erick?</p>
                                                                     <div class="row">
                                                                         <div class="col-12 col-md-6">
                                                                             <button class="btn btn-info"
                                                                                 style="display: block; width: 100%; white-space: normal;"
-                                                                                onclick="playVideo()">Ofrecer un espacio de confianza. Hacerle ver los riesgos de enviar fotografías y videos demasiado personales a personas que nunca ha visto.</button>
+                                                                                onclick="playVideo()">Escuchar a su tío y alejarse de Maria José. Las relaciones sexuales entre menores de edad y adultos no son adecuadas y esta situación puede volverse difícil de manejar.</button>
                                                                             <br>
                                                                         </div>
                                                                         <div class="col-12 col-md-6">
                                                                             <button class="btn btn-info"
                                                                                 style="display: block; width: 100%; white-space: normal;"
-                                                                                onclick="playVideo()">Informarle sobre los riesgos y prohibiciones de establecer este tipo de vínculos con personas adultas. Informarle sobre las relaciones impropias. Y si es necesario acompañarle a poner una denuncia.</button>
+                                                                                onclick="playVideo()">Seguir hablando con Maria José como si nada. De por sí, él ya está grande y puede escoger con quién se mete.</button>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -457,7 +456,7 @@ Un día su tío le pregunta con quién pasa hablando todo el día y Eric le resp
             if (parseInt(this.currentTime) == 24) {
                 this.pause();
 
-                time = 25;
+                time = 26;
                 video = document.getElementById("video1");
                 modal = $(this).parent().parent().find(".modal")
                 modal.modal("show");
@@ -468,7 +467,7 @@ Un día su tío le pregunta con quién pasa hablando todo el día y Eric le resp
             console.log(parseInt(this.currentTime * 1000));
             if (parseInt(this.currentTime * 1000) >= 33500 && parseInt(this.currentTime * 1000) <= 33900) {
                 this.pause();
-                time = 34;
+                time = 36;
                 video = document.getElementById("video2");
                 modal = $(this).parent().parent().find(".modal")
                 modal.modal("show");
@@ -481,7 +480,7 @@ Un día su tío le pregunta con quién pasa hablando todo el día y Eric le resp
             if (parseInt(this.currentTime * 1000) >= 35500 && parseInt(this.currentTime * 1000) <= 35900) {
                 this.pause();
 
-                time = 36;
+                time = 38;
                 video = document.getElementById("video3");
                 modal = $(this).parent().parent().find(".modal")
                 modal.modal("show");

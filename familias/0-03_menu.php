@@ -48,7 +48,7 @@
 
 
                     if (is_null($user)) {
-                        echo '<script>window.location="http://rd.ementores.org/familias/0-04_prelogin.php"</script>';
+                        echo '<script>window.location="http://rd.ementores.org/familias/0-04_intro.php"</script>';
                         die();
                     }
 
