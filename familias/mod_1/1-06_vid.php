@@ -53,8 +53,9 @@
                         <div id="act_01" class="">
                             <div class="cont row">
                                 <div class="col-12">
-                                    <video width="100%" height="auto" poster="../img/videos/vistas-1-06.png" controls preload="auto">
-                                        <source src="../videos/1-06_vid.mp4" type="video/mp4">
+                                    <!-- <video width="100%" height="auto" poster="../img/videos/vistas-1-06.png" controls preload="auto"> -->
+                                    <video width="100%" height="auto" controls preload="auto">
+                                        <source src="./../../epana/videos/1-06_vid_rd.mp4" type="video/mp4">
                                     </video>
                                     <a href="../0-03_menu.php#mod1" class="back_to_menu d-none">Volver al menú</a>
                                 </div>

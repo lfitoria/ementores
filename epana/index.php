@@ -248,6 +248,7 @@ session_start();
 
                                 <select id="first-choice" class="form-control year" name="user_provincia">
                                     <option selected value="">Provincia...</option>
+                                    <option value="distrito_nacional">DISTRITO NACIONAL</option>
                                     <option value="la_altagracia">LA ALTAGRACIA</option>
                                     <option value="azua">AZUA</option>
                                     <option value="bahoruco">BAHORUCO</option>

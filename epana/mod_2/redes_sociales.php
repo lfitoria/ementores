@@ -25,7 +25,7 @@
                         <div id="act_01p1" class="module-page">
                             <div class="row">
                                 <div class="col-12 col-md-8">
-                                    <p class="intro-label"><strong>Karla es una adolescente de Barahona. Tiene 15 años y está en tercer año de secundaria.</strong></p>
+                                    <p class="intro-label"><strong>Karla es una adolescente de Barahona. Tiene 15 años y está en tercer año de bachillerato.</strong></p>
                                     <p class="intro-label"><strong>Normalmente recibe muchas solicitudes de amistad en redes sociales.</strong></p>
                                     <p class="intro-label"><strong>Ayúdale a decidir cuáles invitaciones aceptar y cuáles rechazar.</strong></p><br><br>
                                     <button class="gotoModulePage btn-start" data-page="2">Iniciar</button>

@@ -188,8 +188,8 @@
 
                                         <div class="form-group id-input cr-id">
                                             <p class="text-center label-small">Escriba su número de cédula</p>
-                                            <input type="text" class="required form-control text-number mr-auto" id="cr-id-input" minlength="9" maxlength="9" aria-describedby="idHelp" placeholder="X0XXX0XXX" >
-                                            <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 101110111</small>
+                                            <input type="text" class="required form-control text-number mr-auto" id="cr-id-input" minlength="11" maxlength="11" aria-describedby="idHelp" placeholder="XXXXXXXXXXXX" >
+                                            <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 00100123456</small>
 
                                         </div> 
 
