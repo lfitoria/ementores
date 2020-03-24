@@ -127,7 +127,7 @@
 
 	                                        <p class="text-center label-small">Escribe tu número de residencia</p>
 	                                        <input type="text" class="form-control text-number mr-auto" id="cr-id-input2" aria-describedby="idHelp" minlength="11" maxlength="11" placeholder="XXXXXXXXXXX">
-	                                        <small id="emailHelp" class="form-text text-muted">Escribe solamente números, sin espacios. <br>Por ejemplo: 117000112002</small>
+	                                        <small id="emailHelp" class="form-text text-muted">Escribe solamente números, sin espacios. <br>Por ejemplo: 00100123456</small>
 	                                    </div> 
 	                                    <input type="hidden" name="type" value="1">
 	                                    
