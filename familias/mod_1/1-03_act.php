@@ -254,7 +254,7 @@
                                                         </div>
                                                         <div class="col-12 col-sm-10">
                                                             <p>
-                                                                La semana pasada, un amigo de Daniel, publicó en Facebook sin su permiso una fotografía que a él le daba mucha vergüenza ¡y no la quería quitar! Daniel estaba muy molesto, porque esa era una foto para bromear entre ellos, pero no para subirla a Facebook. <br> ¿Sabés cómo configurar tus redes sociales para que aprobés las etiquetas y lo que sale en tus perfiles? Visitá acá los detalles para algunas de las redes sociales más utilizadas.
+                                                                La semana pasada, un amigo de Daniel, publicó en Facebook sin su permiso una fotografía que a él le daba mucha vergüenza ¡y no la quería quitar! Daniel estaba muy molesto, porque esa era una foto para bromear entre ellos, pero no para subirla a Facebook. <br> ¿Sabés cómo configurar tus redes sociales para que aprobés las etiquetas y lo que sale en tus perfiles? Visitá <a href="1-02_inf.php" style="color: white;font-size: 1em">aquí</a> los detalles para algunas de las redes sociales más utilizadas.
 
                                                             </p>
                                                         </div>
