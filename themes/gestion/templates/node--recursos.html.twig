@@ -7,9 +7,7 @@
 			{# <img src="{{content.field_image|field_value}}" class="img-fluid image"> #}
 			{{content.field_image|field_value}}
 			{% endif %}
-			{% if content.field_archivo|render %}
-			<a href="{{content.field_archivo|field_value}}" class="download-file" download>Descargar archivo</a>
-			{% endif %}					
+							
 			</div>
 		</div>
 		{% endif %}
@@ -27,6 +25,9 @@
 		<img src="{{content.field_infografia|field_value}}" class="img-fluid infografia">
 		<a href="{{content.field_infografia|field_value}}" class="download-file" download>Descargar infografía</a>
 		{% endif %}
+		{% if content.field_archivo|render %}
+			<a href="{{content.field_archivo|field_value}}" class="download-file" download>Descargar archivo</a>
+		{% endif %}	
 		{% if content.body|render %}
 		
 		<div class="col register">
