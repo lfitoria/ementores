@@ -21,10 +21,10 @@
 		  Your browser does not support the video tag.
 		</video>
 		{% endif %}
-		{# {% if content.field_infografia|render %}
+		{% if content.field_infografia|render %}
 		<img src="{{content.field_infografia|field_value}}" class="img-fluid infografia">
-		<a href="{{content.field_infografia|field_value}}" class="download-file" download>Descargar infografía</a>
-		{% endif %} #}
+		{# <a href="{{content.field_infografia|field_value}}" class="download-file" download>Descargar infografía</a> #}
+		{% endif %}
 		{% if content.field_archivo|render %}
 			<a href="{{content.field_archivo|field_value}}" class="download-file" download>Descargar archivo</a>
 		{% endif %}	
