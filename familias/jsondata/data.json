@@ -1,4 +1,5 @@
 {
+    "distrito_nacional": "Distrito Nacional",
     "la_altagracia": "Higuey,San Rafael Del Yuma",
     "azua": "Azua,Padre Las Casas,Guayabal,Peralta,Sabana Yegua,Las Yayas De Viajama,Tabara Arriba,Estebania,Las Charcas,Pueblo Viejo",
     "pepe": "asdasd",
@@ -30,6 +31,5 @@
     "santiago_rodriguez": "Moncion,San Ignacio De Sabaneta,Villa Los Almacigos",
     "valverde": "Esperanza,Mao,Laguna Salada",
     "san_jose_de_ocoa": "San Jose De Ocoa,Sabana Larga,Rancho Arriba",
-    "santo_domingo": "Santo Domingo Este,Santo Domingo Oeste,Santo Domingo Norte,Boca Chica,San Antonio De Guerra,Pedro Brand,Los Alcarrizos",
-    "distrito_nacional": "Distrito Nacional"
+    "santo_domingo": "Santo Domingo Este,Santo Domingo Oeste,Santo Domingo Norte,Boca Chica,San Antonio De Guerra,Pedro Brand,Los Alcarrizos"
 }

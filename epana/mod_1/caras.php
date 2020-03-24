@@ -283,7 +283,7 @@
                                                                                 para subirla a Facebook. <br> ¿Sabes
                                                                                 cómo configurar tus redes sociales para
                                                                                 que apruebes las etiquetas y lo que sale
-                                                                                en tus perfiles? Visita acá los detalles
+                                                                                en tus perfiles? Visita <a href="#" style="color: white;font-size: 1em">aquí</a> los detalles
                                                                                 para algunas de las redes sociales más
                                                                                 utilizadas.
                                                                             </p>
@@ -327,7 +327,7 @@
                                                                                 alt="First slide">
                                                                         </div>
                                                                         <div class="col-12 col-sm-10">
-                                                                            <p> Luci conversa seguido con sus amistades,
+                                                                            <p> Lucy conversa seguido con sus amistades,
                                                                                 y hasta con familiares que viven en otro
                                                                                 país. Intercambia videos y da sus
                                                                                 opiniones sobre los temas que más le
@@ -361,7 +361,7 @@
                                                                                 alt="First slide">
                                                                         </div>
                                                                         <div class="col-12 col-sm-10">
-                                                                            <p>Luci puede pasar a veces demasiado tiempo
+                                                                            <p>Lucy puede pasar a veces demasiado tiempo
                                                                                 en internet y luego no tiene tiempo para
                                                                                 cumplir sus responsabilidades. A veces
                                                                                 duerme poco por quedarse hasta muy tarde
