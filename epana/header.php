@@ -22,7 +22,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta property="og:url" content="https://www.ementores.org/epana" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Uso seguro de las tecnologías e internet para chicos y chicas -  Fundación Paniamor Costa Rica" />
+        <meta property="og:title" content="Uso seguro de las tecnologías e internet para chicos y chicas - República Dominicana" />
         <meta property="og:image" content="https://www.ementores.org/epana/OG_e-compas.png" />
         <meta property="og:image:secure_url" content="https://www.ementores.org/epana/OG_e-compas.png" />
         <meta property="og:image:type" content="image/jpeg" />
@@ -31,7 +31,7 @@
         <meta property="og:image:alt" content="Espacio con recursos audiovisuales e interactivos para que chicas y chicos aprendan a protegerse contra los peligros en la internet." />
         <meta property="og:description" content="Espacio con recursos audiovisuales e interactivos para que chicas y chicos aprendan a protegerse contra los peligros en la internet." />
         <meta name="description" content="Espacio con recursos audiovisuales e interactivos para que chicas y chicos aprendan a protegerse contra los peligros en la internet."/>
-        <title>e-compa: Uso seguro de las tecnologías e internet para chicos y chicas -  Fundación Paniamor Costa Rica</title>
+        <title>e-pana: Uso seguro de las tecnologías e internet para chicos y chicas - República Dominicana</title>
         <link type="text/css" href="/epana/css/bootstrap.css" rel="stylesheet">
         <link type="text/css" href="/epana/css/bootstrap-grid.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300i,400,700,800&display=swap" rel="stylesheet">

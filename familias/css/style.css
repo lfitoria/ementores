@@ -940,7 +940,7 @@ a#back_family {
 }
 a#back_family:before {
     content: '';
-    background-image: url(../../ecompa/img/icn-btn-volver.png);
+    background-image: url(../../epana/img/icn-btn-volver.png);
     display: inline-block;
     width: 47px;
     height: 30px;
