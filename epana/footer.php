@@ -10,7 +10,7 @@
         </div>
         <div class="col-sm-5 contact-nube">
             <h2>Contacto</h2>
-            <p>Ministerio de Educación de la República Dominica</p>
+            <p>Ministerio de Educación - República Dominica</p>
             <div class="boxcontacto_rp">
                 <p><span class="txt-ul">Dirección</span></p>
                 <p>Avenida Máximo Gómez esquina Santiago, No.02 Gazcue, Distrito Nacional, República Dominicana.</p>
@@ -74,7 +74,7 @@ ser el primero en enterarte de lo nuevo</p> -->
 <!--     <div class="container-full footer-bg-1 padding-top-bottom-footer"></div>
     <div class="container-full footer-bg-2 padding-top-bottom-footer"></div> -->
     <div class="footer-bg-3 footer-div-copyright">
-    <p class="text-center no-margin-top-bottom text-opensans">Todos los derechos reservados &copy; Ministerio de Educación de la República Dominicana <?= date("Y") ?></p>
+    <p class="text-center no-margin-top-bottom text-opensans">Todos los derechos reservados &copy; Ministerio de Educación - República Dominicana <?= date("Y") ?></p>
     </div>
 </footer>
 

@@ -23,7 +23,7 @@
     <meta property="og:url" content="http://www.ementores.org/epana" />
     <meta property="og:type" content="article" />
     <meta property="og:title"
-        content="Uso seguro de las tecnologías e internet para chicos y chicas -  Fundación Paniamor Costa Rica" />
+        content="Uso seguro de las tecnologías e internet para chicos y chicas -  Fundación  Costa Rica" />
     <meta property="og:image" content="http://www.ementores.org/epana/OG_e-compas.png" />
     <meta property="og:image:secure_url" content="https://www.ementores.org/epana/OG_e-compas.png" />
     <meta property="og:image:type" content="image/jpeg" />

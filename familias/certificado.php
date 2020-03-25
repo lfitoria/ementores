@@ -97,7 +97,7 @@
                 <br>
                 <br>
                 <br>
-                <h2>La Fundación Paniamor otorga el siguiente <br><span>CERTIFICADO DE APROVECHAMIENTO</span> a:</h2>
+                <h2>La Fundación  otorga el siguiente <br><span>CERTIFICADO DE APROVECHAMIENTO</span> a:</h2>
                 <div class="name"><span><?php echo $_POST['name'] ?></span></div>
                 <p class="text-center"> <img src="img/certificado-linea.png" id="linea" class="img-fluid"/></p>
                 <br>
@@ -134,7 +134,7 @@
                             <img src="img/certificado-logo-crnexst.png" alt="End Violence Against Children" class="img-fluid prefooter-logos logo-imas"></p>
                     </td>
                     <td>
-                        <p class="text-center"><img src="img/footer/footer-logo-paniamor.png" alt="Paniamor" class="img-fluid prefooter-logos"></p>
+                        <p class="text-center"><img src="img/footer/footer-logo-.png" alt="Paniamor" class="img-fluid prefooter-logos"></p>
                     </td>
                 </tr>
             </table>
