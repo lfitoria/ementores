@@ -31,7 +31,7 @@
         <meta property="og:image:alt" content="Espacio con recursos audiovisuales e interactivos para que chicas y chicos aprendan a protegerse contra los peligros en la internet." />
         <meta property="og:description" content="Espacio con recursos audiovisuales e interactivos para que chicas y chicos aprendan a protegerse contra los peligros en la internet." />
         <meta name="description" content="Espacio con recursos audiovisuales e interactivos para que chicas y chicos aprendan a protegerse contra los peligros en la internet."/>
-        <title>e-compa: Uso seguro de las tecnologías e internet para chicos y chicas - República Dominicana</title>
+        <title>e-pana: Uso seguro de las tecnologías e internet para chicos y chicas - República Dominicana</title>
         <link type="text/css" href="/epana/css/bootstrap.css" rel="stylesheet">
         <link type="text/css" href="/epana/css/bootstrap-grid.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300i,400,700,800&display=swap" rel="stylesheet">
