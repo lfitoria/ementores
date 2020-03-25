@@ -10,7 +10,7 @@
         </div>
         <div class="col-sm-5 contact-nube">
             <h2>Contacto</h2>
-            <p>Ministerio de Educación - República Dominica</p>
+            <p>Ministerio de Educación - República Dominicana</p>
             <div class="boxcontacto_rp">
                 <p><span class="txt-ul">Dirección</span></p>
                 <p>Avenida Máximo Gómez esquina Santiago, No.02 Gazcue, Distrito Nacional, República Dominicana.</p>
