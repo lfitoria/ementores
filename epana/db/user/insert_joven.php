@@ -48,6 +48,8 @@ $_SESSION['usuario_id']=$last_id;
 
 
 // var_dump($last_id);
+// var_dump($_SESSION['usuario_id']);
+// var_dump($_SESSION['usuario']);
 // die();
 //return new JsonResponse(array("usuario" => $nombre));
 
