@@ -78,14 +78,15 @@
         </p>
     </button>
 
-<!-- session -->
-<?php
+    <?php
 session_start();
-echo $_SESSION['usuario_id'];
 echo $_SESSION['usuario'];
-print_r($_SESSION);
 ?>
-<!-- fin session -->
 
+    <input type="hidden" value="<?php
+        if(isset($_SESSION['usuario'])){
+            echo $_SESSION['usuario'];
+        } 
+    ?>" id="session">
     
     

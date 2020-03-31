@@ -2,22 +2,17 @@
 <?php require 'header.php'; ?>
 
 <body>
-<?php
+
+    <!-- <?php
 session_start();
-echo $_SESSION['usuario_id'];
-echo $_SESSION['usuario'];
+
 ?>
 
     <input type="hidden" value="<?php
-        if(isset($_SESSION['usuario_id'])){
-            echo $_SESSION['usuario_id'];
+        if(isset($_SESSION['edad'])){
+            echo $_SESSION['edad'];
         } 
-    ?>" id="sessione">
-     <input type="hidden" value="<?php
-        if(isset($_SESSION['usuario'])){
-            echo $_SESSION['usuario'];
-        } 
-    ?>" id="session">
+    ?>" id="session"> -->
 
     <div class="wrapper">
         <div id="content">
