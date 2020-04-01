@@ -58,10 +58,14 @@
                                 <div id="map_container">
                                     <img usemap="#3-04-inf" id="img-map" src="../img/mod3/3-04_inf.png" class="img-fluid">
                                     <map name="3-04-inf">
-                                        <area data-nbr="1" shape='rect' coords='129, 402, 285, 467' href='#' />
+                                        <!-- <area data-nbr="1" shape='rect' coords='129, 402, 285, 467' href='#' />
                                         <area data-nbr="2" shape='rect' coords='1044, 490, 1201, 554' href='#' />
                                         <area data-nbr="3" shape='rect' coords='1034, 1069, 1190, 1133' href='#' />
-                                        <area data-nbr="4" shape='rect' coords='129, 996, 286, 1064' href='#' />
+                                        <area data-nbr="4" shape='rect' coords='129, 996, 286, 1064' href='#' /> -->
+                                        <area data-nbr="1" href="#" coords="85,257,338,409" shape="rect">
+                                        <area data-nbr="2" href="#" coords="452,256,707,411" shape="rect">
+                                        <area data-nbr="3" href="#" coords="512,609,757,762" shape="rect">
+                                        <area data-nbr="4" href="#" coords="34,609,282,764" shape="rect">
                                     </map>
                                 </div>
                             </div>
