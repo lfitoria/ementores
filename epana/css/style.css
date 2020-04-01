@@ -312,6 +312,24 @@ a.nav-iniciar:before{
     left: -37px;
 
 }
+#modal_login .label {
+    font-size: 1.6em;
+    color: #6F6F70;
+    font-family: 'Nunito',sans-serif;
+}
+#modal_login input {
+    overflow: visible;
+    width: 100%;
+    background-color: #fff;
+}
+#modal_inicio h3{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    color: #4E5980;
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 1.3em;
+}
 /*#modal_1-03init p{color: #fff;}*/
 .bx-wrapper .bx-next {
     right: -37px;

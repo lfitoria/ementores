@@ -191,16 +191,16 @@ ser el primero en enterarte de lo nuevo</p> -->
 
         $(document).ready(function() {
 
-            var user = $("input#session").val();
-            console.log("encuesta-modal"+user);
-            if (user != "") {
-                //$(".encuesta-modal").addClass("d-none");
-            }
-          // $('.modal_encuesta').carousel({
-          //     cycle: false,
-          //     wrap:false
-          // })
-          $("#modal_encuesta").carousel('pause');
+        //     var user = $("input#session").val();
+        //     console.log("encuesta-modal"+user);
+        //     if (user != "") {
+        //         //$(".encuesta-modal").addClass("d-none");
+        //     }
+        //   // $('.modal_encuesta').carousel({
+        //   //     cycle: false,
+        //   //     wrap:false
+        //   // })
+            $("#modal_encuesta").carousel('pause');
         });
 
         // if ( $('input[name=q1]').change() ){
@@ -223,7 +223,8 @@ ser el primero en enterarte de lo nuevo</p> -->
             var q1 = $('input[name=q1]:checked').val();
             var q2 = $('input[name=q2]:checked').val();
             var q3 = $('textarea:input[name=q3]').val();
-            var user_id = $('input[name=user_id]').val();
+            // var user_id = $('input[name=user_id]').val();
+            var user_id = $("input#session").val();
             console.log(q1);
             console.log(q2);
             console.log(q3);
@@ -247,9 +248,11 @@ ser el primero en enterarte de lo nuevo</p> -->
 
                 $.ajax({
                     type: "POST",
-                    url: 'https://ementores.org/epana/db/user/insertar_encuesta.php',
-                    data: {q1 : q1, q2 : q2, q3 : q3, user_id : user_id}
+                    url: '/epana/db/user/insertar_encuesta.php',
+                    data: {q1 : q1, q2 : q2, q3 : q3, user_id : user_id},
+                    
                 }).done(function (data) {
+                    console.log(data)
                     if (data["last_id"] == false){
                         // alert("falso");
                     }else{
