@@ -1,18 +1,18 @@
+<?php
+session_start();
+// unset($_SESSION['usuario_id']);
+?>
 <html class="front-page">
 <?php require 'header.php'; ?>
 
 <body>
 
-    <!-- <?php
-session_start();
-
-?>
-
-    <input type="hidden" value="<?php
-        if(isset($_SESSION['edad'])){
-            echo $_SESSION['edad'];
-        } 
-    ?>" id="session"> -->
+<input type="hidden" value="<?php
+    if(isset($_SESSION['usuario_id'])){
+        echo $_SESSION['usuario_id'];
+    } 
+?>" id="session"> 
+    
 
     <div class="wrapper">
         <div id="content">
@@ -165,7 +165,7 @@ session_start();
     </div>
 
     <!-- modal -->
-    <div class="modal" id="modal_1-03init" tabindex="-1" role="dialog">
+    <div class="modal" id="modal_1-03init" tabindex="-1" role="dialog" data-keyboard="false" data-backdrop="static">
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-head">
@@ -342,8 +342,68 @@ session_start();
             </div>
         </div>
     </div>
+    <!-- modal login -->
+    <div class="modal" id="modal_login" tabindex="-1" role="dialog" data-keyboard="false" data-backdrop="static">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-body init-03">
+                    <form action="/epana/db/user/check_user.php" method="post" id="modal_login_form">
+                        <div class="row justify-content-center">
+                            <div class="col col-sm-6">
+                                <p class="label"><i class="fas fa-at"></i> Correo electrónico</p>
+                                <input type="text" name="email" placeholder="">
+                                <p class="small d-none text-center text-danger" id="w_email_epana">Recordá seleccionar
+                                    una opción.</p>
+                            </div>
+                        </div>
+                        <br>
+                        <p class="small text-danger d-none text-center" id="errgetUser">Usuario no encontrado</p>
+                        <div class="row">
+                            <div class="col">
+                                <button id="btnCheckUser" type="button" class="btn-r d-block m-auto submet">Ingresar</button>
+                            </div>
 
-    <!-- modal -->
+                        </div>
+                    </form>
+                </div> <!-- fin modal-body -->
+                <div class="modal-footer">
+                    <button type="button" class="btn-cerrar" id="btn-backToLogin">Volver</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- fin modal login -->
+    <!-- modal_inicio -->
+    <div class="modal" id="modal_inicio" tabindex="-1" role="dialog" data-keyboard="false" data-backdrop="static">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                <div class="row justify-content-md-center">
+                    <div class="col-sm-10 main-block back-girl">
+                        <h2 class="text-center"><img src="/familias/img/icon-login.png"></h2>
+                        <div class="row">
+                            <div class="col-12">
+                                <h3 class="text-center">¿Cuentas ya con un usuario?</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 col-md-6">
+                                <!-- <a class="btn-see-eva" href="0-04_prelogin.php">Ya tengo cuenta</a> -->
+                                <a class="btn-see-eva" href="#" id="getAccount">Ya tengo cuenta</a>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <!-- <a class="btn-retry-eva" href="0-05_registro_01.php">Soy nuevo</a> -->
+                                <a class="btn-retry-eva" href="#" id="getLogin">Soy nueva(o)</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div> <!-- fin modal-body -->
+            </div>
+        </div>
+    </div>
+    <!-- fin modal_inicio -->
+    <!-- modal encuesta-->
     <div class="modal" id="modal_encuesta" tabindex="-1" role="dialog">
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
@@ -646,15 +706,31 @@ session_start();
     $(document).ready(function() {
 
         var user = $("input#session").val();
-        console.log(user);
+        console.log(`id usuario logueado: ${user}`);
         if (user == "") {
-            $("#modal_1-03init").modal("show");
+            $("#modal_inicio").modal("show");
+            $(".encuesta-modal").removeClass("d-none")
+        }else{
+            
         }
         //$("#modal_1-03init").modal("show");
         $(".item-module a.v-act-1").addClass("vi");
+        // $("#modal_inicio").modal("show");
     });
 
-
+    $('a#getAccount').click(function(){
+        $("#modal_inicio").modal("hide");
+        $("#modal_login").modal("show");
+    });
+    $('#btn-backToLogin').click(function(){
+        $("#modal_login").modal("hide");
+        $("#modal_inicio").modal("show");
+    });
+    // getLogin
+    $('#getLogin').click(function(){
+        $("#modal_inicio").modal("hide");
+        $("#modal_1-03init").modal("show");
+    });
     // $("#registrarme").click(function(){
     //     console.log("entranew");
     //     var myform = document.getElementById("registro_usuario");
@@ -681,6 +757,35 @@ session_start();
     // });
 
     // });
+
+    // check_user
+    $("#btnCheckUser").click(function(){
+        console.log("btnCheckUser");
+        var myform = document.getElementById("modal_login_form");
+        var fd = new FormData(myform);
+        console.log(myform);
+        console.log(fd);
+        $.ajax({
+            type: 'POST',
+            url: '/epana/db/user/check_user.php',
+            data: fd,
+            cache: false,
+            processData: false,
+            contentType: false,
+            // dataType: 'json'
+            }).done(function (data) {
+                console.log(data)
+                let dataP = JSON.parse(data)
+                console.log(dataP)
+                if(dataP[0]){
+                    $("#modal_login").modal("hide");
+                }else{
+                    $("p#errgetUser").removeClass("d-none");
+                }
+            });
+
+    });
+    // fin check_user
     </script>
 </body>
 

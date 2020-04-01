@@ -228,6 +228,11 @@ a.nav-iniciar:before{
     left: -37px;
 
 }
+#modal_login .label {
+    font-size: 1.6em;
+    color: #6F6F70;
+    font-family: 'Nunito',sans-serif;
+}
 #modal_1-03init p{color: #fff;}
 .bx-wrapper .bx-next {
     right: -37px;
