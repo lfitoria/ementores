@@ -150,14 +150,14 @@
                                                 </div>
                                             </div>
 
-
+                                            -->
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                     
-                                                    <a href="mod_1/1-05_sld.php" class="v-act-5">Conductas violentas en la Internet y en Redes Sociales</a>
+                                                    <a href="mod_1/1-05_sld.php" class="v-act-5">Conductas violentas en Internet y en Redes Sociales</a>
                                                     
                                                 </div>
-                                            </div> -->
+                                            </div> 
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[5]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                     <!-- <img src="img/icon.png" alt=""/> -->

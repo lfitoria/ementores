@@ -21,7 +21,7 @@
                 <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>-->
 
                 <h2 class="title-cx" id="titleancla">
-                    Conductas violentas en la Internet y en Redes Sociales
+                    Conductas violentas en Internet y en Redes Sociales
                 </h2>
                 <div class="main">
                     <div id="act_01">
@@ -244,7 +244,7 @@
                                 <p><strong>¿Qué hace un e-pana?</strong><br></p>
                                 <ul>
                                     <li>Prevenir. Sin material comprometedor no hay posibilidad de sextorsión.</li>
-                                    <li>No compartir tu intimidad en internet, mucho menos con personas que no conocés personalmente. Recordá que cualquier video llamada se puede grabar sin que lo sepás.</li>
+                                    <li>No compartir tu intimidad en internet, mucho menos con personas que no conocés personalmente. Recuerda que cualquier video llamada se puede grabar sin que lo sepás.</li>
                                     <li>Almacenar tus cosas privadas con protección de contraseña o en carpetas ocultas, así nadie más podrá verlos.</li>
                                     <li>Recordar que si alguien publica algo tuyo sin tu autorización, todas las redes sociales tienen la opción de denunciar la publicación y pedir que la retiren.</li>
                                     <li><a href="/epana/mod_3/ruta_denuncia.php">Denunciar.</a></li> 
@@ -438,7 +438,7 @@
                                         <strong>EXTORSIONADOR PELIGROSO</strong>
                                     </p> -->
                                     <p><strong>¿Cómo sucede?</strong><br>
-                                        Reenvía fotos o videos privados e íntimos de otra persona sin su consentimiento.</p>
+                                        Reenvíes fotos o videos privados e íntimos de otra persona sin su consentimiento.</p>
                                 </div>
                             </div>
                             <div class="row text-modus">
@@ -447,7 +447,7 @@
                                         <ul>
                                             <li>No reenviar: Si recibiste fotos o videos de este tipo no los reenviés. No seas cómplice de la violencia, podrías caer en una situación legal delicada.
                                             <li>Detener este tipo de difusión. Borrar fotos, videos o audios.</li>
-                                            <li>Configurar la Red Social. Cada red social te ofrece un procedimiento para que este tipo de material no siga publicado,</li>
+                                            <li>Configurar la Red Social. Cada red social te ofrece un procedimiento para que este tipo de material no siga publicado.</li>
                                             <li> Si está sucediendo en el cole o escuela, buscar una persona de confianza y mostrarle esta información, hay un protocolo para cuidar los derechos de las y los menores de edad.</li>
                                         </ul>
 

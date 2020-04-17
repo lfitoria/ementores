@@ -163,7 +163,7 @@
 
                                     <div class="col-12">
 
-                                        <p>No importa si las imágenes fueron obtenidas en una relación de confianza ni tampoco si fueron enviadas voluntariamente. <strong> Una persona adulta que tenga en su poder estas imágenes puede ser denunciada y procesada.</strong> <br> Recuerda, si una persona adulta mantiene una relación con una persona entre los 15 y los 18 años, y le lleva más de siete años, está cometiendo un delito.</p>
+                                        <p>No importa si las imágenes fueron obtenidas en una relación de confianza ni tampoco si fueron enviadas voluntariamente. <strong> Una persona adulta que tenga en su poder estas imágenes puede ser denunciada y procesada.</strong> <br> Recuerda, si una persona adulta mantiene una relación con una persona entre los 15 y los 18 años, y le lleva más de cinco años, está cometiendo un delito.</p>
 
                                     </div>
 

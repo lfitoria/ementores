@@ -103,7 +103,7 @@
 
                                     <div class="audio_3-03 per6">
 
-                                        <p class="text-center intro-label">Yo, obviamente no grabo personas menores de edad en situaciones íntimas. A veces navegando en Internet me he encontrado videos y para vacilar los he mandado al grupo de amigos de la U que tenemos en WhatsApp. Es algo privado y además nadie me paga por eso.</p>
+                                        <p class="text-center intro-label">Yo, obviamente no grabo personas menores de edad en situaciones íntimas. A veces navegando en Internet me he encontrado videos y para vacilar los he mandado al grupo de amigos de la Uni que tenemos en WhatsApp. Es algo privado y además nadie me paga por eso.</p>
 
                                         <audio height="auto" id="video" controls>
 
