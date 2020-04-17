@@ -3,9 +3,15 @@
                         <div class="row">
                             <div class="col-8 col-sm-8 col-md-8 col-lg-8 col-xl-8 mx-auto">
                                 <div class="row">
+                                    <div class="col-2">
+                                        <p class="support-label">Avalado por:</p>
+                                        <a href="http://www.ministeriodeeducacion.gob.do/" target="_blank">
+                                        <img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 70%;">
+                                        </a>
+                                    </div>
                                     <div class="col-3">
-                                        <p class="support-label">Con el apoyo de:</p>
-                                        <a href="https://www.end-violence.org" target="_blank" rel="noopener noreferrer">
+                                        <p class="support-label">Auspiciado por:</p>
+                                        <a href="https://www.unicef.org/dominicanrepublic/" target="_blank" rel="noopener noreferrer">
                                         <img src="/familias/img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" style="width: 237px;">
                                         </a>
                                     </div>
@@ -15,20 +21,15 @@
                                             <a href="https://plan-international.org/es/republica-dominicana" target="_blank">
                                             <img src="/familias/img/footer/PLAN.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" style="width: 85%;margin: 0 auto;position: relative;display: block;">
                                             </a>
-                                            <a href="https://www.unicef.org/" target="_blank">
-                                            <img src="/familias/img/footer/Unicef-logo.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" >
-                                            </a>
                                             <a href="#" target="_blank">
                                             <img src="/familias/img/footer/footer-logo-paniamor.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" >
                                             </a>
+                                            <a href="https://www.unicef.org/" target="_blank">
+                                            <img src="/familias/img/footer/Unicef-logo.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" >
+                                            </a>
                                         </div>
                                     </div>
-                                    <div class="col-2">
-                                        <p class="support-label">Con el respaldo de:</p>
-                                        <a href="http://www.ministeriodeeducacion.gob.do/" target="_blank">
-                                        <img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 70%;">
-                                        </a>
-                                    </div>
+                                    
                                     <div class="col-1"></div>
                                 </div>
 

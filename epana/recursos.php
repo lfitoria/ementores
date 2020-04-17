@@ -32,7 +32,7 @@
   </article>
   <article class="item group1">
     <div class="item-module">
-        <a href="mod_1/legion.php#titleancla" class="v-act-5">Conductas violentas en la Internet y en Redes Sociales</a>
+        <a href="mod_1/legion.php#titleancla" class="v-act-5">Conductas violentas en Internet y en Redes Sociales</a>
     </div>
   </article>
   <!-- <article class="item group1">

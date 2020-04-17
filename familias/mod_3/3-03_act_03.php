@@ -85,7 +85,9 @@
                                 <div class="modal-body">
                                     <div class="row 3-03-act-mdl" >
                                         <div class="col-12">
-                                            <p>No es necesario que se envíen imágenes ni que la víctima y la persona abusadora se encuentren, para que exista un abuso. <br><strong>Cualquier comunicación de contenido sexual o erótico por medio de las TIC es un delito.</strong></p>
+                                            <!-- <p>No es necesario que se envíen imágenes ni que la víctima y la persona abusadora se encuentren, para que exista un abuso. <br><strong>Cualquier comunicación de contenido sexual o erótico por medio de las TIC es un delito.</strong></p> -->
+                                            <p>No es necesario que se envíen imágenes ni que la víctima y la persona abusadora se encuentren, para que exista un abuso.
+                                            <strong>Cualquier comunicación de contenido sexual o erótico entre un adulto y una persona menor de edad por medio de las TIC es un delito.</strong></p>
                                         </div>
                                     </div>
                                 </div>

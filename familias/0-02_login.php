@@ -393,7 +393,7 @@
                 console.log(input_id);
 
                 if (input_id == "cr-id-input") {
-                    if (input_texto.length == 9) {
+                    if (input_texto.length == 11) {
                         // alert("entra y envia");
                          $("form").submit();
                     }else{
@@ -401,7 +401,7 @@
                     }
                 }
                 if (input_id == "cr-id-input2") {
-                    if (input_texto.length == 12) {
+                    if (input_texto.length == 11) {
                         // alert("entra y envia");
                          $("form").submit();
                     }else{

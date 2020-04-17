@@ -155,7 +155,7 @@
                                         <li>Denunciar en redes sociales la publicación para que la retiren.</li>
                                         <li>Solicitar a las y los compañeros que retiren la fotografía y que no la difundan.</li>
                                         <li>Enviar información sobre las violencias en línea para sensibilizar.</li>
-                                        <li>Activar protocolos del MEP contra el Ciberbullying.</li>
+                                        <li>Activar protocolos del Ministerio de Educación contra el Ciberbullying.</li>
 
                                     </ul>
                                     

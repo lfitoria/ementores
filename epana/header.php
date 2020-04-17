@@ -18,7 +18,7 @@
         <meta http-equiv="Cache-Control" content="no-cache" />
         <meta http-equiv="Pragma" content="no-cache" />
         <meta http-equiv="Expires" content="0" />
-        <link rel="icon" href="https://www.ementores.org/epana/favicon.ico" type="image/gif">
+        <link rel="icon" href="/epana/favicon.ico" type="image/gif">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta property="og:url" content="https://www.ementores.org/epana" />
         <meta property="og:type" content="article" />

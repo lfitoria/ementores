@@ -389,11 +389,11 @@ session_start();
                         <div class="row">
                             <div class="col-12 col-md-6">
                                 <!-- <a class="btn-see-eva" href="0-04_prelogin.php">Ya tengo cuenta</a> -->
-                                <a class="btn-see-eva" href="#" id="getAccount">Ya tengo cuenta</a>
+                                <a class="btn-see-eva" href="#" id="getAccount" style="font-size: 1.1em;">Persona usuaria existente</a>
                             </div>
                             <div class="col-12 col-md-6">
                                 <!-- <a class="btn-retry-eva" href="0-05_registro_01.php">Soy nuevo</a> -->
-                                <a class="btn-retry-eva" href="#" id="getLogin">Soy nueva(o)</a>
+                                <a class="btn-retry-eva" href="#" id="getLogin" style="font-size: 1.1em;">No tengo cuenta</a>
                             </div>
                         </div>
                     </div>

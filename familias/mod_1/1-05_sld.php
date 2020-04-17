@@ -48,18 +48,18 @@
                     </div>
                 </div>
             </nav>
-            <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>Cuidado con la legión del ciber-mal</p>
+            <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>Conductas violentas en Internet y en Redes Sociales</p>
             <div class="bck105new">  
             <section class="container">
                 <div class="row align-items-center justify-content-md-center">
                     <div class="col-12 col-sm-9 align-items-center justify-content-md-center row">
 
                         <div class="col-12 col-sm-10">
-                            <p class="text-center intro-label">Internet permite una comunicación instantánea con muchísimas personas, desde cualquier lugar y acceso a un sinfín de páginas con contenidos de todo tipo. Por eso es una herramienta que trae muchos beneficios, pero también puede esconder algunas situaciones de peligro.</p>
+                            <p class="text-center intro-label">Internet trae grandes beneficios. Nos da comunicación instantánea con muchísimas personas desde cualquier lugar y nos permite visitar páginas con contenidos de todo tipo. Pero, también puede esconder grandes peligros.</p>
 
                         </div>
                         <div class="col-12 col-sm-10">
-                            <img src="../img/mod1/1-05_act_intro.png" class="img-fluid ">
+                            <img src="../../epana/img/mod1/1-05_act_intro_rp.png" class="img-fluid ">
                         </div>
                         
 
