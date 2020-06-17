@@ -19,7 +19,7 @@
                 Escuchemos: no siempre tenemos la razón
                 </h2>
                     <div class="main">
-                        <div id="act_01" class="btn-j-center">
+                        <div id="act_01" class="">
                             <div class="cont row mod">
                                 <div class="col-12 col-md-5">
                                     <img src="../img/mod3/3-03_act-personaje3_rp.png" alt="" class="img-fluid"/>
@@ -44,8 +44,9 @@
                                 <a class="gotoModulePage conti d-none d-sm-block" href="escuchemos_act_04.php">Continuar</a>
                                 <!-- <a href="../0-03_menu.php#mod3" class="back_to_menu d-none">Volver</a>
                                 <a href="/familias/mod_3/3-03_act.php" id="back_family">Volver al inicio</a> -->
-                                <p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>
+                                
                             </div>
+                            <p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>
                         </div>
                     </div>
                     <div class="modal" id="modal_3-03_act" tabindex="-1" role="dialog">

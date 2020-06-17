@@ -19,7 +19,7 @@
                 Escuchemos: no siempre tenemos la razón
                 </h2>
                     <div class="main">
-                        <div id="act_01" class="btn-j-center">
+                        <div id="act_01" class="">
                             <div class="mod">
                                 <div class="row">
                                     <div class="col-12 col-md-5">
@@ -44,8 +44,9 @@
                                 
                                 <!-- <a href="../0-03_menu.php#mod3" class="back_to_menu d-none">Volver</a>
                                 <a href="/familias/mod_3/3-03_act.php" id="back_family">Volver al inicio</a> -->
-                                <p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>
+                                
                             </div>
+                            <p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>
                         </div>
 
                     </div>
