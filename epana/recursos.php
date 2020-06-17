@@ -46,11 +46,11 @@
         <a href="mod_2/decisiones.php#titleancla" class="v2-act-3">Decisiones que te protegen en Internet</a>
     </div>
   </article> 
-  <article class="item group2">
+  <!-- <article class="item group2">
     <div class="item-module">
         <a href="mod_2/acompanar.php#titleancla" class="v2-act-1">Acompañar también es proteger</a>
     </div>
-  </article>
+  </article> -->
   
   <article class="item group1">
     <div class="item-module">
@@ -74,11 +74,11 @@
         <a href="/juego" class="v-act-9" target="_blank">Historia interactiva Enredes</a>
     </div>
   </article>
-  <article class="item group1">
+  <!-- <article class="item group1">
     <div class="item-module">
         <a href="mod_3/escuchemos.php#titleancla" class="v3-act-3">​Escuchemos: no siempre tenemos ​la ​razón</a>
     </div>
-  </article>
+  </article> -->
   
   <article class="item group2">
     <div class="item-module">
