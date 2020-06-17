@@ -219,14 +219,14 @@
                                         <h3 class="text-center menu-title" id="mod2">Prevengo: acompaño en línea.</h3>
                                         <div class="menu-mod-cont col-12">
                                             <div class="row">
-                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[0]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
                                                         <a href="mod_2/2-01_vid.php" class="v2-act-1">Acompañar también es proteger</a>
 
                                                     </div>
                                                 </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                               <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[1]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
                                                         <a href="mod_2/2-02a_sli.php" class="v2-act-2">Crianza Respetuosa: pongamos límites con amor</a>
