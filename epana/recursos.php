@@ -35,6 +35,12 @@
         <a href="mod_1/legion.php#titleancla" class="v-act-5">Conductas violentas en Internet y en Redes Sociales</a>
     </div>
   </article>
+  <article class="item group2">
+    <div class="item-module">
+        <a href="mod_1/infoenlinea.php#titleancla" class="v-act-1">¿Qué es el abuso y la explotación sexual en línea?</a>
+    </div>
+  </article>
+  
   <!-- <article class="item group1">
     <div class="item-module">
         <a href="mod_2/decisiones.php#titleancla" class="v2-act-3">Decisiones que te protegen en Internet</a>
@@ -45,6 +51,17 @@
         <a href="mod_2/redes_sociales.php#titleancla" class="v2-act-5">“Amistad” en redes sociales ¿Aceptaría estas invitaciones?</a>
     </div>
   </article>
+  <article class="item group2">
+    <div class="item-module">
+        <a href="mod_2/huelladigital.php#titleancla" class="v-act-1">Huella digital: nuestro rastro en Internet</a>
+    </div>
+  </article>
+  <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+      <div class="item-module <?php if ($values2[7]["is_completed"] == 1) : ?>active<?php endif ?>">
+          <!-- <img src="img/icon.png" alt=""/> -->
+          <a href="mod_2/2-08_vid.php" class="v2-act-8">Huella digital: nuestro rastro en Internet</a><!--<p class=dots-mod>. . .</p>-->
+      </div>
+  </div>
   <!-- <article class="item group1">
     <div class="item-module">
         <a href="mod_2/ciber_emociones.php#titleancla" class="v2-act-6">Reconozcamos nuestras emociones en el uso de las TIC</a>
