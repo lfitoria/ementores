@@ -1,6 +1,6 @@
 <html id="page-2-08_act">
 <?php require '../header.php'; ?>
-<body>
+
 
 <body id="page-2-03">
     <div class="wrapper">
