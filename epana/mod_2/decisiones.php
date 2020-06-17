@@ -1,12 +1,13 @@
-<html>
+<html id="page-2-03_act">
 <?php require '../header.php'; ?>
+<body>
 
 
-<body id="page-2-03">
     <div class="wrapper">
-        <div id="content" class="bck-green">
-            
-        <div class="rowa header-top">
+        <!-- Page Content -->
+        <div id="content"> 
+
+            <div class="rowa header-top">
                 <div class="container">
                     <div class="header-top-box"></div>
                 </div>
@@ -14,9 +15,6 @@
             </div>
 
             <section class="container-fluid">
-            <h2 class="title-cx" id="titleancla">
-            Decisiones que le protegen en Internet
-                </h2>
                 <div class="main">
                     <div id="act_01p1" class="mod">
                         <div class="rowa img-intro">
@@ -436,151 +434,66 @@
 
                 </div>
             </section>
-            <div class="modal fade" id="modal_1-08_act1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <span></span>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">x</button>
-
-
-                        </div>
-                        <div class="modal-body">
-                            <div class="row" >
-                                <h3 class="col-12">Las consecuencias a corto plazo del abuso sexual pueden incluir:</h3>
-                                <div class="col-6">
-                                    <ul>
-                                        <li>Problemas para dormir </li>
-                                        <li>Pesadillas</li>
-                                        <li>No comer o comer mucho, problemas para controlar la necesidad de ir al baño</li>
-                                        <li>Ansiedad, temor, culpa, vergüenza, depresión</li>
-                                        <li>Agresividad, consumo de drogas, escaparse de la escuela/colegio</li>
-                                    </ul>
-                                </div>
-                                <div class="col-6">
-                                    <ul>
-                                        <li>Malas notas, mala conducta</li>
-                                        <li>Baja autoestima </li>
-                                        <li>No relacionarse con otros, aislarse, no realizar actividades que antes disfrutaba</li>
-                                        <li>Enfermedades, dolor, malestar físico</li>
-                                    </ul>
-                                </div>
-                                <div class="col-4">
-                                    <img src="../img/mod1/1-08_sli_img5.png" alt="" class="img-fluid"/>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="modal fade" id="modal_1-08_act2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <span></span>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">x</button>
-                        </div>
-                        <div class="modal-body">
-                            <div class="row" >
-                                <h3 class="col-12">Las consecuencias a largo plazo pueden manifestarse a lo largo de la vida adulta, y pueden incluir:</h3>
-                                <div class="col-6 col-md-6">
-                                    <ul>
-                                        <li>Ansiedades y miedos</li>
-                                        <li>Depresión</li>
-                                        <li>Consumo de alcohol o drogas</li>
-                                        <li>Dificultad para encontrar o mantener pareja</li>
-                                    </ul>
-                                </div>
-                                <div class="col-6 col-md-6">
-                                    <ul>
-                                        <li>Dificultad al dormir</li> 
-                                        <li>Problemas de alimentación</li>
-                                        <li>Problemas sexuales </li>
-                                        <li>Enfermedades sin causa física</li>
-                                        <li>Ideas suicidas, intentos de suicidio</li>
-                                    </ul>
-                                </div>
-                                <div class="col-12 col-md-4">
-                                    <img src="../img/mod1/1-08_sli_img6.png" alt="" class="img-fluid"/>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <a href="../0-03_menu.php#mod2" class="back_to_menu d-none">Volver al menú</a>
-            </section>
-            <?php require '../footer.php'; ?>
         </div>
-        <nav id="sidebar" class="">
-            <div class="sidebar-header">
-                <h3>Menu</h3>
-            </div>
-
-            <ul class="list-unstyled components">
-             
-            <?php require '../menu-sidebar-2.php'?>
-            </ul>
-
-        </nav>
     </div>
-
-
-    <script src="../js/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="../js/bootstrap.bundle.js" type="text/javascript"></script>
     <script src="../js/bootstrap.js" type="text/javascript"></script>
 
+
     <script>
 
+        var boton = null;
         $(".gotoModulePage").click(function () {
-
-            $(".mod").addClass("d-none");
-
+            $(".module-page").addClass("d-none");
             $("#act_01p" + $(this).data("page")).removeClass("d-none");
 
-            var allAudios = document.getElementsByTagName('audio');
-            for (var i = 0; i < allAudios.length; i++) {
-                    allAudios[i].pause();
-                   allAudios[i].currentTime = 0;
+            if(!$('#act0_01p1').hasClass("d-none")){
+                $("#content").removeClass("bck-blue");    
+            }else{
+                $("#content").addClass("bck-blue");
             }
+            
         });
 
-        $(".audio-item img").click(function (e) {
-            $(this).parent().parent().toggleClass("inactive");
-            var audio = $(this).parent().parent().find("audio");
-           
-            if(!$(this).parent().parent().hasClass("inactive")){
-                audio[0].play();
-            }else{
-                audio[0].pause();
-                audio[0].currentTime = 0;
-            }
+        $(".main button.btn-action").click(function () {
+
+            console.log($(this).data("modl"));
+
+            boton = $(this);
+
+            $(this).attr('disabled', 'disabled');
+            $(this).addClass('disabled-btn-request');
+
+
+            $(".act-04-mdl").addClass("d-none");
+            $(".act-04-mdl.act0" + $(this).data("modl")).removeClass("d-none");
+            $("#modal_1-04_act").modal("show");
+
         });
-        
-        document.addEventListener('play', function (e) {
-            // get all <audio> tag elements in the page.
-            var allAudios = document.getElementsByTagName('audio');
-            // Iterate through all players and pause them, except for
-            // the one who fired the "play" event ("target")
-            for (var i = 0; i < allAudios.length; i++) {
-                if (allAudios[i] != e.target) {
-                    allAudios[i].pause();
-                }
+
+        $("button.close").click(function () {
+
+            var count = boton.parent().find("button[disabled=disabled]").length;
+
+            if (count == 2) {
+                boton.parent().parent().addClass("disabled-request");
             }
-        }, true);
-        
+            $("#modal_1-04_act").modal("hide");
+        });
+
+
+
+
         $.ajax({
             url: "../db/user/update_module.php",
             method: "POST",
             data: {
-                step: 3,
+                step: 5,
                 module: 2
             },
             dataType: "html"
         });
-
     </script>
 </body>
 </html>
