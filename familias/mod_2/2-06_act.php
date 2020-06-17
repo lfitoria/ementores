@@ -71,6 +71,7 @@
                                             <img src="../img/mod2/2-06_intro.png" class="img-fluid m-auto d-block">
                                         </div>
                                     </div>
+                                    <img id="vol-img" src="../img/E-COMPAS-audio.png">
                                     <button class="gotoModulePage btn-start" data-page="2"><span>Iniciar</button>
                                 </div>
                             </div>
