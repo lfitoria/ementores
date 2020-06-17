@@ -501,7 +501,29 @@
         $("#modal_1-04_act").modal("hide");
     });
 
-
+    $(".audio-item img").click(function (e) {
+            $(this).parent().parent().toggleClass("inactive");
+            var audio = $(this).parent().parent().find("audio");
+           
+            if(!$(this).parent().parent().hasClass("inactive")){
+                audio[0].play();
+            }else{
+                audio[0].pause();
+                audio[0].currentTime = 0;
+            }
+        });
+        
+        document.addEventListener('play', function (e) {
+            // get all <audio> tag elements in the page.
+            var allAudios = document.getElementsByTagName('audio');
+            // Iterate through all players and pause them, except for
+            // the one who fired the "play" event ("target")
+            for (var i = 0; i < allAudios.length; i++) {
+                if (allAudios[i] != e.target) {
+                    allAudios[i].pause();
+                }
+            }
+        }, true);
 
 
     $.ajax({
