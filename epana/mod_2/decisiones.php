@@ -1,4 +1,4 @@
-<html id="page-2-08_act">
+<html>
 <?php require '../header.php'; ?>
 
 
