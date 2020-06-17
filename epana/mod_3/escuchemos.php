@@ -30,27 +30,27 @@
                             </div>
                             <div class="col-6 col-md-4">
                                 <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea">
-                                    <a href="3-03_act_02.php"><img src="../img/mod3/3-03_act-thumb2_rp.png" alt="" class="img-fluid" /></a>
+                                    <a href="escuchemos_act_02.php"><img src="../img/mod3/3-03_act-thumb2_rp.png" alt="" class="img-fluid" /></a>
                                 </div>
                             </div>
                             <div class="col-6 col-md-4">
                                 <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea">
-                                    <a href="3-03_act_03.php"><img src="../img/mod3/3-03_act-thumb3_rp.png" alt="" class="img-fluid" /></a>
+                                    <a href="escuchemos_act_03.php"><img src="../img/mod3/3-03_act-thumb3_rp.png" alt="" class="img-fluid" /></a>
                                 </div>
                             </div>
                             <div class="col-6 col-md-4">
                                 <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea">
-                                    <a href="3-03_act_04.php"><img src="../img/mod3/3-03_act-thumb4_rp.png" alt="" class="img-fluid" /></a>
+                                    <a href="escuchemos_act_04.php"><img src="../img/mod3/3-03_act-thumb4_rp.png" alt="" class="img-fluid" /></a>
                                 </div>
                             </div>
                             <div class="col-6 col-md-4">
                                 <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea">
-                                    <a href="3-03_act_05.php"><img src="../img/mod3/3-03_act-thumb5_rp.png" alt="" class="img-fluid" /></a>
+                                    <a href="escuchemos_act_05.php"><img src="../img/mod3/3-03_act-thumb5_rp.png" alt="" class="img-fluid" /></a>
                                 </div>
                             </div>
                             <div class="col-6 col-md-4">
                                 <div class="item item-thumb" data-slider="2" data-title="Explotación sexual en línea">
-                                    <a href="3-03_act_06.php"><img src="../img/mod3/3-03_act-thumb6_rp.png" alt="" class="img-fluid" /></a>
+                                    <a href="escuchemos_act_06.php"><img src="../img/mod3/3-03_act-thumb6_rp.png" alt="" class="img-fluid" /></a>
                                 </div>
                             </div>
                             <a href="../0-03_menu.php#mod3" class="back_to_menu d-none">Volver al menú</a>
