@@ -239,14 +239,14 @@
                                                         <a href="mod_2/2-02b_sli.php" class="v2-act-2a">Crianza tecnólogica en tiempos del Internet</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
-                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[2]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
                                                         <a href="mod_2/2-03_act.php" class="v2-act-3">Decisiones que le protegen en Internet</a>
                                                         
                                                     </div>
                                                 </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <!--<div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[3]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
                                                         <a href="mod_2/2-04_inf.php" class="v2-act-4">¡No lo cuente todo en la Internet!</a>
