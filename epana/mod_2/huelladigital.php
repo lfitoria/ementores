@@ -34,8 +34,8 @@
                         </div>
                     </div>
             </section>
-            <a href="../0-03_menu.php#mod2" class="back_to_menu d-none">Volver al menú</a>
-<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>
+            <!-- <a href="../0-03_menu.php#mod2" class="back_to_menu d-none">Volver al menú</a> -->
+<!-- <p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p> -->
             <?php require '../footer.php'; ?>
         </div>
         
