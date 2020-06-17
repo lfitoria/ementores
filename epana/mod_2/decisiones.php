@@ -1,4 +1,4 @@
-<html id="page-2-03_act">
+<html id="page-2-03">
 <?php require '../header.php'; ?>
 <body>
 
