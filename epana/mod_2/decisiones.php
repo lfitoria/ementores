@@ -229,7 +229,7 @@
                             </div>
                             <div class="row">
                                 <button class="gotoModulePage baki" data-page="4">Atrás</button>
-                                <button class="gotoModulePage conti" data-page="6">Atrás</button>
+                                <button class="gotoModulePage conti" data-page="6">Continuar</button>
                             </div>
                         </div>
                         <div id="act_01p6" class="d-none module-page ">
