@@ -53,7 +53,7 @@
   </article>
   <article class="item group2">
     <div class="item-module">
-        <a href="mod_2/huelladigital.php#titleancla" class="v-act-1">Huella digital: nuestro rastro en Internet</a>
+        <a href="mod_2/huelladigital.php#titleancla" class="v2-act-8">Huella digital: nuestro rastro en Internet</a>
     </div>
   </article>
   
