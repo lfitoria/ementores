@@ -74,6 +74,12 @@
         <a href="/juego" class="v-act-9" target="_blank">Historia interactiva Enredes</a>
     </div>
   </article>
+  <article class="item group1">
+    <div class="item-module">
+        <a href="mod_3/escuchemos.php#titleancla" class="v3-act-3">​Escuchemos: no siempre tenemos ​la ​razón</a>
+    </div>
+  </article>
+  
   <article class="item group2">
     <div class="item-module">
         <a href="mod_3/actuemos.php#titleancla" class="v3-act-5">¡No lo dejemos pasar! Actuemos contra el abuso</a>
