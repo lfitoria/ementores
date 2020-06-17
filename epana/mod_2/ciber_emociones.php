@@ -321,394 +321,393 @@
 
 
                 <!-- modals -->
-                <div class="modal" id="modal_1-04_act" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <div class="modal" id="modal_1-04_act" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 
+                        </div>
+                        <div class="modal-body">
+                            <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button> -->
+                            <div class="row d-none act-04-mdl act-sit-1-t">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
+                                        </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
+                                        </div>
+                                    </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_1tristeza.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
+                                </div>
                             </div>
-                            <div class="modal-body">
-                                <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button> -->
-                                <div class="row d-none act-04-mdl act-sit-1-t" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                            <div class="row d-none act-04-mdl act-sit-1-e">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/1_tristeza.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act-sit-1-e" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/1_enojo.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
                                     </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_1enojo.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
                                 </div>
-                                <div class="row d-none act-04-mdl act-sit-1-i" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-1-i">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/1_indiferencia.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act-sit-1-m" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/1_miedo.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
                                     </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_1indiferencia.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
                                 </div>
-                                <div class="row d-none act-04-mdl act-sit-1-d" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-1-m">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/1_disgusto.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
-                                    </div>
-                                </div>
-                                <!-- fin sit1 -->
-                                <div class="row d-none act-04-mdl act-sit-2-t" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/2_tristeza.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
                                     </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_1miedo.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
                                 </div>
-                                <div class="row d-none act-04-mdl act-sit-2-e" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-1-d">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/caso2-enojo.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act-sit-2-i" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/2_indiferencia.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
                                     </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_1disgusto.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
                                 </div>
-                                <div class="row d-none act-04-mdl act-sit-2-m" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                            </div>
+                            <!-- fin sit1 -->
+                            <div class="row d-none act-04-mdl act-sit-2-t">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/2_miedo.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act-sit-2-d" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/caso2-disgusto.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
                                     </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_2tristeza.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
                                 </div>
-                                <!-- fin sit2 -->
-                                <div class="row d-none act-04-mdl act-sit-3-t" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-2-e">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/3_tristeza.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act-sit-3-e" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/3_enojo.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
                                     </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_2enojo.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
                                 </div>
-                                <div class="row d-none act-04-mdl act-sit-3-i" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-2-i">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/3_indiferencia.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act-sit-3-m" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/3_miedo.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
                                     </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_2indiferencia.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
                                 </div>
-                                <div class="row d-none act-04-mdl act-sit-3-d" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-2-m">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/3_disgusto.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
-                                    </div>
-                                </div>
-                                <!-- fin sit3 -->
-                                <div class="row d-none act-04-mdl act-sit-4-t" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/4_tristeza.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
                                     </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_2miedo.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
                                 </div>
-                                <div class="row d-none act-04-mdl act-sit-4-e" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-2-d">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/4_enojo.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act-sit-4-i" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/4_indiferencia.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
                                     </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_2disgusto.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
                                 </div>
-                                <div class="row d-none act-04-mdl act-sit-4-m" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                            </div>
+                            <!-- fin sit2 -->
+                            <div class="row d-none act-04-mdl act-sit-3-t">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/4_miedo.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="row d-none act-04-mdl act-sit-4-d" >
-                                    <div class="col-12">
-                                        <div class="row align-items-center">
-                                            <div class="col"> 
-                                                <span class="ico"></span>
-                                            </div>
-                                            <div class="col">
-                                                <span class="title-b"></span>
-                                            </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
                                         </div>
-                                        <p class="text-center">
-                                            <audio width="100%" height="auto" id="video" controls>
-                                                <source src="../audios/emociones/4_disgusto.mp3" type="audio/mp3">
-                                            </audio>
-                                        </p>
                                     </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_3tristeza.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
                                 </div>
-                                <!-- fin sit4 -->
-                                <div class="row act-04-mdl act-sit-intimidad" >
-                                    <div class="col-12">
-                                        <p class="text-justify">
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-3-e">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
+                                        </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
+                                        </div>
+                                    </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_3enojo.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-3-i">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
+                                        </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
+                                        </div>
+                                    </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_3indiferencia.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-3-m">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
+                                        </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
+                                        </div>
+                                    </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_3miedo.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-3-d">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
+                                        </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
+                                        </div>
+                                    </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_3disgusto.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
+                                </div>
+                            </div>
+                            <!-- fin sit3 -->
+                            <div class="row d-none act-04-mdl act-sit-4-t">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
+                                        </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
+                                        </div>
+                                    </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_4tristeza.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-4-e">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
+                                        </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
+                                        </div>
+                                    </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/caso2-enojo.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-4-i">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
+                                        </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
+                                        </div>
+                                    </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_4indiferencia.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-4-m">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
+                                        </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
+                                        </div>
+                                    </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/2-06_act_4miedo.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="row d-none act-04-mdl act-sit-4-d">
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col">
+                                            <span class="ico"></span>
+                                        </div>
+                                        <div class="col">
+                                            <span class="title-b"></span>
+                                        </div>
+                                    </div>
+                                    <p class="text-center">
+                                        <audio width="100%" height="auto" id="video" controls>
+                                            <source src="../audios/mod2/caso2-disgusto.mp3" type="audio/mp3">
+                                        </audio>
+                                    </p>
+                                </div>
+                            </div>
+                            <!-- <div class="row act-04-mdl act-sit-intimidad">
+                                <div class="col-12">
+                                    <p class="text-justify">
                                         Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
-                                        </p>
-                                        <p class="text-justify">
+                                    </p>
+                                    <p class="text-justify">
                                         Podes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, podés poner una denuncia a las autoridades. Esta información la encontrás en esta misma página, seguí navegando.
-                                        </p>
-                                    </div>
+                                    </p>
                                 </div>
-                                <div class="row act-04-mdl act-sit-burla" >
-                                    <div class="col-12">
-                                        <p class="text-justify">
+                            </div> -->
+                            <!-- <div class="row act-04-mdl act-sit-burla">
+                                <div class="col-12">
+                                    <p class="text-justify">
                                         A nadie le gusta recibir burlas. Ni a vos, ni a tus contactos o amistades. Tenemos derecho a disfrutar, sin agresiones en línea..
-                                        </p>
-                                        <p class="text-justify">
+                                    </p>
+                                    <p class="text-justify">
                                         Aprendé a configurar las etiquetas, los comentarios y tu privacidad en cada red social acá. Encontrá acá en e-Mentores cómo hacerlo, seguí navegando.
-                                        </p>
-                                    </div>
+                                    </p>
                                 </div>
-                                <div class="row act-04-mdl act-sit-extorcion" >
-                                    <div class="col-12">
-                                        <p class="text-justify">
+                            </div> -->
+                            <!-- <div class="row act-04-mdl act-sit-extorcion">
+                                <div class="col-12">
+                                    <p class="text-justify">
                                         La extorsión es un acto de violencia grave. Denunciemos ante las autoridades! Encontrá la ruta de denuncia en esta misma página
                                     </p>
-                                    </div>
                                 </div>
-                            </div> <!-- fin body -->
-                            <!-- <div class="modal-footer">
+                            </div> -->
+                        </div> <!-- fin body -->
+                        <!-- <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
                             </div> -->
-                        </div>
                     </div>
                 </div>
-                <!-- fin modal -->
+            </div>
+            <!-- fin modal -->
                 <a href="../0-03_menu.php#mod2" class="back_to_menu d-none">Volver al menú</a>
 
                 </section>
