@@ -57,17 +57,18 @@
         <a href="mod_2/redes_sociales.php#titleancla" class="v2-act-5">“Amistad” en redes sociales ¿Aceptaría estas invitaciones?</a>
     </div>
   </article>
+  <article class="item group1">
+    <div class="item-module">
+        <a href="mod_2/ciber_emociones.php#titleancla" class="v2-act-6">Reconozcamos nuestras emociones en el uso de las TIC</a>
+    </div>
+  </article>
   <article class="item group2">
     <div class="item-module">
         <a href="mod_2/huelladigital.php#titleancla" class="v2-act-8">Huella digital: nuestro rastro en Internet</a>
     </div>
   </article>
   
-  <!-- <article class="item group1">
-    <div class="item-module">
-        <a href="mod_2/ciber_emociones.php#titleancla" class="v2-act-6">Reconozcamos nuestras emociones en el uso de las TIC</a>
-    </div>
-  </article> -->
+  
   <article class="item group1">
     <div class="item-module">
         <a href="/juego" class="v-act-9" target="_blank">Historia interactiva Enredes</a>

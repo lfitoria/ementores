@@ -19,7 +19,7 @@
                 <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>-->
 
                 <h2 class="title-cx" id="titleancla">
-                    “Amistad” en redes sociales ¿Aceptarías estas invitaciones?
+                Decisiones que le protegen en Internet
                 </h2>
                 <div class="main ">
                     <div class="bck-blue m-auto">
