@@ -5,30 +5,18 @@
 <body id="page-2-03">
     <div class="wrapper">
         <div id="content" class="bck-green">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light d-block">
-                <div class="container-fluid">
-
-
-                    <div class="nav justify-content-start">
-
-
-                    </div>
-
-
-                    <div class="nav justify-content-center">
-                        <h1><a class="mx-auto" href="../index.php"><img src="../img/logo-ementores.png" alt="Curso en línea uso seguro de internet para familia |  Programa e-mentores Familias"></a></h1>
-                    </div>
-
-
-                    <div class="nav justify-content-end">
-                        <button type="button" id="sidebarCollapse" class="btn" >
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-                    </div>
+            
+        <div class="rowa header-top">
+                <div class="container">
+                    <div class="header-top-box"></div>
                 </div>
-            </nav>
-            <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>Decisiones que le protegen en Internet</p>
+                <!-- <img src="img/fondo_header.png"> -->
+            </div>
+
             <section class="container-fluid">
+            <h2 class="title-cx" id="titleancla">
+            Decisiones que le protegen en Internet
+                </h2>
                 <div class="main">
                     <div id="act_01p1" class="mod">
                         <div class="rowa img-intro">
