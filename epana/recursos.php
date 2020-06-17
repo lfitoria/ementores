@@ -46,6 +46,12 @@
         <a href="mod_2/decisiones.php#titleancla" class="v2-act-3">Decisiones que te protegen en Internet</a>
     </div>
   </article> -->
+  <article class="item group2">
+    <div class="item-module">
+        <a href="mod_2/acompanar.php#titleancla" class="v2-act-1">Acompañar también es proteger</a>
+    </div>
+  </article>
+  
   <article class="item group1">
     <div class="item-module">
         <a href="mod_2/redes_sociales.php#titleancla" class="v2-act-5">“Amistad” en redes sociales ¿Aceptaría estas invitaciones?</a>
