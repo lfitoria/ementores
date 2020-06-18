@@ -428,7 +428,7 @@
                         </div>
                     </div>
                     <a href="../0-03_menu.php#mod1" class="back_to_menu d-none">Volver al menú</a>
-                    <a href="/familias/mod_1/1-03_act.php?t=m" id="back_family" style="width: 25%;">Volver a los personajes</a>
+                    <!-- <a href="/familias/mod_1/1-03_act.php?t=m" id="back_family" style="width: 25%;">Volver a los personajes</a> -->
                 </div>
             </section>
             <?php require '../footer.php'; ?>

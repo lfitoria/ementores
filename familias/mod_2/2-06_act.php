@@ -66,12 +66,14 @@
                                             <p>Todas las personas tenemos derecho a sentirnos bien y seguros cuando usamos internet y las redes sociales.</p>
 
                                             <p>Con esta actividad te invitamos a reconocer tus emociones y las de las otras personas.</p>
+                                            <br>
+                                            <img id="vol-img" src="../img/E-COMPAS-audio_rp.png">
                                         </div>
                                         <div class="col-12 col-sm-3">
                                             <img src="../img/mod2/2-06_intro.png" class="img-fluid m-auto d-block">
                                         </div>
                                     </div>
-                                    <img id="vol-img" src="../img/E-COMPAS-audio.png">
+                                    
                                     <button class="gotoModulePage btn-start" data-page="2"><span>Iniciar</button>
                                 </div>
                             </div>
@@ -95,7 +97,7 @@
                                 </div>
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-12 col-md-8">
-                                        <p class="explication-label">Compartís una foto íntima con una persona y la foto se difunde o se publica en internet</p>
+                                        <p class="explication-label">Compartes una foto íntima con una persona y la foto se difunde o se publica en internet</p>
                                     </div>
                                     <div class="d-none d-md-block col-md-4">
                                         <img src="../img/mod2/2-06_act-situacion1.png" class="img-fluid">
@@ -146,7 +148,7 @@
                                 </div>
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-12 col-md-8">
-                                        <p class="explication-label">Aparece en redes sociales un mensaje en el que una persona se burla de usted.</p>
+                                        <p class="explication-label">Aparece en redes sociales un mensaje en el que una persona se burla de ti.</p>
                                     </div>
                                     <div class="d-none d-md-block col-md-4">
                                         <img src="../img/mod2/2-06_act-situacion2.png" class="img-fluid">
@@ -192,7 +194,7 @@
                                 </div>
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-12 col-md-8">
-                                        <p class="explication-label">Una persona le pide dinero a cambio de no revelar un secreto suyo en redes sociales.
+                                        <p class="explication-label">Una persona te pide dinero a cambio de no revelar un secreto tuyo en redes sociales.
                                         </p>
                                     </div>
                                     <div class="d-none d-md-block col-md-4">
@@ -293,7 +295,7 @@
                     <div id="act_01p6" class="d-none mod " style=" position: relative;padding: 0 8%;">
 
                         <div class="col text-center">
-                            <p class="explication-label">¡Preste atención a sus emociones!
+                            <p class="explication-label">¡Presta atención a tus emociones!
                             </p>
                         </div>
                         <div class="row">
@@ -742,10 +744,11 @@
                         </div>
     <div class="col-12">
         <p class="text-justify">
-            Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+        Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+
         </p>
         <p class="text-justify">
-            Podes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, podés poner una denuncia a las autoridades. Esta información la encontrás en esta misma página, seguí navegando.
+        Puedes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, puedes poner una denuncia a las autoridades. Esta información la encuentras en esta misma página, sigue navegando.
         </p>
     </div>
     </div>
@@ -761,10 +764,11 @@
                         </div>
     <div class="col-12">
         <p class="text-justify">
-            Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+        Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+
         </p>
         <p class="text-justify">
-            Podes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, podés poner una denuncia a las autoridades. Esta información la encontrás en esta misma página, seguí navegando.
+        Puedes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, puedes poner una denuncia a las autoridades. Esta información la encuentras en esta misma página, sigue navegando.
         </p>
     </div>
     </div>
@@ -780,10 +784,10 @@
                         </div>
     <div class="col-12">
         <p class="text-justify">
-            Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+        Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
         </p>
         <p class="text-justify">
-            Podes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, podés poner una denuncia a las autoridades. Esta información la encontrás en esta misma página, seguí navegando.
+        Puedes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, puedes poner una denuncia a las autoridades. Esta información la encuentras en esta misma página, sigue navegando.
         </p>
     </div>
     </div>

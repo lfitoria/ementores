@@ -35,13 +35,14 @@
 
                                         <!-- <p>Realizá esta actividad para reflexionar sobre las emociones que te pueden provocar diferentes situaciones.</p> -->
                                         <p> Con esta actividad te invitamos a reconocer tus emociones y las de las otras personas</p>
-
+                                        <br>
+                                        <img id="vol-img" src="../img/E-COMPAS-audio_rp.png">
                                         </div>
                                         <div class="col-12 col-sm-3">
                                             <img src="../img/mod2/2-06_intro.png" class="img-fluid m-auto d-block">
                                         </div>
                                         </div>
-                                        <img id="vol-img" src="../img/E-COMPAS-audio.png">
+                                        
                                         <button class="gotoModulePage btn-start" data-page="2"><span>Iniciar</button>
                                     </div>
                                 </div>
