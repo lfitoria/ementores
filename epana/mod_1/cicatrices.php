@@ -122,13 +122,13 @@
 
                             <div class="d-block d-sm-none">
                                         <div class="row ">
-                                            <button class="gotoModulePage baki " data-page="1">Atrás</button>
-                                            <button class="gotoModulePage conti " data-page="3">Continuar</button>
+                                            <button class="gotoModulePage baki " data-page="1"></button>
+                                            <button class="gotoModulePage conti " data-page="3"></button>
                                         </div>
                                     </div>
 
-                                    <button class="gotoModulePage baki d-none d-sm-block" data-page="1">Atrás</button>
-                                    <button class="gotoModulePage conti d-none d-sm-block" data-page="4">Continuar</button>
+                                    <button class="gotoModulePage baki d-none d-sm-block" data-page="1"></button>
+                                    <button class="gotoModulePage conti d-none d-sm-block" data-page="4"></button>
 
 
                         </div>
@@ -143,8 +143,8 @@
                                 <img src="../img/mod1/1-08_sli_img2.png" class="img-fluid img-md">
 
                             </div>
-                            <button class="gotoModulePage baki" data-page="2">Atrás</button>
-                            <button class="gotoModulePage conti" data-page="4">Continuar</button>
+                            <button class="gotoModulePage baki" data-page="2"></button>
+                            <button class="gotoModulePage conti" data-page="4"></button>
                         </div>
                     </div>
 
@@ -173,7 +173,7 @@
                                 <p class="text-center">Pueden marcar a la persona de por vida.</p>
                                 <button type="button" class="btn btn-primary btn-lg m-auto d-block ejem" data-toggle="modal" data-target="#modal_1-08_act2">Ver ejemplos</button>
                             </div>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="2">Atrás</button>
+                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="2"></button>
                         </div>
                     </div>
                 </div>
