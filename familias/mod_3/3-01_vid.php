@@ -97,7 +97,7 @@
 
                                     <video width="100%" height="auto" id="video"  poster="../img/videos/vistas-3-01.png" controls>
 
-                                        <source src="../videos/3-01_vid.mp4" type="video/mp4">
+                                        <source src="../videos/3-01_vid_rp.mp4" type="video/mp4">
 
                                     </video>
 

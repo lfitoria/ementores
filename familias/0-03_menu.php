@@ -336,13 +336,13 @@
                                         <h3 class="text-center menu-title" id="mod3">Protejo: reacciono ante situaciones.</h3>
                                         <div class="menu-mod-cont col-12">
                                             <div class="row">
-                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[0]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
                                                         <a href="mod_3/3-01_vid.php" class="v3-act-1">¿Cómo protegen las leyes a las nuestras niñas y niños?</a>
                                                         
                                                     </div>
-                                                </div> -->
+                                                </div> 
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[1]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
