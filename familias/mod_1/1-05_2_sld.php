@@ -454,7 +454,7 @@
                                     <li>No te sumes: no difundas este tipo de contenidos.</li>
                                     <li>Recordar que las redes sociales no son un concurso de popularidad: Cuida a quien agregas en tus contactos.</li>
                                     <li>Reportar en cualquier red social para que se retire este tipo de material, y también denunciar ante las autoridades.</li>
-                                    <li>Si sucede en la escuela buscar apoyo y orientación. Las y los profesores pueden ayudarte.</li>
+                                    <li>Si sucede en la escuela buscar apoyo y orientación. Las y los profesores pueden ayudar.</li>
                                 </ul>
 
                             </div>
@@ -484,7 +484,7 @@
                                             <li>No reenviar: Si recibiste fotos o videos de este tipo no los reenvíes. No seas cómplice de la violencia, podrías caer en una situación legal delicada.
                                             <li>Detener este tipo de difusión. Borrar fotos, videos o audios.</li>
                                             <li>Configurar la Red Social. Cada red social te ofrece un procedimiento para que este tipo de material no siga publicado.</li>
-                                            <li> Si está sucediendo en el cole o escuela, buscar una persona de confianza y mostrarle esta información, hay un protocolo para cuidar los derechos de las y los menores de edad.</li>
+                                            <li> Si está sucediendo en la escuela, buscar una persona de confianza y mostrarle esta información, hay un protocolo para cuidar los derechos de las y los menores de edad.</li>
                                         </ul>
 
 

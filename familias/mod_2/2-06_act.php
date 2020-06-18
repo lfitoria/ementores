@@ -226,7 +226,7 @@
                                 <div class="d-block d-sm-none">
                                     <div class="row ">
                                         <button class="gotoModulePage baki " data-page="3">Atrás</button>
-                                        <button class="gotoModulePage conti " data-page="5">Continuar</button>
+                                        <button id="sit-extorcion" class="gotoModulePage conti " data-page="5">Continuar</button>
                                     </div>
                                 </div>
 
