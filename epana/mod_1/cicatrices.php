@@ -56,7 +56,7 @@
                     <div id="act_01p2" class="d-none mod">
                         <div class="row col-12 justify-content-center">
                             <div class="col-12 col-sm-10">
-                        <p id="info-p">Haga clic en los botones para descubrir cuáles son las consecuencias
+                        <p id="info-p">Haz clic en los botones para descubrir cuáles son las consecuencias
                             emocionales, sociales y físicas del abuso sexual.</p>
                         </div>
                         </div>
