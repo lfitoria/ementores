@@ -101,7 +101,7 @@
                                     </div>
 
                                     <button class="gotoModulePage baki d-none d-sm-block" data-page="1">Atrás</button>
-                                    <button id="sit-intimidad" class="gotoModulePage conti d-none d-sm-block" data-page="3"><a>Continuar</a></button>
+                                    <button id="sit-intimidad" class="gotoModulePage conti d-none d-sm-block" data-page="3">Continuar</button>
 
 
                                 </div>
@@ -149,7 +149,7 @@
                                     </div>
 
                                     <button class="gotoModulePage baki d-none d-sm-block" data-page="2">Atrás</button>
-                                    <button id="sit-burla" class="gotoModulePage conti d-none d-sm-block" data-page="4"><a>Continuar</a></button>
+                                    <button id="sit-burla" class="gotoModulePage conti d-none d-sm-block" data-page="4">Continuar</button>
                                 </div>
 
                                 <div id="act_01p4" class="d-none mod ">
@@ -196,7 +196,7 @@
                                     </div>
 
                                     <button class="gotoModulePage baki d-none d-sm-block" data-page="3">Atrás</button>
-                                    <button id="sit-extorcion" class="gotoModulePage conti d-none d-sm-block" data-page="5"><a>continuar</a></button>
+                                    <button id="sit-extorcion" class="gotoModulePage conti d-none d-sm-block" data-page="5">continuar</button>
                                 </div>
 
                                 <div id="act_01p5" class="d-none mod ">
