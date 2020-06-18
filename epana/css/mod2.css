@@ -13,7 +13,10 @@ font-size: 1.3em;
 padding: 4rem 4rem 2rem 4rem;
 margin-top: -66px;
 }
-
+img.vol-img{
+    display: block;
+    margin: auto;
+}
 
 #page-2-03 .img-intro img {
     display: block;
