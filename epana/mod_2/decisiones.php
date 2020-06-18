@@ -430,7 +430,7 @@
 
 
                                 <div class="col-12 col-md-7 data-side">
-                                    <p class="message-case text-center"><strong>¡Ha llegado al final de esta
+                                    <p class="message-case text-center"><strong>¡Haz llegado al final de esta
                                             actividad!</strong></p>
                                     <p class="text-center final-text" style="padding: 0 50px;">Esperamos que le haya sido útil para comprender la
                                         diferencia entre conductas protectoras y conductas de riesgo.</p>

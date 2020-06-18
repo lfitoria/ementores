@@ -101,7 +101,7 @@
                                     </div>
 
                                     <button class="gotoModulePage baki d-none d-sm-block" data-page="1">Atrás</button>
-                                    <button class="gotoModulePage conti d-none d-sm-block" data-page="3"><a data-modl="sit-intimidad">Continuar</a></button>
+                                    <button id="sit-intimidad" class="gotoModulePage conti d-none d-sm-block" data-page="3"><a data-modl="sit-intimidad">Continuar</a></button>
 
 
                                 </div>
@@ -149,7 +149,7 @@
                                     </div>
 
                                     <button class="gotoModulePage baki d-none d-sm-block" data-page="2">Atrás</button>
-                                    <button class="gotoModulePage conti d-none d-sm-block" data-page="4"><a data-modl="sit-burla">Continuar</a></button>
+                                    <button id="sit-burla" class="gotoModulePage conti d-none d-sm-block" data-page="4"><a data-modl="sit-burla">Continuar</a></button>
                                 </div>
 
                                 <div id="act_01p4" class="d-none mod ">
@@ -191,12 +191,12 @@
                                     <div class="d-block d-sm-none">
                                         <div class="row ">
                                             <button class="gotoModulePage baki " data-page="3">Atrás</button>
-                                            <button class="gotoModulePage conti " data-page="5">Continuar</button>
+                                            <button id="sit-extorcion" class="gotoModulePage conti " data-page="5">Continuar</button>
                                         </div>
                                     </div>
 
                                     <button class="gotoModulePage baki d-none d-sm-block" data-page="3">Atrás</button>
-                                    <button class="gotoModulePage conti d-none d-sm-block" data-page="5"><a data-modl="sit-extorcion">continuar</a></button>
+                                    <button id="sit-extorcion" class="gotoModulePage conti d-none d-sm-block" data-page="5"><a data-modl="sit-extorcion">continuar</a></button>
                                 </div>
 
                                 <div id="act_01p5" class="d-none mod ">
@@ -745,6 +745,64 @@
                 </ul>
 
             </nav>
+            <div id="sit-intimidad-modal" class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+
+                        </div>
+    <div class="col-12">
+        <p class="text-justify">
+        Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+
+        </p>
+        <p class="text-justify">
+        Puedes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, puedes poner una denuncia a las autoridades. Esta información la encuentras en esta misma página, sigue navegando.
+        </p>
+    </div>
+    </div>
+  </div>
+</div>
+<!-- 2 -->
+<div id="sit-burla-modal" class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+
+                        </div>
+    <div class="col-12">
+        <p class="text-justify">
+        Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+
+        </p>
+        <p class="text-justify">
+        Puedes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, puedes poner una denuncia a las autoridades. Esta información la encuentras en esta misma página, sigue navegando.
+        </p>
+    </div>
+    </div>
+  </div>
+</div>
+<!-- 3 -->
+<div id="sit-extorcion-modal" class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+
+                        </div>
+    <div class="col-12">
+        <p class="text-justify">
+        Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+        </p>
+        <p class="text-justify">
+        Puedes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, puedes poner una denuncia a las autoridades. Esta información la encuentras en esta misma página, sigue navegando.
+        </p>
+    </div>
+    </div>
+  </div>
+</div>
         </div>
 
 
@@ -765,6 +823,18 @@
         <script type="text/javascript" src="../js/map/jquery.rwdImageMaps.js"></script>
         <script type="text/javascript" src="../js/map/init.js" ></script>
         <script>
+            $('#sit-intimidad').on('click', function (event){ 
+     event.preventDefault(); 
+     $('#sit-intimidad-modal').modal('show')
+    });
+    $('#sit-burla').on('click', function (event){ 
+     event.preventDefault(); 
+     $('#sit-burla-modal').modal('show')
+    });
+    $('#sit-extorcion').on('click', function (event){ 
+     event.preventDefault(); 
+     $('#sit-extorcion-modal').modal('show')
+    });
             $(".gotoModulePage").click(function () {
                 $(".mod").addClass("d-none");
                 $("#act_01p" + $(this).data("page")).removeClass("d-none");
