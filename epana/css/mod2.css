@@ -13,7 +13,7 @@ font-size: 1.3em;
 padding: 4rem 4rem 2rem 4rem;
 margin-top: -66px;
 }
-img.vol-img{
+img#vol-img{
     display: block;
     margin: auto;
 }
