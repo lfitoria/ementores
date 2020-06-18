@@ -198,8 +198,8 @@
                                         <div class="form-group id-input resi-id d-none">
 
                                             <p class="text-center label-small">Escriba su número de residencia</p>
-                                            <input type="text" class="form-control text-number mr-auto" id="cr-id-input2" minlength="12" maxlength="12" aria-describedby="idHelp" placeholder="1NNN-CC...C-EE...E">
-                                            <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 117000112002</small>
+                                            <input type="text" class="form-control text-number mr-auto" id="cr-id-input2" minlength="11" maxlength="11" aria-describedby="idHelp" placeholder="XXXXXXXXXXXX">
+                                            <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 00100123456</small>
                                         </div> 
                                         <input type="hidden" name="type" value="1">
                                         

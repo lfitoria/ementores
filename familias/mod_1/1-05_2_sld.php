@@ -61,7 +61,7 @@
                     <div id="act_01">
                         <div class="row col-12 justify-content-center">
                             <div class="col-sm-8">
-                                <p id="info-p"><strong>Da clic en el expediente para conocer cada conducta violenta en línea</strong></p>
+                                <p id="info-p">Da clic en el expediente para conocer cada conducta violenta en línea</p>
                             </div>
                         </div>
                         <div class="cont row">
@@ -218,7 +218,7 @@
                                 <p><strong>¿Qué haría una familia e-mentora?:</strong><br>
                                 </p>
                                 <ul>
-                                    <li>Tener presente que tenés el derecho a no recibir materiales que te incomoden o molesten.</li>
+                                    <li>Tener presente que tienes el derecho a no recibir materiales que te incomoden o molesten.</li>
                                     <li>Reportar en la red social donde te los enviaron (revisar en sección de configuración de privacidad).</li>
                                     <li>Si la conducta violenta persiste, denunciar a las autoridades</li>
                                 </ul>
@@ -279,10 +279,11 @@
                                 <p><strong>¿Qué haría una familia e-mentora?</strong><br></p>
                                 <ul>
                                     <li>Prevenir. Sin material comprometedor no hay posibilidad de sextorsión.</li>
-                                    <li>No compartir tu intimidad en internet, mucho menos con personas que no conocés personalmente. Recuerda que cualquier video llamada se puede grabar sin que lo sepás.</li>
+                                    <li>No compartir tu intimidad en internet, mucho menos con personas que no conoces personalmente. Recuerda que cualquier video llamada se puede grabar sin que lo sepas.</li>
                                     <li>Almacenar tus cosas privadas con protección de contraseña o en carpetas ocultas, así nadie más podrá verlos.</li>
                                     <li>Recordar que si alguien publica algo tuyo sin tu autorización, todas las redes sociales tienen la opción de denunciar la publicación y pedir que la retiren.</li>
-                                    <li><a href="/epana/mod_3/ruta_denuncia.php">Denunciar.</a></li> 
+                                    <!-- <li><a href="/familias/mod_3/3-07_inf.php">Denunciar.</a></li>  -->
+                                    <li><a href="#">Denunciar.</a></li> 
                                 </ul>
 
                             </div>
@@ -315,9 +316,9 @@
                                 <ul>
                                     <li>Tener cuidado. No todo lo que ves en la web es cierto, recordá que muchas personas crean perfiles falsos.</li>
                                     <li>Cuidar la información personal, no coloqués teléfono, dirección o el nombre del centro de estudios en tus perfiles. Sobre todo, si agregás personas desconocidas.</li>
-                                    <li>Recordar que si nunca has visto a un contacto que agregaste en redes sociales, no podés tener la seguridad de que es una persona real.</li>
+                                    <li>Recordar que si nunca has visto a un contacto que agregaste en redes sociales, no puedes tener la seguridad de que es una persona real.</li>
                                     <li>No enviar información íntima (fotos o videos) a personas desconocidas en la Internet o redes sociales.</li>
-                                    <li>Tener presente que lo que publicás o envias, una vez que sale de tu teléfono, no está más en tu control.</li>
+                                    <li>Tener presente que lo que públicas o envías, una vez que sale de tu teléfono, no está más en tu control.</li>
                                     <li>Ojo: si decidiste ir a ver en persona al contacto que conociste por Internet.</li>
                                     <ul>
                                         <li>1. Si te pide que se vean en secreto, ¡encender las alertas! </li>
@@ -384,12 +385,12 @@
                                     <li>Tener presente que todas las personas tenemos derecho a la privacidad de nuestros datos al usar internet y redes sociales. Se cuenta con leyes que nos protegen de los delitos informáticos. ¡Especialmente las niñas, niños y adolescentes!.</li>
                                     <li>Tomar las medidas básicas de seguridad:</li>
                                     <ul>
-                                        <li>Instalá antivirus en tus dispositivos</li>
-                                        <li>Aprendé a reconocer sitios inseguros.</li>
-                                        <li>No confiés en correos extraños, premios sorpresa al ingresar a páginas web.</li>
-                                        <li>Descargá apps solo de sitios oficiales. Asegurate de que las aplicaciones que instalás son seguras ( Por ejemplo, leer comentarios de otras personas que las instalaron)</li>
+                                        <li>Instala antivirus en tus dispositivos</li>
+                                        <li>Aprende a reconocer sitios inseguros.</li>
+                                        <li>No confies en correos extraños, premios sorpresa al ingresar a páginas web.</li>
+                                        <li>Descarga apps solo de sitios oficiales. Asegúrate de que las aplicaciones que instalás son seguras ( Por ejemplo, leer comentarios de otras personas que las instalaron)</li>
                                     </ul>
-                                    <li>Si creés que has sido víctima de una estafa o de un intento de estafa, denunciar ante las autoridades.</li>
+                                    <li>Si crees que has sido víctima de una estafa o de un intento de estafa, denunciar ante las autoridades.</li>
                                 </ul>
 
                             </div>
@@ -448,12 +449,12 @@
                                 <p><strong>¿Qué haría una familia e-mentora?</strong><br>
                                 </p>
                                 <ul>
-                                    <li>Recordar que por ser una persona menor de edad, siempre tenés el derecho de contar con una protección especial en casos de abuso sexual.</li>
-                                    <li>Cuidar lo que publicás en internet o en redes.</li>
-                                    <li>No te sumes: no difundás este tipo de contenidos.</li>
-                                    <li>Recordar que las redes sociales no son un concurso de popularidad: Cuidá a quien agregás en tus contactos.</li>
+                                    <li>Recordar que por ser una persona menor de edad, siempre se tiene el derecho de contar con una protección especial en casos de abuso sexual.</li>
+                                    <li>Cuidar lo que públicas en internet o en redes.</li>
+                                    <li>No te sumes: no difundas este tipo de contenidos.</li>
+                                    <li>Recordar que las redes sociales no son un concurso de popularidad: Cuida a quien agregas en tus contactos.</li>
                                     <li>Reportar en cualquier red social para que se retire este tipo de material, y también denunciar ante las autoridades.</li>
-                                    <li>Si sucede en la escuela o cole buscar apoyo y orientación. Las y los profes pueden ayudarte.</li>
+                                    <li>Si sucede en la escuela buscar apoyo y orientación. Las y los profesores pueden ayudarte.</li>
                                 </ul>
 
                             </div>
@@ -473,14 +474,14 @@
                                         <strong>EXTORSIONADOR PELIGROSO</strong>
                                     </p> -->
                                     <p><strong>¿Cómo sucede?</strong><br>
-                                        Reenvíes fotos o videos privados e íntimos de otra persona sin su consentimiento.</p>
+                                        Reenvía fotos o videos privados e íntimos de otra persona sin su consentimiento.</p>
                                 </div>
                             </div>
                             <div class="row text-modus">
                                 <p><strong>¿Qué haría una familia e-mentora?</strong><br>
                                     <p>
                                         <ul>
-                                            <li>No reenviar: Si recibiste fotos o videos de este tipo no los reenviés. No seas cómplice de la violencia, podrías caer en una situación legal delicada.
+                                            <li>No reenviar: Si recibiste fotos o videos de este tipo no los reenvíes. No seas cómplice de la violencia, podrías caer en una situación legal delicada.
                                             <li>Detener este tipo de difusión. Borrar fotos, videos o audios.</li>
                                             <li>Configurar la Red Social. Cada red social te ofrece un procedimiento para que este tipo de material no siga publicado.</li>
                                             <li> Si está sucediendo en el cole o escuela, buscar una persona de confianza y mostrarle esta información, hay un protocolo para cuidar los derechos de las y los menores de edad.</li>
@@ -544,7 +545,8 @@
                                 <ul>
                                     <li> Tener presente que aunque sea tu pareja la persona que se apropia de tus dispositivos, él o ella está cometiendo un delito, violando tu libertad.</li>
                                     <li>Buscar apoyo de una persona de confianza.</li>
-                                    <li><a href="/epana/mod_3/ruta_denuncia.php">Denunciar.</a></li>
+                                    <!-- <li><a href="/epana/mod_3/ruta_denuncia.php">Denunciar.</a></li> -->
+                                    <li><a href="/familias/mod_3/3-07_inf.php">Denunciar.</a></li> 
                                 </ul>
                             </div>
                         </div>

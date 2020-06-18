@@ -142,7 +142,7 @@
                                             <img src="../img/mod2/2-02b_sli-img-3.png" class="img-fluid img-md">
                                         </div>
                                         <div class="col-12 col-sm-6">
-                                            <p class="font-italic text-jumbo">“Nuestra hija llegó muy afectada del colegio. Me acerqué y me comentó que le hicieron un meme y lo enviaron por teléfono a los grupos de compañeros.”</p>
+                                            <p class="font-italic text-jumbo">“Nuestra hija llegó muy afectada de la escuela. Me acerqué y me comentó que le hicieron un meme y lo enviaron por teléfono a los grupos de compañeros.”</p>
                                         </div>
                                     </div>
                                 </div>
