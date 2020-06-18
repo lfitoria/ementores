@@ -40,11 +40,11 @@
         <a href="mod_1/infoenlinea.php#titleancla" class="v-act-1">¿Qué es el abuso y la explotación sexual en línea?</a>
     </div>
   </article>
-  <article class="item group1">
+  <!-- <article class="item group1">
     <div class="item-module">
         <a href="mod_1/cicatrices.php#titleancla" class="v-act-8">Las cicatrices del abuso sexual</a>
     </div>
-  </article> 
+  </article>  -->
   <article class="item group1">
     <div class="item-module">
         <a href="mod_2/decisiones.php#titleancla" class="v2-act-3">Decisiones que te protegen en Internet</a>
