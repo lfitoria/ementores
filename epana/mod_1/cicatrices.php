@@ -1,4 +1,7 @@
 <html id="page-1-08sld">
+    <head>
+    <link href="/epana/css/mod1.css" rel="stylesheet" type="text/css" />
+    </head>
 <?php require '../header.php'; ?>
 
 <body>
