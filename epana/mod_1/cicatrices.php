@@ -1,50 +1,27 @@
 <html id="page-1-08sld">
-<head>
-    <meta http-equiv="Cache-Control" content="no-cache" />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Expires" content="0" />
-    <link rel="icon" href="../favicon.ico" type="image/gif">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Me informo: oportunidades y desafíos en la web | Programa e-mentores Familias</title>
-    <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
-    <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
-    <link href="../css/style.css" rel="stylesheet" type="text/css"/>
-    <link href="../css/index.css" rel="stylesheet" type="text/css"/>
-    <link href="../css/mod1.css" rel="stylesheet" type="text/css"/>
+<?php require '../header.php'; ?>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127635098-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'UA-127635098-1');
-        </script>
-    </head>
 <body>
+
+
     <div class="wrapper">
+        <!-- Page Content -->
         <div id="content">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light d-block">
-                <div class="container-fluid">
 
-                    <div class="nav justify-content-start">
-
-                    </div>
-
-                    <div class="nav justify-content-center">
-                        <h1><a class="mx-auto" href="../index.php"><img src="../img/logo-ementores.png" alt="Curso en línea uso seguro de internet para familia |  Programa e-mentores Familias"></a></h1>
-                    </div>
-
-                    <div class="nav justify-content-end">
-                        <button type="button" id="sidebarCollapse" class="btn" >
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-                    </div>
+            <div class="rowa header-top">
+                <div class="container">
+                    <div class="header-top-box"></div>
                 </div>
-            </nav>
-            <p class="intro-header blue" style=" margin-bottom: 0;"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>Las cicatrices del abuso sexual</p>
+                <!-- <img src="img/fondo_header_rp.png"> -->
+            </div>
+
+
+
+            <section class="container" id="pagecontaineract">
+                <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al menú</a></p>-->
+
+                <h2 class="title-cx" id="titleancla">Las cicatrices del abuso sexual</h2>
+
             <!-- <section class="container"> -->
                 <div class="main">
                     <div id="act_01p1" class="mod act_108_act">
