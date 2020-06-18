@@ -37,7 +37,7 @@
   </article>
   <article class="item group2">
     <div class="item-module">
-        <a href="mod_1/infoenlinea.php#titleancla" class="v-act-1">¿Qué es el abuso y la explotación sexual en línea?</a>
+        <a href="mod_1/infoenlinea.php#titleancla" class="v-act-6">¿Qué es el abuso y la explotación sexual en línea?</a>
     </div>
   </article>
   <!-- <article class="item group1">
