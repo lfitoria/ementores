@@ -95,7 +95,7 @@
 
                                 <div class="col-12">
 
-                                    <video width="100%" height="auto" id="video"  poster="../img/videos/vistas-3-01.png" controls>
+                                    <video width="100%" height="auto" id="video" controls>
 
                                         <source src="../videos/3-01_vid_rp.mp4" type="video/mp4">
 
