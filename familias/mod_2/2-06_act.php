@@ -245,7 +245,7 @@
                                 </div>
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-12 col-md-8">
-                                        <p class="explication-label">Una persona le pide dinero a cambio de no revelar un secreto suyo en redes sociales.
+                                        <p class="explication-label">Una persona te pide dinero a cambio de no revelar un secreto suyo en redes sociales.
                                         </p>
                                     </div>
                                     <div class="d-none d-md-block col-md-4">
