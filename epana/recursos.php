@@ -89,11 +89,11 @@
         <a href="mod_3/actuemos.php#titleancla" class="v3-act-5">¡No lo dejemos pasar! Actuemos contra el abuso</a>
     </div>
   </article>
-  <!-- <article class="item group3">
+  <article class="item group3">
     <div class="item-module">
         <a href="mod_3/ruta_denuncia.php#titleancla" class="v3-act-7">¿Cómo denunciar las violencias en línea?</a>
     </div>
-  </article> -->
+  </article>
   
   
   

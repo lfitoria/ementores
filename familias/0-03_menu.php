@@ -365,14 +365,14 @@
                                                         
                                                     </div>
                                                 </div> 
-                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[4]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
                                                         <a href="mod_3/3-07_inf.php" class="v3-act-7">¿Cómo denunciar las violencias en línea?</a>
                                                         
                                                     </div>
                                                 </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <!--<div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[5]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
                                                         <a href="mod_3/3-08_vid.php" class="v3-act-8">¿Cómo ser una familia e-Mentora?</a>
