@@ -44,6 +44,7 @@
                             </div>
                         </div>
                         <a href="../0-03_menu.php#mod1" class="back_to_menu d-none">Volver al menú</a>
+                        <p class="intro-header blue"><a href="../" class="icovolver hvr-icon">Volver al inicio</a></p>
                     </div>
                 </section>
                 <?php require '../footer.php'; ?>
