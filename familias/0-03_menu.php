@@ -165,13 +165,13 @@
                                                     <!--<p class=dots-mod>. . .</p>-->
                                                 </div>
                                             </div>
-                                            <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[6]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                     
                                                     <a href="mod_1/1-07_act.php" class="v-act-7">Abuso sexual en línea: ojo con las señales</a>
                                                     
                                                 </div>
-                                            </div>-->
+                                            </div>
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[7]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                     
