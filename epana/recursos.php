@@ -30,6 +30,11 @@
         <a href="mod_1/caras.php?t=m" class="v-act-3">Las dos caras de las TIC</a>
     </div>
   </article>
+  <article class="item group3">
+    <div class="item-module">
+        <a href="mod_1/maximo.php#titleancla" class="v-act-4">Sáquele el máximo a la Internet</a>
+    </div>
+  </article>
   <article class="item group1">
     <div class="item-module">
         <a href="mod_1/legion.php#titleancla" class="v-act-5">Conductas violentas en Internet y en Redes Sociales</a>
