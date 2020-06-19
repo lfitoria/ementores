@@ -75,7 +75,7 @@ El abuso sexual y la explotación sexual, tanto física como en línea, tienen s
                     
                 </div>
                 <div id="act_01p2" class="d-none module">
-                    <p id="info-p">Mueva el mouse (cursor) sobre la imagen para identificar las diferentes consecuencias que puede experimentar una persona menor de edad que está siendo víctima de abuso sexual y oprima para conocer más.  </p>
+                    <p id="info-p">Mueve el mouse (cursor) sobre la imagen para identificar las diferentes consecuencias que puede experimentar una persona menor de edad que está siendo víctima de abuso sexual y oprima para conocer más.  </p>
                     <div class="cont row">
                         <div id="map_container">
                             <img usemap="#1-07-act" style="max-height: 600px;" src="../img/mod1/1-07_act_general.jpg" alt="" class="" style="height: 100%; margin: auto; display: block; width: auto" />
