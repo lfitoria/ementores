@@ -453,10 +453,10 @@ Un día su tío le pregunta con quién pasa hablando todo el día y Eric le resp
 
         $("#video1").on("timeupdate", function() {
             console.log(parseInt(this.currentTime));
-            if (parseInt(this.currentTime) == 26) {
+            if (parseInt(this.currentTime * 1000) >= 27700 && parseInt(this.currentTime * 1000) <= 27800) {
                 this.pause();
 
-                time = 27;
+                time = 28;
                 video = document.getElementById("video1");
                 modal = $(this).parent().parent().find(".modal")
                 modal.modal("show");
@@ -466,9 +466,9 @@ Un día su tío le pregunta con quién pasa hablando todo el día y Eric le resp
         $("#video2").on("timeupdate", function() {
             console.log(parseInt(this.currentTime * 1000));
             // if (parseInt(this.currentTime * 1000) >= 36000 && parseInt(this.currentTime * 1000) <= 36000)
-            if (parseInt(this.currentTime) == 35) {
+            if (parseInt(this.currentTime) == 33) {
                 this.pause();
-                time = 36;
+                time = 34;
                 video = document.getElementById("video2");
                 modal = $(this).parent().parent().find(".modal")
                 modal.modal("show");
@@ -478,9 +478,9 @@ Un día su tío le pregunta con quién pasa hablando todo el día y Eric le resp
 
         $("#video3").on("timeupdate", function() {
             console.log(parseInt(this.currentTime));
-            if (parseInt(this.currentTime * 1000) >= 35500 && parseInt(this.currentTime * 1000) <= 35900) {
+            if (parseInt(this.currentTime * 1000) >= 41500 && parseInt(this.currentTime * 1000) <= 41900) {
                 this.pause();
-                time = 38;
+                time = 42;
                 video = document.getElementById("video3");
                 modal = $(this).parent().parent().find(".modal")
                 modal.modal("show");
