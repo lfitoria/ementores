@@ -30,13 +30,22 @@
                                     <img usemap="#1-02-inf" src="../../../familias/img/mod1/1-02_inf_rd.png" class="img-fluid">
                                     <map name='1-02-inf'>
                                     <area data-nbr="1" href='#' coords="199,286,269,351" shape="rect">
-                                        <area data-nbr="2" href='#' coords="381,352,311,283" shape="rect">
+                                        <!-- <area data-nbr="2" href='#' coords="381,352,311,283" shape="rect">
                                         <area data-nbr="3" href='#' coords="493,355,426,282" shape="rect">
                                         <area data-nbr="4" href='#' coords="608,352,539,284" shape="rect">
                                         <area data-nbr="5" href='#' coords="538,435,605,500" shape="rect">
                                         <area data-nbr="6" href='#' coords="425,436,496,502" shape="rect">
                                         <area data-nbr="7" href='#' coords="314,434,383,502" shape="rect">
-                                        <area data-nbr="8" href='#' coords="201,432,269,500" shape="rect">
+                                        <area data-nbr="8" href='#' coords="201,432,269,500" shape="rect"> -->
+                                        <area data-nbr="7" href="#" coords="65,457,169,565" shape="rect">
+                                        <area data-nbr="5" href="#" coords="63,663,169,769" shape="rect">
+                                        <area data-nbr="2" href="#" coords="240,367,342,472" shape="rect">
+                                        <area data-nbr="1" href="#" coords="184,565,286,670" shape="rect">
+                                        <area data-nbr="9" href="#" coords="334,501,439,604" shape="rect">
+                                        <area data-nbr="3" href="#" coords="461,363,566,469" shape="rect">
+                                        <area data-nbr="4" href="#" coords="503,563,606,667" shape="rect">
+                                        <area data-nbr="6" href="#" coords="626,472,730,576" shape="rect">
+                                        <area data-nbr="8" href="#" coords="627,681,731,787" shape="rect">
                                     </map>
                                 </div>
                                 
