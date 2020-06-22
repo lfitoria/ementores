@@ -372,13 +372,13 @@
                                                         
                                                     </div>
                                                 </div>
-                                                <!--<div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[5]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
                                                         <a href="mod_3/3-08_vid.php" class="v3-act-8">¿Cómo ser una familia e-Mentora?</a>
                                                         
                                                     </div>
-                                                </div> -->
+                                                </div> 
                                             </div>
                                             <!-- <div class="row">
                                                 <div class="col-12 item-module-final">
