@@ -53,7 +53,7 @@
                         <div id="act_01" class="mod">
                             <div class="cont row">
                                 <div id="map_container">
-                                    <img usemap="#1-02-inf" src="../img/mod1/1-02_inf.png" class="img-fluid">
+                                    <img usemap="#1-02-inf" src="../img/mod1/1-02_inf_rd.png" class="img-fluid">
                                     <map name='1-02-inf'>
                                         <area data-nbr="1" shape='rect' coords='363, 400, 237, 532' href='#' />
                                         <area data-nbr="2" shape='rect' coords='601, 405, 465, 540' href='#' />
