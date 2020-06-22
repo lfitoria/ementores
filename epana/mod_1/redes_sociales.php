@@ -39,8 +39,9 @@
                                         <area data-nbr="8" href='#' coords="201,432,269,500" shape="rect">
                                     </map>
                                 </div>
-                                <p class="intro-header blue"><a href="../" class="icovolver hvr-icon">Volver al inicio</a></p>
+                                
                             </div>
+                            <p class="intro-header blue"><a href="../" class="icovolver hvr-icon">Volver al inicio</a></p>
                         </div>
                         <a href="../0-03_menu.php#mod1" class="back_to_menu d-none">Volver al menú</a>
                     </div>
