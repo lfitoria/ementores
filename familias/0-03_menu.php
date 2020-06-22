@@ -354,13 +354,13 @@
                                                         <a href="mod_3/3-03_act.php" class="v3-act-3">​Escuchemos: no siempre tenemos ​la ​razón</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
-                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[2]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <a href="mod_3/3-04_inf.php" class="v3-act-4">Recuerde las señales de alarma para identificar el abuso sexual</a>
                                                     
                                                     </div>
                                                 </div>
-                                                -->
+                                                
 
 
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
