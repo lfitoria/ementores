@@ -66,6 +66,7 @@
                                     </map>
                                 </div>
                             </div>
+                            <br>
                         </div>
                         <a href="../0-03_menu.php#mod1" class="back_to_menu d-none">Volver al menú</a>
                     </div>
