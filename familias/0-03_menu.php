@@ -269,7 +269,12 @@
                                                         <a href="mod_2/2-06_act.php" class="v2-act-6">Reconozcamos nuestras emociones en el uso de las TIC</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
-                                                
+                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                    <div class="item-module active">
+                                                        <!-- <img src="img/icon.png" alt=""/> -->
+                                                        <a href="mod_2/2-07_inf.php" class="v2-act-7">Prevenir y prohibir ¡No son lo mismo!</a><!--<p class=dots-mod>. . .</p>-->
+                                                    </div>
+                                                </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[7]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
