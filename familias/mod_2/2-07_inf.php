@@ -56,11 +56,16 @@
                                 <div id="map_container">
                                     <img usemap="#1-07-inf" id="img-map" src="../img/mod2/2-07_inf.png" class="img-fluid">
                                     <map name="1-07-inf">
-                                        <area data-nbr="1" shape='rect' coords='540, 1126, 758, 1198' href='#' />
+                                        <!-- <area data-nbr="1" shape='rect' coords='540, 1126, 758, 1198' href='#' />
                                         <area data-nbr="2" shape='rect' coords='540, 1836, 758, 1908' href='#' />
                                         <area data-nbr="3" shape='rect' coords='540, 2532, 758, 2605' href='#' />
                                         <area data-nbr="4" shape='rect' coords='540, 3238, 758, 3312' href='#' />
-                                        <area data-nbr="5" shape='rect' coords='540, 3933, 758, 4009' href='#' />
+                                        <area data-nbr="5" shape='rect' coords='540, 3933, 758, 4009' href='#' /> -->
+                                        <area data-nbr="1" href="#" coords="63,245,537,272" shape="rect" data-mapster-key="0">
+                                        <area data-nbr="2" href="#" coords="63,377,539,416" shape="rect" data-mapster-key="1">
+                                        <area data-nbr="3" href="#" coords="62,539,539,561" shape="rect" data-mapster-key="2">
+                                        <area data-nbr="4" href="#" coords="63,667,539,705" shape="rect" data-mapster-key="3">
+                                        <area data-nbr="5" href="#" coords="61,814,538,839" shape="rect" data-mapster-key="4">
                                     </map>
                                 </div>
                             </div>
