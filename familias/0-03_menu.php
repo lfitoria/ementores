@@ -246,13 +246,13 @@
                                                         
                                                     </div>
                                                 </div>
-                                                <!--<div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[3]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
                                                         <a href="mod_2/2-04_inf.php" class="v2-act-4">¡No lo cuente todo en la Internet!</a>
                                                         
                                                     </div>
-                                                </div> -->
+                                                </div>
 
 
 
