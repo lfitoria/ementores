@@ -61,11 +61,11 @@
                                         <area data-nbr="3" shape='rect' coords='540, 2532, 758, 2605' href='#' />
                                         <area data-nbr="4" shape='rect' coords='540, 3238, 758, 3312' href='#' />
                                         <area data-nbr="5" shape='rect' coords='540, 3933, 758, 4009' href='#' /> -->
-                                        <area data-nbr="1" href="#" coords="63,245,537,272" shape="rect" data-mapster-key="0">
-                                        <area data-nbr="2" href="#" coords="63,377,539,416" shape="rect" data-mapster-key="1">
-                                        <area data-nbr="3" href="#" coords="62,539,539,561" shape="rect" data-mapster-key="2">
-                                        <area data-nbr="4" href="#" coords="63,667,539,705" shape="rect" data-mapster-key="3">
-                                        <area data-nbr="5" href="#" coords="61,814,538,839" shape="rect" data-mapster-key="4">
+                                        <area data-nbr="1" href="#" coords="82,320,711,358" shape="rect">
+                                        <area data-nbr="2" href="#" coords="84,497,710,549" shape="rect">
+                                        <area data-nbr="3" href="#" coords="86,713,709,739" shape="rect">
+                                        <area data-nbr="4" href="#" coords="82,879,712,933" shape="rect">
+                                        <area data-nbr="5" href="#" coords="82,1076,712,1109" shape="rect">
                                     </map>
                                 </div>
                             </div>
