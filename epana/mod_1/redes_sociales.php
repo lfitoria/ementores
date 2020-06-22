@@ -1,59 +1,33 @@
-<html class="page-02-inf">
-    <head>
-        <meta http-equiv="Cache-Control" content="no-cache" />
-        <meta http-equiv="Pragma" content="no-cache" />
-        <meta http-equiv="Expires" content="0" />
-        <link rel="icon" href="../favicon.ico" type="image/gif">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Me informo: oportunidades y desafíos en la web | Programa e-mentores Familias</title>
-        <link  type="text/css"  href="../css/bootstrap.css" rel="stylesheet">
-        <link  type="text/css"  href="../css/bootstrap-grid.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
-        <link href="../css/style.css" rel="stylesheet" type="text/css"/>
-        <link href="../css/index.css" rel="stylesheet" type="text/css" />
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127635098-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'UA-127635098-1');
-        </script>
-    </head>
-    <body>
-        <div class="wrapper">
+<html id="page-3-05">
+<?php require '../header.php'; ?>
+<body>
 
 
-            <!-- Page Content -->
+    <div class="wrapper">
+        <!-- Page Content -->
+        <div id="content"> 
 
-            <div id="content">
-                <nav class="navbar navbar-expand-lg navbar-light bg-light d-block">
-                    <div class="container-fluid">
+            <div class="rowa header-top">
+                <div class="container">
+                    <div class="header-top-box"></div>
+                </div>
+                <!-- <img src="img/fondo_header.png"> -->
+            </div>
 
-                        <div class="nav justify-content-start">
 
-                        </div>
-
-                        <div class="nav justify-content-center">
-                            <h1><a class="mx-auto" href="../index.php"><img src="../img/logo-ementores.png" alt="Curso en línea uso seguro de internet para familia |  Programa e-mentores Familias"></a></h1>
-                        </div>
-
-                        <div class="nav justify-content-end">
-                            <button type="button" id="sidebarCollapse" class="btn" >
-                                <span class="navbar-toggler-icon"></span>
-                            </button>
-                        </div>
-                    </div>
-                </nav>
-                <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>Aplicaciones y redes sociales para estar al día</p>
+            
                 <section class="container">
+                    
+                    <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>-->
+
+                <h2 class="title-cx" id="titleancla">
+                    Aplicaciones y redes sociales para estar al día
+                </h2>
                     <div class="main">
                         <div id="act_01" class="mod">
                             <div class="cont row">
                                 <div id="map_container">
-                                    <img usemap="#1-02-inf" src="../img/mod1/1-02_inf.png" class="img-fluid">
+                                    <img usemap="#1-02-inf" src="../../../familias/img/mod1/1-02_inf_rd.png" class="img-fluid">
                                     <map name='1-02-inf'>
                                         <area data-nbr="1" shape='rect' coords='363, 400, 237, 532' href='#' />
                                         <area data-nbr="2" shape='rect' coords='601, 405, 465, 540' href='#' />

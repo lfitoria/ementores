@@ -25,6 +25,11 @@
         <a href="mod_1/tic.php#titleancla" class="v-act-1">Las TIC en todos lados y a todas horas</a>
     </div>
   </article>
+  <article class="item group3">
+    <div class="item-module">
+        <a href="mod_1/redes_sociales.php#titleancla" class="v-act-2">Aplicaciones y redes sociales para estar al día/a>
+    </div>
+  </article>
   <article class="item group1">
     <div class="item-module">
         <a href="mod_1/caras.php?t=m" class="v-act-3">Las dos caras de las TIC</a>
