@@ -52,7 +52,7 @@
                             <div class="cont row">
                                 <div class="col-12">
                                     <video width="100%" height="auto" id="video" poster="../img/videos/vistas-3-09.png" controls>
-                                        <source src="../videos/3-08_vid animatic.mp4" type="video/mp4">
+                                        <source src="../videos/3-08_vid_rd.mp4" type="video/mp4">
                                     </video>
                                     <a href="../0-03_menu.php#mod3" class="back_to_menu d-none">Volver al menú</a>
                                 </div>
