@@ -27,7 +27,7 @@
   </article>
   <article class="item group3">
     <div class="item-module">
-        <a href="mod_1/redes_sociales.php#titleancla" class="v-act-2">Aplicaciones y redes sociales para estar al día/a>
+        <a href="mod_1/redes_sociales.php#titleancla" class="v-act-2">Aplicaciones y redes sociales para estar al día</a>
     </div>
   </article>
   <article class="item group1">
