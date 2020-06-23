@@ -13,7 +13,11 @@ and open the template in the editor.
 @font-face {
     font-family:"Nunito";
     src: url("Nunito-Regular.ttf") format("truetype");
-  }
+}
+@font-face {
+    font-family:"Nunito-Bold";
+    src: url("Nunito-Bold.ttf") format("truetype");
+}
 
 body,p,h1,h2,h3,h4,.h1,.h2,.h3,.h4,.close,button.close,div{
     font-family: 'Nunito', sans-serif;
