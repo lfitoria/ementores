@@ -226,13 +226,13 @@
 
                                                     </div>
                                                 </div>
-                                               <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                               <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[1]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
                                                         <a href="mod_2/2-02a_sli.php" class="v2-act-2">Crianza Respetuosa: pongamos límites con amor</a>
                                                         
                                                     </div>
-                                                </div> -->
+                                                </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[9]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
