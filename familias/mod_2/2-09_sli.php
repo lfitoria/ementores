@@ -54,7 +54,7 @@
 
                 <div class="row align-items-center justify-content-md-center">
                     <div class="col-12 col-sm-8">
-                        <p id="info-p">Haga clic en las pestañas para conocer cómo activar su escudo protector.</p>
+                        <p id="info-p">Da clic en las pestañas para conocer cómo activar su escudo protector.</p>
                     </div>
                 </div>
                 <div class="main">
