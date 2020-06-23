@@ -8,7 +8,7 @@
         <title>Menú | Programa e-mentores Familias</title>
         <link type="text/css" href="css/bootstrap.css" rel="stylesheet">
         <link type="text/css" href="css/bootstrap-grid.css" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet">
+        <!-- <link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700" rel="stylesheet"> -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
         <link href="css/style.css" rel="stylesheet" type="text/css" />
         <link href="css/index.css" rel="stylesheet" type="text/css" />
