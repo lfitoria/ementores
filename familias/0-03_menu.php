@@ -285,13 +285,13 @@
 
 
 
-                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[8]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
                                                         <a href="mod_2/2-09_sli.php" class="v2-act-9">Nuestro escudo de protección en Internet</a>
                                                         
                                                     </div>
-                                                </div> -->
+                                                </div>
                                             </div>
                                             <!-- <div class="row">
                                                 <div class="col-12 item-module-final">
