@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
     <link href="../css/style.css" rel="stylesheet" type="text/css"/>
     <link href="../css/index.css" rel="stylesheet" type="text/css"/>
+    <link href="../css/mod1.css" rel="stylesheet" type="text/css"/>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127635098-1"></script>
