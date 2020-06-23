@@ -37,7 +37,7 @@
   </article>
   <article class="item group3">
     <div class="item-module">
-        <a href="mod_1/maximo.php#titleancla" class="v-act-4">Sáquele el máximo a la Internet</a>
+        <a href="mod_1/maximo.php#titleancla" class="v-act-4">Sácale el máximo a la Internet</a>
     </div>
   </article>
   <article class="item group1">

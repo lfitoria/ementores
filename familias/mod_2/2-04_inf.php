@@ -93,7 +93,7 @@
 
                 </nav>
 
-                <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>¡No lo cuente todo en la Internet!</p>
+                <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>¡No lo cuentes todo en Internet!</p>
 
                 <section class="container">
 
