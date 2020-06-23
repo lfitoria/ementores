@@ -22,7 +22,7 @@
                 <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>-->
 
                 <h2 class="title-cx" id="titleancla">
-                    Sáquele el máximo a la Internet
+                Sácale el máximo a la Internet
                 </h2>
                     <div class="main">
                         <div id="act_01" class="mod">

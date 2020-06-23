@@ -145,7 +145,7 @@
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[3]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                     
-                                                    <a href="mod_1/1-04_inf.php" class="v-act-4">Sáquele el máximo a la Internet</a>
+                                                    <a href="mod_1/1-04_inf.php" class="v-act-4">Sácale el máximo a Internet</a>
                                                     
                                                 </div>
                                             </div>
@@ -242,14 +242,14 @@
                                                  <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[2]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
-                                                        <a href="mod_2/2-03_act.php" class="v2-act-3">Decisiones que le protegen en Internet</a>
+                                                        <a href="mod_2/2-03_act.php" class="v2-act-3">Decisiones que te protegen en Internet</a>
                                                         
                                                     </div>
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values2[3]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
-                                                        <a href="mod_2/2-04_inf.php" class="v2-act-4">¡No lo cuente todo en la Internet!</a>
+                                                        <a href="mod_2/2-04_inf.php" class="v2-act-4">¡No lo cuentes todo en Internet!</a>
                                                         
                                                     </div>
                                                 </div>
@@ -344,7 +344,7 @@
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[0]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         
-                                                        <a href="mod_3/3-01_vid.php" class="v3-act-1">¿Cómo protegen las leyes a las nuestras niñas y niños?</a>
+                                                        <a href="mod_3/3-01_vid.php" class="v3-act-1">¿Cómo protegen las leyes a nuestras niñas y niños?</a>
                                                         
                                                     </div>
                                                 </div> 
@@ -356,7 +356,7 @@
                                                 </div>
                                                 <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module <?php if ($values3[2]["is_completed"] == 1) : ?>active<?php endif ?>">
-                                                        <a href="mod_3/3-04_inf.php" class="v3-act-4">Recuerde las señales de alarma para identificar el abuso sexual</a>
+                                                        <a href="mod_3/3-04_inf.php" class="v3-act-4">Recuerda las señales de alarma para identificar el abuso sexual</a>
                                                     
                                                     </div>
                                                 </div>

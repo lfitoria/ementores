@@ -187,9 +187,9 @@
 
 
                                         <div class="form-group id-input cr-id">
-                                            <p class="text-center label-small">Escriba su número de cédula</p>
+                                            <p class="text-center label-small">Escribe su número de cédula</p>
                                             <input type="text" class="required form-control text-number mr-auto" id="cr-id-input" minlength="11" maxlength="11" aria-describedby="idHelp" placeholder="XXXXXXXXXXXX" >
-                                            <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 00100123456</small>
+                                            <small id="emailHelp" class="form-text text-muted">Escribe solamente números, sin espacios. <br>Por ejemplo: 00100123456</small>
 
                                         </div> 
 
@@ -197,9 +197,9 @@
 
                                         <div class="form-group id-input resi-id d-none">
 
-                                            <p class="text-center label-small">Escriba su número de residencia</p>
+                                            <p class="text-center label-small">Escribe su número de residencia</p>
                                             <input type="text" class="form-control text-number mr-auto" id="cr-id-input2" minlength="11" maxlength="11" aria-describedby="idHelp" placeholder="XXXXXXXXXXXX">
-                                            <small id="emailHelp" class="form-text text-muted">Escriba solamente números, sin espacios. <br>Por ejemplo: 00100123456</small>
+                                            <small id="emailHelp" class="form-text text-muted">Escribe solamente números, sin espacios. <br>Por ejemplo: 00100123456</small>
                                         </div> 
                                         <input type="hidden" name="type" value="1">
                                         

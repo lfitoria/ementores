@@ -48,7 +48,7 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>Sáquele el máximo a la Internet</p>
+                <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>Sácale el máximo a Internet</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="mod">
