@@ -391,7 +391,7 @@
 
                                     <img src="../img/mod1/1-09_eva-img-no_aprobado.png" alt="" class="img-md"/>
 
-                                    <h3 class="intro-paragrah text-center">No ha logrado superar con éxito este reto. Inténtelo de nuevo. <br>Así podrá avanzar al siguiente capítulo, en el cual aprenderá sobre el tema de la prevención.</h3>
+                                    <h3 class="intro-paragrah text-center">No has logrado superar con éxito este reto. Inténtalo de nuevo. <br>Así podrás avanzar al siguiente capítulo, en el cual aprenderás sobre el tema de la prevención.</h3>
 
                                 </div>
 
