@@ -173,6 +173,7 @@
         <br>
         <br>
         <br>
+        <div class="col-12">
         <div class="row">
             <div class="col-2">
                 <p class="support-label">Avalado por:</p>
@@ -209,7 +210,7 @@
 
             <div class="col-1"></div>
         </div>
-
+        </div>
 
 
     </div>
