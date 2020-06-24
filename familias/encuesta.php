@@ -102,14 +102,14 @@
                             <div class="col-sm-offset-1 col-sm-10 main-block">
 
                                 <p class="text-center label">¡Felicidades!<br>
-                                Ha terminado con éxito el programa<br>
+                                Has terminado con éxito el programa<br>
                                 E-mentores Familias.</p>
                                 <span class="div"><img src="img/bottom-color-line.png"></span>
-                                <p>Ya casi puede descargar su certificado, pero antes queremos hacerle unas preguntas cortitas:</p>
+                                <p>Ya casi puedes descargar tu certificado, pero antes queremos hacerte unas preguntas cortitas:</p>
                                 <form action="0-06_cert.php" method="POST" id="encuesta">
 
                                     <div class="form-group email-input">
-                                        <p class="text-center label-small quest-email">¿Le gustó el curso?</p>
+                                        <p class="text-center label-small quest-email">¿Te gustó el curso?</p>
                                           <input type="radio" name="q1" value="1" class="q s1" id="q1-1" required><label for="q1-1">1</label>
                                           <input type="radio" name="q1" value="2" class="q s2" id="q1-2"><label for="q1-2">2</label>
                                           <input type="radio" name="q1" value="3" class="q s3" id="q1-3"><label for="q1-3">3</label>
@@ -118,7 +118,7 @@
                                     </div>
                                     <span class="div"><img src="img/bottom-color-line.png"></span>
                                     <div class="form-group email-input">
-                                        <p class="text-center label-small quest-email">¿Siente que el curso le dio nueva información para ayudarle en la
+                                        <p class="text-center label-small quest-email">¿Sientes que el curso te dio nueva información para ayudarte en la
 crianza de niños, niñas y adolescentes?</p>
                                           <input type="radio" name="q2" value="1" class="q s1" id="q2-1" required><label for="q2-1">1</label>
                                           <input type="radio" name="q2" value="2" class="q s2" id="q2-2"><label for="q2-2">2</label>
@@ -128,7 +128,7 @@ crianza de niños, niñas y adolescentes?</p>
                                     </div> 
                                     <span class="div"><img src="img/bottom-color-line.png"></span>
                                     <div class="form-group email-input">
-                                        <p class="text-center label-small quest-email">¿Los contenidos del curso le parecieron claros?</p>
+                                        <p class="text-center label-small quest-email">¿Los contenidos del curso te parecieron claros?</p>
                                           <input type="radio" name="q3" value="1" class="q s1" id="q3-1" required><label for="q3-1">1</label>
                                           <input type="radio" name="q3" value="2" class="q s2" id="q3-2"><label for="q3-2">2</label>
                                           <input type="radio" name="q3" value="3" class="q s3" id="q3-3"><label for="q3-3">3</label>

@@ -107,7 +107,7 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <p></p>
-                                            <p class="label-info">A continuación usted encontrará una serie de preguntas de diferentes tipos.<br>Lea cada una de ellas y escoja la respuesta correcta.</p>
+                                            <p class="label-info">A continuación encontrarás una serie de preguntas de diferentes tipos.<br>Lee cada una de ellas y escoje la respuesta correcta.</p>
                                             <button class="gotoModulePage btn-start" data-page="2">Iniciar</button>
                                         </div>
                                     </div>
@@ -134,11 +134,11 @@
 
                                     <div class="col-12 text-center">
 
-                                        <p class="instruction text-left"><span>1</span> Lea el siguiente testimonio:</p>
+                                        <p class="instruction text-left"><span>1</span> Lee el siguiente testimonio:</p>
 
                                         <p class="text-help green">“Mi hija me contó que un vecino le está mandando mensajes sexuales pero ella los borró todos. Yo no lo quiero denunciar porque me da miedo que me acuse de estarle levantando falsos.” ¿Es esto cierto o falso?</p>
 
-                                        <h3 class="">Elija una opción.</h3>
+                                        <h3 class="">Elije una opción.</h3>
 
                                     </div>
 
@@ -172,9 +172,9 @@
 
                                     <p class="instruction text-left"><span>2</span> Lea el siguiente testimonio:</p>
 
-                                    <p class="text-help green">“Geiner, mi hijo,  se hizo unos selfies sexy y se los pasó a unos amigos. Ahora hay uno que le está pidiendo plata para no publicarla. Diay, ¡es culpa de Geiner!” <br> ¿Es esto un delito?</p>
+                                    <p class="text-help green">Felipe, mi hijo,  se hizo unos selfies sexy y se los pasó a unos amigos. Ahora hay uno que le está pidiendo plata para no publicarla. Diay, ¡es culpa de Felipe!” <br> ¿Es esto un delito?</p>
 
-                                    <h3 class="">Elija una opción.</h3>
+                                    <h3 class="">Elije una opción.</h3>
 
                                 </div>
 
@@ -247,11 +247,11 @@
 
                                 <div class="col-12 text-center">
 
-                                    <p class="instruction text-left"><span>4</span> Lea el siguiente testimonio:</p>
+                                    <p class="instruction text-left"><span>4</span> Lee el siguiente testimonio:</p>
 
                                     <p class="text-help green">“Kevin tiene 13 años y está en sétimo año.  Desde hace varios días pasa pegado a la tableta o la compu. No quiere hacer cosas que antes le gustaban, como jugar videojuegos o salir a jugar fútbol. ¿Qué pueden hacer sus papás?”</p>
 
-                                    <h3 class="">Elija una opción.</h3>
+                                    <h3 class="">Elije una opción.</h3>
 
                                 </div>
 
@@ -289,11 +289,11 @@
 
                                 <div class="col-12 text-center">
 
-                                    <p class="instruction text-left"><span>5</span> Lea el siguiente testimonio:</p>
+                                    <p class="instruction text-left"><span>5</span> Lee el siguiente testimonio:</p>
 
                                     <p class="text-help green">“Nataly tiene 11 años y está en quinto grado. Desde hace algunos días le cuesta mucho levantarse para ir a la escuela.  Sus padres han notado que usa el celular hasta muy tarde y luego no puede dormir. ¿Qué pueden hacer?”</p>
 
-                                    <h3 class="">Elija una opción.</h3>
+                                    <h3 class="">Elije una opción.</h3>
 
                                 </div>
 
@@ -374,7 +374,7 @@
 
                                     <img src="../img/mod1/1-09_eva-img-aprobado.png" alt="" class="img-md"/>
 
-                                    <h3 class="intro-paragrah text-center">¡Muy bien! <br>Usted ha logrado superar con éxito este reto.<br> Ya puede formar parte de  la familia de e-mentores.<br> ¡Felicidades!</h3>
+                                    <h3 class="intro-paragrah text-center">¡Muy bien! <br>Has logrado superar con éxito este reto.<br> Ya puedes formar parte de  la familia de e-mentores.<br> ¡Felicidades!</h3>
 
                                 </div>
 
