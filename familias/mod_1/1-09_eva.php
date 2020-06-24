@@ -403,7 +403,7 @@
 
                                 <div class="col-6 text-center">
 
-                                    <a href="1-09_eva.php" class="btn-retry-eva">Intentar Otra vez</a>
+                                    <a href="1-09_eva.php" class="btn-retry-eva">Intentar otra vez</a>
 
                                 </div>
 
@@ -421,7 +421,7 @@
 
                                     <img src="../img/mod1/1-09_eva-img-aprobado.png" alt="" class="img-md"/>
 
-                                    <h3 class="intro-paragrah text-center">¡Muy bien! Has logrado superar con éxito este reto. Puedes pasar al siguiente capítulo, en el cual aprenderás sobre el tema de la prevención. ¡Sige adelante!</h3>
+                                    <h3 class="intro-paragrah text-center">¡Muy bien! Has logrado superar con éxito este reto. Puedes pasar al siguiente capítulo, en el cual aprenderás sobre el tema de la prevención. ¡Sigue adelante!</h3>
 
                                 </div>
 
