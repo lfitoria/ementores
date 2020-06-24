@@ -109,7 +109,7 @@
 
                                     <!-- <h3 class="intro-paragrah">¡Es momento de realizar la evaluación final del Módulo 01<br> - Oportunidades y desafíos de las TIC!</h3> -->
 
-                                    <h3 class="intro-paragrah text-center">¡Completá el reto de aprendizaje! <br>Demostrá todo lo que sabés sobre oportunidades y desafíos en línea. Da tu primer paso para ser un e-mentor.
+                                    <h3 class="intro-paragrah text-center">¡Completa el reto de aprendizaje! <br>Demuestra todo lo que sabes sobre oportunidades y desafíos en línea. Da tu primer paso para ser un e-mentor.
 
                                     </h3>
 
@@ -119,7 +119,7 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <p></p>
-                                            <p class="label-info">A continuación usted encontrará una serie de preguntas de diferentes tipos.<br>Lea cada una de ellas y escoja la respuesta correcta.</p>
+                                            <p class="label-info">A continuación encontrarás una serie de preguntas de diferentes tipos.<br>Lee cada una de ellas y escoje la respuesta correcta.</p>
                                             <button class="gotoModulePage btn-start" data-page="2">Iniciar</button>
                                         </div>
                                     </div>
@@ -142,7 +142,7 @@
 
                                 <div class="col-12 text-center">
 
-                                    <p class="instruction text-left">Elija la opción que completa la frase correctamente.</p>
+                                    <p class="instruction text-left">Elije la opción que completa la frase correctamente.</p>
 
                                     <h3 class="text-center"><span>1</span> Un riesgo de que mi hijo o hija use Internet sin un acompañamiento adecuado es que...</h3>
 
@@ -200,7 +200,7 @@
 
                                 <div class="col-12 text-center">
 
-                                    <p class="instruction text-left">Elija la opción correcta.</p>
+                                    <p class="instruction text-left">Elije la opción correcta.</p>
 
                                     <h3 class="text-center"><span>2</span> ¿Cuáles de las siguientes son actividades positivas que se pueden realizar y potenciar con el uso de las tecnologías digitales?</h3>
 
@@ -262,7 +262,7 @@
 
                                 <div class="col-12 text-center">
 
-                                    <p class="instruction text-left"><span>3</span> Lea el siguiente testimonio:</p>
+                                    <p class="instruction text-left"><span>3</span> Lee el siguiente testimonio:</p>
 
                                     <p class="text-help blue">“Me mandaron fotos comprometedoras de una compañera del cole de mi hija. Las reenvié al grupo de chat de mis vecinas  para que no la dejen andar con sus hijas e hijos por mala junta”.</p>
 
@@ -284,7 +284,7 @@
 
                                 <div class="col-12 answer" data-value="2">
 
-                                    <p>Sí. Aún cuando uno no haya producido el material indebido, compartir fotos con contenido sexual de personas menores de edad es un tipo de abuso sexual. Además es delito.</p>
+                                    <p>Sí. Aun cuando uno no haya producido el material indebido, compartir fotos con contenido sexual de personas menores de edad es un tipo de abuso sexual. Además es delito.</p>
 
                                 </div>
 
@@ -298,7 +298,7 @@
 
                                 <div class="col-12 text-center">
 
-                                    <p class="instruction text-left"><span>4</span> Lea el siguiente testimonio:</p>
+                                    <p class="instruction text-left"><span>4</span> Lee el siguiente testimonio:</p>
 
                                     <p class="text-help green">“Mi hijo me contó que un amigo le ha estado enviando imágenes de mujeres desnudas. Yo le dije que lo ignorara si no le gusta. La verdad me parece lo más normal. Es hora de que vaya aprendiendo.”</p>
 
@@ -336,7 +336,7 @@
 
                                 <div class="col-12 text-center">
 
-                                    <p class="instruction text-left"><span>5</span> Vea estas situaciones.</p>
+                                    <p class="instruction text-left"><span>5</span> Analiza estas situaciones.</p>
 
                                     <h3 class="text-center">¿Cuáles representan un posible riesgo de las TIC?</h3>
 
@@ -421,7 +421,7 @@
 
                                     <img src="../img/mod1/1-09_eva-img-aprobado.png" alt="" class="img-md"/>
 
-                                    <h3 class="intro-paragrah text-center">¡Muy bien! Usted ha logrado superar con éxito este reto. Puede pasar al siguiente capítulo, en el cual aprenderá sobre el tema de la prevención. ¡Siga adelante!</h3>
+                                    <h3 class="intro-paragrah text-center">¡Muy bien! Has logrado superar con éxito este reto. Puedes pasar al siguiente capítulo, en el cual aprenderás sobre el tema de la prevención. ¡Sige adelante!</h3>
 
                                 </div>
 
