@@ -379,7 +379,7 @@
                 if (parseInt(this.currentTime * 1000) >= 43400 && parseInt(this.currentTime * 1000) <= 43600) {
                     this.pause();
 
-                    time = 44;
+                    time = 43700;
                     video = document.getElementById("video3");
                     modal = $(this).parent().parent().find(".modal")
                     modal.modal("show");
