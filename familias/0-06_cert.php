@@ -126,7 +126,7 @@
 
                                     <div class="form-group email-input">
 
-                                        <p class="text-center label-small quest-email">Digite su nombre completo (este aparecerá en el certificado)</p>
+                                        <p class="text-center label-small quest-email">Digita tu nombre completo (este aparecerá en el certificado)</p>
 
                                         <input type="text" name="name" id="name" value="<?php echo $certificate;?>" class="form-control mr-auto" placeholder="Nombre completo" required>
 
