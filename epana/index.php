@@ -181,7 +181,7 @@ session_start();
                         <div class="row justify-content-center">
                             <div class="col col-sm-10">
                                 <p class="label text-center" style="font-size: 1.3em;line-height: 20px;">
-                                    Si tenés 11 años o más este espacio es para ti.
+                                    Si tienes 11 años o más este espacio es para ti.
                                     <br>
                                     e-pana es un espacio con recursos audiovisuales para que chicas y chicos aprendan a
                                     aprovechar las tecnologías y protegerse contra los peligros en la Web.
