@@ -356,7 +356,7 @@
 
                                 <div class="col-6 text-center">
 
-                                    <a href="3-09_eva.php" class="btn-retry-eva">Intentar Otra vez</a>
+                                    <a href="3-09_eva.php" class="btn-retry-eva">Intentar otra vez</a>
 
                                 </div>
 

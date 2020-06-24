@@ -206,7 +206,7 @@
                                     <a href="../0-03_menu#mod2.php" class="btn-see-eva">Repasar contenidos</a>
                                 </div>
                                 <div class="col-6 text-center">
-                                    <a href="2-10_eva.php" class="btn-retry-eva">Intentar Otra vez</a>
+                                    <a href="2-10_eva.php" class="btn-retry-eva">Intentar otra vez</a>
                                 </div>
                             </div>
                             </div>
@@ -218,7 +218,7 @@
                             <div class="result row justify-content-center">
                                 <div class="col-10 text-center">
                                     <img src="../img/mod1/1-09_eva-img-aprobado.png" alt="" class="img-md"/>
-                                    <h3 class="intro-paragrah text-center">¡Muy bien! Usted has logrado superar con éxito este reto. Puede pasar al siguiente capítulo, en el cual aprenderás sobre el tema de la prevención. ¡Sige adelante!</h3>
+                                    <h3 class="intro-paragrah text-center">¡Muy bien! Usted has logrado superar con éxito este reto. Puede pasar al siguiente capítulo, en el cual aprenderás sobre el tema de la prevención. ¡Sigue adelante!</h3>
                                 </div>
                                 <div class="col-12 text-center">
                                     <a href="../0-03_menu.php" class="btn-finish-eva d-none">Finalizar</a>
