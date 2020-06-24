@@ -385,13 +385,13 @@
                                                     </div>
                                                 </div> 
                                             </div>
-                                            <!-- <div class="row">
+                                            <div class="row">
                                                 <div class="col-12 item-module-final">
                                                     <?php if ($row_cnt3 == 0): ?><a href="mod_3/3-09_eva.php">ACTIVIDAD FINAL</a><?php endif; ?>
                                                 
 
                                                 </div>
-                                            </div> -->
+                                            </div>
                                         </div>
                                         <?php if ($activity2["is_approved"] == 1 && $activity3["is_approved"] == 1) : ?>
                                             <div class="col-12 item-cert">
