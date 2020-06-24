@@ -62,9 +62,13 @@
                             <div class="content-familias row justify-content-md-center">
                                 <div class="col-sm-10 main-block back-girl">
                                     <h3 class="">Acerca del proyecto</h3>
-                                    <p>El reto e-mentores forma parte de las iniciativas del proyecto Costa Rica dice No a la Explotación y Abuso Sexual en Línea de Niñas, Niños y Adolescentes, conocida como CR NESXT, financiada por “The Global Parthership”, a través de su fondo asociado “The End of Violence Against Children Fund”. CR Nesxt surge como una alternativa para garantizar la protección de la niñez y la adolescencia frente a la explotación y abuso sexual en línea. Ante la disposición y apertura por parte de entidades estatales, el proyecto busca desarrollar capacidades para que actores clave se conviertan en facilitadores activos en la prevención y respuesta de los peligros en línea a los que están expuestas las personas menores de edad.</p>
-                   
-                                    <p>CR-NEXST se fundamenta en tres estrategias. La primera propone el fortalecimiento del Programa Hogares Conectados (PHC), en alianza estratégica con el IMAS. Como segundo pilar, se encuentra el fortalecimiento del Sistema Nacional 9-1-1, en alianza con UNICEF Costa Rica, y el PANI. La tercera propone el desarrollo de un modelo nacional para la prevención y respuesta de la explotación y abuso sexual en línea de NNA; con el apoyo del Viceministerio de Telecomunicaciones, contrapartes nacionales y otros actores clave hacia el diseño, aprobación y puesta en marcha de una estrategia de articulación intersectorial, a partir del conocimiento del estado actual del país y teniendo como insumo buenas prácticas internacional.</p>
+                                    <p>La plaforma e-mentores forma parte del proyecto “Protección para todos los niños contra la explotación y el abuso en línea” coordinado por Plan International y UNICEF en República Dominicana y financiado por “The End Violence Against Children Fund”. Este proyecto  también forma parte la Respuesta Nacional a la violencia en línea, desde la cual diferentes instituciones y organizaciones trabajan en conjunto para poner fin a la explotación y el abuso sexual de niños, niñas y adolescentes en República Dominicana.</p>
+                                    <p>La plataforma e-mentores busca que cuidadores y docentes  estén mejor preparados para protegerles ante el abuso y explotación sexual en línea.</p>
+                                    <h3>e-pana</h3>
+                                    <a href="/epana">
+                                        <img alt="e-compa: Uso seguro de las tecnologías e internet para chicos y chicas" src="/epana/img/logo-header-e-pana.png">
+                                    </a>
+                                    <p>El proyecto también cuenta con una plataforma dedicada a niñas, niños y adolescentes que busca que esta población esté informada sobre cómo protegerse y denunciar la violencia sexual en línea, sin dejar de aprovechar los beneficios de Internet.</p>
                                 </div>
                             </div>
                         </section>
