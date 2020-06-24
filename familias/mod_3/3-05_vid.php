@@ -364,7 +364,7 @@
 
             $("#video2").on("timeupdate", function() {
                 console.log(parseInt(this.currentTime * 1000));
-                if (parseInt(this.currentTime * 1000) >= 33500 && parseInt(this.currentTime * 1000) <= 33800){ 
+                if (parseInt(this.currentTime * 1000) >= 33000 && parseInt(this.currentTime * 1000) <= 33400){ 
                     this.pause();
                     time = 34;
                     video = document.getElementById("video2");
