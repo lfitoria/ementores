@@ -370,7 +370,7 @@
 <div class="container">
                             <div class="result row justify-content-center">
 
-                                <div class="col-12 col-md-8 text-center offset-md-2">
+                                <div class="col-12 col-md-8 text-center">
 
                                     <img src="../img/mod1/1-09_eva-img-aprobado.png" alt="" class="img-md"/>
 
