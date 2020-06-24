@@ -52,6 +52,11 @@ body,p,h1,h2,h3,h4,.h1,.h2,.h3,.h4,.close,button.close,div{
 img{
     max-width: 100%;
 }
+#logoInfoPage img {
+    margin: auto;
+    display: block;
+    width: 48%;
+}
 #act_01p1 {
 width: 80%;
 margin: auto;
