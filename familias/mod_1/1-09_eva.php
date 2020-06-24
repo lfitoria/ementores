@@ -387,7 +387,7 @@
 
 
 
-                                <div class="col-12 text-center">
+                                <div class="col-12 col-md-8 text-center offset-md-2 text-center">
 
                                     <img src="../img/mod1/1-09_eva-img-no_aprobado.png" alt="" class="img-md"/>
 
@@ -417,7 +417,7 @@
                             <div class="container">
                             <div class="result row ">
 
-                                <div class="col-12 text-center">
+                                <div class="col-12 col-md-8 text-center offset-md-2">
 
                                     <img src="../img/mod1/1-09_eva-img-aprobado.png" alt="" class="img-md"/>
 

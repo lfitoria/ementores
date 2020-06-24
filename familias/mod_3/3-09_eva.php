@@ -340,11 +340,11 @@
 
 
 
-                                <div class="col-12 text-center">
+                                <div class="col-12 col-md-8 text-center offset-md-2">
 
                                     <img src="../img/mod1/1-09_eva-img-no_aprobado.png" alt="" class="img-md"/>
 
-                                    <h3 class="intro-paragrah text-center">No ha logrado superar con éxito este reto. Inténtelo de nuevo. Así podrá finalizar este módulo y formar parte de la familia de e-mentores.</h3>
+                                    <h3 class="intro-paragrah text-center">No has logrado superar con éxito este reto. Inténtalo de nuevo. Así podrás finalizar este módulo y formar parte de la familia de e-mentores.</h3>
 
                                 </div>
 
@@ -370,7 +370,7 @@
 <div class="container">
                             <div class="result row justify-content-center">
 
-                                <div class="col-10 text-center">
+                                <div class="col-12 col-md-8 text-center offset-md-2">
 
                                     <img src="../img/mod1/1-09_eva-img-aprobado.png" alt="" class="img-md"/>
 
