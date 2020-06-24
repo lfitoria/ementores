@@ -113,7 +113,7 @@
 
                             <div class="col-sm-offset-1 col-sm-10 main-block end">
 
-                                <p class="text-center label">Ahora sí, ya puede descargar su certificado de aprovechamiento:</p>
+                                <p class="text-center label">Ahora sí, ya puedes descargar tu certificado de aprovechamiento:</p>
 
                                 <?php if(empty($certificate) and $cert == ''){
                                     $display = 'style = "display:block"';
