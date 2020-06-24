@@ -58,7 +58,7 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <p></p>
-                                            <p class="label-info">A continuación usted encontrará una serie de preguntas de diferentes tipos.<br>Lea cada una de ellas y escoja la respuesta correcta.</p>
+                                            <p class="label-info">A continuación encontrarás una serie de preguntas de diferentes tipos.<br>Lee cada una de ellas y escoje la respuesta correcta.</p>
                                             <button class="gotoModulePage btn-start" data-page="2">Iniciar</button>
                                         </div>
                                     </div>
@@ -96,9 +96,9 @@
                             <div class="container">
                             <div class="question row">
                                 <div class="col-12 text-center">
-                                    <h3><span>2</span> Lea el siguiente testimonio:</h3>
+                                    <h3><span>2</span> Lee el siguiente testimonio:</h3>
                                     <p class="text-help green">“Mi hijo me enseñó como que en Facebook algunos compañeros del colegio se burlan de él. Está muy triste. ¿Qué hago?”.</p>
-                                    <p>Elija una opción.</p>
+                                    <p>Elije una opción.</p>
                                 </div>
 
 
@@ -122,9 +122,9 @@
                             <div class="container">
                             <div class="question row">
                                 <div class="col-12 text-center">
-                                    <h3><span>3</span> Lea el siguiente testimonio:</h3>
+                                    <h3><span>3</span> Lee el siguiente testimonio:</h3>
                                     <p class="text-help blue">“Mi hija recibió por medio de una red social unos mensajes sexuales de alguien que no conoce. Está asustada. ¿Qué hago?”.</p>
-                                    <p class="instruction">Elija una opción.</p>
+                                    <p class="instruction">Elije una opción.</p>
                                 </div>
 
 
@@ -146,8 +146,8 @@
                             <div class="container">
                             <div class="question row">
                                 <div class="col-12 text-center">
-                                    <h3 class=""><span>4</span> Esta imagen representa una posible situación de grooming... Si la situación se presentara con su hijo o hija, ¿cuál debería ser su reacción como persona adulta?</h3>
-                                    <p class="instruction">Elija la opción correcta.</p>
+                                    <h3 class=""><span>4</span> Esta imagen representa una posible situación de grooming... Si la situación se presentara con tu hijo o hija, ¿cuál debería ser tu reacción como persona adulta?</h3>
+                                    <p class="instruction">Elije la opción correcta.</p>
                                 </div>
 
 
@@ -173,8 +173,8 @@
                             <div class="container">
                             <div class="question row ">
                                 <div class="col-12 text-center">
-                                    <h3><span>5</span> Esta imagen representa una posible situación de sexting... Como persona adulta, ¿cuál debería ser su reacción?. </h3>
-                                        <p class="instruction">Elija la opción correcta.</p>
+                                    <h3><span>5</span> Esta imagen representa una posible situación de sexting... Como persona adulta, ¿cuál debería ser tu reacción?. </h3>
+                                        <p class="instruction">Elije la opción correcta.</p>
                                 </div>
                             </div>
                             <div class="answers row final"  data-page="7">
@@ -200,7 +200,7 @@
 
                                 <div class="col-12 text-center">
                                     <img src="../img/mod1/1-09_eva-img-no_aprobado.png" alt="" class="img-md"/>
-                                    <h3 class="intro-paragrah text-center">No ha logrado superar con éxito este reto. Inténtelo de nuevo. <br>Así podrá avanzar al siguiente capítulo, en el cual aprenderá sobre el tema de la prevención.</h3>
+                                    <h3 class="intro-paragrah text-center">No has logrado superar con éxito este reto. Inténtalo de nuevo. <br>Así podrás avanzar al siguiente capítulo, en el cual aprenderás sobre el tema de la prevención.</h3>
                                 </div>
                                 <div class="col-6 text-center">
                                     <a href="../0-03_menu#mod2.php" class="btn-see-eva">Repasar contenidos</a>
@@ -218,7 +218,7 @@
                             <div class="result row justify-content-center">
                                 <div class="col-10 text-center">
                                     <img src="../img/mod1/1-09_eva-img-aprobado.png" alt="" class="img-md"/>
-                                    <h3 class="intro-paragrah text-center">¡Muy bien! Usted ha logrado superar con éxito este reto. Puede pasar al siguiente capítulo, en el cual aprenderá sobre el tema de la prevención. ¡Siga adelante!</h3>
+                                    <h3 class="intro-paragrah text-center">¡Muy bien! Usted has logrado superar con éxito este reto. Puede pasar al siguiente capítulo, en el cual aprenderás sobre el tema de la prevención. ¡Sige adelante!</h3>
                                 </div>
                                 <div class="col-12 text-center">
                                     <a href="../0-03_menu.php" class="btn-finish-eva d-none">Finalizar</a>
