@@ -65,7 +65,7 @@
                                     <p>La plaforma e-mentores forma parte del proyecto “Protección para todos los niños contra la explotación y el abuso en línea” coordinado por Plan International y UNICEF en República Dominicana y financiado por “The End Violence Against Children Fund”. Este proyecto  también forma parte la Respuesta Nacional a la violencia en línea, desde la cual diferentes instituciones y organizaciones trabajan en conjunto para poner fin a la explotación y el abuso sexual de niños, niñas y adolescentes en República Dominicana.</p>
                                     <p>La plataforma e-mentores busca que cuidadores y docentes  estén mejor preparados para protegerles ante el abuso y explotación sexual en línea.</p>
                                     <h3>e-pana</h3>
-                                    <a href="/epana">
+                                    <a href="/epana" id="logoInfoPage">
                                         <img alt="e-compa: Uso seguro de las tecnologías e internet para chicos y chicas" src="/epana/img/logo-header-e-pana.png">
                                     </a>
                                     <p>El proyecto también cuenta con una plataforma dedicada a niñas, niños y adolescentes que busca que esta población esté informada sobre cómo protegerse y denunciar la violencia sexual en línea, sin dejar de aprovechar los beneficios de Internet.</p>
