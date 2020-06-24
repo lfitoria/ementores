@@ -181,11 +181,11 @@
                                             </div> 
 
                                         </div>
-                                        <!-- <div class="row">
+                                        <div class="row">
                                             <div class="col-12 item-module-final">
                                                 <?php if ($row_cnt1 == 0): ?><a href="mod_1/1-09_eva.php">ACTIVIDAD FINAL</a><?php endif; ?>
                                             </div>
-                                        </div> -->
+                                        </div>
                                     </div>
 
 
