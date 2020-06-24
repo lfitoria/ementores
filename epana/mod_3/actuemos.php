@@ -464,9 +464,10 @@ Un día su tío le pregunta con quién pasa hablando todo el día y Eric le resp
 
         $("#video2").on("timeupdate", function() {
             console.log(parseInt(this.currentTime * 1000));
-            if (parseInt(this.currentTime * 1000) >= 33500 && parseInt(this.currentTime * 1000) <= 33800){ 
+        // if(parseInt(this.currentTime * 1000) >= 33500 && parseInt(this.currentTime * 1000) <= 33800){ 
+            if (this.currentTime == 32){ 
                 this.pause();
-                time = 34;
+                time = 33;
                 video = document.getElementById("video2");
                 modal = $(this).parent().parent().find(".modal")
                 modal.modal("show");
