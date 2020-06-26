@@ -190,10 +190,10 @@
                 </tr>
                 <tr>
                     <td>
-                        <p class="text-center"><img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 110px;"></p>
+                        <p><img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 110px;"></p>
                     </td>
                     <td >
-                        <p class="text-right">
+                        <p >
                         <img src="img/footer/logo-End-Violence-fondo-transparente.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></p>
                     </td>
                     <td>
