@@ -197,7 +197,7 @@
                         <img src="img/footer/logo-End-Violence-fondo-transparente.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></p>
                     </td>
                     <td>
-                        <p class="text-center">
+                        <p>
                             <img src="img/footer/PLAN.png" alt="Paniamor" class="img-fluid prefooter-logos">
                             <img src="img/footer/footer-logo-paniamor.png" alt="Paniamor" class="img-fluid prefooter-logos">
                             <img src="img/footer/Unicef-logo.png" alt="Paniamor" class="img-fluid prefooter-logos">
