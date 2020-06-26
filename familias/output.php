@@ -20,7 +20,7 @@
       //Pasamos esa vista a PDF
        
       //Le indicamos el tipo de hoja y la codificación de caracteres
-      $html2pdf=new HTML2PDF('P','A4','es','true','UTF-8'); 
+      $html2pdf=new HTML2PDF('L','A4','es','true','UTF-8'); 
       //Escribimos el contenido en el PDF
       $html2pdf->writeHTML($html);
       //Generamos el PDF
