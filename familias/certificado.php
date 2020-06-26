@@ -113,6 +113,7 @@
     }
     table tr {
         display: flex;
+        justify-content: center;
     }
 
     table img {
