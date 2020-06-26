@@ -192,15 +192,15 @@
                 <p class="support-label">Una iniciativa de:</p>
                 <div class="res-insti-rp">
                     <a href="https://plan-international.org/es/republica-dominicana" target="_blank">
-                        <img src="/familias/img/footer/PLAN.png" alt="End Violence Against Children"
+                        <img src="http://rd.ementores.org/familias/img/footer/PLAN.png" alt="End Violence Against Children"
                             class="img-fluid prefooter-logos">
                     </a>
                     <a href="#" target="_blank">
-                        <img src="/familias/img/footer/footer-logo-paniamor.png" alt="End Violence Against Children"
+                        <img src="http://rd.ementores.org/familias/img/footer/footer-logo-paniamor.png" alt="End Violence Against Children"
                             class="img-fluid prefooter-logos">
                     </a>
                     <a href="https://www.unicef.org/" target="_blank">
-                        <img src="/familias/img/footer/Unicef-logo.png" alt="End Violence Against Children"
+                        <img src="http://rd.ementores.org/familias/img/footer/Unicef-logo.png" alt="End Violence Against Children"
                             class="img-fluid prefooter-logos">
                     </a>
                 </div>
