@@ -185,8 +185,8 @@
         <table  cellpadding="1" cellspacing="1">
                  <tr>
                     <td><p>Avalado por:</p></td>
-                    <td colspan="2"><p>Auspiciado por:</p></td>
-                    <td colspan="2"><p>Una iniciativa de:</p></td>
+                    <td><p>Auspiciado por:</p></td>
+                    <td><p>Una iniciativa de:</p></td>
                 </tr>
                 <tr>
                     <td>
