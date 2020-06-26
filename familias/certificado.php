@@ -178,13 +178,13 @@
             <div class="col-2">
                 <p class="support-label">Avalado por:</p>
                 <a href="http://www.ministeriodeeducacion.gob.do/" target="_blank">
-                    <img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" >
+                    <img src="http://rd.ementores.org/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" >
                 </a>
             </div>
             <div class="col-3">
                 <p class="support-label">Auspiciado por:</p>
                 <a href="https://www.unicef.org/dominicanrepublic/" target="_blank" rel="noopener noreferrer">
-                    <img src="/familias/img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children"
+                    <img src="http://rd.ementores.org/familias/img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children"
                         class="img-fluid prefooter-logos" >
                 </a>
             </div>
