@@ -150,7 +150,7 @@
             <br>
             <br>
             <br>
-            <h2>La Fundación otorga el siguiente <br><span>CERTIFICADO DE APROVECHAMIENTO</span> a:</h2>
+            <h2>El Ministerio de Educación de República Dominacana otorga el siguiente <br><span>CERTIFICADO DE PARTICIPACIÓN</span> a:</h2>
             <div class="name"><span><?php echo $_POST['name'] ?></span></div>
             <p class="text-center"> <img src="img/certificado-linea.png" id="linea" class="img-fluid" /></p>
             <br>
