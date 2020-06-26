@@ -173,12 +173,13 @@
         <br>
         <br>
         <br>
+        <table>
         <tr>
         <td><img src="http://rd.ementores.org/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos"></td>
         <td><img src="http://rd.ementores.org/familias/img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></td>
         <td><img src="http://rd.ementores.org/familias/img/footer/PLAN.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></td>
         </tr>
-
+        </table>
 
     </div>
 
