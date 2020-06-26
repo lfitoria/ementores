@@ -109,7 +109,7 @@
     }
 
     table td {
-        width: 28%;
+        /* width: 28%; */
     }
 
     table img {
