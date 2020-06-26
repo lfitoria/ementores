@@ -190,7 +190,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <p><img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos"></p>
+                        <p><img src="img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 110px;"></p>
                     </td>
                     <td >
                         <p >
