@@ -127,25 +127,7 @@
     }
 
     </style>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127635098-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-127635098-1'); <
-    link type = "text/css"
-    href = "css/bootstrap.css"
-    rel = "stylesheet" >
-        <
-        link type = "text/css"
-    href = "css/bootstrap-grid.css"
-    rel = "stylesheet" >
-    </script>
+    
 </head>
 
 <body>
