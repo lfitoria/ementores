@@ -187,19 +187,24 @@
         <br>
         <table  cellpadding="1" cellspacing="1">
                  <tr>
-                    <td><p>Con el apoyo de:</p></td>
+                    <td><p>Avalado por:</p></td>
+                    <td colspan="2"><p>Auspiciado por:</p></td>
                     <td colspan="2"><p>Una iniciativa de:</p></td>
                 </tr>
                 <tr>
                     <td>
-                        <p class="text-center"><img src="img/footer/logo-End-Violence-fondo-transparente.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></p>
+                        <p class="text-center"><img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 70%;"></p>
                     </td>
                     <td >
                         <p class="text-right">
-                            <img src="img/certificado-logo-crnexst.png" alt="End Violence Against Children" class="img-fluid prefooter-logos logo-imas"></p>
+                        <img src="img/footer/logo-End-Violence-fondo-transparente.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></p>
                     </td>
                     <td>
-                        <p class="text-center"><img src="img/footer/footer-logo-paniamor.png" alt="Paniamor" class="img-fluid prefooter-logos"></p>
+                        <p class="text-center">
+                            <img src="img/footer/PLAN.png" alt="Paniamor" class="img-fluid prefooter-logos">
+                            <img src="img/footer/footer-logo-paniamor.png" alt="Paniamor" class="img-fluid prefooter-logos">
+                            <img src="img/footer/Unicef-logo.png" alt="Paniamor" class="img-fluid prefooter-logos">
+                        </p>
                     </td>
                 </tr>
             </table>
