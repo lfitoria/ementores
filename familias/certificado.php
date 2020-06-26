@@ -111,10 +111,7 @@
     table td {
         /* width: 28%; */
     }
-    table tr {
-        display: flex;
-        justify-content: center;
-    }
+    
 
     table img {
         margin: 10px 27px;
@@ -193,7 +190,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <p class="text-center"><img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 70%;"></p>
+                        <p class="text-center"><img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 110px;"></p>
                     </td>
                     <td >
                         <p class="text-right">
