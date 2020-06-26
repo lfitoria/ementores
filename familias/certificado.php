@@ -185,27 +185,24 @@
         <br>
         <br>
         <br>
-        <table>
-            <tr>
-                <td colspan="2">
-                <p>Avalado por:</p>    
-                <img src="http://rd.ementores.org/familias/img/footer/LOGO_MINERD.png" alt="Paniamor"
-                        class="img-fluid prefooter-logos"></td>
-                <td colspan="2">
-                <p>Auspiciado por:</p>    
-                <img src="http://rd.ementores.org/familias/img/footer/EndViolence_Logo_rp.png"
-                        alt="End Violence Against Children" class="img-fluid prefooter-logos"></td>
-                <td>
-                    <p>Una iniciativa de:</p>    
-                <img src="http://rd.ementores.org/familias/img/footer/PLAN.png" alt="End Violence Against Children"
-                        class="img-fluid prefooter-logos">
-                    <img src="http://rd.ementores.org/familias/img/footer/footer-logo-paniamor.png" alt="End Violence Against Children"
-                        class="img-fluid prefooter-logos">
-                    <img src="http://rd.ementores.org/familias/img/footer/Unicef-logo.png" alt="End Violence Against Children"
-                        class="img-fluid prefooter-logos">
-                </td>
-            </tr>
-        </table>
+        <table  cellpadding="1" cellspacing="1">
+                 <tr>
+                    <td><p>Con el apoyo de:</p></td>
+                    <td colspan="2"><p>Una iniciativa de:</p></td>
+                </tr>
+                <tr>
+                    <td>
+                        <p class="text-center"><img src="img/footer/logo-End-Violence-fondo-transparente.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></p>
+                    </td>
+                    <td >
+                        <p class="text-right">
+                            <img src="img/certificado-logo-crnexst.png" alt="End Violence Against Children" class="img-fluid prefooter-logos logo-imas"></p>
+                    </td>
+                    <td>
+                        <p class="text-center"><img src="img/footer/footer-logo-paniamor.png" alt="Paniamor" class="img-fluid prefooter-logos"></p>
+                    </td>
+                </tr>
+            </table>
 
     </div>
 
