@@ -122,6 +122,7 @@
         font-family: "Nunito";
         line-height: 20px;
         margin: 10px 5px;
+        text-align: left;
     }
 
     </style>
