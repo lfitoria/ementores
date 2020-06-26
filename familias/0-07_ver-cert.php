@@ -143,7 +143,7 @@
             <div class="content">
                 <br>
                 <br>
-                <h2>Haz obtenido el CERTIFICADO DE APROVECHAMIENTO</h2>
+                <h2>Haz obtenido el CERTIFICADO DE PARTICIPACIÓN</h2>
                 <br>
                 <div class="body">
                     
