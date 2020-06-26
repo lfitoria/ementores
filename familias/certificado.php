@@ -114,8 +114,8 @@
     
 
     table img {
-        margin: 10px 20px;
-        width: 170px;
+        /* margin: 10px 5px; */
+        width: 140px;
     }
 
     table p {
