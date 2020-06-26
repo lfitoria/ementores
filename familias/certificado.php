@@ -111,6 +111,9 @@
     table td {
         /* width: 28%; */
     }
+    table tr {
+        display: flex;
+    }
 
     table img {
         margin: 10px 27px;
