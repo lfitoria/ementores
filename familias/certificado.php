@@ -135,9 +135,14 @@
     }
     gtag('js', new Date());
 
-    gtag('config', 'UA-127635098-1');
-    <link type="text/css" href="css/bootstrap.css" rel="stylesheet">
-    <link type="text/css" href="css/bootstrap-grid.css" rel="stylesheet">
+    gtag('config', 'UA-127635098-1'); <
+    link type = "text/css"
+    href = "css/bootstrap.css"
+    rel = "stylesheet" >
+        <
+        link type = "text/css"
+    href = "css/bootstrap-grid.css"
+    rel = "stylesheet" >
     </script>
 </head>
 
@@ -151,7 +156,8 @@
             <br>
             <br>
             <br>
-            <h2>El Ministerio de Educación de República Dominacana otorga el siguiente <br><span>CERTIFICADO DE PARTICIPACIÓN</span> a:</h2>
+            <h2>El Ministerio de Educación de República Dominacana otorga el siguiente <br><span>CERTIFICADO DE
+                    PARTICIPACIÓN</span> a:</h2>
             <div class="name"><span><?php echo $_POST['name'] ?></span></div>
             <p class="text-center"> <img src="img/certificado-linea.png" id="linea" class="img-fluid" /></p>
             <br>
@@ -175,14 +181,25 @@
         <br>
         <br>
         <table>
-        <tr>
-        <td><img src="http://rd.ementores.org/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos"></td>
-        <td><img src="http://rd.ementores.org/familias/img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></td>
-        <td><img src="http://rd.ementores.org/familias/img/footer/PLAN.png" alt="End Violence Against Children" class="img-fluid prefooter-logos">
-        <img src="/familias/img/footer/footer-logo-paniamor.png" alt="End Violence Against Children" class="img-fluid prefooter-logos">
-        <img src="/familias/img/footer/Unicef-logo.png" alt="End Violence Against Children" class="img-fluid prefooter-logos">
-        </td>
-        </tr>
+            <tr>
+                <td colspan="2">
+                <p>Avalado por:</p>    
+                <img src="http://rd.ementores.org/familias/img/footer/LOGO_MINERD.png" alt="Paniamor"
+                        class="img-fluid prefooter-logos"></td>
+                <td colspan="2">
+                <p>Auspiciado por:</p>    
+                <img src="http://rd.ementores.org/familias/img/footer/EndViolence_Logo_rp.png"
+                        alt="End Violence Against Children" class="img-fluid prefooter-logos"></td>
+                <td>
+                    <p>Una iniciativa de:</p>    
+                <img src="http://rd.ementores.org/familias/img/footer/PLAN.png" alt="End Violence Against Children"
+                        class="img-fluid prefooter-logos">
+                    <img src="/familias/img/footer/footer-logo-paniamor.png" alt="End Violence Against Children"
+                        class="img-fluid prefooter-logos">
+                    <img src="/familias/img/footer/Unicef-logo.png" alt="End Violence Against Children"
+                        class="img-fluid prefooter-logos">
+                </td>
+            </tr>
         </table>
 
     </div>
