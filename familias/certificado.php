@@ -173,42 +173,11 @@
         <br>
         <br>
         <br>
-        <div class="col-12">
-        <div class="row">
-            <div class="col-2">
-                <p class="support-label">Avalado por:</p>
-                <a href="http://www.ministeriodeeducacion.gob.do/" target="_blank">
-                    <img src="http://rd.ementores.org/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" >
-                </a>
-            </div>
-            <div class="col-3">
-                <p class="support-label">Auspiciado por:</p>
-                <a href="https://www.unicef.org/dominicanrepublic/" target="_blank" rel="noopener noreferrer">
-                    <img src="http://rd.ementores.org/familias/img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children"
-                        class="img-fluid prefooter-logos" >
-                </a>
-            </div>
-            <div class="col">
-                <p class="support-label">Una iniciativa de:</p>
-                <div class="res-insti-rp">
-                    <a href="https://plan-international.org/es/republica-dominicana" target="_blank">
-                        <img src="http://rd.ementores.org/familias/img/footer/PLAN.png" alt="End Violence Against Children"
-                            class="img-fluid prefooter-logos">
-                    </a>
-                    <a href="#" target="_blank">
-                        <img src="http://rd.ementores.org/familias/img/footer/footer-logo-paniamor.png" alt="End Violence Against Children"
-                            class="img-fluid prefooter-logos">
-                    </a>
-                    <a href="https://www.unicef.org/" target="_blank">
-                        <img src="http://rd.ementores.org/familias/img/footer/Unicef-logo.png" alt="End Violence Against Children"
-                            class="img-fluid prefooter-logos">
-                    </a>
-                </div>
-            </div>
-
-            <div class="col-1"></div>
-        </div>
-        </div>
+        <tr>
+        <td><img src="http://rd.ementores.org/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos"></td>
+        <td><img src="http://rd.ementores.org/familias/img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></td>
+        <td><img src="http://rd.ementores.org/familias/img/footer/PLAN.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></td>
+        </tr>
 
 
     </div>
