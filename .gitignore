@@ -58,7 +58,7 @@ familias/videos
 familias/recursos/
 familias/offline-familias.zip
 familias/db/connection/conexion.php
-ecompa/db/connection/conexion.php
+ecompa/db/connection/
 
 **/error_log
 .htaccess
@@ -66,4 +66,4 @@ ecompa/db/connection/conexion.php
 kit-materiales/
 ecompa/offline-e-compa.zip
 familias/offline-familias.zip
-ecompa/db/connection/conexion.php
+ecompa/db/connection/
