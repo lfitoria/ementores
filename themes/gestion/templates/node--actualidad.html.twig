@@ -1,0 +1,127 @@
+<div class="content-wrapper in node-agenteenaccion">
+	<div class="row thum-box">
+	
+	
+	<div class="col-md-8">
+
+		{% if content.field_descripcion_completa|render %}
+		<div class="item body">
+					{{content.field_descripcion_completa|field_value}}
+		</div>
+		{% endif %}
+	
+	
+	
+	</div>
+	{# {{content.field_me_gusta}} #}
+	</div>
+	
+	<div class="row">
+		<div class="col-md-8 node-agenteenaccion-l">
+			
+			{% if content.field_video|render %}
+				<div class="item video">
+					{{content.field_video}}
+				</div>
+			{% else %}
+				{% if content.field_image|render %}
+					<div class="image">
+						<img src="{{content.field_image|field_value}}" class="img-fluid">
+					</div>
+				{% endif %}
+			{% endif %}
+
+
+			{% if content.field_subir_video|render %}
+				<video width="100%" poster="{{content.field_imagen_del_video_subido|field_value}}" controls preload="metadata">
+					<source src="{{content.field_subir_video|field_value}}" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
+			{% endif %}
+			{# {% if content.field_video|render %}
+				<div class="item video">
+					{{content.field_video}}
+				</div>
+			{% endif %} #}
+			
+
+			{% if content.field_infografia|render %}
+				<h3>Galería de imágenes</h3>
+				<div class="item gal">
+					<div id="carouselblog" class="carousel slide" data-ride="carousel">
+						<ol class="carousel-indicators">
+							{% for item in 0..(content.field_infografia|field_value|length - 1) %}
+								{% if loop.first %}
+									<li data-target="#carouselblog" data-slide-to="{{item}}" class="active"></li>
+								{% else %}
+									<li data-target="#carouselblog" data-slide-to="{{item}}"></li>
+								{% endif %}
+
+							{% endfor %}
+						</ol>
+						<div class="carousel-inner">
+							{% for item in content.field_infografia|field_value %}
+								{# {{dump(item["#markup"])}} #}
+								{% if loop.first %}
+									<div class="carousel-item active">
+										<img src="{{item["#markup"]}}" class="d-block w-100">
+									</div>
+								{% else %}
+
+									<div class="carousel-item ">
+										<img src="{{item["#markup"]}}" class="d-block w-100" alt="E">
+									</div>
+								{% endif %}
+							{% endfor %}
+						</div>
+						<a class="carousel-control-prev" href="#carouselblog" role="button" data-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="carousel-control-next" href="#carouselblog" role="button" data-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="sr-only">Next</span>
+						</a>
+					</div>
+				</div>
+				{# fin #}
+
+			{% endif %}
+			{% if content.body|render %}
+			{{content.body|field_value}}
+			{% endif %}
+		</div>
+		<div class="col-md-4 node-agenteenaccion-r">
+		
+			<div class="node-agenteenaccion-r-box">
+				{% if content.field_institucion|render %}
+					<div class="item field_institucion">
+						<p>Institución o empresa</p>
+						{{content.field_institucion}}
+					</div>
+				{% endif %}
+				{% if content.field_fecha|render %}
+					<div class="item field_lugar">
+						<p>Fecha</p>
+						
+						{{content.field_fecha|field_value}}
+					</div>
+				{% endif %}
+				{% if content.field_lugar|render %}
+					<div class="item fiel_date">
+						<p>Lugar</p>
+						{{content.field_lugar}}
+					</div>
+				{% endif %}
+				{% if content.field_tema|render %}
+					<div class="item field_tema">
+						<p>Tema</p>
+						{{content.field_tema}}
+					</div>
+				{% endif %}
+			</div>
+		</div>
+	</div>
+	
+</div>
+{{ drupal_view('actualidad', 'block_5') }}

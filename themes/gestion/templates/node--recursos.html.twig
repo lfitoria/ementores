@@ -1,0 +1,46 @@
+<div class="content-wrapper">
+	<div class="offset-md-1 col-md-10">
+		{% if node.field_tipo_de_recurso.0.entity.label == 'Descargables' %}
+		<div class="row">
+			<div class="col">
+			{% if content.field_image|render %}
+			{# <img src="{{content.field_image|field_value}}" class="img-fluid image"> #}
+			{{content.field_image|field_value}}
+			{% endif %}
+							
+			</div>
+		</div>
+		{% endif %}
+
+		{% if content.field_video|render %}
+			{{content.field_video|field_value}}
+		{% endif %}
+		{% if content.field_subir_video|render %}
+		<video width="100%" controls poster="{{content.field_image|field_value}}">
+		  <source src="{{content.field_subir_video|field_value}}" type="video/mp4">
+		  Your browser does not support the video tag.
+		</video>
+		{% endif %}
+		{% if content.field_infografia|render %}
+		<img src="{{content.field_infografia|field_value}}" class="img-fluid infografia">
+		{# <a href="{{content.field_infografia|field_value}}" class="download-file" download>Descargar infografía</a> #}
+		{% endif %}
+		{% if content.field_archivo|render %}
+			<a href="{{content.field_archivo|field_value}}" class="download-file" download>Descargar archivo</a>
+		{% endif %}	
+		{% if content.body|render %}
+		
+		<div class="col register">
+			<div class="row">
+				{{content.body|field_value}}
+			</div>
+		</div> 
+		{% endif %}
+		
+		{# <div class="col register">
+			<div class="row">
+				<p><a href="http://ementores.org/familias/" target="_blank">Para ver más recursos como este y seguir aprendiendo, visite y regístrese en e-Mentores <img src="/themes/gestion/img/multiplicar-icono-familias.png"></a></p>
+			</div>
+		</div> #}
+	</div>
+</div>
