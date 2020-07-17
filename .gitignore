@@ -60,7 +60,7 @@ epana/audios
 familias/recursos/
 familias/offline-familias.zip
 familias/db/connection/conexion.php
-epana/db/connection/conexion.php
+epana/db/connection/
 
 **/error_log
 .htaccess
