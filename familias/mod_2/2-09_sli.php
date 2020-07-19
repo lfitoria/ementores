@@ -205,10 +205,10 @@
                                             <div class="slider4">
                                                 <div class="slide">
                                                     <div class="row justify-content-start">
-                                                        <div class="col-12">
+                                                        <div class="col-12 col-sm-6">
                                                             <p>Una buena forma de iniciar una conversación sobre el bullying o el ciberbullying es explicando a las personas menores de edad los tres tipos de actores que hay en una situación de este tipo: quien agrede, la persona agredida, y las personas espectadoras. Cualquier niña, niño o adolescente podría verse en el rol de víctima o de espectadora.</p>
                                                         </div>
-                                                        <div class="col-12">
+                                                        <div class="col-12 col-sm-6">
                                                             <img src="../img/mod2/2-09_sli-diapositiva-9.png" alt="Slide1" class="img-md">
                                                         </div>
 
@@ -293,6 +293,7 @@
                         </div>
                     </div>
                     <a href="../0-03_menu.php#mod2" class="back_to_menu d-none">Volver al menú</a>
+                    <br>
             </section>
             <?php require '../footer.php'; ?>
 

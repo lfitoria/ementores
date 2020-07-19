@@ -89,12 +89,12 @@
                                 <br>
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-12">
-                                        <p class="instruction-label">¿Qué emoción te hace sentir esta situación?</p>
+                                        <p class="instruction-label">¿Qué emoción le hace sentir esta situación?</p>
                                     </div>
                                 </div>
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-12 col-md-8">
-                                        <p class="explication-label">Compartís una foto íntima con una persona y la foto se difunde o se publica en internet</p>
+                                        <p class="explication-label">Comparte una foto íntima con una persona y la foto se difunde o se publica en internet</p>
                                     </div>
                                     <div class="d-none d-md-block col-md-4">
                                         <img src="../img/mod2/2-06_act-situacion1.png" class="img-fluid">
@@ -140,7 +140,7 @@
                                 <br>
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-12">
-                                        <p class="instruction-label">¿Qué emoción te hace sentir esta situación?</p>
+                                        <p class="instruction-label">¿Qué emoción le hace sentir esta situación?</p>
                                     </div>
                                 </div>
                                 <div class="row align-items-center justify-content-center">
@@ -186,7 +186,7 @@
                                 <br>
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-12">
-                                        <p class="instruction-label">¿Qué emoción te hace sentir esta situación?</p>
+                                        <p class="instruction-label">¿Qué emoción le hace sentir esta situación?</p>
                                     </div>
                                 </div>
                                 <div class="row align-items-center justify-content-center">
@@ -237,7 +237,7 @@
                                 <br>
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-12">
-                                        <p class="instruction-label">¿Qué emoción te hace sentir esta situación?</p>
+                                        <p class="instruction-label">¿Qué emoción le hace sentir esta situación?</p>
                                     </div>
                                 </div>
                                 <div class="row align-items-center justify-content-center">
@@ -741,10 +741,10 @@
                         </div>
     <div class="col-12">
         <p class="text-justify">
-            Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+        Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
         </p>
         <p class="text-justify">
-            Podes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, podés poner una denuncia a las autoridades. Esta información la encontrás en esta misma página, seguí navegando.
+        Puede poner la denuncia en cada red social para que su información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, puede poner una denuncia a las autoridades. Esta información la encuentra en esta misma página, siga navegando.
         </p>
     </div>
     </div>
@@ -760,10 +760,10 @@
                         </div>
     <div class="col-12">
         <p class="text-justify">
-            Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+        Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
         </p>
         <p class="text-justify">
-            Podes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, podés poner una denuncia a las autoridades. Esta información la encontrás en esta misma página, seguí navegando.
+        Puede poner la denuncia en cada red social para que su información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, puede poner una denuncia a las autoridades. Esta información la encuentra en esta misma página, siga navegando.
         </p>
     </div>
     </div>
@@ -779,10 +779,10 @@
                         </div>
     <div class="col-12">
         <p class="text-justify">
-            Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+        Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
         </p>
         <p class="text-justify">
-            Podes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, podés poner una denuncia a las autoridades. Esta información la encontrás en esta misma página, seguí navegando.
+        Puede poner la denuncia en cada red social para que su información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, puede poner una denuncia a las autoridades. Esta información la encuentra en esta misma página, siga navegando.
         </p>
     </div>
     </div>

@@ -111,7 +111,7 @@
                                                         <div class="col-12 col-sm-10">
                                                             
                                                             <p>
-                                                                Un día Jeyson se descuidó y puso los datos de su tarjeta de crédito para bajar una canción en una página de internet insegura... y le robaron ¡¢200.000! <br> ¿Sabés cómo identificar una página segura para hacer pagos, descargar material y mantener tu privacidad?
+                                                                Un día Jeyson se descuidó y puso los datos de su tarjeta de crédito para bajar una canción en una página de internet insegura... y le robaron ¡¢200.000! <br> ¿Sabe cómo identificar una página segura para hacer pagos, descargar material y mantener su privacidad?
 
                                                             </p>
                                                         </div>
@@ -182,7 +182,7 @@
                                                             <img  src="../img/mod1/1-03_act_emoji-asustado.png" alt="First slide">
                                                         </div>
                                                         <div class="col-12 col-sm-10">
-                                                            <p>Una vez Mariana leyó una noticia con información falsa y pensó que era verdad. Como no revisó que la noticia fuera verdadera en otras páginas de Internet que conocía que eran seguras, hizo una exposición en el colegio con información falsa o equivocada. La profesora tuvo que corregirla ¡Qué vergüenza! <br> Es importante que no creás en todo lo que se publica en internet. Hay muchas informaciones falsas. Y recordá que para cada suceso siempre hay varios puntos de vista que tomar en cuenta para formar tu propia opinión.
+                                                            <p>Una vez Mariana leyó una noticia con información falsa y pensó que era verdad. Como no revisó que la noticia fuera verdadera en otras páginas de Internet que conocía que eran seguras, hizo una exposición en el colegio con información falsa o equivocada. La profesora tuvo que corregirla ¡Qué vergüenza! <br> Es importante que no crea en todo lo que se publica en internet. Hay muchas informaciones falsas. Y recuerde que para cada suceso siempre hay varios puntos de vista que tomar en cuenta para formar su propia opinión.
                                                             </p>
                                                         </div>
                                                         </div>
@@ -254,7 +254,7 @@
                                                         </div>
                                                         <div class="col-12 col-sm-10">
                                                             <p>
-                                                                La semana pasada, un amigo de Daniel, publicó en Facebook sin su permiso una fotografía que a él le daba mucha vergüenza ¡y no la quería quitar! Daniel estaba muy molesto, porque esa era una foto para bromear entre ellos, pero no para subirla a Facebook. <br> ¿Sabés cómo configurar tus redes sociales para que aprobés las etiquetas y lo que sale en tus perfiles? Visitá <a href="1-02_inf.php" style="color: white;font-size: 1em">aquí</a> los detalles para algunas de las redes sociales más utilizadas.
+                                                                La semana pasada, un amigo de Daniel, publicó en Facebook sin su permiso una fotografía que a él le daba mucha vergüenza ¡y no la quería quitar! Daniel estaba muy molesto, porque esa era una foto para bromear entre ellos, pero no para subirla a Facebook. <br> ¿Sabés cómo configurar tus redes sociales para que aprobés las etiquetas y lo que sale en tus perfiles? Visite <a href="1-02_inf.php" style="color: white;font-size: 1em">aquí</a> los detalles para algunas de las redes sociales más utilizadas.
 
                                                             </p>
                                                         </div>
@@ -320,7 +320,7 @@
                                                             <img  src="../img/mod1/1-03_act_emoji-asustado.png" alt="First slide">
                                                         </div>
                                                         <div class="col-12 col-sm-10">
-                                                            <p>Luci puede pasar a veces demasiado tiempo en internet y luego no tiene tiempo para cumplir sus responsabilidades. A veces duerme poco por quedarse hasta muy tarde en línea. <br>Es importante que aprendás a autoregularte, si el uso de estas tecnologías te impide cumplir con otras actividades, o si perdés demasiado tiempo, ¡talvez es hora de darte un descanso! </p>
+                                                            <p>Luci puede pasar a veces demasiado tiempo en internet y luego no tiene tiempo para cumplir sus responsabilidades. A veces duerme poco por quedarse hasta muy tarde en línea. <br>Es importante que aprenda a autoregularse, si el uso de estas tecnologías le impide cumplir con otras actividades, o si pierde demasiado tiempo, ¡talvez es hora de darse un descanso!</p>
                                                         </div>
                                                         </div>
                                                         
@@ -367,7 +367,7 @@
 
             </div>
             <div class="modal-body">
-                <p>Con las Tecnologías de la información y la comunicación (TIC) podés comunicarte, aprender, entretenerte, trabajar, hacer amistades etc.</p> <p> Para que aprovechés bien todo esto, es importante que conozcás las dos caras de las TIC. </p>
+                <p>Con las Tecnologías de la información y la comunicación (TIC) puede comunicarse, aprender, entretenerse, trabajar, hacer amistades etc.</p> <p> Para que aproveche bien todo esto, es importante que conozca las dos caras de las TIC.</p>
                 <button type="button" class="btn-start d-block m-auto " data-dismiss="modal" aria-label="Close">Iniciar</button>
             </div>
 

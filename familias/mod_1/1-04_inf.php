@@ -54,9 +54,9 @@
                         <div id="act_01" class="mod">
                             <div class="cont row">
                                 <div id="map_container">
-                                    <img usemap="#1-04-inf"  src="../img/mod1/1-04_inf.png" class="img-fluid">
+                                    <img usemap="#1-04-inf"  src="../img/mod1/1-04_inf_web.png" class="img-fluid">
                                     <map name="1-04-inf">
-                                        <!-- <area data-nbr="1" shape='rect' coords='339, 739, 527, 927' href='#' />
+                                        <area data-nbr="1" shape='rect' coords='339, 739, 527, 927' href='#' />
                                         <area data-nbr="5" shape='rect' coords='126, 932, 302, 1097' href='#' />
                                         <area data-nbr="7" shape='rect' coords='137, 610, 310, 795' href='#' />
                                         <area data-nbr="2" shape='rect' coords='445, 515, 621, 697' href='#' />
@@ -64,8 +64,8 @@
                                         <area data-nbr="3" shape='rect' coords='1013, 550, 1200, 731' href='#' />
                                         <area data-nbr="6" shape='rect' coords='1312, 651, 1485, 834' href='#' />
                                         <area data-nbr="4" shape='rect' coords='1054, 796, 1234, 970' href='#' />
-                                        <area data-nbr="8" shape='rect' coords='1303, 996, 1485, 1178' href='#' /> -->
-                                        <area data-nbr="1" href="#" coords="464,400,771,440,756,551,450,511,430,497,422,476,421,449,429,425,441,408" shape="poly">
+                                        <area data-nbr="8" shape='rect' coords='1303, 996, 1485, 1178' href='#' />
+                                        <!-- <area data-nbr="1" href="#" coords="464,400,771,440,756,551,450,511,430,497,422,476,421,449,429,425,441,408" shape="poly">
                                         <area data-nbr="2" href="#" coords="41,308,356,267,368,348,54,393,30,379,20,353,24,325" shape="poly">
                                         <area data-nbr="3" href="#" coords="500,670,771,707,748,884,477,849,435,830,418,796,416,751,431,701,461,676" shape="poly">
                                         <area data-nbr="4" href="#" coords="464,520,773,563,755,700,445,656,418,624,419,577,436,536" shape="poly">
@@ -73,7 +73,7 @@
                                         <area data-nbr="6" href="#" coords="42,778,355,735,368,833,59,875,31,862,21,835,19,809,29,788" shape="poly">
                                         <area data-nbr="7" href="#" coords="481,268,770,309,755,432,471,393,443,384,425,356,420,322,434,291,455,277" shape="poly">
                                         <area data-nbr="8" href="#" coords="37,665,355,625,366,713,52,757,28,740,22,719,20,690" shape="poly">
-                                        <area data-nbr="9" href="#" coords="36,415,356,369,369,470,48,512,28,494,20,468,22,437" shape="poly">
+                                        <area data-nbr="9" href="#" coords="36,415,356,369,369,470,48,512,28,494,20,468,22,437" shape="poly"> -->
                                     </map>
                                 </div>
                             </div>

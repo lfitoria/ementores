@@ -53,24 +53,24 @@
                         <div id="act_01" class="mod">
                             <div class="cont row">
                                 <div id="map_container">
-                                    <img usemap="#1-02-inf" src="../img/mod1/1-02_inf.png" class="img-fluid">
+                                    <img usemap="#1-02-inf" src="../img/mod1/1-02_inf_tabet.png" class="img-fluid">
                                     <map name='1-02-inf'>
-                                        <!-- <area data-nbr="1" shape='rect' coords='363, 400, 237, 532' href='#' />
+                                        <area data-nbr="1" shape='rect' coords='363, 400, 237, 532' href='#' />
                                         <area data-nbr="2" shape='rect' coords='601, 405, 465, 540' href='#' />
                                         <area data-nbr="3" shape='rect' coords='831, 409, 705, 537' href='#' />
                                         <area data-nbr="4" shape='rect' coords='1066, 399, 942, 540' href='#' />
                                         <area data-nbr="5" shape='rect' coords='1069, 632, 940, 765' href='#' />
                                         <area data-nbr="6" shape='rect' coords='834, 630, 705, 760' href='#' />
                                         <area data-nbr="7" shape='rect' coords='596, 636, 472, 760' href='#' />
-                                        <area data-nbr="8" shape='rect' coords='362, 630, 242, 757' href='#' /> -->
-                                        <area data-nbr="1" href="#" coords="340,366,308,333" shape="rect">
+                                        <area data-nbr="8" shape='rect' coords='362, 630, 242, 757' href='#' />
+                                        <!-- <area data-nbr="1" href="#" coords="340,366,308,333" shape="rect">
                                         <area data-nbr="2" href="#" coords="362,334,395,366" shape="rect">
                                         <area data-nbr="3" href="#" coords="415,333,449,367" shape="rect">
                                         <area data-nbr="4" href="#" coords="468,333,503,367" shape="rect">
                                         <area data-nbr="5" href="#" coords="471,405,503,438" shape="rect">
                                         <area data-nbr="6" href="#" coords="416,406,449,437" shape="rect">
                                         <area data-nbr="7" href="#" coords="362,405,395,438" shape="rect">
-                                        <area data-nbr="8" href="#" coords="308,404,341,436" shape="rect">
+                                        <area data-nbr="8" href="#" coords="308,404,341,436" shape="rect"> -->
 
                                     </map>
                                 </div>

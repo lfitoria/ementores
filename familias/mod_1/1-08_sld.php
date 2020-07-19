@@ -201,6 +201,7 @@
                     </div>
                 </div>
                 </div>
+                <br>
             <!-- </section> -->
             <div class="modal fade" id="modal_1-08_act1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
                 <div class="modal-dialog" role="document">
