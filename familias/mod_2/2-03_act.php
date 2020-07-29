@@ -85,7 +85,7 @@
                         
                         <div class="cont row">
                             <div class="col-12 col-md-5 image-side">
-                                <img src="../img/mod2/2-03_act_img-01.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img1_rd.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Juan Carlos recibe un mensaje que dice: "Usted ha ganado un premio.  Haga clic aquí para obtenerlo".</p>
@@ -130,7 +130,7 @@
                         
                         <div class="cont row">
                             <div class="col-12 col-md-5 image-side">
-                                <img src="../img/mod2/2-03_act_img-02.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img2_RD.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Yamileth recibe un mensaje en el que un compañero se burla de Juan Carlos y lo pone en ridículo.</p>
@@ -177,7 +177,7 @@
                             
 
                             <div class="col-12 col-md-5 image-side">
-                                <img src="../img/mod2/2-03_act_img-03.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img3_RD.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Mariana recibe mensajes en que una persona que no conoce le comparte videos con contenidos sexuales.</p>
@@ -225,7 +225,7 @@
 
                             <div class="col-12 col-md-5 image-side">
 
-                                <img src="../img/mod2/2-03_act_img-04.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img4_RD.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Karla recibe una solicitud de amistad en Facebook de una persona que ella no conoce.</p>
@@ -269,7 +269,7 @@
                             
 
                             <div class="col-12 col-md-5 image-side">
-                                <img src="../img/mod2/2-03_act_img-08.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img5_RD.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Kimberly tiene un contacto en Facebook, a quien no conoce en persona.  El muchacho la invita a salir.</p>
@@ -316,7 +316,7 @@
                             
 
                             <div class="col-12 col-md-5 image-side">
-                                <img src="../img/mod2/2-03_act_img-06.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img6_RD.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Fabián está haciendo por primera vez su perfil en Facebook, y no está seguro qué datos poner.</p>
@@ -362,7 +362,7 @@
                             
 
                             <div class="col-12 col-md-5 image-side">
-                                <img src="../img/mod2/2-03_act_img-05.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img5_RD.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">A Karen, su novio Jeremy le pide que le envíe unas fotos sin la parte de arriba del vestido de baño.</p>
@@ -408,7 +408,7 @@
                             
 
                             <div class="col-12 col-md-5 image-side">
-                                <img src="../img/mod2/2-03_act_img-07.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img7_RD.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Mauricio recibe memes con contenidos sexuales en su celular.</p>

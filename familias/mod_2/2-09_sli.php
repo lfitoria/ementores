@@ -92,7 +92,7 @@
                                                 <div class="slide">
                                                     <div class="row justify-content-start">
                                                         <div class="col-12 col-md-6">
-                                                            <p>Pensemos en aparatos que traen muchos beneficios a nuestra vida cotidiana: una cocina, una olla de presión, un taladro, una bicicleta o un automóvil. Porque pueden ser peligrosos, ¿no debemos usarlos? No… La clave está en usarlos con con seguridad.</p>
+                                                            <p>Pensemos en aparatos que traen muchos beneficios a nuestra vida cotidiana: una cocina, una olla de presión, un taladro, una bicicleta o un automóvil. Porque pueden ser peligrosos, ¿no debemos usarlos? No… La clave está en usarlos con seguridad.</p>
                                                             <p>Igual pasa con las tecnologías digitales. Estas nos conectan, nos ayudan a comunicarnos, nos informan, nos entretienen y nos ayudan a trabajar y aprender, pero es importante utilizarlas de forma segura para beneficiarnos al máximo de todo lo que ofrecen.</p>
                                                         </div>
                                                         <div class="col-12 col-md-6">
