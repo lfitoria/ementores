@@ -196,7 +196,7 @@
                                 <p class="text-center">Pueden marcar a la persona de por vida.</p>
                                 <button type="button" class="btn btn-primary btn-lg m-auto d-block ejem" data-toggle="modal" data-target="#modal_1-08_act2">Ver ejemplos</button>
                             </div>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="2">Atrás</button>
+                            <button class="gotoModulePage btn baki conti-baki" data-page="2">Atrás</button>
                         </div>
                     </div>
                 </div>

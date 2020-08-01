@@ -105,7 +105,7 @@
 
                                 </div>
 
-
+                                <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
                                 <div class="row">
                                     <div class="col-6 situation col-sm sit-1-t">
                                         <a data-modl="sit-1-t"><span>Tristeza</span></a>
@@ -156,7 +156,7 @@
 
                                 </div>
 
-
+                                <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
                                 <div class="row">
                                     <div class="col-6 situation col-sm sit-2-t">
                                         <a data-modl="sit-2-t"><span>Tristeza</span></a>
@@ -203,7 +203,7 @@
 
                                 </div>
 
-
+                                <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
                                 <div class="row">
                                     <div class="col-6 situation col-sm sit-3-t">
                                         <a data-modl="sit-3-t"><span>Tristeza</span></a>
@@ -254,7 +254,7 @@
 
                                 </div>
 
-
+                                <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
                                 <div class="row">
                                     <div class="col-6 situation col-sm sit-3-t">
                                         <a data-modl="sit-3-t"><span>Tristeza</span></a>

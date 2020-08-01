@@ -101,7 +101,7 @@
                         <div id="act_01p3" class="d-none module_page">
                             <div class="container">
                             <h3 class="text-center">¿Qué es y qué no es?</h3>
-                            <p class="text-center intro-label"><strong>Descubra si estas acciones corresponden o no a crianza respetuosa.</strong></p>
+                            <p class="text-center intro-label"><strong>Haz clic  en cada  recuadro para descubrir si estas acciones corresponden o no a crianza respetuosa.</strong></p>
                             <div class="cont row">
                                 <div class="col-12 col-md-4">
                                     <div class="flip-container">
@@ -230,8 +230,8 @@
                             <div class="container">
                             <div class="row align-items-center justify-content-md-center">
                                 <div class="col-12 col-sm-4">
-                                    <p class="intro-label"><strong>Recuerde que la Crianza respetuosa no es permisiva, y tiene sus límites.</strong></p>
-                                    <p class="intro-label"><strong>En cambio, promueve construir reglas en familia y solucionar problemas con afecto y comprensión.</strong></p>
+                                    <p class="intro-label"><strong>Recuerde que la Crianza respetuosa da permisos, y tiene sus límites.</strong></p>
+                                    <p class="intro-label"><strong>Además, promueve construir reglas en familia y solucionar problemas con afecto y comprensión.</strong></p>
                                 </div>
                                 <div class="col-12 col-sm-4">
                                     <img src="../img/mod2/2-02a_sli-grafico.png" class="img-fluid img-md">

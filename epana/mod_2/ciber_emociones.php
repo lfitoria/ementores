@@ -65,7 +65,7 @@
                                     </div>
                                     <div class="row align-items-center justify-content-center">
                                         <div class="col-12 col-md-8" >
-                                            <p class="explication-label">Compartís una foto íntima con una persona y la foto se difunde o se publica en interne.</p>     
+                                            <p class="explication-label">Compartes una foto íntima con una persona y la foto se difunde o se publica en interne.</p>     
                                         </div> 
                                         <div class="d-none d-md-block col-md-4">
                                             <img src="../img/mod2/2-06_act-situacion1.png" class="img-fluid">
@@ -73,7 +73,7 @@
 
                                     </div>
                                     
-
+                                    <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
                                     <div class="row">
                                         <div class="col-6 situation col-sm sit-1-t">
                                             <a data-modl="sit-1-t"><span>Tristeza</span></a>
@@ -115,7 +115,7 @@
                                     </div>
                                     <div class="row align-items-center justify-content-center">
                                         <div class="col-12 col-md-8" >
-                                            <p class="explication-label">Aparece en redes sociales un mensaje en el que  alguien se burla de vos.</p>     
+                                            <p class="explication-label">Aparece en redes sociales un mensaje en el que una persona se burla de ti.</p>     
                                         </div> 
                                         <div class="d-none d-md-block col-md-4">
                                             <img src="../img/mod2/2-06_act-situacion2.png" class="img-fluid">
@@ -123,7 +123,7 @@
 
                                     </div>
                                     
-
+                                    <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
                                     <div class="row">
                                         <div class="col-6 situation col-sm sit-2-t">
                                             <a data-modl="sit-2-t"><span>Tristeza</span></a>
@@ -160,7 +160,7 @@
                                     </div>
                                     <div class="row align-items-center justify-content-center">
                                         <div class="col-12 col-md-8" >
-                                            <p class="explication-label">Una persona te pide dinero a cambio de no revelar un secreto tuyo en redes sociales.
+                                            <p class="explication-label">Una persona te pide dinero a cambio de no revelar un secreto tuyo en redes sociale.
                                             </p>     
                                         </div> 
                                         <div class="d-none d-md-block col-md-4">
@@ -169,7 +169,7 @@
 
                                     </div>
                                     
-
+                                    <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
                                     <div class="row">
                                         <div class="col-6 situation col-sm sit-3-t">
                                             <a data-modl="sit-3-t"><span>Tristeza</span></a>
@@ -216,7 +216,7 @@
 
                                     </div>
                                     
-
+                                    <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
                                     <div class="row">
                                         <div class="col-6 situation col-sm sit-3-t">
                                             <a data-modl="sit-3-t"><span>Tristeza</span></a>
@@ -300,7 +300,7 @@
                         <div id="act_01p6" class="d-none mod " style=" position: relative;padding: 0 8%;">
 
                             <div class="col text-center" >
-                                <p class="explication-label">¡Ponele atención a tus emociones!
+                                <p class="explication-label">¡Presta atención a tus emociones!
                                 </p>     
                             </div> 
                             <div class="row">
@@ -308,7 +308,7 @@
                                      <img src="../img/mod2/2-06_act-cierre.png" class="img-fluid m-auto d-block">
                                 </div>
                             </div>
-                            <p class="finaltext">Las emociones de miedo, tristeza, enojo y disgusto son avisos de que algo no está bien. Debés buscar ayuda, mantener la calma y evitar la violencia. Al usar Internet y redes sociales, mantené el respeto en todo momento, cuidate y cuidá a los demás.</p>
+                            <p class="finaltext">Las emociones de miedo, tristeza, enojo y disgusto son avisos de que algo no está bien y que hay que buscar ayuda, mantener la calma y evitar la violencia. Al usar Internet y redes sociales es importante mantener el respeto en todo momento, cuidarse y cuidar a los demás.</p>
                             <button class="gotoModulePage btn baki conti-baki" data-page="1">Atrás</button>
                         </div>
                         <!-- fin 6 -->
@@ -793,8 +793,9 @@
 
                         </div>
     <div class="col-12">
-        <p class="text-justify">
+    <p class="text-justify">
         Todas las personas tenemos derecho a que nuestra información privada se respete. Y también tenemos el deber de respetar la intimidad de las otras personas.
+
         </p>
         <p class="text-justify">
         Puedes poner la denuncia en cada red social para que tu información y material personal sea quitado de internet y que se bloqueen páginas y perfiles. También, puedes poner una denuncia a las autoridades. Esta información la encuentras en esta misma página, sigue navegando.

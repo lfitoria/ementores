@@ -22,7 +22,7 @@
 <div id="mnsry_container">
   <article class="item group2">
     <div class="item-module">
-        <a href="mod_1/tic.php#titleancla" class="v-act-1">Las TIC en todos lados y a todas horas</a>
+        <a href="mod_1/tic.php#titleancla" class="v-act-1">Las tecnologías de información y comunicación (TIC),  en todos lados y a todas horas</a>
     </div>
   </article>
   <article class="item group3">
@@ -48,6 +48,11 @@
   <article class="item group2">
     <div class="item-module">
         <a href="mod_1/infoenlinea.php#titleancla" class="v-act-6">¿Qué es el abuso y la explotación sexual en línea?</a>
+    </div>
+  </article>
+  <article class="item group1">
+    <div class="item-module">
+        <a href="mod_1/cicatrices.php#titleancla" class="v-act-8">Las cicatrices del abuso sexual</a>
     </div>
   </article>
   <!-- <article class="item group1">

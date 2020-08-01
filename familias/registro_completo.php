@@ -81,12 +81,12 @@
                                             <p class="text-center label-small">Hola, mi nombre completo es:</p>
                                             <input type="text" class="form-control" name="name" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nombre completo" required>
                                             <input type="hidden" name="step" value="2"> 
-                                            <p class="small text-center">Nombre y dos apellidos</p>
+                                            <p class="small text-center">Nombre y apellido</p>
                                         </div>
                                         <hr>
                                         <!-- genero -->
                                         <div class="form-group">
-                                            <p class="text-center label">Escoja tu personaje</p>
+                                            <p class="text-center label">Escoje tu personaje</p>
                                             <div class="row">
                                                 <div class="form-check d-inline-block col-6 chk-female">
                                                     <input class="form-check-input d-none" type="radio" name="genre" id="exampleRadios1" value="1">

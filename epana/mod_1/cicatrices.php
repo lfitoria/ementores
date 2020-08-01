@@ -176,7 +176,7 @@
                                 <p class="text-center">Pueden marcar a la persona de por vida.</p>
                                 <button type="button" class="btn btn-primary btn-lg m-auto d-block ejem" data-toggle="modal" data-target="#modal_1-08_act2">Ver ejemplos</button>
                             </div>
-                            <button class="gotoModulePage btn btn-dark baki conti-baki" data-page="2"></button>
+                            <button class="gotoModulePage btn baki conti-baki" data-page="2"></button>
                         </div>
                     </div>
                 </div>
@@ -256,6 +256,7 @@
                 </div>
             </div>
             <a href="../0-03_menu.php#mod1" class="back_to_menu d-none">Volver al menú</a>
+            <p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>
             </section>
             <?php require '../footer.php'; ?>
         </div>

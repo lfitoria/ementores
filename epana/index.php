@@ -210,13 +210,13 @@ session_start();
                                             <img src="img/avatar_unirse_femenina.png" class="img-genre" alt="" />
                                         </label>
                                     </div>
-                                    <div class="form-check d-inline-block col-4 chk-male">
+                                    <!-- <div class="form-check d-inline-block col-4 chk-male">
                                         <input class="form-check-input " type="radio" name="genero" id="exampleRadios2"
                                             value="2">
                                         <label class="form-check-label float-left" for="exampleRadios2">
                                             <img src="img/avatar_unirse_mixto.png" class="img-genre" alt="" />
                                         </label>
-                                    </div>
+                                    </div> -->
                                     <div class="form-check d-inline-block col-4 chk-male">
                                         <input class="form-check-input " type="radio" name="genero" id="exampleRadios3"
                                             value="3">
@@ -316,8 +316,7 @@ session_start();
                         <hr>
                         <div class="row">
                             <div class="col">
-                                <button type="button" class="btn-c d-block m-auto " data-dismiss="modal"
-                                    aria-label="Close">Cerrar</button>
+                                <button type="button" class="btn-c d-block m-auto" aria-label="Close" id="btnmodal_1-03init">Volver</button>
                             </div>
                             <div class="col">
                                 <button id="btn-r" type="button" class="btn-r d-block m-auto submet">Ingresar</button>
@@ -722,8 +721,9 @@ session_start();
         $("#modal_inicio").modal("hide");
         $("#modal_login").modal("show");
     });
-    $('#btn-backToLogin').click(function(){
+    $('#btn-backToLogin,#btnmodal_1-03init').click(function(){
         $("#modal_login").modal("hide");
+        $("#modal_1-03init").modal("hide");
         $("#modal_inicio").modal("show");
     });
     // getLogin

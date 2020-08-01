@@ -123,7 +123,7 @@
                                             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                 <div class="item-module <?php if ($values1[0]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                     
-                                                    <a href="mod_1/1-01_vid.php" class="v-act-1">Las TIC en todos lados y a todas horas</a>
+                                                    <a href="mod_1/1-01_vid.php" class="v-act-1">Las tecnologías de información y comunicación (TIC),  en todos lados y a todas horas</a>
                                                     
                                                 </div>
                                             </div>

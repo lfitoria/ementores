@@ -21,7 +21,7 @@
                     <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>-->
 
                 <h2 class="title-cx" id="titleancla">
-                    Las TIC en todos lados y a todas horas
+                Las tecnologías de información y comunicación (TIC),  en todos lados y a todas horas
                 </h2>
                 <img id="vol-img" src="../img/E-COMPAS-audio_rp.png">
                     <div class="main">
