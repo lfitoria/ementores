@@ -341,7 +341,7 @@
 
         function playVideo() {
             modal.modal("hide");
-            video.currentTime = time * 1000;
+            video.currentTime = time;
             video.play();
         }
 
