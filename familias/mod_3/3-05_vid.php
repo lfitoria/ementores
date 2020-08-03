@@ -341,7 +341,7 @@
 
         function playVideo() {
             modal.modal("hide");
-            video.currentTime = time;
+            video.currentTime = time * 1000;
             video.play();
         }
 
@@ -414,10 +414,10 @@
 
         $("#video1").on("timeupdate", function() {
                 console.log(parseInt(this.currentTime));
-                if (parseInt(this.currentTime * 1000) >= 25700 && parseInt(this.currentTime * 1000) <= 25900) {
+                if (parseInt(this.currentTime * 1000) >= 25400 && parseInt(this.currentTime * 1000) <= 25600) {
                     this.pause();
 
-                    time = 26;
+                    time = 25800;
                     video = document.getElementById("video1");
                     modal = $(this).parent().parent().find(".modal")
                     modal.modal("show");
@@ -428,7 +428,7 @@
                 console.log(parseInt(this.currentTime * 1000));
                 if (parseInt(this.currentTime * 1000) >= 33500 && parseInt(this.currentTime * 1000) <= 33900) {
                     this.pause();
-                    time = 34;
+                    time = 34000;
                     video = document.getElementById("video2");
                     modal = $(this).parent().parent().find(".modal")
                     modal.modal("show");
@@ -441,7 +441,7 @@
                 if (parseInt(this.currentTime * 1000) >= 35800 && parseInt(this.currentTime * 1000) <= 35999) {
                     this.pause();
 
-                    time = 36;
+                    time = 36000;
                     video = document.getElementById("video3");
                     modal = $(this).parent().parent().find(".modal")
                     modal.modal("show");
