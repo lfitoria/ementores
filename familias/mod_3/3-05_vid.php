@@ -414,10 +414,10 @@
 
         $("#video1").on("timeupdate", function() {
                 console.log(parseInt(this.currentTime));
-                if (parseInt(this.currentTime * 1000) >= 24700 && parseInt(this.currentTime * 1000) <= 24900) {
+                if (parseInt(this.currentTime * 1000) >= 25700 && parseInt(this.currentTime * 1000) <= 25900) {
                     this.pause();
 
-                    time = 25;
+                    time = 26;
                     video = document.getElementById("video1");
                     modal = $(this).parent().parent().find(".modal")
                     modal.modal("show");
