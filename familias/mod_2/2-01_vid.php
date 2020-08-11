@@ -45,7 +45,9 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>Acompañar también es proteger</p>
+                <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>
+                <a href="2-02a_sli.php"  class="iconextact hvr-icon">Siguiente</a>
+                Acompañar también es proteger</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="">

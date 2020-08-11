@@ -49,7 +49,9 @@
                     </div>
                 </div>
             </nav>
-            <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>“Amistad” en redes sociales ¿Aceptaría estas invitaciones?</p>
+            <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>
+            <a href="2-06_act.php"  class="iconextact hvr-icon">Siguiente</a>
+            “Amistad” en redes sociales ¿Aceptaría estas invitaciones?</p>
             <section class="container">
 
                 <div class="main ">

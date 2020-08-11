@@ -84,25 +84,25 @@
                                 <div class="main-block-menu">
                                     <?php
 
-                                    // include 'db/connection/conexion.php';
+                                    include 'db/connection/conexion.php';
 
 
-                                    // $module = 1;
+                                    $module = 1;
 
 
-                                    // $query = "SELECT * FROM module where user = $last_id and module = $module and is_completed = 0";
-                                    // $result = $mysqli->query($query);
-                                    // $row_cnt1 = $result->num_rows;
+                                    $query = "SELECT * FROM module where user = $last_id and module = $module and is_completed = 0";
+                                    $result = $mysqli->query($query);
+                                    $row_cnt1 = $result->num_rows;
 
 
-                                    // $query = "SELECT step, is_completed FROM module where user = $last_id and module = $module";
-                                    // $result = $mysqli->query($query);
-                                    // $values1 = array();
-                                    // while ($row = mysqli_fetch_array($result)) {
+                                    $query = "SELECT step, is_completed FROM module where user = $last_id and module = $module";
+                                    $result = $mysqli->query($query);
+                                    $values1 = array();
+                                    while ($row = mysqli_fetch_array($result)) {
 
-                                    //     $values1[] = $row;
-                                    // }
-                                    // $values1[0]["is_completed"] = 1;
+                                        $values1[] = $row;
+                                    }
+                                    $values1[0]["is_completed"] = 1;
 
                                     ?>
                                     <h3 class="text-center menu-title" id="mod1">Me informo: oportunidades y riesgos en la web.</h3>
@@ -191,27 +191,27 @@
 
                                     <?php
 
-                                    // $module2 = 2;
+                                    $module2 = 2;
 
 
-                                    // $query2 = "SELECT * FROM module where user = $last_id and module = $module2 and is_completed = 0";
-                                    // $result2 = $mysqli->query($query2);
-                                    // $row_cnt2 = $result2->num_rows;
+                                    $query2 = "SELECT * FROM module where user = $last_id and module = $module2 and is_completed = 0";
+                                    $result2 = $mysqli->query($query2);
+                                    $row_cnt2 = $result2->num_rows;
 
 
-                                    // $query2 = "SELECT step, is_completed FROM module where user = $last_id and module = $module2";
-                                    // $result2 = $mysqli->query($query2);
-                                    // $values2 = array();
-                                    // while ($row = mysqli_fetch_array($result2)) {
+                                    $query2 = "SELECT step, is_completed FROM module where user = $last_id and module = $module2";
+                                    $result2 = $mysqli->query($query2);
+                                    $values2 = array();
+                                    while ($row = mysqli_fetch_array($result2)) {
 
-                                    //     $values2[] = $row;
-                                    // }
+                                        $values2[] = $row;
+                                    }
 
 
 
-                                    // $queryAct1 = "SELECT * FROM activity where user = $last_id and module = 1";
-                                    // $resultAct1 = $mysqli->query($queryAct1);
-                                    // $activity1 = mysqli_fetch_assoc($resultAct1);
+                                    $queryAct1 = "SELECT * FROM activity where user = $last_id and module = 1";
+                                    $resultAct1 = $mysqli->query($queryAct1);
+                                    $activity1 = mysqli_fetch_assoc($resultAct1);
                                     $activity1["is_approved"] = 1;
                                     
                                     ?>
@@ -269,8 +269,13 @@
                                                         <a href="mod_2/2-06_act.php" class="v2-act-6">Reconozcamos nuestras emociones en el uso de las TIC</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
                                                 </div>
-                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                <!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                                                     <div class="item-module">
+                                                        <a href="mod_2/2-07_inf.php" class="v2-act-7">Prevenir y prohibir ¡No son lo mismo!</a>
+                                                    </div>
+                                                </div> -->
+                                                <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                                                    <div class="item-module <?php if ($values2[6]["is_completed"] == 1) : ?>active<?php endif ?>">
                                                         <!-- <img src="img/icon.png" alt=""/> -->
                                                         <a href="mod_2/2-07_inf.php" class="v2-act-7">Prevenir y prohibir ¡No son lo mismo!</a><!--<p class=dots-mod>. . .</p>-->
                                                     </div>
@@ -308,31 +313,31 @@
 
                                     <?php
 
-                                    // $module3 = 3;
+                                    $module3 = 3;
 
 
-                                    // $query3 = "SELECT * FROM module where user = $last_id and module = $module3 and is_completed = 0";
-                                    // $result3 = $mysqli->query($query3);
-                                    // $row_cnt3 = $result3->num_rows;
+                                    $query3 = "SELECT * FROM module where user = $last_id and module = $module3 and is_completed = 0";
+                                    $result3 = $mysqli->query($query3);
+                                    $row_cnt3 = $result3->num_rows;
 
 
-                                    // $query3 = "SELECT step, is_completed FROM module where user = $last_id and module = $module3";
-                                    // $result3 = $mysqli->query($query3);
-                                    // $values3 = array();
-                                    // while ($row = mysqli_fetch_array($result3)) {
+                                    $query3 = "SELECT step, is_completed FROM module where user = $last_id and module = $module3";
+                                    $result3 = $mysqli->query($query3);
+                                    $values3 = array();
+                                    while ($row = mysqli_fetch_array($result3)) {
 
-                                    //     $values3[] = $row;
-                                    // }
+                                        $values3[] = $row;
+                                    }
 
               
 
-                                    // $queryAct2 = "SELECT * FROM activity where user = $last_id and module = 2";
-                                    // $resultAct2 = $mysqli->query($queryAct2);
-                                    // $activity2 = mysqli_fetch_assoc($resultAct2);
+                                    $queryAct2 = "SELECT * FROM activity where user = $last_id and module = 2";
+                                    $resultAct2 = $mysqli->query($queryAct2);
+                                    $activity2 = mysqli_fetch_assoc($resultAct2);
 
-                                    // $queryAct3 = "SELECT * FROM activity where user = $last_id and module = 3";
-                                    // $resultAct3 = $mysqli->query($queryAct3);
-                                    // $activity3 = mysqli_fetch_assoc($resultAct3);
+                                    $queryAct3 = "SELECT * FROM activity where user = $last_id and module = 3";
+                                    $resultAct3 = $mysqli->query($queryAct3);
+                                    $activity3 = mysqli_fetch_assoc($resultAct3);
                                     // // var_dump($activity2);
                                     $activity2["is_approved"] = 1;
                                     

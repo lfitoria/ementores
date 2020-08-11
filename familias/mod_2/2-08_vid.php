@@ -49,7 +49,9 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>Huella digital: nuestro rastro en Internet</p>
+                <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>
+                <a href="2-09_sli.php"  class="iconextact hvr-icon">Siguiente</a>
+                Huella digital: nuestro rastro en Internet</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="">

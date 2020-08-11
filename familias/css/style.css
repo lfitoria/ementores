@@ -694,7 +694,7 @@ border-radius: 5px;
 background-color: rgba(128, 128, 128, 0.26);
 }
 
-a.icovolver {
+/* a.icovolver {
 position: relative;
 display: block;
 background-color: #FA7820;
@@ -706,6 +706,36 @@ line-height: 15px;
 z-index: 1;
 margin: auto;
 width: 17%;
+} */
+a.icovolver {
+    position: relative;
+    display: block;
+    background-image: url('../img/act_back_menu.png');
+    background-size: 100%;
+    font-size: 0;
+    color: #fff;
+    padding: 0;
+    background-repeat: no-repeat;
+    line-height: 15px;
+    z-index: 1;
+    margin: auto;
+    width: 89px;
+    height: 78px;
+}
+a.iconextact {
+    position: relative;
+    display: block;
+    background-image: url('../img/act_next_menu.png');
+    background-size: 100%;
+    font-size: 0;
+    color: #fff;
+    padding: 0;
+    background-repeat: no-repeat;
+    line-height: 15px;
+    z-index: 1;
+    margin: auto;
+    width: 89px;
+    height: 78px;
 }
 
 a.icovolver-2 {
@@ -739,14 +769,14 @@ a.icovolver-2:hover {
 
 
 
-a.icovolver:before {
+/* a.icovolver:before {
 content: '';
 background-image: url(../img/icn-btn-volver.png);
 display: block;
 width: 47px;
 height: 30px;
 margin: auto;
-}
+} */
 
 .hvr-icon:hover {
     -webkit-animation-name: hvr-icon-pulse-shrink;
@@ -941,7 +971,7 @@ a#back_family {
     color: #fff;
     border-radius: 10px;
     margin: 15px auto 0 auto;
-    width: 20%;
+    width: 23%;
     height: 45px;
     font-family: 'Nunito', sans-serif;
     font-weight: bold;
@@ -978,8 +1008,14 @@ a#back_family:hover {
     position: absolute;
     left: 2rem;
     padding: 10px 15px;
-    width: initial;
+    
     }
+    a.iconextact {
+        position: absolute;
+        right: 2rem;
+        padding: 10px 15px;
+        
+        }
 
     img.img-boxper{
         height: 434px;

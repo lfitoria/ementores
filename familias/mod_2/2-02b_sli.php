@@ -48,7 +48,9 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>Crianza tecnológica en tiempos del Internet</p>
+                <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>
+                <a href="2-03_act.php"  class="iconextact hvr-icon">Siguiente</a>
+                Crianza tecnológica en tiempos del Internet</p>
                 <section class="container">
                     <div class="main">
                         <!-- <div id="act_01p1" class="module-page">

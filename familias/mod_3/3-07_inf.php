@@ -50,7 +50,9 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue"><a href="../0-03_menu.php#mod3"  class="icovolver hvr-icon">Volver al<br>menú</a>¿Cómo denunciar las violencias en línea?</p>
+                <p class="intro-header blue"><a href="../0-03_menu.php#mod3"  class="icovolver hvr-icon">Volver al<br>menú</a>
+                <a href="3-08_vid.php"  class="iconextact hvr-icon">Siguiente</a>
+                ¿Cómo denunciar las violencias en línea?</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="">

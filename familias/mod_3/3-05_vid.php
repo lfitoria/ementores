@@ -58,7 +58,9 @@
                     </div>
                 </div>
             </nav>
-            <p class="intro-header blue"><a href="../0-03_menu.php#mod3" class="icovolver hvr-icon">Volver al<br>menú</a>¡No lo dejemos pasar! Actuemos contra el abuso</p>
+            <p class="intro-header blue"><a href="../0-03_menu.php#mod3" class="icovolver hvr-icon">Volver al<br>menú</a>
+            <a href="3-07_inf.php"  class="iconextact hvr-icon">Siguiente</a>
+            ¡No lo dejemos pasar! Actuemos contra el abuso</p>
             <section class="container">
                 <div class="row align-items-center justify-content-md-center">
                     <div class="col-12 col-sm-8">

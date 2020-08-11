@@ -47,7 +47,9 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>¿Qué es el abuso y la explotación sexual en línea?</p>
+                <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>
+                <a href="1-07_act.php"  class="iconextact hvr-icon">Siguiente</a>
+                ¿Qué es el abuso y la explotación sexual en línea?</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="">

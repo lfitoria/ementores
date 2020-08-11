@@ -48,7 +48,9 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue" style=" margin-bottom: 0;"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>Crianza Respetuosa: pongamos límites con amor</p>
+                <p class="intro-header blue" style=" margin-bottom: 0;"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>
+                <a href="2-02b_sli.php"  class="iconextact hvr-icon">Siguiente</a>
+                Crianza Respetuosa: pongamos límites con amor</p>
                 <!-- <section class="container"> -->
                     <div class="main">
                         <div id="act_01p1" class="module_page intro_2_02sdi">

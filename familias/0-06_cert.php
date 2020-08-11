@@ -40,7 +40,7 @@
 	        <?php
 
             session_start();
-
+            // var_dump($_SESSION);
             $user = $_SESSION['user'];
             $cert = (!empty($_SESSION['cert'])) ? $_SESSION['cert'] : '';
             $last_id = $user["id"];
@@ -115,7 +115,7 @@
 
                                 <p class="text-center label">Ahora sí, ya puedes descargar tu certificado de aprovechamiento:</p>
 
-                                <?php if(empty($certificate) and $cert == ''){
+                                <?php if(empty($certificate) && $cert == ''){
                                     $display = 'style = "display:block"';
 
                                 }else{
@@ -128,7 +128,7 @@
 
                                         <p class="text-center label-small quest-email">Digita tu nombre completo (este aparecerá en el certificado)</p>
 
-                                        <input type="text" name="name" id="name" value="<?php echo $certificate;?>" class="form-control mr-auto" placeholder="Nombre completo" required>
+                                        <input type="text" name="name" id="name" value="<?php echo $certificate;?>" class="form-control mr-auto" placeholder="Nombre completo" required="required">
 
                                     </div> 
 

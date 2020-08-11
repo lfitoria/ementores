@@ -49,7 +49,9 @@
                     </div>
                 </div>
             </nav>
-            <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>Conductas violentas en Internet y en Redes Sociales</p>
+            <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>
+            <a href="1-06_vid.php"  class="iconextact hvr-icon">Siguiente</a>
+            Conductas violentas en Internet y en Redes Sociales</p>
             <section class="container">
 
                 <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>-->

@@ -12,12 +12,14 @@ $last_id = $_SESSION['user']['id'];
 if(!empty($name))
     $name = $name;
 else
-    $name = 'Pipipi';
+    $name = 'Test';
 
 
 // Actualiza un usuario (registro) y redirecciona a la página siguiente
 
 $query = "UPDATE user set certificate_name = '$name' where id = $last_id";
+
+$_SESSION['certificate_name'] = $name;
 
 $mysqli->query($query);
 

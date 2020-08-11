@@ -47,22 +47,34 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue"><a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>Aplicaciones y redes sociales para estar al día</p>
+                <p class="intro-header blue">
+                    <a href="../0-03_menu.php#mod1"  class="icovolver hvr-icon">Volver al<br>menú</a>
+                    <a href="1-03_act.php"  class="iconextact hvr-icon">Siguiente</a>
+                    Aplicaciones y redes sociales para estar al día</p>
                 <section class="container">
                     <div class="main">
                         <div id="act_01" class="mod">
                             <div class="cont row">
                                 <div id="map_container">
-                                    <img usemap="#1-02-inf" src="../img/mod1/1-02_inf_rd.png" class="img-fluid">
+                                    <img usemap="#1-02-inf" src="../img/mod1/1-02_inf_RD_2020.png" class="img-fluid">
                                     <map name='1-02-inf'>
-                                        <area data-nbr="1" href='#' coords="199,286,269,351" shape="rect">
+                                        <!-- <area data-nbr="1" href='#' coords="199,286,269,351" shape="rect">
                                         <area data-nbr="2" href='#' coords="381,352,311,283" shape="rect">
                                         <area data-nbr="3" href='#' coords="493,355,426,282" shape="rect">
                                         <area data-nbr="4" href='#' coords="608,352,539,284" shape="rect">
                                         <area data-nbr="5" href='#' coords="538,435,605,500" shape="rect">
                                         <area data-nbr="6" href='#' coords="425,436,496,502" shape="rect">
                                         <area data-nbr="7" href='#' coords="314,434,383,502" shape="rect">
-                                        <area data-nbr="8" href='#' coords="201,432,269,500" shape="rect">
+                                        <area data-nbr="8" href='#' coords="201,432,269,500" shape="rect"> -->
+                                        <area data-nbr="1" href="#" coords="968,396,1062,488" shape="rect">
+                                        <area data-nbr="2" href="#" coords="486,542,578,627" shape="rect">
+                                        <area data-nbr="3" href="#" coords="728,540,815,632" shape="rect">
+                                        <area data-nbr="4" href="#" coords="965,540,1057,634" shape="rect">
+                                        <area data-nbr="5" href="#" coords="966,683,1057,775" shape="rect">
+                                        <area data-nbr="6" href="#" coords="730,686,817,772" shape="rect">
+                                        <area data-nbr="7" href="#" coords="492,687,578,773" shape="rect">
+                                        <area data-nbr="8" href="#" coords="278,682,366,770" shape="rect">
+                                        <area data-nbr="9" href="#" coords="726,394,819,489" shape="rect">
                                     </map>
                                 </div>
                             </div>
@@ -161,6 +173,17 @@
                                             <div class="col-12 col-sm-9">
                                             <a href="http://www.twitter.com">twitter.com</a><br>
                                             Permite compartir textos cortos que no superen 280 caracteres. Estos textos se conocen como “twits”. <br><br>Es importante recordar que todo lo que publicamos en Twitter es, por default, público y se convierte en parte de nuestra identidad digital. Importantes figuras de la política y celebridades han debido pedir disculpas públicas o perdido su trabajo porque publican un “twit” ofensivo o discriminatorio. <br><br> La edad mínima permitida para crear un perfil en Twitter es de 13 años.
+                                        </div>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    <div class="row d-none act-04-mdl act09" >
+                                        <div class="col-12">
+                                            <div class="row">
+                                            <div class="col-12 col-sm-3"><img src="../img/mod1/1-02_icn-tkk.png"></div> 
+                                            <div class="col-12 col-sm-9">
+                                            <a href="https://www.tiktok.com/">tiktok.com</a><br>
+                                            Las personas usuarias pueden subir vídeos de máximo 60 segundos y agregarles filtros y efectos. Además pueden interactuar con los contenidos subidos por otros usuarios: reaccionar, crear duetos, darle me gusta y comentar y enviar mensajes directos. Adicionalmente, si así lo tiene definido la persona usuario, su contenido se puede compartir en otras redes sociales y descargar. <br>El contenido compartido es por defecto público, pero se puede modificar las variables de publicación para que puedan verlas sólo nuestros seguidores, así como restringir el tipo de interacción que se permite en los videos. <br> La edad mínima permitida para crear una cuenta en TikTok es 13 años.  
                                         </div>
                                         </div>
                                         </div>

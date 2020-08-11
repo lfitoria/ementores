@@ -50,7 +50,9 @@
                     </div>
                 </div>
             </nav>
-            <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>Decisiones que le protegen en Internet</p>
+            <p class="intro-header blue"><a href="../0-03_menu.php#mod2"  class="icovolver hvr-icon">Volver al<br>menú</a>
+            <a href="2-04_inf.php"  class="iconextact hvr-icon">Siguiente</a>
+            Decisiones que le protegen en Internet</p>
             <section class="container-fluid">
                 <div class="main">
                     <div id="act_01p1" class="mod">
