@@ -254,9 +254,13 @@ margin-top: 0%;
     font-size: 1.15em;
     cursor: pointer;
 }
+#eva_09p2 .answer.img-answer p,.page-9-eva .answer.img-answer p {
+    min-height: 169px !important;
+}
 #eva .answer.img-answer p{
     min-height: 326px;
 }
+
 
 #eva .answer p img{
     display: block;

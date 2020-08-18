@@ -40,10 +40,11 @@
                         </div>
                     </div>
                 </nav>
-                <p class="intro-header blue"><a href="../0-03_menu.php#mod3"  class="icovolver hvr-icon">Volver al<br>menú</a>Escuchemos: no siempre tenemos la razón</p>
+                <p class="intro-header blue"><a href="../0-03_menu.php#mod3"  class="icovolver hvr-icon">Volver al<br>menú</a><a href="3-04_info.php"  class="iconextact hvr-icon">Siguiente</a>Escuchemos: no siempre tenemos la razón</p>
                 <section class="container">
                     <div class="main">
-                        <div id="act_01" class="btn-j-center">
+                        <!-- <div id="act_01" class="btn-j-center"> -->
+                        <div id="act_01" class="btn-center">
                             <div class="mod">
                                 <div class="row">
                                     <div class="col-12 col-md-5">

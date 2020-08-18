@@ -107,7 +107,7 @@
 
                             <div class="col-12 col-sm-8">
 
-                                <img src="../img/mod2/2-04_inf.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-04_inf_RD_web.png" alt="" class="img-fluid"/>
 
                             </div>
 

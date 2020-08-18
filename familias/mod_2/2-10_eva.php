@@ -203,7 +203,7 @@
                                     <h3 class="intro-paragrah text-center">No has logrado superar con éxito este reto. Inténtalo de nuevo. <br>Así podrás avanzar al siguiente capítulo, en el cual aprenderás sobre el tema de la prevención.</h3>
                                 </div>
                                 <div class="col-6 text-center">
-                                    <a href="../0-03_menu#mod2.php" class="btn-see-eva">Repasar contenidos</a>
+                                    <a href="../0-03_menu.php#mod2.php" class="btn-see-eva">Repasar contenidos</a>
                                 </div>
                                 <div class="col-6 text-center">
                                     <a href="2-10_eva.php" class="btn-retry-eva">Intentar otra vez</a>

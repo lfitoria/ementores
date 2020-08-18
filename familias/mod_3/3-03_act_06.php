@@ -91,7 +91,8 @@
 
                     <div class="main">
 
-                        <div id="act_01" class="btn-j-center">
+                        <!-- <div id="act_01" class="btn-j-center"> -->
+                        <div id="act_01" class="btn-center">
 
                             <div class="cont row mod">
 

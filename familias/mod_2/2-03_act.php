@@ -271,7 +271,7 @@
                             
 
                             <div class="col-12 col-md-5 image-side">
-                                <img src="../img/mod2/2-03_act_img5_RD.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img8_RD.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-7 data-side">
                                 <p class="message-case">Kimberly tiene un contacto en Facebook, a quien no conoce en persona.  El muchacho la invita a salir.</p>

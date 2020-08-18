@@ -232,7 +232,7 @@
                             <div class="container">
                             <div class="row align-items-center justify-content-md-center">
                                 <div class="col-12 col-sm-4">
-                                    <p class="intro-label"><strong>Recuerde que la Crianza respetuosa da permisos, y tiene sus límites.</strong></p>
+                                    <p class="intro-label"><strong>Recuerda que la Crianza respetuosa da permisos, y tiene sus límites.</strong></p>
                                     <p class="intro-label"><strong>Además, promueve construir reglas en familia y solucionar problemas con afecto y comprensión.</strong></p>
                                 </div>
                                 <div class="col-12 col-sm-4">

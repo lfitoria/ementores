@@ -285,7 +285,7 @@
                                     <li>Almacenar tus cosas privadas con protección de contraseña o en carpetas ocultas, así nadie más podrá verlos.</li>
                                     <li>Recordar que si alguien publica algo tuyo sin tu autorización, todas las redes sociales tienen la opción de denunciar la publicación y pedir que la retiren.</li>
                                     <!-- <li><a href="/familias/mod_3/3-07_inf.php">Denunciar.</a></li>  -->
-                                    <li><a href="#">Denunciar.</a></li> 
+                                    <li><a href="/familias/mod_3/3-07_inf.php">Denunciar.</a></li> 
                                 </ul>
 
                             </div>
@@ -316,16 +316,16 @@
                                 <p><strong>¿Qué haría una familia e-mentora?</strong><br>
                                 </p>
                                 <ul>
-                                    <li>Tener cuidado. No todo lo que ves en la web es cierto, recordá que muchas personas crean perfiles falsos.</li>
-                                    <li>Cuidar la información personal, no coloqués teléfono, dirección o el nombre del centro de estudios en tus perfiles. Sobre todo, si agregás personas desconocidas.</li>
+                                    <li>Tener cuidado. No todo lo que ves en la web es cierto, recuerda que muchas personas crean perfiles falsos.</li>
+                                    <li>Cuidar la información personal, no coloque teléfono, dirección o el nombre del centro de estudios en tus perfiles. Sobre todo, si agrega personas desconocidas.</li>
                                     <li>Recordar que si nunca has visto a un contacto que agregaste en redes sociales, no puedes tener la seguridad de que es una persona real.</li>
-                                    <li>No enviar información íntima (fotos o videos) a personas desconocidas en la Internet o redes sociales.</li>
-                                    <li>Tener presente que lo que públicas o envías, una vez que sale de tu teléfono, no está más en tu control.</li>
+                                    <li>No enviar información íntima (fotos o videos) a personas desconocidas en Internet o redes sociales.</li>
+                                    <li>Tener presente que lo que publicas o envías, una vez que sale de tu teléfono, no está más en tu control.</li>
                                     <li>Ojo: si decidiste ir a ver en persona al contacto que conociste por Internet.</li>
                                     <ul>
                                         <li>1. Si te pide que se vean en secreto, ¡encender las alertas! </li>
                                         <li>2. Procurar ir en compañía o contarle a alguien de confianza.</li>
-                                        <li>3. Agendar verse en un lugar público donde podás pedir ayuda si pasa algo.</li>
+                                        <li>3. Agendar verse en un lugar publico donde pueda pedir ayuda si pasa algo.</li>
                                     </ul>
                                 </ul>
 
@@ -389,8 +389,8 @@
                                     <ul>
                                         <li>Instala antivirus en tus dispositivos</li>
                                         <li>Aprende a reconocer sitios inseguros.</li>
-                                        <li>No confies en correos extraños, premios sorpresa al ingresar a páginas web.</li>
-                                        <li>Descarga apps solo de sitios oficiales. Asegúrate de que las aplicaciones que instalás son seguras ( Por ejemplo, leer comentarios de otras personas que las instalaron)</li>
+                                        <li>No confíe en correos extraños, premios sorpresa al ingresar a páginas web.</li>
+                                        <li>Descarga apps solo de sitios oficiales. Asegúrate de que las aplicaciones que instala son seguras ( Por ejemplo, leer comentarios de otras personas que las instalaron)</li>
                                     </ul>
                                     <li>Si crees que has sido víctima de una estafa o de un intento de estafa, denunciar ante las autoridades.</li>
                                 </ul>
@@ -452,7 +452,7 @@
                                 </p>
                                 <ul>
                                     <li>Recordar que por ser una persona menor de edad, siempre se tiene el derecho de contar con una protección especial en casos de abuso sexual.</li>
-                                    <li>Cuidar lo que públicas en internet o en redes.</li>
+                                    <li>Cuidar lo que publicas en internet o en redes.</li>
                                     <li>No te sumes: no difundas este tipo de contenidos.</li>
                                     <li>Recordar que las redes sociales no son un concurso de popularidad: Cuida a quien agregas en tus contactos.</li>
                                     <li>Reportar en cualquier red social para que se retire este tipo de material, y también denunciar ante las autoridades.</li>
@@ -518,7 +518,7 @@
                                 <p><strong>¿Qué haría una familia e-mentora?</strong><br></p>
                                 <ul>
                                     <li>Tener presente que todas las personas tenemos derecho a la privacidad de nuestros datos al usar internet y redes sociales. Se cuenta con leyes que nos protegen de los delitos informáticos. ¡Especialmente las niñas, niños y adolescentes!</li>
-                                    <li>Conservar las evidencias y seguir la ruta de denuncia.</li>
+                                    <li>Conservar las evidencias y seguir la <a href="/familias/mod_3/3-07_inf.php">ruta de denuncia.</a></li>
                                 </ul>
 
                             </div>

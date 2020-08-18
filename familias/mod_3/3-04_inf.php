@@ -70,6 +70,7 @@
                             <a href="../0-03_menu.php#mod3" class="back_to_menu d-none">Volver al menú</a>
                         </div>
                     </div>
+                    <br>
                 </section>
                 <?php require '../footer.php'; ?>
             </div>

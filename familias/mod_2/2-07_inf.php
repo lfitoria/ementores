@@ -56,7 +56,7 @@
                         <div id="act_01" class="">
                             <div class="cont row">
                                 <div id="map_container">
-                                    <img usemap="#1-07-inf" id="img-map" src="../img/mod2/2-07_inf.png" class="img-fluid">
+                                    <img usemap="#1-07-inf" id="img-map" src="../img/mod2/2-07_inf-RD_web.png" class="img-fluid">
                                     <map name="1-07-inf">
                                         <!-- <area data-nbr="1" shape='rect' coords='540, 1126, 758, 1198' href='#' />
                                         <area data-nbr="2" shape='rect' coords='540, 1836, 758, 1908' href='#' />
@@ -74,6 +74,7 @@
                         </div>
                         <a href="../0-03_menu.php#mod2" class="back_to_menu d-none">Volver al menú</a>
                     </div>
+                    <br>
                 </section>
                 <?php require '../footer.php'; ?>
             </div>

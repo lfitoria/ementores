@@ -53,7 +53,7 @@
                     </div>
                 </div>
             </nav>
-            <p class="intro-header blue" style=" margin-bottom: 0;"><a href="../0-03_menu.php#mod2" class="icovolver hvr-icon">Volver al<br>menú</a>Reconozcamos nuestras emociones en el uso de las TIC</p>
+            <p class="intro-header blue" style=" margin-bottom: 0;"><a href="../0-03_menu.php#mod2" class="icovolver hvr-icon">Volver al<br>menú</a><a href="2-07_inf.php"  class="iconextact hvr-icon">Siguiente</a>Reconozcamos nuestras emociones en el uso de las TIC</p>
             <!-- <section class="container"> -->
             <div class="main">
                 <div id="act_01p1" class="mod act_206_act">
@@ -105,7 +105,7 @@
 
                                 </div>
 
-                                <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
+                                <p>Haz clic en cada emoción para conocer lo que refleja</p>
                                 <div class="row">
                                     <div class="col-6 situation col-sm sit-1-t">
                                         <a data-modl="sit-1-t"><span>Tristeza</span></a>
@@ -156,7 +156,7 @@
 
                                 </div>
 
-                                <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
+                                <p>Haz clic en cada emoción para conocer lo que refleja</p>
                                 <div class="row">
                                     <div class="col-6 situation col-sm sit-2-t">
                                         <a data-modl="sit-2-t"><span>Tristeza</span></a>
@@ -203,7 +203,7 @@
 
                                 </div>
 
-                                <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
+                                <p>Haz clic en cada emoción para conocer lo que refleja</p>
                                 <div class="row">
                                     <div class="col-6 situation col-sm sit-3-t">
                                         <a data-modl="sit-3-t"><span>Tristeza</span></a>
@@ -254,7 +254,7 @@
 
                                 </div>
 
-                                <p>Haz clic  en cada  emoción para conocer lo que cada emoción refleja</p>
+                                <p>Haz clic en cada emoción para conocer lo que refleja</p>
                                 <div class="row">
                                     <div class="col-6 situation col-sm sit-3-t">
                                         <a data-modl="sit-3-t"><span>Tristeza</span></a>
