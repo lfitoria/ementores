@@ -176,7 +176,7 @@
                     </td>
                     <td >
                         <p >
-                        <img src="img/footer/logo-End-Violence-fondo-transparente.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></p>
+                        <img src="img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></p>
                     </td>
                     <td>
                             <img src="img/footer/PLAN.png" alt="Paniamor" class="img-fluid prefooter-logos">
