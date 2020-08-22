@@ -27,8 +27,8 @@
                     <div class="main">
                         <div id="act_01" class="mod">
                             <div class="cont row">
-                                <div id="map_container">
-                                    <img usemap="#1-04-inf"  src="../img/mod1/1-04_inf.png" class="img-fluid">
+                            <div id="map_container">
+                                    <img usemap="#1-04-inf"  src="/familias/img/mod1/1-04_inf.png" class="img-fluid">
                                     <map name="1-04-inf">
                                         <!-- <area data-nbr="1" shape='rect' coords='339, 739, 527, 927' href='#' />
                                         <area data-nbr="5" shape='rect' coords='126, 932, 302, 1097' href='#' />

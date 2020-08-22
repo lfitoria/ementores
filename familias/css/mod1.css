@@ -260,7 +260,9 @@ margin-top: 0%;
 #eva .answer.img-answer p{
     min-height: 326px;
 }
-
+.mod3e .answer.img-answer p, .page-9-eva .answer.img-answer p {
+    min-height: 326px !important;
+}
 
 #eva .answer p img{
     display: block;

@@ -110,7 +110,7 @@
 
                                     <div class="alert alert-warning" role="alert">
 
-                                        ¡Huummm! Al parecer esta información no ha sido registrado aún. Corrobórelo y vuelva a intentarlo. 
+                                        ¡Huummm! Al parecer esta información no ha sido registrada aún. Corrobóralo y vuelva a intentarlo. 
                                          <!-- Oh oh, parece que esta información ya está registrada. Corrobórela y vuelva a intentarlo.-->
                                     </div>
 

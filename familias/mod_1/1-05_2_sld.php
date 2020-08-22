@@ -317,7 +317,7 @@
                                 </p>
                                 <ul>
                                     <li>Tener cuidado. No todo lo que ves en la web es cierto, recuerda que muchas personas crean perfiles falsos.</li>
-                                    <li>Cuidar la información personal, no coloque teléfono, dirección o el nombre del centro de estudios en tus perfiles. Sobre todo, si agrega personas desconocidas.</li>
+                                    <li>Cuidar la información personal, no coloques teléfono, dirección o el nombre del centro de estudios en tus perfiles. Sobre todo, si agregas personas desconocidas.</li>
                                     <li>Recordar que si nunca has visto a un contacto que agregaste en redes sociales, no puedes tener la seguridad de que es una persona real.</li>
                                     <li>No enviar información íntima (fotos o videos) a personas desconocidas en Internet o redes sociales.</li>
                                     <li>Tener presente que lo que publicas o envías, una vez que sale de tu teléfono, no está más en tu control.</li>
@@ -325,7 +325,7 @@
                                     <ul>
                                         <li>1. Si te pide que se vean en secreto, ¡encender las alertas! </li>
                                         <li>2. Procurar ir en compañía o contarle a alguien de confianza.</li>
-                                        <li>3. Agendar verse en un lugar publico donde pueda pedir ayuda si pasa algo.</li>
+                                        <li>3. Agendar verse en un lugar público donde pueda pedir ayuda si pasa algo.</li>
                                     </ul>
                                 </ul>
 
@@ -389,7 +389,7 @@
                                     <ul>
                                         <li>Instala antivirus en tus dispositivos</li>
                                         <li>Aprende a reconocer sitios inseguros.</li>
-                                        <li>No confíe en correos extraños, premios sorpresa al ingresar a páginas web.</li>
+                                        <li>No confíes en correos extraños, premios sorpresa al ingresar a páginas web.</li>
                                         <li>Descarga apps solo de sitios oficiales. Asegúrate de que las aplicaciones que instala son seguras ( Por ejemplo, leer comentarios de otras personas que las instalaron)</li>
                                     </ul>
                                     <li>Si crees que has sido víctima de una estafa o de un intento de estafa, denunciar ante las autoridades.</li>

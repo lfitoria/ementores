@@ -284,7 +284,7 @@
 
                                 <div class="col-12 answer" data-value="2">
 
-                                    <p>Sí. Aun cuando uno no haya producido el material indebido, compartir fotos con contenido sexual de personas menores de edad es un tipo de abuso sexual. Además es delito.</p>
+                                    <p>Sí. Aun cuando uno no haya producido el material, compartir fotos con contenido sexual de personas menores de edad es un tipo de abuso sexual. Además es delito.</p>
 
                                 </div>
 

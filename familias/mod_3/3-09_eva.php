@@ -1,4 +1,4 @@
-<html class="page-9-eva">
+<html class="page-9-eva mod3e">
 
 
 
@@ -172,7 +172,7 @@
 
                                     <p class="instruction text-left"><span>2</span> Lea el siguiente testimonio:</p>
 
-                                    <p class="text-help green">Felipe, mi hijo,  se hizo unos selfies sexy y se los pasó a unos amigos. Ahora hay uno que le está pidiendo plata para no publicarla. Diay, ¡es culpa de Felipe!” <br> ¿Es esto un delito?</p>
+                                    <p class="text-help green">Felipe, mi hijo,  se hizo unos selfies sexy y se los pasó a unos amigos. Ahora hay uno que le está pidiendo dinero para no publicarla. Andá, ¡es culpa de Felipe!” <br> ¿Es esto un delito?</p>
 
                                     <h3 class="">Elije una opción.</h3>
 
@@ -249,7 +249,7 @@
 
                                     <p class="instruction text-left"><span>4</span> Lee el siguiente testimonio:</p>
 
-                                    <p class="text-help green">“Kevin tiene 13 años y está en sétimo año.  Desde hace varios días pasa pegado a la tableta o la compu. No quiere hacer cosas que antes le gustaban, como jugar videojuegos o salir a jugar fútbol. ¿Qué pueden hacer sus papás?”</p>
+                                    <p class="text-help green">“Kevin tiene 13 años y está en séptimo año.  Desde hace varios días pasa pegado a la tableta o la compu. No quiere hacer cosas que antes le gustaban, como jugar videojuegos o salir a jugar baloncesto. ¿Qué pueden hacer sus papás?”</p>
 
                                     <h3 class="">Elije una opción.</h3>
 

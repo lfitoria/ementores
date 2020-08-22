@@ -84,7 +84,7 @@
                 </nav>
 
                 <p class="intro-header blue"><a href="../0-03_menu.php#mod3"  class="icovolver hvr-icon">Volver al<br>menú</a>
-                <a href="3-04_info.php"  class="iconextact hvr-icon">Siguiente</a>
+                <a href="3-04_inf.php"  class="iconextact hvr-icon">Siguiente</a>
                 Escuchemos: no siempre tenemos la razón</p>
 
                 <section class="container">

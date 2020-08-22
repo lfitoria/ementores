@@ -44,10 +44,10 @@
 
                             <div class="cont row">
                                 <div class="col-12 col-md-5 image-side">
-                                    <img src="../img/mod2/2-03_act_img-01.png" alt="" class="img-fluid" />
+                                <img src="/familias/img/mod2/2-03_act_img1_RD.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7 data-side">
-                                    <p class="message-case">Juan Carlos recibe un mensaje que dice: "Usted ha ganado un
+                                    <p class="message-case">Juan Carlos recibe un mensaje que dice: "Ha ganado un
                                         premio. Haga clic aquí para obtenerlo".</p>
                                     <div class="image-risk">
                                         <img src="../img/mod2/Icono-audio.png" alt="" class="img-fluid">
@@ -92,7 +92,7 @@
 
                             <div class="cont row">
                                 <div class="col-12 col-md-5 image-side">
-                                    <img src="../img/mod2/2-03_act_img-02.png" alt="" class="img-fluid" />
+                                <img src="/familias/img/mod2/2-03_act_img2_RD.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7 data-side">
                                     <p class="message-case">Yamileth recibe un mensaje en el que un compañero se burla
@@ -141,7 +141,7 @@
 
 
                                 <div class="col-12 col-md-5 image-side">
-                                    <img src="../img/mod2/2-03_act_img-03.png" alt="" class="img-fluid" />
+                                <img src="/familias/img/mod2/2-03_act_img3_RD.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7 data-side">
                                     <p class="message-case">Mariana recibe mensajes en que una persona que no conoce le
@@ -191,7 +191,7 @@
 
                                 <div class="col-12 col-md-5 image-side">
 
-                                    <img src="../img/mod2/2-03_act_img-04.png" alt="" class="img-fluid" />
+                                <img src="/familias/img/mod2/2-03_act_img4_RD.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7 data-side">
                                     <p class="message-case">Karla recibe una solicitud de amistad en Facebook de una
@@ -238,7 +238,7 @@
 
 
                                 <div class="col-12 col-md-5 image-side">
-                                    <img src="../img/mod2/2-03_act_img-08.png" alt="" class="img-fluid" />
+                                <img src="/familias/img/mod2/2-03_act_img8_RD.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7 data-side">
                                     <p class="message-case">Kimberly tiene un contacto en Facebook, a quien no conoce en
@@ -286,7 +286,7 @@
 
 
                                 <div class="col-12 col-md-5 image-side">
-                                    <img src="../img/mod2/2-03_act_img-06.png" alt="" class="img-fluid" />
+                                <img src="/familias/img/mod2/2-03_act_img6_RD.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7 data-side">
                                     <p class="message-case">Fabián está haciendo por primera vez su perfil en Facebook,
@@ -334,7 +334,7 @@
 
 
                                 <div class="col-12 col-md-5 image-side">
-                                    <img src="../img/mod2/2-03_act_img-05.png" alt="" class="img-fluid" />
+                                <img src="/familias/img/mod2/2-03_act_img5_RD.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7 data-side">
                                     <p class="message-case">A Karen, su novio Jeremy le pide que le envíe unas fotos sin
@@ -382,7 +382,7 @@
 
 
                                 <div class="col-12 col-md-5 image-side">
-                                    <img src="../img/mod2/2-03_act_img-07.png" alt="" class="img-fluid" />
+                                <img src="/familias/img/mod2/2-03_act_img7_RD.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7 data-side">
                                     <p class="message-case">Mauricio recibe memes con contenidos sexuales en su celular.
@@ -430,14 +430,14 @@
 
 
                                 <div class="col-12 col-md-7 data-side">
-                                    <p class="message-case text-center"><strong>¡Haz llegado al final de esta
+                                    <p class="message-case text-center"><strong>¡Has llegado al final de esta
                                             actividad!</strong></p>
-                                    <p class="text-center final-text" style="padding: 0 50px;">Esperamos que le haya sido útil para comprender la
+                                    <p class="text-center final-text" style="padding: 0 50px;">Esperamos que te haya sido útil para comprender la
                                         diferencia entre conductas protectoras y conductas de riesgo.</p>
 
                                 </div>
                                 <div class="col-12 col-md-5 image-side">
-                                    <img src="../img/mod2/2-03_act-img-cierre.png" alt="" class="img-fluid" />
+                                <img src="/familias/img/mod2/2-03_act-img-cierre.png" alt="" class="img-fluid" />
                                 </div>
 
 

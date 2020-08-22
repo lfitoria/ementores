@@ -87,10 +87,10 @@
                         
                         <div class="cont row">
                             <div class="col-12 col-md-5 image-side">
-                                <img src="../img/mod2/2-03_act_img1_rd.png" alt="" class="img-fluid"/>
+                                <img src="../img/mod2/2-03_act_img1_RD.png" alt="" class="img-fluid"/>
                             </div>
                             <div class="col-12 col-md-7 data-side">
-                                <p class="message-case">Juan Carlos recibe un mensaje que dice: "Usted ha ganado un premio.  Haga clic aquí para obtenerlo".</p>
+                                <p class="message-case">Juan Carlos recibe un mensaje que dice: "Has ganado un premio.  Haga clic aquí para obtenerlo".</p>
                                 <div class="image-risk"> 
                                     <img src="../img/mod2/Icono-audio.png" alt="" class="img-fluid">
                                 </div>

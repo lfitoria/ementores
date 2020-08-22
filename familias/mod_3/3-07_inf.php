@@ -72,7 +72,7 @@
                 </section>
                 <section>
                 <div class="container pt-4 pb-3"> 
-                <p class="text-center intro-label">Para conocer más sobre las violencias en línea, visite la sección: <a class="icovolver-2" href="../mod_1/1-05_sld.php"> Conductas violentas en la Internet y en Redes Sociales</a></p> 
+                <p class="text-center intro-label">Para conocer más sobre las violencias en línea, visita la sección: <a class="icovolver-2" href="../mod_1/1-05_sld.php"> Conductas violentas en la Internet y en Redes Sociales</a></p> 
                 </div>
                 </section>
                 <?php require '../footer.php'; ?>

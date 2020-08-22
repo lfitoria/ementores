@@ -97,7 +97,7 @@
                             <div class="question row">
                                 <div class="col-12 text-center">
                                     <h3><span>2</span> Lee el siguiente testimonio:</h3>
-                                    <p class="text-help green">“Mi hijo me enseñó como que en Facebook algunos compañeros del colegio se burlan de él. Está muy triste. ¿Qué hago?”.</p>
+                                    <p class="text-help green">“Mi hijo me enseñó que en Facebook algunos compañeros del colegio se burlan de él. Está muy triste. ¿Qué hago?”.</p>
                                     <p>Elije una opción.</p>
                                 </div>
 
@@ -216,9 +216,9 @@
                         <div id="eva_09p8" class="mod d-none">
                             <div class="container">
                             <div class="result row justify-content-center">
-                                <div class="col-12 col-md-8 text-center offset-md-2">
+                                <div class="col-12 col-md-8 text-center">
                                     <img src="../img/mod1/1-09_eva-img-aprobado.png" alt="" class="img-md"/>
-                                    <h3 class="intro-paragrah text-center">¡Muy bien! Usted has logrado superar con éxito este reto. Puede pasar al siguiente capítulo, en el cual aprenderás sobre el tema de la prevención. ¡Sigue adelante!</h3>
+                                    <h3 class="intro-paragrah text-center">¡Muy bien! Has logrado superar con éxito este reto. Puedes pasar al siguiente capítulo, en el cual aprenderás sobre el tema de la prevención. ¡Sigue adelante!</h3>
                                 </div>
                                 <div class="col-12 text-center">
                                     <a href="../0-03_menu.php" class="btn-finish-eva d-none">Finalizar</a>

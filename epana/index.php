@@ -321,10 +321,10 @@ session_start();
                             <div class="col">
                                 <button id="btn-r" type="button" class="btn-r d-block m-auto submet">Ingresar</button>
                             </div>
-
+                            
                         </div>
-
-
+                        <br>    
+                        <p class="small text-danger d-none text-center" id="errgetInsertUser">¡Uppsss! Parece que este correo electrónico ha sido registrado.<br>Corrobora tus datos y vuelve a intentarlo.</p>
                     </form>
 
                     <div id="caja" style="display: none">
@@ -356,7 +356,8 @@ session_start();
                             </div>
                         </div>
                         <br>
-                        <p class="small text-danger d-none text-center" id="errgetUser">Usuario no encontrado</p>
+                        <p class="small text-danger d-none text-center" id="errgetUser">¡Uppsss! Parece que este correo electrónico no ha sido registrado.<br>
+Corrobora tus datos y vuelve a intentarlo.</p>
                         <div class="row">
                             <div class="col">
                                 <button id="btnCheckUser" type="button" class="btn-r d-block m-auto submet">Ingresar</button>
@@ -687,7 +688,34 @@ session_start();
             $("p#w_user_provincia").addClass("d-none");
             $("p#w_user_municipio").addClass("d-none");
             console.log("sumet");
-            $("form#registro_usuario").submit();
+            //$("form#registro_usuario").submit();
+            var myform = document.getElementById("registro_usuario");
+            var fd = new FormData(myform);
+            console.log(myform);
+            console.log(fd);
+            $.ajax({
+                type: 'POST',
+                url: '/epana/db/user/insert_joven.php',
+                data: fd,
+                cache: false,
+                processData: false,
+                contentType: false,
+                // dataType: 'json'
+                }).done(function (data) {
+                    console.log("isnert data")
+                    console.log(data)
+                    console.log(typeof(data))
+                    // let dataP = JSON.parse(data)
+                    // console.log(dataP)
+                    // console.log(dataP[0])
+                    if(data !== "false"){
+                        $("#modal_1-03init").modal("hide");
+                    }else{
+                        $("p#errgetInsertUser").removeClass("d-none");
+                    }
+                    
+            });
+            //fin
         }
 
 
@@ -775,9 +803,10 @@ session_start();
             // dataType: 'json'
             }).done(function (data) {
                 console.log(data)
-                let dataP = JSON.parse(data)
-                console.log(dataP)
-                if(dataP[0]){
+                // let dataP = JSON.parse(data)
+                // console.log(dataP)
+                // console.log(dataP[0])
+                if(data!== false){
                     $("#modal_login").modal("hide");
                 }else{
                     $("p#errgetUser").removeClass("d-none");
@@ -786,6 +815,7 @@ session_start();
 
     });
     // fin check_user
+    
     </script>
 </body>
 
