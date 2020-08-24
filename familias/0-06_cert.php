@@ -137,7 +137,7 @@
                                 <div class="d-flex justify-content-md-center">
                                     <button type="submit" form="output" id="submit" class="btn-continue mr-2">Descargar certificado</button>
                                     <!-- <a class="share-fb" target="_blank" href="javascript:myPopup('https://www.facebook.com/sharer/sharer.php?u=http%3A//ementores.org')">Compartir en Facebook</a> -->
-                                    <a class="share-fb" target="_blank" onclick=myPopup('https://www.facebook.com/sharer/sharer.php?u=http%3A//ementores.org')>Compartir en Facebook</a>
+                                    <a class="share-fb" target="_blank" onclick=myPopup('https://www.facebook.com/sharer/sharer.php?u=http%3A//rd.ementores.org')>Compartir en Facebook</a>
                                 </div>
                                 <div class="d-flex justify-content-md-center">
                                     <p class="last-p">¿Algún familiar, amiga o amigo desea hacer el curso? <a target="_blank" href="/familias">EMPEZAR AQUÍ</a></p>
