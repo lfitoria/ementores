@@ -11,11 +11,11 @@
     <link href="css/botones.css" rel="stylesheet" type="text/css" />
     <link href="css/index.css" rel="stylesheet" type="text/css" />
     
-    <meta property="og:url" content="http://www.ementores.org" />
+    <meta property="og:url" content="http://rd.ementores.org" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Ha terminado con éxito el Programa e-mentores familias." />
-    <meta property="og:image" content="http://www.ementores.org/img/ementores-facebook.png" />
-    <meta property="og:image:secure_url" content="https://www.ementores.org/img/ementores-facebook.png" />
+    <meta property="og:image" content="http://rd.ementores.org/familias/img/ementores-facebook.png" />
+    <meta property="og:image:secure_url" content="http://rd.ementores.org/familias/img/ementores-facebook.png" />
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="512" />
     <meta property="og:image:height" content="270" />
@@ -48,7 +48,7 @@
             
 
             if (is_null($user)) {
-                echo '<script>window.location="http://ementores.org/familas/0-04_prelogin.php"</script>';
+                echo '<script>window.location="http://rd.ementores.org/familias/0-04_prelogin.php"</script>';
                 die();
             }
 

@@ -8,8 +8,8 @@
         <meta property="og:url" content="http://www.ementores.org" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="Terminé con éxito el Programa e-mentores familias. ¡Ahora es su turno!" />
-        <meta property="og:image" content="http://www.ementores.org/img/ementores-facebook.png" />
-        <meta property="og:image:secure_url" content="https://www.ementores.org/img/ementores-facebook.png" />
+        <meta property="og:image" content="http://rd.ementores.org/familias/img/ementores-facebook.png" />
+        <meta property="og:image:secure_url" content="http://rd.ementores.org/familias/img/ementores-facebook.png" />
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="512" />
         <meta property="og:image:height" content="270" />
