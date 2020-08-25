@@ -278,11 +278,11 @@
                                 <p><strong>¿Qué hace un e-pana?</strong><br>
                                 </p>
                                 <ul>
-                                    <li>Tener cuidado. No todo lo que ves en la web es cierto, recordá que muchas personas crean perfiles falsos.</li>
-                                    <li>Cuidar la información personal, no coloqués teléfono, dirección o el nombre del centro de estudios en tus perfiles. Sobre todo, si agregás personas desconocidas.</li>
+                                    <li>Tener cuidado. No todo lo que ves en la web es cierto, recuerda que muchas personas crean perfiles falsos.</li>
+                                    <li>Cuidar la información personal, no coloques teléfono, dirección o el nombre del centro de estudios en tus perfiles. Sobre todo, si agregas personas desconocidas.</li>
                                     <li>Recordar que si nunca has visto a un contacto que agregaste en redes sociales, no puedes tener la seguridad de que es una persona real.</li>
                                     <li>No enviar información íntima (fotos o videos) a personas desconocidas en la Internet o redes sociales.</li>
-                                    <li>Tener presente que lo que públicas o envías, una vez que sale de tu teléfono, no está más en tu control.</li>
+                                    <li>Tener presente que lo que publicas o envías, una vez que sale de tu teléfono, no está más en tu control.</li>
                                     <li>Ojo: si decidiste ir a ver en persona al contacto que conociste por Internet.</li>
                                     <ul>
                                         <li>1. Si te pide que se vean en secreto, ¡encender las alertas! </li>
@@ -351,7 +351,7 @@
                                     <ul>
                                         <li>Instala antivirus en tus dispositivos</li>
                                         <li>Aprende a reconocer sitios inseguros.</li>
-                                        <li>No confies en correos extraños, premios sorpresa al ingresar a páginas web.</li>
+                                        <li>No confíes en correos extraños, premios sorpresa al ingresar a páginas web.</li>
                                         <li>Descarga apps solo de sitios oficiales. Asegúrate de que las aplicaciones que instalas son seguras ( Por ejemplo, leer comentarios de otras personas que las instalaron)</li>
                                     </ul>
                                     <li>Si crees que has sido víctima de una estafa o de un intento de estafa, denunciar ante las autoridades.</li>
@@ -480,7 +480,7 @@
                                 <p><strong>¿Qué hace un e-pana?</strong><br></p>
                                 <ul>
                                     <li>Tener presente que todas las personas tenemos derecho a la privacidad de nuestros datos al usar internet y redes sociales. Se cuenta con leyes que nos protegen de los delitos informáticos. ¡Especialmente las niñas, niños y adolescentes!</li>
-                                    <li>Conservar las evidencias y seguir la ruta de denuncia.</li>
+                                    <li>Conservar las evidencias y seguir la <a href="/epana/mod_3/ruta_denuncia.php">ruta de denuncia.</a></li>
                                 </ul>
 
                             </div>

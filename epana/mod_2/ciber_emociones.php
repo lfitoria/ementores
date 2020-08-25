@@ -144,12 +144,12 @@
                                     <div class="d-block d-sm-none">
                                         <div class="row ">
                                             <button class="gotoModulePage baki " data-page="2">Atrás</button>
-                                            <button class="gotoModulePage conti " data-page="4">Continuar</button>
+                                            <button class="gotoModulePage conti " data-page="5">Continuar</button>
                                         </div>
                                     </div>
 
                                     <button class="gotoModulePage baki d-none d-sm-block" data-page="2">Atrás</button>
-                                    <button id="sit-burla" class="gotoModulePage conti d-none d-sm-block" data-page="4">Continuar</button>
+                                    <button id="sit-burla" class="gotoModulePage conti d-none d-sm-block" data-page="5">Continuar</button>
                                 </div>
 
                                 <div id="act_01p4" class="d-none mod ">

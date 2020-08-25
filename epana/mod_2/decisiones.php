@@ -47,7 +47,7 @@
                                 <img src="/familias/img/mod2/2-03_act_img1_RD.png" alt="" class="img-fluid"/>
                                 </div>
                                 <div class="col-12 col-md-7 data-side">
-                                    <p class="message-case">Juan Carlos recibe un mensaje que dice: "Ha ganado un
+                                    <p class="message-case">Juan Carlos recibe un mensaje que dice: "Haz ganado un
                                         premio. Haga clic aquí para obtenerlo".</p>
                                     <div class="image-risk">
                                         <img src="../img/mod2/Icono-audio.png" alt="" class="img-fluid">
