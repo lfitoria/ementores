@@ -494,7 +494,7 @@ Corrobora tus datos y vuelve a intentarlo.</p>
                 case 'bahoruco':
                     vals = data.bahoruco.split(",");
                     break;
-                case 'barahonda':
+                case 'barahona':
                     vals = data.barahonda.split(",");
                     break;
                 case 'dajabon':
