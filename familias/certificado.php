@@ -140,7 +140,7 @@
             <br>
             <br>
             <br>
-            <h2>El Ministerio de Educación de República Dominacana otorga el siguiente <br><span>CERTIFICADO DE
+            <h2>El Ministerio de Educación de República Dominicana otorga el siguiente <br><span>CERTIFICADO DE
                     PARTICIPACIÓN</span> a:</h2>
             <div class="name"><span><?php echo $_POST['name'] ?></span></div>
             <p class="text-center"> <img src="img/certificado-linea.png" id="linea" class="img-fluid" /></p>
@@ -176,7 +176,7 @@
                     </td>
                     <td >
                         <p >
-                        <img src="img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></p>
+                        <img style="width: 215px;" src="img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></p>
                     </td>
                     <td>
                             <img src="img/footer/PLAN.png" alt="Paniamor" class="img-fluid prefooter-logos">
