@@ -41,7 +41,7 @@ ser el primero en enterarte de lo nuevo</p> -->
                 <div class="col-3">
                     <p class="support-label">Avalado por:</p>
                     <a href="http://www.ministeriodeeducacion.gob.do/" target="_blank">
-                    <img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 38%;">
+                    <img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 44%;">
                     </a>
                 </div>
                 <div class="col">
