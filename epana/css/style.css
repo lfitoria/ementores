@@ -126,7 +126,14 @@ line-height: 45px;
 border: none;
 margin: auto;
 }
-
+button.btn-cer-epa {
+    border: none;
+    background: transparent;
+}
+button.btn-cer-epa a{
+    color: white !important;
+    cursor: pointer;
+}
 .bkcintrofinal{
     background-color: #005D92;
     color: #fff;

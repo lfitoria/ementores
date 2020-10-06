@@ -1,4 +1,53 @@
+<?php
 
+include 'db/connection/conexion.php';
+
+$total_act = 12;
+
+$module = 1;
+
+$user = $_SESSION['usuario_id'];
+
+$query = "SELECT step, is_completed FROM activity where user = $user";
+// $result = $mysqli->query($query);
+// $result_f = mysqli_fetch_array($result);
+
+try {
+  $result = $mysqli->query($query);
+} catch (Exception $e) {
+  echo 'Caught exception: ',  $e->getMessage(), "\n";
+}
+
+$values1 = array();
+// $row = mysqli_fetch_array($result);
+while ($row = mysqli_fetch_array($result)) {
+  // echo "<pre>";
+  // var_dump($row);
+  // echo "</pre>";
+  $values1[$row["step"]] = $row["is_completed"];
+  // $values1[] = $row;
+  // array_push($values1,$row);
+}
+// $values1[0]["is_completed"] = 1;
+// echo "<pre>";
+// var_dump($values1);
+// var_dump($query);
+// var_dump($result);
+// var_dump($user);
+// echo "</pre>";
+// var_dump($query);
+// var_dump($user);
+//show btn eval
+// $query1 = "SELECT step, is_completed FROM activity where user = $user and module = $module";
+// $result2 = $mysqli->query($query1);
+
+// $row_cnt = $result2->num_rows;
+// $flag_final_act = false;
+// if($row_cnt == 12){
+// 	$flag_final_act = true;
+// }
+
+?>
 <head>
     <link href="css/mod1.css" rel="stylesheet" type="text/css" />
 </head>
@@ -21,32 +70,32 @@
 <div class="mnsry_container_box">
 <div id="mnsry_container">
   <article class="item group2">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[1]) : ?>active<?php endif ?>">
         <a href="mod_1/tic.php#titleancla" class="v-act-1">Las tecnologías de información y comunicación (TIC),  en todos lados y a todas horas</a>
     </div>
   </article>
   <article class="item group3">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[2]) : ?>active<?php endif ?>">
         <a href="mod_1/redes_sociales.php#titleancla" class="v-act-2">Aplicaciones y redes sociales para estar al día</a>
     </div>
   </article>
   <article class="item group1">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[3]) : ?>active<?php endif ?>">
         <a href="mod_1/caras.php?t=m" class="v-act-3">Las dos caras de las TIC</a>
     </div>
   </article>
   <article class="item group3">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[5]) : ?>active<?php endif ?>">
         <a href="mod_1/maximo.php#titleancla" class="v-act-4">Sácale el máximo a la Internet</a>
     </div>
   </article>
   <article class="item group1">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[6]) : ?>active<?php endif ?>">
         <a href="mod_1/legion.php#titleancla" class="v-act-5">Conductas violentas en Internet y en Redes Sociales</a>
     </div>
   </article>
   <article class="item group2">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[4]) : ?>active<?php endif ?>">
         <a href="mod_1/infoenlinea.php#titleancla" class="v-act-6">¿Qué es el abuso y la explotación sexual en línea?</a>
     </div>
   </article>
@@ -61,7 +110,7 @@
     </div>
   </article>  -->
   <article class="item group1">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[8]) : ?>active<?php endif ?>">
         <a href="mod_2/decisiones.php#titleancla" class="v2-act-3">Decisiones que te protegen en Internet</a>
     </div>
   </article> 
@@ -72,17 +121,17 @@
   </article> -->
   
   <article class="item group1">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[9]) : ?>active<?php endif ?>">
         <a href="mod_2/redes_sociales.php#titleancla" class="v2-act-5">“Amistad” en redes sociales ¿Aceptaría estas invitaciones?</a>
     </div>
   </article>
   <article class="item group1">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[7]) : ?>active<?php endif ?>">
         <a href="mod_2/ciber_emociones.php#titleancla" class="v2-act-6">Reconozcamos nuestras emociones en el uso de las TIC</a>
     </div>
   </article>
   <article class="item group2">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[11]) : ?>active<?php endif ?>">
         <a href="mod_2/huelladigital.php#titleancla" class="v2-act-8">Huella digital: nuestro rastro en Internet</a>
     </div>
   </article>
@@ -100,12 +149,12 @@
   </article> -->
   
   <article class="item group2">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[12]) : ?>active<?php endif ?>">
         <a href="mod_3/actuemos.php#titleancla" class="v3-act-5">¡No lo dejemos pasar! Actuemos contra el abuso</a>
     </div>
   </article>
   <article class="item group3">
-    <div class="item-module">
+    <div class="item-module <?php if ($values1[10]) : ?>active<?php endif ?>">
         <a href="mod_3/ruta_denuncia.php#titleancla" class="v3-act-7">¿Cómo denunciar las violencias en línea?</a>
     </div>
   </article>

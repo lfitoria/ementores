@@ -101,25 +101,57 @@ session_start();
                     </div>
 
                 </section>
+            </section>
+            <section>
+                <?php
 
-                <!-- <section>
-                        <div class="container">
-                            <div class="row align-center justify-content-md-center">
-                                <div col-12 col-sm-9 align-items-center justify-content-ms-center row>
-                                    <div col-12 col-sm-10>
-                                       <a href="https://ementores.org/"> <img src="img/mod1/banner-web.png" alt="volver-ementores" class="img-fluid mb-5" ></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section> -->
+                    include 'db/connection/conexion.php';
+                    
+                    // var_dump($user);
+                    $user_name = $_SESSION['nombre'];
+                    // var_dump($user_name);
+                
+                    $query = "SELECT * FROM usuario where id = $user";
+                    $query_activity = "SELECT * FROM activity where user = $user";
 
+                    try {
+                        $result = $mysqli->query($query);
+                        $result_activity = $mysqli->query($query_activity);
+                    } catch (Exception $e) {
+                        echo 'Caught exception: ',  $e->getMessage(), "\n";
+                    }
+                    
+                    $values1 = array();
+                    while ($row = mysqli_fetch_array($result)) {
+                        $values1[] = $row;
+                    }
 
+                    $values_activity = array();
+                    while ($row_activity = mysqli_fetch_array($result_activity)) {
+                        $values_activity[] = $row_activity;
+                    }
 
+                    // var_dump($values1[0]);
+                    // echo "<pre>";
+                    // var_dump(count($values_activity));
+                    // echo "</pre>";
+                    if(count($values_activity) == 12){
+                        if ($values1[0]["score"] > 7 && $values1[0]["eval_completed"] == "1" ) {
+                            // echo ("<a href=''>Descargar certificado</a>");
+                            // echo ("<a href='0-06_cert.php' class='btn-cert'>Descargar certificado</a>");
+                            echo("<form action='output.php' method='POST' >
+                            <input type='hidden' name='name' class='form-control mr-auto' value=".$e.">
+                            <button type='submit' class='d-block m-auto btn-cer-epa'><a class='btn-cert'>Descargar certificado</a></button>
+                            </form>");
+                        }else{
+                            echo ("<div class='col-12 item-module-final'><a href='eval_rd_epana.php'>ACTIVIDAD FINAL</a></div>");
+                        }
+                    }
+                    
+                ?>
             </section>
 
             <?php require 'footer.php'; ?>
-            <?php require 'db/connection/conexion.php'; ?>
         </div>
         <nav id="sidebar" class="">
 
@@ -346,7 +378,8 @@ session_start();
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-body init-03">
-                    <form action="/epana/db/user/check_user.php" method="post" id="modal_login_form">
+                    <!-- <form action="/epana/db/user/check_user.php" method="post" id="modal_login_form"> -->
+                    <form action="" method="post" id="modal_login_form">
                         <div class="row justify-content-center">
                             <div class="col col-sm-6">
                                 <p class="label"><i class="fas fa-at"></i> Correo electrónico</p>
@@ -787,7 +820,8 @@ Corrobora tus datos y vuelve a intentarlo.</p>
     // });
 
     // check_user
-    $("#btnCheckUser").click(function(){
+    $("#btnCheckUser").click(function(e){
+        e.preventDefault();
         console.log("btnCheckUser");
         var myform = document.getElementById("modal_login_form");
         var fd = new FormData(myform);
@@ -802,12 +836,14 @@ Corrobora tus datos y vuelve a intentarlo.</p>
             contentType: false,
             // dataType: 'json'
             }).done(function (data) {
+                console.log("data result")
                 console.log(data)
                 // let dataP = JSON.parse(data)
                 // console.log(dataP)
                 // console.log(dataP[0])
                 if(data!== false){
                     $("#modal_login").modal("hide");
+                    location.reload();
                 }else{
                     $("p#errgetUser").removeClass("d-none");
                 }

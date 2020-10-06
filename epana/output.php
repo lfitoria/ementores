@@ -3,6 +3,9 @@
       
       $_SESSION['cert'] = "ok";
 
+      // var_dump($_POST['name']);
+      // die();
+
       ini_set('display_errors', 1);
       ini_set('display_startup_errors', 1);
       error_reporting(E_ALL);
@@ -24,5 +27,9 @@
       //Escribimos el contenido en el PDF
       $html2pdf->writeHTML($html);
       //Generamos el PDF
-      $html2pdf->Output('certificado-ementores.pdf', 'D');
+      $html2pdf->Output('certificado-epana.pdf', 'D');
+      
+            echo '<script>window.location="/epana"</script>';
+            die();
+      
 ?>

@@ -89,15 +89,24 @@
 
 
 
+        // $.ajax({
+        //     url: "../db/user/update_module.php",
+        //     method: "POST",
+        //     data: {
+        //         step: 5,
+        //         module: 2
+        //     },
+        //     dataType: "html"
+        // });
         $.ajax({
-            url: "../db/user/update_module.php",
-            method: "POST",
-            data: {
-                step: 5,
-                module: 2
-            },
-            dataType: "html"
-        });
+                url: "../db/user/update_module.php",
+                method: "POST",
+                data: {
+                    step: 11,
+                    module: 1
+                },
+                dataType: "html"
+            });
     </script>
 </body>
 </html>

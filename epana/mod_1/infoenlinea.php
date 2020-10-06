@@ -68,7 +68,7 @@
                 url: "../db/user/update_module.php",
                 method: "POST",
                 data: {
-                    step: 1,
+                    step: 4,
                     module: 1
                 },
                 dataType: "html"

@@ -1,0 +1,195 @@
+@font-face {
+    font-family:"Nunito";
+    src: url("Nunito-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family:"Nunito";
+    font-weight: 800;
+    src: url("Nunito-Bold.ttf") format("truetype");
+}
+body,p,h1,h2,h3,h4,.h1,.h2,.h3,.h4,.close,button.close,div{
+    font-family: 'Nunito', sans-serif;
+}
+#eva_09p0{
+    background-image: url('./../img/reto/reto-back.png');
+    height: 100vh;
+}
+.cont.row {
+    display: flex;
+    justify-content: center;
+}
+.img-home{
+    display: block;
+    margin: auto;
+}
+.controwbox {
+    width: 80%;
+    margin: 20px auto;
+    background-image: url(./../img/reto/reto-band.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 30px;
+}
+a.gotoModulePage.btn-start {
+    background-color: #7FC34A;
+    color: white;
+    padding: 2px;
+    border-radius: 15px;
+    display: block;
+    margin: auto;
+    width: 110px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    transition: 0.2s;
+}
+a.gotoModulePage.btn-start:hover {
+    text-decoration: none;
+    background-color: #69a03e;
+    box-shadow: 3px 3px rgb(0 0 0 / 12%);
+}
+h3.intro-paragrah{
+    color: #3C6280;
+}
+#eva_result_negative .btns-answ {
+    display: flex;
+    justify-content: space-between;
+}
+#eva_result_negative .controwbox,#eva_result_positive .controwbox{
+    background-image: none;
+}
+img{
+    max-width: 100%;
+}
+h3.intro-paragrah-result{
+    color: rgb(0,128,132);
+    text-align: center;
+}
+#eva_result_negative p,#eva_result_positive p {
+    color: #3C6280;
+    text-align: center;
+}
+
+p.label-info {
+    color: #249BA8;
+    margin: 0 0 5px 0;
+    background-image: url(../img/reto/reto-arrow.svg);
+    background-repeat: no-repeat;
+    padding: 0 20px;
+    background-size: 15px;
+    background-position: 3px 5px;
+}
+.mod{
+    background-image: url('./../img/reto/feedback1-bck-above.png');
+    height: 100vh;
+}
+input.btn-false{
+
+}
+.img-box-quest{
+    position: relative;
+    margin-bottom: 20px;
+}
+.img-box-quest img{
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+.num-slide {
+    position: absolute;
+    left: 49%;
+    bottom: 0px;
+    padding: 0 5px;
+    background-color: white;
+    font-size: 1.2em;
+    color: #cecece;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+h2{
+    color: #249BA8;
+    font-weight: 800;
+}
+.container-box{
+    max-width: 612px;
+    margin: auto;
+    text-align: center;
+}
+/* HIDE RADIO */
+[type=radio] { 
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* IMAGE STYLES */
+  [type=radio] + img {
+    cursor: pointer;
+  }
+  
+  /* CHECKED STYLES */
+  [type=radio]:checked + img {
+    outline: 2px solid #f00;
+  }
+
+  .btns-answ {
+    display: flex;
+    justify-content: space-around;
+}
+.btns-answ img{
+    transition: 0.2s;
+    opacity: 0.8;
+}
+.btns-answ img:hover{
+    opacity: 1;
+}
+.ques-title{
+    font-size: 1.3em;
+    color: #3C6280;
+    line-height: 20px;
+    min-height: 64px;
+    margin: 0;
+}
+.label-instruction{
+    color: #249BA8;
+    position: relative;
+    line-height: 50px;
+    font-size: 1.2em;
+}
+.label-instruction::before{
+    content: '';
+    background-image: url(../img/reto/question-arrow-left.svg);
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    left: -36px;
+    top: 15px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.label-instruction::after{
+    content: '';
+    background-image: url('../img/reto/question-arrow-right.svg');
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    right: -36px;
+    top: 15px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+button {
+    border: none;
+    background: transparent;
+}
+a,button{
+    cursor: pointer;
+}
+a.btn-xcap {
+    margin: 35px auto;
+    display: block;
+    text-align: center;
+}

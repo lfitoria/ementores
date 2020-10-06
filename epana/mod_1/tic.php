@@ -1,8 +1,7 @@
 <html id="page-3-05">
 <?php require '../header.php'; ?>
+
 <body>
-
-
     <div class="wrapper">
         <!-- Page Content -->
         <div id="content"> 

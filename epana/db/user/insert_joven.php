@@ -32,7 +32,12 @@ if ($row_cnt > 0) {
 }else{
     $query = "INSERT INTO usuario (`nombre`, `genero`, `edad`, `lugar`,`grado`,`user_provincia`,`user_municipio`) VALUES ('$nombre', '$g', $edad, '$lugar','$grado','$user_provincia','$user_municipio')";
     $mysqli->query($query);
+    
     $last_id = $mysqli->insert_id;
+
+    $query1 = "INSERT INTO activity (`step`, `module`, `user`, `is_completed`) VALUES (1, 1, $last_id, 0); ";
+    $mysqli->query($query1);
+
     $_SESSION['usuario_id']=$last_id;
     // header('location:/epana');
     echo json_encode($result["error"] = true);

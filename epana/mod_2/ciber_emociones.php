@@ -871,8 +871,8 @@
                 url: "../db/user/update_module.php",
                 method: "POST",
                 data: {
-                    step: 6,
-                    module: 2
+                    step: 7,
+                    module: 1
                 },
                 dataType: "html"
             });

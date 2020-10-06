@@ -501,6 +501,15 @@ Un día su tío le pregunta con quién pasa hablando todo el día y Eric le resp
             video3 = document.getElementById("video3");
             video3.pause();
         });
+        $.ajax({
+                url: "../db/user/update_module.php",
+                method: "POST",
+                data: {
+                    step: 12,
+                    module: 1
+                },
+                dataType: "html"
+            });
         </script>
 </body>
 

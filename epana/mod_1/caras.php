@@ -554,6 +554,17 @@ $(this).parent().parent().find("img").removeClass("d-none");
     if (urlParams.get("t") === "m") {
         $("#modal_1-03init").modal("show");
     }
+    
+            $.ajax({
+                url: "../db/user/update_module.php",
+                method: "POST",
+                data: {
+                    step: 3,
+                    module: 1
+                },
+                dataType: "html"
+            });
+        
     </script>
 </body>
 

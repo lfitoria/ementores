@@ -576,6 +576,17 @@
         //     },
         //     dataType: "html"
         // });
+        
+            $.ajax({
+                url: "../db/user/update_module.php",
+                method: "POST",
+                data: {
+                    step: 6,
+                    module: 1
+                },
+                dataType: "html"
+            });
+        
     </script>
 </body>
 

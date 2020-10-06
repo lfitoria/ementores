@@ -294,7 +294,7 @@
                 url: "../db/user/update_module.php",
                 method: "POST",
                 data: {
-                    step: 4,
+                    step: 5,
                     module: 1
                 },
                 dataType: "html"
