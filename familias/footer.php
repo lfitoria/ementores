@@ -6,7 +6,7 @@
                                     <div class="col-2">
                                         <p class="support-label">Avalado por:</p>
                                         <a href="http://www.ministeriodeeducacion.gob.do/" target="_blank">
-                                        <img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 70%;">
+                                        <img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 80%;">
                                         </a>
                                     </div>
                                     <div class="col-3">
