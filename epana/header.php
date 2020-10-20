@@ -70,7 +70,7 @@
     <div id="logo-texto">
         <p>Espacio con recursos audiovisuales para que <strong>chicas y chicos aprendan a aprovechar las tecnologías y protegerse contra los peligros en la Web.</strong></p>
     </div>
-    </div>
+</div>
     <button class="encuesta-modal" data-toggle="modal" data-target=".modal_encuesta">
         <p class="d-flex">¿Qué te parece
         <img id="img-encuesta-fixed" src="/epana/img/epana_survey.png">

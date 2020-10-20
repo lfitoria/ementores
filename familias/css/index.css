@@ -338,7 +338,7 @@ p#prefooter-place,p#prefooter-phone,p#prefooter-mail{
     padding-left: 35px;
 }
 #prefooter .support-label{
-    min-height: 53px;
+    /* min-height: 53px; */
     line-height: 16px;
     padding-top: 10px;
 }
@@ -429,11 +429,11 @@ button#sidebarCollapse.active {
 
 
 
-.small-f p {
+/* .small-f p {
     font-size: 0.7em;
     margin-bottom: 0;
     height: 33px;
-}
+} */
 img.logo-imas {
     max-width: 62%;
     display: block;
@@ -676,6 +676,10 @@ img.logo-imas {
 
 
 @media (min-width: 992px) {
+    #prefooter .support-label{
+        min-height: 53px;
+        
+    }
     h1 img{
         width: 300px;
 

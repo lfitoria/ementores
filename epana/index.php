@@ -18,53 +18,10 @@ session_start();
         <div id="content">
 
             <section class="container-full index-main">
-
-                <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light d-block">
-                    <div class="container-fluid">
-
-                        <div class="nav justify-content-start">
-
-                        </div>
-
-                        <div class="nav justify-content-center">
-                            <h1><a class="mx-auto" href="/index.php"><img src="img/logo-ementores.png" alt="Curso en línea uso seguro de internet para familia |  Programa e-mentores Familias"></a></h1>
-                        </div>
-
-                        <div class="nav justify-content-end">
-                            <button type="button" id="sidebarCollapse" class="btn" >
-                                <span class="navbar-toggler-icon"></span>
-                            </button>
-                        </div>
-                    </div>
-                </nav> -->
-
-                <!-- <section class="container-full index-video padding-top-bottom">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 d-block d-sm-none">
-                                <p class="main-div-intro-text">Aprenda sobre el uso seguro de internet para familias.</p>
-
-                            </div>
-                            <div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
-                                <div class="embed-responsive embed-responsive-16by9 main-div-iframe">
-                                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LLsdaT4NWu0?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                                    <video width="100%" height="auto" id="video" poster="img/videos/vistas-Iintro.png" controls>
-                                        <source src="/videos/0-introduccion_vid.mp4" type="video/mp4">
-                                        </video>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 ">
-                                    <p class="main-div-intro-text d-none d-sm-block d-md-block d-lg-block">Aprenda sobre el uso seguro de internet para familias.</p>
-                                    <a class="btn-entrar" href="0-04_intro.php">Entrar</a>
-                                </div>
-                            </div>
-                        </div>
-                    </section> -->
                 <div class="rowa header-top">
                     <div class="container">
                         <div class="header-top-box"></div>
                     </div>
-
                     <!-- <img src="img/fondo_header.png"> -->
                 </div>
                 <div class="container">
@@ -140,7 +97,7 @@ session_start();
                             // echo ("<a href=''>Descargar certificado</a>");
                             // echo ("<a href='0-06_cert.php' class='btn-cert'>Descargar certificado</a>");
                             echo("<form action='output.php' method='POST' >
-                            <input type='hidden' name='name' class='form-control mr-auto' value=".$e.">
+                            <input type='hidden' name='name' class='form-control mr-auto' value=".$user_name.">
                             <button type='submit' class='d-block m-auto btn-cer-epa'><a class='btn-cert'>Descargar certificado</a></button>
                             </form>");
                         }else{
@@ -280,19 +237,19 @@ session_start();
 
                                 <select id="first-choice" class="form-control year" name="user_provincia">
                                     <option selected value="">Provincia...</option>
-                                    <option value="distrito_nacional">DISTRITO NACIONAL</option>
-                                    <option value="la_altagracia">LA ALTAGRACIA</option>
                                     <option value="azua">AZUA</option>
                                     <option value="bahoruco">BAHORUCO</option>
                                     <option value="barahona">BARAHONA</option>
                                     <option value="dajabon">DAJABON</option>
+                                    <option value="distrito_nacional">DISTRITO NACIONAL</option>
                                     <option value="duarte">DUARTE</option>
-                                    <option value="hermanas_mirabal">HERMANAS MIRABAL</option>
                                     <option value="el_seibo">EL SEIBO</option>
                                     <option value="elias_pina">ELIAS PIÑA</option>
                                     <option value="espaillat">ESPAILLAT</option>
                                     <option value="hato_mayor">HATO MAYOR</option>
+                                    <option value="hermanas_mirabal">HERMANAS MIRABAL</option>
                                     <option value="independencia">INDEPENDENCIA</option>
+                                    <option value="la_altagracia">LA ALTAGRACIA</option>
                                     <option value="la_romana">LA ROMANA</option>
                                     <option value="la_vega">LA VEGA</option>
                                     <option value="maria_trinidad_sanchez">MARIA TRINIDAD SANCHEZ</option>
@@ -306,12 +263,12 @@ session_start();
                                     <option value="san_cristobal">SAN CRISTOBAL</option>
                                     <option value="san_juan">SAN JUAN</option>
                                     <option value="san_pedro_de_macoris">SAN PEDRO DE MACORIS</option>
-                                    <option value="sanchez_ramirez<">SANCHEZ RAMIREZ</option>
+                                    <option value="sanchez_ramirez">SANCHEZ RAMIREZ</option>
                                     <option value="santiago">SANTIAGO</option>
                                     <option value="santiago_rodriguez">SANTIAGO RODRIGUEZ </option>
-                                    <option value="valverde">VALVERDE</option>
                                     <option value="san_jose_de_ocoa">SAN JOSE DE OCOA</option>
                                     <option value="santo_domingo">SANTO DOMINGO</option>
+                                    <option value="valverde">VALVERDE</option>
                                 </select>
                                 <p class="small d-none text-center text-danger" id="w_user_provincia">Debés seleccinar
                                     una opcion.</p>
@@ -565,6 +522,9 @@ Corrobora tus datos y vuelve a intentarlo.</p>
                     break;
                 case 'monsenor_nouel':
                     vals = data.monsenor_nouel.split(",");
+                    break;
+                case 'monte_cristi':
+                    vals = data.monte_cristi.split(",");
                     break;
                 case 'monte_plata':
                     vals = data.monte_plata.split(",");

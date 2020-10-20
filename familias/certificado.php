@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8" />
     <title>CERTIFICADO</title>
-    <link type="text/css" href="css/bootstrap.css" rel="stylesheet">
+    <!-- <link type="text/css" href="css/bootstrap.css" rel="stylesheet">
     <link type="text/css" href="css/bootstrap-grid.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/index.css" rel="stylesheet" type="text/css" />
-    <link href="css/mod1.css" rel="stylesheet" type="text/css" />
+    <link href="css/mod1.css" rel="stylesheet" type="text/css" /> -->
     <style type="text/css">
     img#familias-logo {
         width: 450px;
@@ -114,7 +114,7 @@
     
 
     table img {
-        margin: 10px 10px;
+        margin: 10px;
         width: 130px;
     }
 
@@ -140,7 +140,7 @@
             <br>
             <br>
             <br>
-            <h2>El Ministerio de Educación de República Dominicana otorga el siguiente <br><span>CERTIFICADO DE
+            <h2>El Ministerio de Educación de República Dominicana <br>otorga el siguiente <br><span>CERTIFICADO DE
                     PARTICIPACIÓN</span> a:</h2>
             <div class="name"><span><?php echo $_POST['name'] ?></span></div>
             <p class="text-center"> <img src="img/certificado-linea.png" id="linea" class="img-fluid" /></p>
@@ -164,7 +164,7 @@
         <br>
         <br>
         <br>
-        <table  cellpadding="1" cellspacing="1">
+        <table  style="width: 100%;">
                  <tr>
                     <td><p>Avalado por:</p></td>
                     <td><p>Auspiciado por:</p></td>
@@ -172,16 +172,18 @@
                 </tr>
                 <tr>
                     <td>
-                        <p><img src="img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 110px;"></p>
+                        <img src="img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 100px;" >
                     </td>
                     <td >
-                        <p >
-                        <img style="width: 215px;" src="img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos"></p>
+                        
+                        <img src="img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" style="width: 160px;">
                     </td>
                     <td>
-                            <img src="img/footer/PLAN.png" alt="Paniamor" class="img-fluid prefooter-logos">
+                        
+                            <img src="img/footer/PLAN.png" alt="Paniamor" class="img-fluid prefooter-logos" >
                             <img src="img/footer/footer-logo-paniamor.png" alt="Paniamor" class="img-fluid prefooter-logos">
-                            <img src="img/footer/Unicef-logo.png" alt="Paniamor" class="img-fluid prefooter-logos">
+                            <img src="img/footer/Unicef-logo.png" alt="Paniamor" class="img-fluid prefooter-logos" style="margin-top: 0px;">
+                        
                         
                     </td>
                 </tr>

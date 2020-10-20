@@ -26,6 +26,13 @@
 
         gtag('config', 'UA-127635098-1');
     </script>
+    <style>
+        p.tab-num {
+    display: block;
+    margin: 0 0 0 0;
+    padding: 15px;
+}
+    </style>
 </head>
 
 <body id="page-2-09">
@@ -98,6 +105,7 @@
                                                         <div class="col-12 col-md-6">
                                                             <img src="../img/mod2/2-09_sli-diapositiva-2.png" alt="Slide1" class="img-fluid">
                                                         </div>
+                                                        <p class="tab-num">1/2</p>
                                                     </div>
                                                 </div>
                                                 <div class="slide">
@@ -109,7 +117,7 @@
                                                             <p>Este proceso debe iniciarse desde que una persona menor de edad da sus primeros pasos en el uso de las TIC, con la orientación y el acompañamiento de su familia o personas a su cargo.</p>
                                                             <p>Esto le hará consciente de la importancia de cuidarse, de decidir qué información compartir o no, qué tipo de personas aceptar como contactos, qué tipo de contenidos son apropiados y cuáles no, y cómo mantenerse lejos de los peligros.</p>
                                                         </div>
-
+                                                        <p class="tab-num">2/2</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -130,14 +138,14 @@
                                                 <div class="slide">
                                                     <div class="row justify-content-start">
                                                         <div class="col-12 col-md-6">
-                                                            <p>Es importante orientar a niñas, niños y adolescentes sobre qué tipo de fotos es adecuado publicar o enviar a otras personas, y qué tipo no lo son. Una pregunta que podemos hacer como punto de partida es: ¿pondrías frente a tu casa una foto en la que salís sin ropa? ¡Muy probablemente la respuesta es no!</p>
+                                                            <p>Es importante orientar a niñas, niños y adolescentes sobre qué tipo de fotos es adecuado publicar o enviar a otras personas, y qué tipo no lo son. Una pregunta que podemos hacer como punto de partida es: ¿pondrías frente a tu casa una foto en la que sales sin ropa? ¡Muy probablemente la respuesta es no!</p>
                                                             <p>Así se le puede explicar, que cuando envía una foto a otra persona, aunque sea en un mensaje privado, ésta deja de estar bajo su control. Esa persona puede perder el celular y alguien la podría ver o podría enviarla a alguien más, incluso por error.</p>
                                                         </div>
                                                         <div class="col-12 col-md-6">
 
                                                             <img src="../img/mod2/2-09_sli-diapositiva-4.png" alt="Slide1" class="img-fluid">
                                                         </div>
-
+                                                        <p class="tab-num">1/2</p>
                                                     </div>
                                                 </div>
                                                 <div class="slide">
@@ -148,7 +156,7 @@
                                                         <div class="col-12 col-md-6">
                                                             <img src="../img/mod2/2-09_sli-diapositiva-5.png" alt="Slide1" class="img-fluid">
                                                         </div>
-
+                                                        <p class="tab-num">2/2</p>
                                                     </div>
                                                 </div>
 
@@ -175,6 +183,7 @@
                                                         <div class="col-12 col-md-6">
                                                             <img src="../img/mod2/2-09_sli-diapositiva-6.png" alt="Slide1">
                                                         </div>
+                                                        <p class="tab-num">1/2</p>
                                                     </div>
                                                 </div>
                                                 <div class="slide">
@@ -185,7 +194,7 @@
                                                         <div class="col-12 col-md-6">
                                                             <p>Es fundamental que sepan que en la red puede haber personas que se hacen pasar por otras, y que deben desconfiar cuando les solicitan enviarse mensajes privados, o cuando inician conversaciones con lenguaje sexual. <br> Se les debe explicar qué hacer en esos casos: por ejemplo, no responder los mensajes, y acudir a una persona adulta de confianza para recibir ayuda.</p>
                                                         </div>
-
+                                                        <p class="tab-num">2/2</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -211,7 +220,7 @@
                                                         <div class="col-12 col-sm-6">
                                                             <img src="../img/mod2/2-09_sli-diapositiva-9.png" alt="Slide1" class="img-md">
                                                         </div>
-
+                                                        <p class="tab-num">1/2</p>
                                                     </div>
                                                 </div>
                                                 <div class="slide">
@@ -222,6 +231,7 @@
                                                         <div class="col-12 col-md-6">
                                                             <p>Además, las personas menores de edad deben saber que cuando el bullying se da en redes sociales, no podemos saber cuántas personas verán los mensajes, qué nuevos comentarios hirientes se agregarán, cuánto tiempo circularán o en qué páginas terminará esa información. El ciberbullying llega a muchas personas, las cuales podrían sumarse a los ataques, o propagarlos al compartirlos con otras.</p>
                                                         </div>
+                                                        <p class="tab-num">2/2</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -260,6 +270,7 @@
                                                                 <p class="text-center">Respetar a las demás personas en redes sociales. Nunca divulgar chismes ni ataques. Hay que aprender a convivir en armonía.</p>
                                                             </div>
                                                         </div>
+                                                        <p class="tab-num">1/2</p>
                                                     </div>
                                                 </div>
                                                 <div class="slide">
@@ -283,6 +294,7 @@
                                                                 <p class="text-center">Compartir solo mensajes, fotos, videos, o cualquier otro contenido positivo y que transmita una buena imagen de las demás personas.</p>
                                                             </div>
                                                         </div>
+                                                        <p class="tab-num">2/2</p>
                                                     </div>
                                                 </div>
                                             </div>

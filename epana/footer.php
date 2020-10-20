@@ -34,32 +34,32 @@ ser el primero en enterarte de lo nuevo</p> -->
 </div>
 </div>
 
-<section id="prefooter">
+<section id="prefooter" class="px-2 px-sm-0">
     <div class="container">
             <div class="row logosbottom">
             <div class="row">
-                <div class="col-3">
+                <div class="col-6 col-sm-3">
                     <p class="support-label">Avalado por:</p>
                     <a href="http://www.ministeriodeeducacion.gob.do/" target="_blank">
                     <img src="/familias/img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 44%;">
                     </a>
                 </div>
-                <div class="col">
+                <div class="col-6 col-sm-4">
                     <p class="support-label">Auspiciado por:</p>
-                    <a href="https://www.unicef.org/dominicanrepublic/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.end-violence.org/" target="_blank" rel="noopener noreferrer">
                     <img src="/familias/img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" style="width: 220px;">
                     </a>
                 </div>
-                <div class="col-5">
+                <div class="col-12 col-sm-5">
                     <p class="support-label">Una iniciativa de:</p>
                     <div class="res-insti-rp">
                         <a href="https://plan-international.org/es/republica-dominicana" target="_blank">
                         <img src="/familias/img/footer/PLAN.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" style="width: 90%;margin: 0 auto;position: relative;display: block;">
                         </a>
-                        <a href="#" target="_blank">
+                        <a href="https://paniamor.org" target="_blank">
                         <img src="/familias/img/footer/footer-logo-paniamor.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" >
                         </a>
-                        <a href="https://www.unicef.org/" target="_blank">
+                        <a href="https://www.unicef.org/dominicanrepublic/" target="_blank">
                         <img src="/familias/img/footer/Unicef-logo.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" >
                         </a>
                         

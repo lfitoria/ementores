@@ -11,9 +11,19 @@
 
 </head>
 
-<body>
+<body id="content">
+    <div class="rowa header-top">
+        <div class="container">
+            <div id="logo-texto">
+                <p>Espacio con recursos audiovisuales para que <strong>chicas y chicos aprendan a aprovechar las
+                        tecnologías y protegerse contra los peligros en la Web.</strong></p>
+            </div>
+            <div class="header-top-box"></div>
+        </div>
+        <!-- <img src="img/fondo_header.png"> -->
+    </div>
 
-    <div id="page-wrap">
+    <div id="page-wrap" class="container">
 
         <!-- <h1>Resultado</h1> -->
 
@@ -123,7 +133,7 @@
                 }
             }
             // var_dump($totalCorrect);
-            // $totalCorrect = 7;
+            $totalCorrect = 7;
             ?>
         <?php if($totalCorrect >= 7){ ?>
         <?php 
@@ -218,6 +228,9 @@
 
 
 
+    </div>
+    <div id="subfooter">
+    <?php require 'footer.php'; ?>
     </div>
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
     <script>

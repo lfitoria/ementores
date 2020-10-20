@@ -120,7 +120,7 @@ El abuso sexual y la explotación sexual, tanto física como en línea, tienen s
 
                 <div class="row d-none act-07-mdl act01" >
                     <div class="col-6">
-                        <img src="../img/mod1/1-07_act_img1.png" alt="" class="img-fluid"/>
+                        <img src="../img/mod1/1-07_act_img1_RD.png" alt="" class="img-fluid"/>
                     </div>
                     <div class="col-6">
                         <p><strong>Cambios en su comportamiento habitual:</strong> deja de hacer actividades que antes disfrutaba.</p>
@@ -128,7 +128,7 @@ El abuso sexual y la explotación sexual, tanto física como en línea, tienen s
                 </div>
                 <div class="row d-none act-07-mdl act02" >
                     <div class="col-6">
-                        <img src="../img/mod1/1-07_act_img2.png" alt="" class="img-fluid"/>
+                        <img src="../img/mod1/1-07_act_img2_RD.png" alt="" class="img-fluid"/>
                     </div>
                     <div class="col-6">
                         <p><strong>Se aísla de su entorno:</strong> se encierra en su cuarto, no sale de la casa, no interactúa con otras personas.  Muestra rechazo a ciertas personas.</p>
@@ -136,7 +136,7 @@ El abuso sexual y la explotación sexual, tanto física como en línea, tienen s
                 </div>
                 <div class="row d-none act-07-mdl act03" >
                     <div class="col-6">
-                        <img src="../img/mod1/1-07_act_img3.png" alt="" class="img-fluid"/>
+                        <img src="../img/mod1/1-07_act_img3_RD.png" alt="" class="img-fluid"/>
                     </div>
                     <div class="col-6">
                         <p><strong>Baja su rendimiento académico:</strong> Puede no querer ir a la escuela o colegio.  Cambios en su comportamiento en el centro educativo.</p>
@@ -144,7 +144,7 @@ El abuso sexual y la explotación sexual, tanto física como en línea, tienen s
                 </div>
                 <div class="row d-none act-07-mdl act04" >
                     <div class="col-6">
-                        <img src="../img/mod1/1-07_act_img4.png" alt="" class="img-fluid"/>
+                        <img src="../img/mod1/1-07_act_img4_RD.png" alt="" class="img-fluid"/>
                     </div>
                     <div class="col-6">
                         <p><strong>Publica mensajes con contenidos depresivos</strong> o agresivos en sus redes sociales.</p>
@@ -152,7 +152,7 @@ El abuso sexual y la explotación sexual, tanto física como en línea, tienen s
                 </div>
                 <div class="row d-none act-07-mdl act05" >
                     <div class="col-6">
-                        <img src="../img/mod1/1-07_act_img5.png" alt="" class="img-fluid"/>
+                        <img src="../img/mod1/1-07_act_img5_RD.png" alt="" class="img-fluid"/>
                     </div>
                     <div class="col-6">
                         <p><strong>Cuando hay abuso físico:</strong> moretones, arañazos, dolor en las partes genitales o en otras partes del cuerpo, sangrados.</p>
@@ -160,7 +160,7 @@ El abuso sexual y la explotación sexual, tanto física como en línea, tienen s
                 </div>
                 <div class="row d-none act-07-mdl act06" >
                     <div class="col-6">
-                        <img src="../img/mod1/1-07_act_img6.png" alt="" class="img-fluid"/>
+                        <img src="../img/mod1/1-07_act_img6_RD.png" alt="" class="img-fluid"/>
                     </div>
                     <div class="col-6">
                         <p><strong>Al jugar, dramatiza escenas sexualizadas</strong> utilizando sus juguetes, o al interactuar con otras niñas o niños, emite conductas como tocar, acariciar, etc</p>
@@ -168,7 +168,7 @@ El abuso sexual y la explotación sexual, tanto física como en línea, tienen s
                 </div>
                 <div class="row d-none act-07-mdl act07" >
                     <div class="col-6">
-                        <img src="../img/mod1/1-07_act_img7.png" alt="" class="img-fluid"/>
+                        <img src="../img/mod1/1-07_act_img7_RD.png" alt="" class="img-fluid"/>
                     </div>
                     <div class="col-6">
                         <p><strong>Presenta síntomas somáticos (físicos)</strong>, como enfermedades, dolores, problemas para dormir, trastornos de la alimentación.</p>
@@ -176,7 +176,7 @@ El abuso sexual y la explotación sexual, tanto física como en línea, tienen s
                 </div>
                 <div class="row d-none act-07-mdl act08" >
                     <div class="col-6">
-                        <img src="../img/mod1/1-07_act_img8.png" alt="" class="img-fluid"/>
+                        <img src="../img/mod1/1-07_act_img8_RD.png" alt="" class="img-fluid"/>
                     </div>
                     <div class="col-6">
                         <p><strong>Cambios de humor. </strong>Tiene pesadillas, temor a quedarse solo(a), se vuelve agresivo(a), moja la cama por las noches.</p>

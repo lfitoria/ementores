@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8" />
     <title>CERTIFICADO</title>
-    <link type="text/css" href="css/bootstrap.css" rel="stylesheet">
+    <!-- <link type="text/css" href="css/bootstrap.css" rel="stylesheet">
     <link type="text/css" href="css/bootstrap-grid.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/index.css" rel="stylesheet" type="text/css" />
-    <link href="css/mod1.css" rel="stylesheet" type="text/css" />
+    <link href="css/mod1.css" rel="stylesheet" type="text/css" /> -->
     <style type="text/css">
     img#familias-logo {
         width: 450px;
@@ -111,7 +111,7 @@
     table td {
         /* width: 28%; */
     }
-    
+
 
     table img {
         margin: 10px 10px;
@@ -127,7 +127,7 @@
     }
 
     </style>
-    
+
 </head>
 
 <body>
@@ -135,7 +135,8 @@
     <div id="body" style="width: 100%">
         <div class="content">
             <div id="header">
-                <p> <img width="100%" src="img/reto/doc-certificado-header.png" id="familias-logo" class="img-fluid" /></p>
+                <p> <img width="100%" src="img/reto/doc-certificado-header.png" id="familias-logo" class="img-fluid" />
+                </p>
             </div>
             <br>
             <h2>El Ministerio de Educación de República Dominicana <br> otorga el siguiente <br><span>CERTIFICADO DE
@@ -145,7 +146,7 @@
             <br>
             <div class="body">
                 <p>por la conclusión del programa de aprendizaje en línea</p>
-                <p class="text-center"> <img src="img/reto/doc-certificado-logos.png"/></p>
+                <p class="text-center"> <img src="img/reto/doc-certificado-logos.png" /></p>
                 <br>
                 <p class="m-d-20"><span class="strong">¡Felicidades!</span> Ahora cuenta con herramientas para promover
                     el uso seguro de internet por parte de niños, niñas y adolescentes.</p>
@@ -158,7 +159,31 @@
                 <div class="label-div"></div>
             </div>
         </div>
-        <br>       
+        <br>
+        <table  style="width: 100%;">
+                 <tr>
+                    <td><p>Avalado por:</p></td>
+                    <td><p>Auspiciado por:</p></td>
+                    <td><p>Una iniciativa de:</p></td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="img/footer/LOGO_MINERD.png" alt="Paniamor" class="img-fluid prefooter-logos" style="width: 100px;" >
+                    </td>
+                    <td >
+                        
+                        <img src="img/footer/EndViolence_Logo_rp.png" alt="End Violence Against Children" class="img-fluid prefooter-logos" style="width: 160px;">
+                    </td>
+                    <td>
+                        
+                            <img src="img/footer/PLAN.png" alt="Paniamor" class="img-fluid prefooter-logos" >
+                            <img src="img/footer/footer-logo-paniamor.png" alt="Paniamor" class="img-fluid prefooter-logos">
+                            <img src="img/footer/Unicef-logo.png" alt="Paniamor" class="img-fluid prefooter-logos" style="margin-top: -12px;">
+                        
+                        
+                    </td>
+                </tr>
+            </table>
     </div>
 
 

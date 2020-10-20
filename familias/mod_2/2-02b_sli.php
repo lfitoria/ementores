@@ -91,7 +91,8 @@
                                     <ul>
                                         <li>Tener contraseñas seguras.</li>
                                         <li>Configurar la privacidad de las redes sociales.</li>
-                                        <li>No publicar información íntima, privada u ofensiva.</li>
+                                        <li>No publicar información íntima tuya o de tus familiares</li>
+                                        <li>No publicas información ofensiva.</li>
                                         <li>Pedir permiso para publicar fotos de otras personas.</li>
                                         <li>Usar la tecnología para aprender.</li>
                                     </ul>
@@ -151,13 +152,11 @@
                                 <div class="col-10">
                                     <h4>¿Qué hacer?</h4>
                                     <ul>
-                                        <li>Reaccionar con empatía, comprensión y amor.</li>
-                                        <li>Agradecer  la confianza y tratar de apoyarla para buscar soluciones y para evitar estas situaciones en el futuro.</li>
-                                        <li>Siempre es buena idea ofrecer un abrazo</li>
-                                        <li>Denunciar en redes sociales la publicación para que la retiren.</li>
-                                        <li>Solicitar a las y los compañeros que retiren la fotografía y que no la difundan.</li>
-                                        <li>Enviar información sobre las violencias en línea para sensibilizar.</li>
-                                        <li>Activar protocolos del Ministerio de Educación contra el Ciberbullying.</li>
+                                        <li>Inciso 4: Cambiar “Denunciar en redes sociales la publicación para que la retiren” por “Reportar a la red social donde salió la publicación”.</li>
+                                        <li>Incisos 5,6 y 7: Poner “Informar al centro educativo para que:</li>
+                                        <li>Solicite a las y los compañeros que retiren la fotografía y que no la difundan.</li>
+                                        <li>Comparta información sobre las violencias en línea para sensibiliza.</li>
+                                        <li>Active protocolos del Ministerio de Educación contra el Ciberbullying.</li>
 
                                     </ul>
                                     
