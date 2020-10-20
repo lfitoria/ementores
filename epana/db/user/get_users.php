@@ -1,7 +1,7 @@
 <?php
 
 include '../connection/conexion.php';
-$query = "SELECT email, id_number FROM `user`";
+$query = `SELECT nombre,genero,edad,lugar,fecha,grado,user_provincia,user_municipio FROM usuario`;
 
 $result = $mysqli->query($query);
 if (!$result) die('Couldn\'t fetch records');
