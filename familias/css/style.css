@@ -964,6 +964,16 @@ left: 0;
 top: 2rem;
 display: none;
 }
+a.btn-down-users {
+    padding: 20px;
+    background-color: red;
+    display: block;
+    width: 150px;
+    margin: 1em auto 1em auto;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
 a#back_family {
     position: relative;
     display: block;
