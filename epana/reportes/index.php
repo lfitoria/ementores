@@ -1,7 +1,5 @@
-<html>
 <?php
-/* This will give an error. Note the output
- * above, which is before the header() call */
-header('Location: http://rd.ementores.org/epana/db/user/get_users.php');
-exit;
+// 301 Moved Permanently
+header("Location: /db/user/get_users.php", true, 301);
+exit();
 ?>
