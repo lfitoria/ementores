@@ -1,7 +1,5 @@
-<html>
 <?php
-/* This will give an error. Note the output
- * above, which is before the header() call */
-header('Location: http://google.com');
-exit;
+// 301 Moved Permanently
+header("Location: http://www.example.com/another-page.php", true, 301);
+exit();
 ?>
