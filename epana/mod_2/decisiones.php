@@ -17,7 +17,9 @@
 
             <section class="container">
                 <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>-->
-
+                <div class="btn-na">
+                    <a href="redes_sociales.php#titleancla" class="iconextact hvr-icon">Siguiente</a>
+                </div>
                 <h2 class="title-cx" id="titleancla">
                 Decisiones que le protegen en Internet
                 </h2>

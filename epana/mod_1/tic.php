@@ -18,8 +18,11 @@
                 <section class="container">
                     
                     <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>-->
-
+                    <div class="btn-na">
+                    <a href="redes_sociales.php#titleancla" class="iconextact hvr-icon">Siguiente</a>
+                    </div>
                 <h2 class="title-cx" id="titleancla">
+                
                 Las tecnologías de información y comunicación (TIC),  en todos lados y a todas horas
                 </h2>
                 <img id="vol-img" src="../img/E-COMPAS-audio_rp.png">

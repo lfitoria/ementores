@@ -16,7 +16,9 @@
 
             <section class="container">
                 <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>-->
-
+                <div class="btn-na">
+                    <a href="../mod_3/actuemos.php#titleancla" class="iconextact hvr-icon">Siguiente</a>
+                </div>
                 <h2 class="title-cx" id="titleancla">
                 Huella digital: nuestro rastro en Internet
                 </h2>

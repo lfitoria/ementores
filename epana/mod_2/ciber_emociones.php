@@ -18,7 +18,9 @@
                 <!-- <section class="container"> -->
                     <section class="container">
                         <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>-->
-
+                <div class="btn-na">
+                    <a href="decisiones.php#titleancla" class="iconextact hvr-icon">Siguiente</a>
+                </div>
                 <h2 class="title-cx" id="titleancla">
                 Reconozcamos nuestras emociones en el uso de las TIC
                 </h2>

@@ -20,7 +20,9 @@
             <section class="container">
 
                 <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al inicio</a></p>-->
-
+                <div class="btn-na">
+                    <a href="legion.php#titleancla" class="iconextact hvr-icon">Siguiente</a>
+                </div>
                 <h2 class="title-cx" id="titleancla">
                 Sácale el máximo a la Internet
                 </h2>

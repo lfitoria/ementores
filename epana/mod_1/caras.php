@@ -19,7 +19,9 @@
 
             <section class="container" id="pagecontaineract">
                 <!--<p class="intro-header blue"><a href="../"  class="icovolver hvr-icon">Volver al menú</a></p>-->
-
+                <div class="btn-na">
+                    <a href="infoenlinea.php#titleancla" class="iconextact hvr-icon">Siguiente</a>
+                    </div>
                 <h2 class="title-cx" id="titleancla">Las dos caras de las TIC</h2>
 
                 <div class="main">
