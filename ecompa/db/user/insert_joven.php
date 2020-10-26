@@ -44,7 +44,7 @@ $last_id = $mysqli->insert_id;
 $_SESSION['usuario_id']=$last_id;
 
 
-// var_dump($last_id);
+// var_dump($_SESSION);
 // die();
 //return new JsonResponse(array("usuario" => $nombre));
 

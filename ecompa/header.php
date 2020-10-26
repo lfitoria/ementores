@@ -1,5 +1,9 @@
 
-
+<?php
+session_start();
+// var_dump($_SESSION['usuario_id']);
+// die();
+?>
 
     <head>
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -78,15 +82,13 @@
         </p>
     </button>
 
-    <?php
-session_start();
-
-?>
+    
 
     <input type="hidden" value="<?php
-        if(isset($_SESSION['usuario'])){
-            echo $_SESSION['usuario'];
+        if(isset($_SESSION['usuario_id'])){
+            echo $_SESSION['usuario_id'];
         } 
     ?>" id="session">
     
+
     

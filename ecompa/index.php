@@ -2,16 +2,6 @@
 <?php require 'header.php'; ?>
 <body>
 
-<!-- <?php
-session_start();
-
-?>
-
-    <input type="hidden" value="<?php
-        if(isset($_SESSION['edad'])){
-            echo $_SESSION['edad'];
-        } 
-    ?>" id="session"> -->
 
     <div class="wrapper">
         <div id="content">
@@ -359,12 +349,13 @@ $("form#registro_usuario .submet").on('click', function () {
     
     // var nombre = $('input[name=nombre]').val();
     // var genero = $('input[name=genero]:checked').val();
+    var genero = "revocado";
     var range = $('input[name=edad]').val();
-    var lugar = $('select[name=lugar]').val();
+    var lugar = $('input[name=lugar]').val();
     var grado = $('input[name=grado]').val();
-console.log(range);
-console.log(lugar);
-console.log(grado);
+console.log("range: "+range);
+console.log("lugar: "+lugar);
+console.log("grado:"+grado);
 
 
     // if (nombre == "") {
@@ -389,7 +380,7 @@ console.log(grado);
         $("p#wartree").removeClass("d-none");
         $("p#warone").addClass("d-none");
         $("p#wartwo").addClass("d-none");
-    }else if(lugar == "default"){
+    }else if(lugar == ""){
         $("select[name=lugar]").focus();
         $("p#warfour").removeClass("d-none");
 
@@ -418,7 +409,7 @@ $("input[name=genero]").change(function(){
 $(document).ready(function(){
 
      var user = $("input#session").val();
-    console.log(user);
+    console.log("user: "+user);
     if (user == "") {
         $("#modal_1-03init").modal("show");
     }
