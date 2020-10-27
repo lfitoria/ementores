@@ -1,8 +1,8 @@
 
 <?php
 session_start();
-// var_dump($_SESSION['usuario_id']);
-// die();
+var_dump($_SESSION);
+die();
 ?>
 
     <head>
