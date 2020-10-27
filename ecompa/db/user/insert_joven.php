@@ -28,6 +28,9 @@ $last_id = $mysqli->insert_id;
 
 $_SESSION['usuario_id']=$last_id;
 
+var_dump($_SESSION);
+die();
+
 
 header('location:/ecompa');
 
