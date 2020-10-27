@@ -1,9 +1,5 @@
 <html class="front-page">
-<?php
-session_start();
-var_dump($_SESSION);
 
-?>
 
     <head>
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -61,12 +57,7 @@ var_dump($_SESSION);
         <script src="https://kit.fontawesome.com/93f079ed62.js" crossorigin="anonymous"></script>
 
     </head>
-    <input type="hidden" value="<?php
-        if(isset($_SESSION['usuario_id'])){
-            echo $_SESSION['usuario_id'];
-        } 
-    ?>" id="session">
-
+    
 <div id="boxelo">
     <div id="logo-flotante">
         <h1>
@@ -86,9 +77,18 @@ var_dump($_SESSION);
         </p>
     </button>
 
-    
+    <?php
+session_start();
+var_dump($_SESSION);
 
-    
+?>
+
+    <input type="hidden" value="<?php
+        if(isset($_SESSION['usuario_id'])){
+            echo $_SESSION['usuario_id'];
+        } 
+    ?>" id="session">
+
     
 
     
