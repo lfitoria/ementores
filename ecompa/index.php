@@ -1,4 +1,4 @@
-<html class="front-page">
+<div class="front-page">
 <?php require 'header.php'; ?>
 <body>
 
@@ -448,5 +448,5 @@ $(document).ready(function(){
 
 </script>
 </body>
-
+</div>
 </html>
