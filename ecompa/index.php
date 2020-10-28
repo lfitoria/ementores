@@ -409,7 +409,7 @@ $(document).ready(function(){
      var user = $("input#session").val();
     console.log("user: "+user);
     if (user == "") {
-        //$("#modal_1-03init").modal("show");
+        $("#modal_1-03init").modal("show");
     }
     //$("#modal_1-03init").modal("show");
     $(".item-module a.v-act-1").addClass("vi");
