@@ -32,7 +32,7 @@ $_SESSION['usuario_id']=$last_id;
 
 
 
-header('location:/ecompa');
+header('location:/ementores/ecompa');
 
 
 ?>
