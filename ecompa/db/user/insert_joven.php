@@ -2,6 +2,7 @@
 
 session_start();
  
+    // $session_value=$_POST["nombre"];
     $session_value=$_POST["edad"];
 
     $_SESSION['usuario']=$session_value;
@@ -28,9 +29,10 @@ $last_id = $mysqli->insert_id;
 
 $_SESSION['usuario_id']=$last_id;
 
-echo json_encode($result["error"] = true);
 
-// header('location:/ecompa');
+
+
+header('location:/ecompa');
 
 
 ?>

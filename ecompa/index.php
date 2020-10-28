@@ -391,31 +391,7 @@ console.log("grado:"+grado);
 
     }else{
         console.log("sumet");
-        // $("form#registro_usuario").submit();
-        var myform = document.getElementById("registro_usuario");
-            var fd = new FormData(myform);
-            console.log(myform);
-            console.log(fd);
-            $.ajax({
-                type: 'POST',
-                url: '/ecompa/db/user/insert_joven.php',
-                data: fd,
-                cache: false,
-                processData: false,
-                contentType: false,
-                // dataType: 'json'
-                }).done(function (data) {
-                    console.log("isnert data")
-                    console.log(data)
-                    console.log(typeof(data))
-                    // let dataP = JSON.parse(data)
-                    // console.log(dataP)
-                    // console.log(dataP[0])
-                    if(data !== "false"){
-                        $("#modal_1-03init").modal("hide");
-                    }
-                    
-            });
+        $("form#registro_usuario").submit();
     }
 
 
