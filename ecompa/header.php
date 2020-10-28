@@ -77,7 +77,11 @@
         </p>
     </button>
 
-    
+    <?php
+session_start();
+var_dump($_SESSION['usuario_id']);
+
+?>
 
     <input type="hidden" value="<?php
         if(isset($_SESSION['usuario_id'])){
