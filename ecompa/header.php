@@ -1,5 +1,9 @@
-<html class="front-page">
 
+<?php
+session_start();
+// var_dump($_SESSION['usuario_id']);
+// die();
+?>
 
     <head>
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -58,6 +62,7 @@
 
     </head>
     
+
 <div id="boxelo">
     <div id="logo-flotante">
         <h1>
@@ -77,18 +82,13 @@
         </p>
     </button>
 
-    <?php
-session_start();
-var_dump($_SESSION['usuario_id']);
-
-?>
+    
 
     <input type="hidden" value="<?php
         if(isset($_SESSION['usuario_id'])){
             echo $_SESSION['usuario_id'];
         } 
     ?>" id="session">
-
     
 
     
